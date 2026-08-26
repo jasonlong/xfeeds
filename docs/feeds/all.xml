@@ -7,6 +7,38 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>Agents can drive the canvas. We played around with controlling what they can &quot;see&quot; and set them loose,</title>
+      <link>https://x.com/tldraw/status/2092656027959279938</link>
+      <guid isPermaLink="true">https://x.com/tldraw/status/2092656027959279938</guid>
+      <pubDate>Wed, 26 Aug 2026 16:50:51 GMT</pubDate>
+      <author>@tldraw</author>
+      <description><![CDATA[<p>Agents can drive the canvas. We played around with controlling what they can &quot;see&quot; and set them loose, working their way through mazes.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2092653047688085504/img/DhQcuULvwWWk8uZk.jpg" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>Space isn&apos;t something you can type your way through. A canvas lets an agent move through it instead.</title>
+      <link>https://x.com/tldraw/status/2092656030282842132</link>
+      <guid isPermaLink="true">https://x.com/tldraw/status/2092656030282842132</guid>
+      <pubDate>Wed, 26 Aug 2026 16:50:51 GMT</pubDate>
+      <author>@tldraw</author>
+      <description><![CDATA[<p>Space isn&apos;t something you can type your way through. A canvas lets an agent move through it instead. If you&apos;re building anything that needs an agent to actually perceive space, fork our Agent Starter Kit →</p>]]></description>
+    </item>
+    <item>
+      <title>Surprise and shine. #AppleEvent on Wednesday, September 9</title>
+      <link>https://x.com/avstorm/status/2092645980306890992</link>
+      <guid isPermaLink="true">https://x.com/avstorm/status/2092645980306890992</guid>
+      <pubDate>Wed, 26 Aug 2026 16:10:55 GMT</pubDate>
+      <author>@avstorm</author>
+      <description><![CDATA[<p>Surprise and shine.<br><br>#AppleEvent on Wednesday, September 9</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2092645922505203712/img/9TdijoJ6Pxghmhlt.jpg" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>Our @obsdmd plugin started asking for a license key a few weeks ago after our provided key expired.</title>
+      <link>https://x.com/tldraw/status/2092645893824475372</link>
+      <guid isPermaLink="true">https://x.com/tldraw/status/2092645893824475372</guid>
+      <pubDate>Wed, 26 Aug 2026 16:10:35 GMT</pubDate>
+      <author>@tldraw</author>
+      <description><![CDATA[<p>Our @obsdmd plugin started asking for a license key a few weeks ago after our provided key expired. We fixed it quickly but apologies to anyone affected</p>]]></description>
+    </item>
+    <item>
       <title>we don&apos;t say &quot;user&quot; in this house.</title>
       <link>https://x.com/AREdotNA/status/2092631438180921638</link>
       <guid isPermaLink="true">https://x.com/AREdotNA/status/2092631438180921638</guid>
@@ -68,7 +100,7 @@
       <guid isPermaLink="true">https://x.com/avstorm/status/2092336667025637377</guid>
       <pubDate>Tue, 25 Aug 2026 19:41:49 GMT</pubDate>
       <author>@avstorm</author>
-      <description><![CDATA[<p>We need more of that</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2047708994932748288/img/miv8dg_kadLW8M3K.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>We need more of that</p>]]></description>
     </item>
     <item>
       <title>Is there a way to persist this value in @googlechrome?</title>
@@ -108,7 +140,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2092285614146142281</guid>
       <pubDate>Tue, 25 Aug 2026 16:18:57 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>Here&apos;s a creative coding tool we made in tldraw offline. With this sketching tool, you can generate new nodes and modules with agents. You could also have agents generate sketches for you - and then work with your friends at the same time.</p>]]></description>
+      <description><![CDATA[<p>Here&apos;s a creative coding tool we made in tldraw offline. With this sketching tool, you can generate new nodes and modules with agents. You could also have agents generate sketches for you - and then work with your friends at the same time.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2092285365939847169/img/R7WS6Vm14FUylgOc.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Wow I completely misread this in the Mac Studio preview x.com/aaronp613/stat…</title>
@@ -148,7 +180,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2092244533593420243</guid>
       <pubDate>Tue, 25 Aug 2026 13:35:43 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>We&apos;re excited to keep building with @vidext_io.<br><br>Using tldraw as the foundation, Vidext has developed a platform that allows users to create beautiful and effective video for internal comms - in minutes.<br><br>With tldraw, Vidext users can collaborate, iterate, and storyboard, all in</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2092244413430870016/img/beuPZxkyUqL6fGwZ.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>We&apos;re excited to keep building with @vidext_io.<br><br>Using tldraw as the foundation, Vidext has developed a platform that allows users to create beautiful and effective video for internal comms - in minutes.<br><br>With tldraw, Vidext users can collaborate, iterate, and storyboard, all in</p>]]></description>
     </item>
     <item>
       <title>The new Mac Studio</title>
@@ -156,7 +188,7 @@
       <guid isPermaLink="true">https://x.com/avstorm/status/2092239148065149291</guid>
       <pubDate>Tue, 25 Aug 2026 13:14:19 GMT</pubDate>
       <author>@avstorm</author>
-      <description><![CDATA[<p>The new Mac Studio</p>]]></description>
+      <description><![CDATA[<p>The new Mac Studio</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2092239001012850689/img/dtuQFG1o6E0dz0si.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Apple has introduced new Mac mini</title>
@@ -220,7 +252,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2091889300539617542</guid>
       <pubDate>Mon, 24 Aug 2026 14:04:09 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>One prompt, four models, side by side: the canvas gives you every version you tried, still editable. AI creative work has outgrown chat.</p>]]></description>
+      <description><![CDATA[<p>One prompt, four models, side by side: the canvas gives you every version you tried, still editable. AI creative work has outgrown chat.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2091889269489209344/img/HUjGR19m_915UbME.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Mentally I’m here</title>
@@ -284,7 +316,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2091582830111285326</guid>
       <pubDate>Sun, 23 Aug 2026 17:46:21 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>We recently shipped comments on tldraw (SDK and dotcom). Here&apos;s the tldraw file we used to research, design, and track progress on the comments feature. <br>Link in the next post</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2091582284621078528/img/igogg1lllSqlHZiC.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>We recently shipped comments on tldraw (SDK and dotcom). Here&apos;s the tldraw file we used to research, design, and track progress on the comments feature. <br>Link in the next post</p>]]></description>
     </item>
     <item>
       <title>You can explore the file yourself here: https://tldraw.com/p/ppOak5w6wynw8mbPjRyZ_?d=v-145.25.1489.842.JjGKX6ZjZYMGZQ4D1yTP8…</title>
@@ -524,7 +556,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2090514203652051361</guid>
       <pubDate>Thu, 20 Aug 2026 19:00:00 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>Agents need space.</p>]]></description>
+      <description><![CDATA[<p>Agents need space.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2090482328648753152/img/hktEXC9u1ZhYjaOd.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Media post</title>
@@ -620,7 +652,7 @@
       <guid isPermaLink="true">https://x.com/avstorm/status/2090178996315070781</guid>
       <pubDate>Wed, 19 Aug 2026 20:48:01 GMT</pubDate>
       <author>@avstorm</author>
-      <description><![CDATA[<p>https://uber.design is back</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2090178064126750721/img/xu8tmJbWo6NUnogP.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>https://uber.design is back</p>]]></description>
     </item>
     <item>
       <title>Uber has introduced a new icon system</title>
@@ -812,7 +844,7 @@
       <guid isPermaLink="true">https://x.com/avstorm/status/2089417678750400526</guid>
       <pubDate>Mon, 17 Aug 2026 18:22:48 GMT</pubDate>
       <author>@avstorm</author>
-      <description><![CDATA[<p>New dynamic wallpapers in macOS 27 Beta 6<br><br>Golden Gate Day and Golden Gate Evening</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2089417505559252992/img/I3bjobMf86HUu12H.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>New dynamic wallpapers in macOS 27 Beta 6<br><br>Golden Gate Day and Golden Gate Evening</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2089416908302897152/img/0awtYVXgWRTLewib.jpg" alt=""></p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2089417505559252992/img/I3bjobMf86HUu12H.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Apple&apos;s new macOS window controls</title>
@@ -1573,38 +1605,6 @@
       <pubDate>Thu, 26 Mar 2026 16:10:52 GMT</pubDate>
       <author>@karpathy</author>
       <description><![CDATA[<p>When I built menugen ~1 year ago, I observed that the hardest part by far was not the code itself, it was the plethora of services you have to assemble like IKEA furniture to make it real, the DevOps: services, payments, auth, database, security, domain names, etc...<br><br>I am really</p>]]></description>
-    </item>
-    <item>
-      <title>The new Readwise CLI has full access to every word you&apos;ve ever saved in your Reader library. Semantically</title>
-      <link>https://x.com/ReadwiseReader/status/2034306800758165840</link>
-      <guid isPermaLink="true">https://x.com/ReadwiseReader/status/2034306800758165840</guid>
-      <pubDate>Wed, 18 Mar 2026 16:31:51 GMT</pubDate>
-      <author>@ReadwiseReader</author>
-      <description><![CDATA[<p>The new Readwise CLI has full access to every word you&apos;ve ever saved in your Reader library.<br><br>Semantically search over your documents, then tag &amp; archive them, all from your terminal/agent.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2034302779733446656/img/HvKI3yTSSh_K_Qxg.jpg" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>New in Reader: by popular request, you can now resize the right sidebar! Especially useful for chatting while</title>
-      <link>https://x.com/ReadwiseReader/status/2021296788381286762</link>
-      <guid isPermaLink="true">https://x.com/ReadwiseReader/status/2021296788381286762</guid>
-      <pubDate>Tue, 10 Feb 2026 18:54:42 GMT</pubDate>
-      <author>@ReadwiseReader</author>
-      <description><![CDATA[<p>New in Reader: by popular request, you can now resize the right sidebar!<br><br>Especially useful for chatting while reading, and bigger monitors</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2021296611855564805/img/Z0DVjUIQuqYOUE7N.jpg" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>Similar ideas here if you are interested in the XML ecosystem and mindset. https://marcosmagueta.com/blog/the-lost-art-of-xml/… With LLMs, we need</title>
-      <link>https://x.com/pacocoursey/status/2014799170830569605</link>
-      <guid isPermaLink="true">https://x.com/pacocoursey/status/2014799170830569605</guid>
-      <pubDate>Fri, 23 Jan 2026 20:35:30 GMT</pubDate>
-      <author>@pacocoursey</author>
-      <description><![CDATA[<p>Similar ideas here if you are interested in the XML ecosystem and mindset.<br>https://marcosmagueta.com/blog/the-lost-art-of-xml/…<br><br>With LLMs, we need to get back in the 1990s mindset of defining software and how we interact with it. Old ideas like RDF, content negotiation, machine readable data are back!</p>]]></description>
-    </item>
-    <item>
-      <title>Media post</title>
-      <link>https://x.com/ReadwiseReader/status/2011988002378301744</link>
-      <guid isPermaLink="true">https://x.com/ReadwiseReader/status/2011988002378301744</guid>
-      <pubDate>Fri, 16 Jan 2026 02:24:55 GMT</pubDate>
-      <author>@ReadwiseReader</author>
-      <description><![CDATA[<p></p>]]></description>
     </item>
   </channel>
 </rss>
