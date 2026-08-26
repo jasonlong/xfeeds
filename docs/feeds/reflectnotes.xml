@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+  <channel>
+    <title>Reflect / @reflectnotes</title>
+    <description>Recent X posts collected for @reflectnotes</description>
+    <link>https://x.com/reflectnotes</link>
+    <atom:link href="https://jasonlong.github.io/xfeeds/feeds/reflectnotes.xml" rel="self" type="application/rss+xml"/>
+    <webfeeds:icon>https://pbs.twimg.com/profile_images/1378940233241124865/y2e9BXV8_200x200.jpg</webfeeds:icon>
+    <image>
+      <url>https://pbs.twimg.com/profile_images/1378940233241124865/y2e9BXV8_200x200.jpg</url>
+      <title>Reflect / @reflectnotes</title>
+      <link>https://x.com/reflectnotes</link>
+    </image>
+    <ttl>120</ttl>
+    <item>
+      <title>Today we’re releasing Reflect Open, a complete rewrite of Reflect for the age of AI. It’s local-first and</title>
+      <link>https://x.com/reflectnotes/status/2077031149231092065</link>
+      <guid isPermaLink="true">https://x.com/reflectnotes/status/2077031149231092065</guid>
+      <pubDate>Tue, 14 Jul 2026 14:03:10 GMT</pubDate>
+      <author>@reflectnotes</author>
+      <description><![CDATA[<p>Today we’re releasing Reflect Open, a complete rewrite of Reflect for the age of AI.<br><br>It’s local-first and open source, and every note is stored as a Markdown file on your computer.</p><p><img src="https://pbs.twimg.com/media/HNMQsQfW4AA_6zS?format=jpg&amp;name=small" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>The shape of Reflect is still there: daily notes, backlinks, tasks, search and chat with your notes. The</title>
+      <link>https://x.com/reflectnotes/status/2077031152448118901</link>
+      <guid isPermaLink="true">https://x.com/reflectnotes/status/2077031152448118901</guid>
+      <pubDate>Tue, 14 Jul 2026 14:03:10 GMT</pubDate>
+      <author>@reflectnotes</author>
+      <description><![CDATA[<p>The shape of Reflect is still there: daily notes, backlinks, tasks, search and chat with your notes.<br><br>The important difference is underneath. Your data lives in ordinary files, the app works offline, and the code is open for anyone to inspect or change.</p><p><img src="https://pbs.twimg.com/media/HNMYoEdXYAAj_0s?format=jpg&amp;name=small" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>Google Cloud has a big outage right now. Reflect relies on Google Cloud extensively, especially Firebase, and as</title>
+      <link>https://x.com/reflectnotes/status/1933249456469668291</link>
+      <guid isPermaLink="true">https://x.com/reflectnotes/status/1933249456469668291</guid>
+      <pubDate>Thu, 12 Jun 2025 19:46:03 GMT</pubDate>
+      <author>@reflectnotes</author>
+      <description><![CDATA[<p>Google Cloud has a big outage right now. Reflect relies on Google Cloud extensively, especially Firebase, and as such we are also down. <br><br>You can track the status of this issue on the Google Cloud status page. We do apologize about this!<br><br>https://status.cloud.google.com</p>]]></description>
+    </item>
+    <item>
+      <title>You can download the iPad app from Testflight and take it for a spin here:</title>
+      <link>https://x.com/reflectnotes/status/1904538916927189266</link>
+      <guid isPermaLink="true">https://x.com/reflectnotes/status/1904538916927189266</guid>
+      <pubDate>Tue, 25 Mar 2025 14:20:37 GMT</pubDate>
+      <author>@reflectnotes</author>
+      <description><![CDATA[<p>You can download the iPad app from Testflight and take it for a spin here:</p>]]></description>
+    </item>
+    <item>
+      <title>Good news for our iPad users: you’ll notice the app is now much faster! Last week we announced</title>
+      <link>https://x.com/reflectnotes/status/1904538904256209062</link>
+      <guid isPermaLink="true">https://x.com/reflectnotes/status/1904538904256209062</guid>
+      <pubDate>Tue, 25 Mar 2025 14:20:34 GMT</pubDate>
+      <author>@reflectnotes</author>
+      <description><![CDATA[<p>Good news for our iPad users: you’ll notice the app is now much faster!<br><br>Last week we announced a move to SQLite across our iPhone and desktop apps, and today we’ve brought that same update to iPad.<br><br>Take it for a spin!</p><p><img src="https://pbs.twimg.com/media/Gm5ICdEb0AAl61_?format=jpg&amp;name=small" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>We&apos;ve published a more technical explanation of this re-write in this blog post.</title>
+      <link>https://x.com/reflectnotes/status/1901998791642771538</link>
+      <guid isPermaLink="true">https://x.com/reflectnotes/status/1901998791642771538</guid>
+      <pubDate>Tue, 18 Mar 2025 14:07:04 GMT</pubDate>
+      <author>@reflectnotes</author>
+      <description><![CDATA[<p>We&apos;ve published a more technical explanation of this re-write in this blog post.</p>]]></description>
+    </item>
+    <item>
+      <title>Today we have a major update that has made Reflect a lot faster Over the past year, a</title>
+      <link>https://x.com/reflectnotes/status/1901998788312793156</link>
+      <guid isPermaLink="true">https://x.com/reflectnotes/status/1901998788312793156</guid>
+      <pubDate>Tue, 18 Mar 2025 14:07:03 GMT</pubDate>
+      <author>@reflectnotes</author>
+      <description><![CDATA[<p>Today we have a major update that has made Reflect a lot faster <br><br>Over the past year, a lot of our time has gone into rewriting the entire frontend codebase to be powered by SQLite. We quietly launched this across iOS, web, and macOS desktop over the last two weeks.<br><br>In short</p><p><img src="https://pbs.twimg.com/media/GmVBjoybcAA1AiT?format=png&amp;name=small" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>In-line transcriptions work on our macOS and browser apps. Using the original voice transcriber microphone next to the</title>
+      <link>https://x.com/reflectnotes/status/1889353318981640240</link>
+      <guid isPermaLink="true">https://x.com/reflectnotes/status/1889353318981640240</guid>
+      <pubDate>Tue, 11 Feb 2025 16:38:28 GMT</pubDate>
+      <author>@reflectnotes</author>
+      <description><![CDATA[<p>In-line transcriptions work on our macOS and browser apps.<br><br>Using the original voice transcriber microphone next to the search box (or the + button on the mobile apps) will still have the voice note land in your daily note.</p>]]></description>
+    </item>
+    <item>
+      <title>We’ve added an in-line voice transcriber to Reflect. It lets you transcribe text in real-time, anywhere in your</title>
+      <link>https://x.com/reflectnotes/status/1889353306541326540</link>
+      <guid isPermaLink="true">https://x.com/reflectnotes/status/1889353306541326540</guid>
+      <pubDate>Tue, 11 Feb 2025 16:38:25 GMT</pubDate>
+      <author>@reflectnotes</author>
+      <description><![CDATA[<p>We’ve added an in-line voice transcriber to Reflect. It lets you transcribe text in real-time, anywhere in your notes.<br><br>Hit the Option key twice (or press Option + Space) to toggle the transcriber on and off. On Windows, use Alt instead of Option.</p>]]></description>
+    </item>
+    <item>
+      <title>We just switched our &quot;Chat with Notes&quot; feature to use Google&apos;s Gemini which has a much larger context</title>
+      <link>https://x.com/reflectnotes/status/1887188512912371811</link>
+      <guid isPermaLink="true">https://x.com/reflectnotes/status/1887188512912371811</guid>
+      <pubDate>Wed, 05 Feb 2025 17:16:18 GMT</pubDate>
+      <author>@reflectnotes</author>
+      <description><![CDATA[<p>We just switched our &quot;Chat with Notes&quot; feature to use Google&apos;s Gemini which has a much larger context window.</p>]]></description>
+    </item>
+    <item>
+      <title>We just released OCR text for images and PDFs saved in Reflect! That means Reflect’s search can now</title>
+      <link>https://x.com/reflectnotes/status/1858902065797623992</link>
+      <guid isPermaLink="true">https://x.com/reflectnotes/status/1858902065797623992</guid>
+      <pubDate>Tue, 19 Nov 2024 15:56:03 GMT</pubDate>
+      <author>@reflectnotes</author>
+      <description><![CDATA[<p>We just released OCR text for images and PDFs saved in Reflect!<br><br>That means Reflect’s search can now index the text inside any new files you add. You’ll also need to have “Labs” turned on in your preferences.</p><p><img src="https://pbs.twimg.com/media/GcwlktabcAQLOvk?format=jpg&amp;name=small" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>https://chromewebstore.google.com/detail/reflect-webchat/amoekpgbakdaigpkdmpgjmdmodkjcfgp?authuser=6…</title>
+      <link>https://x.com/reflectnotes/status/1851298226814767235</link>
+      <guid isPermaLink="true">https://x.com/reflectnotes/status/1851298226814767235</guid>
+      <pubDate>Tue, 29 Oct 2024 16:21:07 GMT</pubDate>
+      <author>@reflectnotes</author>
+      <description><![CDATA[<p>https://chromewebstore.google.com/detail/reflect-webchat/amoekpgbakdaigpkdmpgjmdmodkjcfgp?authuser=6…</p>]]></description>
+    </item>
+    <item>
+      <title>Today we are releasing Reflect Webchat – a free Chrome extension that lets you chat with any webpage.</title>
+      <link>https://x.com/reflectnotes/status/1851298213619515835</link>
+      <guid isPermaLink="true">https://x.com/reflectnotes/status/1851298213619515835</guid>
+      <pubDate>Tue, 29 Oct 2024 16:21:04 GMT</pubDate>
+      <author>@reflectnotes</author>
+      <description><![CDATA[<p>Today we are releasing Reflect Webchat – a free Chrome extension that lets you chat with any webpage.<br><br>Use it to summarize information on a page, pull the recipe from a YouTube video or anything else you can think of!<br><br>(Download link in comments)</p>]]></description>
+    </item>
+    <item>
+      <title>Media post</title>
+      <link>https://x.com/reflectnotes/status/1849103551844524179</link>
+      <guid isPermaLink="true">https://x.com/reflectnotes/status/1849103551844524179</guid>
+      <pubDate>Wed, 23 Oct 2024 15:00:16 GMT</pubDate>
+      <author>@reflectnotes</author>
+      <description><![CDATA[<p></p>]]></description>
+    </item>
+    <item>
+      <title>We made a custom prompt that turns your notes and transcripts into actionable plans. Make plans out of:</title>
+      <link>https://x.com/reflectnotes/status/1849103536833122626</link>
+      <guid isPermaLink="true">https://x.com/reflectnotes/status/1849103536833122626</guid>
+      <pubDate>Wed, 23 Oct 2024 15:00:12 GMT</pubDate>
+      <author>@reflectnotes</author>
+      <description><![CDATA[<p>We made a custom prompt that turns your notes and transcripts into actionable plans.<br><br>Make plans out of:<br>1. Voice notes<br>2. Meeting transcriptions<br>3. YouTube video transcripts<br>4. Saved articles and readings<br><br>Link to prompt in comments!</p>]]></description>
+    </item>
+    <item>
+      <title>Custom note-taking prompts spreadsheet:</title>
+      <link>https://x.com/reflectnotes/status/1846944684528357611</link>
+      <guid isPermaLink="true">https://x.com/reflectnotes/status/1846944684528357611</guid>
+      <pubDate>Thu, 17 Oct 2024 16:01:42 GMT</pubDate>
+      <author>@reflectnotes</author>
+      <description><![CDATA[<p>Custom note-taking prompts spreadsheet:</p>]]></description>
+    </item>
+    <item>
+      <title>Having an AI assistant in our notes lets us adopt an &quot;append-only&quot; philosophy of note-taking. If AI can</title>
+      <link>https://x.com/reflectnotes/status/1846944670355804538</link>
+      <guid isPermaLink="true">https://x.com/reflectnotes/status/1846944670355804538</guid>
+      <pubDate>Thu, 17 Oct 2024 16:01:38 GMT</pubDate>
+      <author>@reflectnotes</author>
+      <description><![CDATA[<p>Having an AI assistant in our notes lets us adopt an &quot;append-only&quot; philosophy of note-taking.<br><br>If AI can organize, format and search notes for us, there is no need to spend time cultivating our notes. Instead, we can keep freely adding new information without having to clean the</p>]]></description>
+    </item>
+    <item>
+      <title>Read a more detailed workflow here.</title>
+      <link>https://x.com/reflectnotes/status/1844755893629624459</link>
+      <guid isPermaLink="true">https://x.com/reflectnotes/status/1844755893629624459</guid>
+      <pubDate>Fri, 11 Oct 2024 15:04:13 GMT</pubDate>
+      <author>@reflectnotes</author>
+      <description><![CDATA[<p>Read a more detailed workflow here.</p>]]></description>
+    </item>
+    <item>
+      <title>All of your research should happen in your notes. Start by finding a mechanism to save each information</title>
+      <link>https://x.com/reflectnotes/status/1844755217159716892</link>
+      <guid isPermaLink="true">https://x.com/reflectnotes/status/1844755217159716892</guid>
+      <pubDate>Fri, 11 Oct 2024 15:01:32 GMT</pubDate>
+      <author>@reflectnotes</author>
+      <description><![CDATA[<p>All of your research should happen in your notes.<br><br> Start by finding a mechanism to save each information source.<br><br>For example:<br><br>Save links → Chrome Extension<br>Lectures and interviews → Voice Transcriber<br><br> Next, organize your research with tags.<br><br>Add a unique tag to each</p>]]></description>
+    </item>
+    <item>
+      <title>Download New Tab: https://chromewebstore.google.com/detail/reflect-new-tab/jnhdkfampckckkmbanadkkjlcaemdkob?hl=en… Download iPhone wallpapers: https://drive.google.com/drive/folders/1lrmg0xF8KihjesASeZKPVrvZSvuZXATg?usp=sharing…</title>
+      <link>https://x.com/reflectnotes/status/1841116066484785338</link>
+      <guid isPermaLink="true">https://x.com/reflectnotes/status/1841116066484785338</guid>
+      <pubDate>Tue, 01 Oct 2024 14:00:51 GMT</pubDate>
+      <author>@reflectnotes</author>
+      <description><![CDATA[<p>Download New Tab: https://chromewebstore.google.com/detail/reflect-new-tab/jnhdkfampckckkmbanadkkjlcaemdkob?hl=en…<br><br>Download iPhone wallpapers: https://drive.google.com/drive/folders/1lrmg0xF8KihjesASeZKPVrvZSvuZXATg?usp=sharing…</p>]]></description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+  <channel>
+    <title>Andrej Karpathy / @karpathy</title>
+    <description>Recent X posts collected for @karpathy</description>
+    <link>https://x.com/karpathy</link>
+    <atom:link href="https://jasonlong.github.io/xfeeds/feeds/karpathy.xml" rel="self" type="application/rss+xml"/>
+    <webfeeds:icon>https://pbs.twimg.com/profile_images/1296667294148382721/9Pr6XrPB_200x200.jpg</webfeeds:icon>
+    <image>
+      <url>https://pbs.twimg.com/profile_images/1296667294148382721/9Pr6XrPB_200x200.jpg</url>
+      <title>Andrej Karpathy / @karpathy</title>
+      <link>https://x.com/karpathy</link>
+    </image>
+    <ttl>120</ttl>
+    <item>
+      <title>More on the pelican on the bicycle test from @simonw: https://simonwillison.net/2025/Jun/6/six-months-in-llms/… I uploaded the source here so it&apos;s</title>
+      <link>https://x.com/karpathy/status/2083948654377996480</link>
+      <guid isPermaLink="true">https://x.com/karpathy/status/2083948654377996480</guid>
+      <pubDate>Sun, 02 Aug 2026 16:10:51 GMT</pubDate>
+      <author>@karpathy</author>
+      <description><![CDATA[<p>More on the pelican on the bicycle test from @simonw:<br>https://simonwillison.net/2025/Jun/6/six-months-in-llms/…<br><br>I uploaded the source here so it&apos;s playable in the browser, forkable etc.<br>https://karpathy.ai/lotr-movie/<br><br>Look out for GTA Hobbiton dropping before GTA VI :)</p>]]></description>
+    </item>
+    <item>
+      <title>We&apos;re starting to leave the territory where you&apos;d test an LLM by e.g. &quot;create an svg of pelican</title>
+      <link>https://x.com/karpathy/status/2083749667410727319</link>
+      <guid isPermaLink="true">https://x.com/karpathy/status/2083749667410727319</guid>
+      <pubDate>Sun, 02 Aug 2026 03:00:09 GMT</pubDate>
+      <author>@karpathy</author>
+      <description><![CDATA[<p>We&apos;re starting to leave the territory where you&apos;d test an LLM by e.g. &quot;create an svg of pelican on a bicycle&quot;. As one idea to generalize it, I was interested what Opus 5 would do if I gave it the first paragraph of the Lord of the Rings, a 1M token budget (~$10) and asked for</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2083744791876292608/img/tWEKnM_bdE_nlfYD.jpg" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>One pattern I find useful for working with LLMs is a nice long ramble session. Sometimes the LLM</title>
+      <link>https://x.com/karpathy/status/2079610838143623371</link>
+      <guid isPermaLink="true">https://x.com/karpathy/status/2079610838143623371</guid>
+      <pubDate>Tue, 21 Jul 2026 16:53:55 GMT</pubDate>
+      <author>@karpathy</author>
+      <description><![CDATA[<p>One pattern I find useful for working with LLMs is a nice long ramble session. Sometimes the LLM needs more bits to understand what you&apos;re trying to achieve, but you&apos;re too lazy to type them. In these cases I like to lean back, switch to /voice and just ramble for like 10</p>]]></description>
+    </item>
+    <item>
+      <title>This is a new paradigm for interacting with Claude that is significantly more &quot;inline&quot; with all the other</title>
+      <link>https://x.com/karpathy/status/2069547676849557725</link>
+      <guid isPermaLink="true">https://x.com/karpathy/status/2069547676849557725</guid>
+      <pubDate>Tue, 23 Jun 2026 22:26:31 GMT</pubDate>
+      <author>@karpathy</author>
+      <description><![CDATA[<p>This is a new paradigm for interacting with Claude that is significantly more &quot;inline&quot; with all the other human activity org-wide. Once you do all of the under the hood engineering work to make this &quot;just work&quot; (e.g. across tools, integrations, compute environments, memory,</p>]]></description>
+    </item>
+    <item>
+      <title>In awe of SpaceX and its story - past, present and the future. You can think about it</title>
+      <link>https://x.com/karpathy/status/2065490793092337691</link>
+      <guid isPermaLink="true">https://x.com/karpathy/status/2065490793092337691</guid>
+      <pubDate>Fri, 12 Jun 2026 17:45:54 GMT</pubDate>
+      <author>@karpathy</author>
+      <description><![CDATA[<p>In awe of SpaceX and its story - past, present and the future. You can think about it in 10+ different ways and continue re-blowing your mind in circles. Huge congrats to the team!</p>]]></description>
+    </item>
+    <item>
+      <title>This is a super exciting release - Claude Fable 5 is the same underlying model as Mythos but</title>
+      <link>https://x.com/karpathy/status/2064409694761054332</link>
+      <guid isPermaLink="true">https://x.com/karpathy/status/2064409694761054332</guid>
+      <pubDate>Tue, 09 Jun 2026 18:10:00 GMT</pubDate>
+      <author>@karpathy</author>
+      <description><![CDATA[<p>This is a super exciting release - Claude Fable 5 is the same underlying model as Mythos but with added safeguards. The benchmarks are great and it&apos;s SOTA on everything by a margin but I&apos;ll add that *qualitatively* also, this is a major-version-bump-deserving step change forward</p><p><img src="https://pbs.twimg.com/media/HKYwNlEWMAAJanX?format=png&amp;name=small" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>Personal update: I&apos;ve joined Anthropic. I think the next few years at the frontier of LLMs will be</title>
+      <link>https://x.com/karpathy/status/2056753169888334312</link>
+      <guid isPermaLink="true">https://x.com/karpathy/status/2056753169888334312</guid>
+      <pubDate>Tue, 19 May 2026 15:05:42 GMT</pubDate>
+      <author>@karpathy</author>
+      <description><![CDATA[<p>Personal update: I&apos;ve joined Anthropic. I think the next few years at the frontier of LLMs will be especially formative. I am very excited to join the team here and get back to R&amp;D. I remain deeply passionate about education and plan to resume my work on it in time.</p>]]></description>
+    </item>
+    <item>
+      <title>This works really well btw, at the end of your query ask your LLM to &quot;structure your response</title>
+      <link>https://x.com/karpathy/status/2053872850101285137</link>
+      <guid isPermaLink="true">https://x.com/karpathy/status/2053872850101285137</guid>
+      <pubDate>Mon, 11 May 2026 16:20:21 GMT</pubDate>
+      <author>@karpathy</author>
+      <description><![CDATA[<p>This works really well btw, at the end of your query ask your LLM to &quot;structure your response as HTML&quot;, then view the generated file in your browser. I&apos;ve also had some success asking the LLM to present its output as slideshows, etc.<br><br>More generally, imo audio is the</p>]]></description>
+    </item>
+    <item>
+      <title>This is the the quote I&apos;ve been citing a lot recently.</title>
+      <link>https://x.com/karpathy/status/2049907410303865030</link>
+      <guid isPermaLink="true">https://x.com/karpathy/status/2049907410303865030</guid>
+      <pubDate>Thu, 30 Apr 2026 17:43:06 GMT</pubDate>
+      <author>@karpathy</author>
+      <description><![CDATA[<p>This is the the quote I&apos;ve been citing a lot recently.</p>]]></description>
+    </item>
+    <item>
+      <title>Fireside chat at Sequoia Ascent 2026 from a ~week ago. Some highlights: The first theme I tried to</title>
+      <link>https://x.com/karpathy/status/2049903821095354523</link>
+      <guid isPermaLink="true">https://x.com/karpathy/status/2049903821095354523</guid>
+      <pubDate>Thu, 30 Apr 2026 17:28:50 GMT</pubDate>
+      <author>@karpathy</author>
+      <description><![CDATA[<p>Fireside chat at Sequoia Ascent 2026 from a ~week ago. Some highlights:<br><br>The first theme I tried to push on is that LLMs are about a lot more than just speeding up what existed before (e.g. coding). Three examples of new horizons:<br><br>1. menugen: an app that can be fully engulfed by</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2049267312243638273/img/VIiHQxskxmLlm1Xi.jpg" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>Someone recently suggested to me that the reason OpenClaw moment was so big is because it&apos;s the first</title>
+      <link>https://x.com/karpathy/status/2042341482531864741</link>
+      <guid isPermaLink="true">https://x.com/karpathy/status/2042341482531864741</guid>
+      <pubDate>Thu, 09 Apr 2026 20:38:48 GMT</pubDate>
+      <author>@karpathy</author>
+      <description><![CDATA[<p>Someone recently suggested to me that the reason OpenClaw moment was so big is because it&apos;s the first time a large group of non-technical people (who otherwise only knew AI as synonymous with ChatGPT as a website) experienced the latest agentic models.</p>]]></description>
+    </item>
+    <item>
+      <title>Judging by my tl there is a growing gap in understanding of AI capability. The first issue I</title>
+      <link>https://x.com/karpathy/status/2042334451611693415</link>
+      <guid isPermaLink="true">https://x.com/karpathy/status/2042334451611693415</guid>
+      <pubDate>Thu, 09 Apr 2026 20:10:52 GMT</pubDate>
+      <author>@karpathy</author>
+      <description><![CDATA[<p>Judging by my tl there is a growing gap in understanding of AI capability.<br><br>The first issue I think is around recency and tier of use. I think a lot of people tried the free tier of ChatGPT somewhere  last year and allowed it to inform their views on AI a little too much. This is</p>]]></description>
+    </item>
+    <item>
+      <title>Surprised with how good the comments on github gists are. A lot more helpful, insightful, constructive, a lot</title>
+      <link>https://x.com/karpathy/status/2040806346556428585</link>
+      <guid isPermaLink="true">https://x.com/karpathy/status/2040806346556428585</guid>
+      <pubDate>Sun, 05 Apr 2026 14:58:44 GMT</pubDate>
+      <author>@karpathy</author>
+      <description><![CDATA[<p>Surprised with how good the comments on github gists are. A lot more helpful, insightful, constructive, a lot less AI... Is it the user community? The markdown format? The (lack of) incentives?<br><br>Suddenly feeling like I should gist more.<br>@github consider competing with X (?)</p>]]></description>
+    </item>
+    <item>
+      <title>Farzapedia, personal wikipedia of Farza, good example following my Wiki LLM tweet. I really like this approach to</title>
+      <link>https://x.com/karpathy/status/2040572272944324650</link>
+      <guid isPermaLink="true">https://x.com/karpathy/status/2040572272944324650</guid>
+      <pubDate>Sat, 04 Apr 2026 23:28:36 GMT</pubDate>
+      <author>@karpathy</author>
+      <description><![CDATA[<p>Farzapedia, personal wikipedia of Farza, good example following my Wiki LLM tweet.<br><br>I really like this approach to personalization in a number of ways, compared to &quot;status quo&quot; of an AI that allegedly gets better the more you use it or something:<br><br>1. Explicit. The memory artifact</p>]]></description>
+    </item>
+    <item>
+      <title>Something I&apos;ve been thinking about - I am bullish on people (empowered by AI) increasing the visibility, legibility</title>
+      <link>https://x.com/karpathy/status/2040549459193704852</link>
+      <guid isPermaLink="true">https://x.com/karpathy/status/2040549459193704852</guid>
+      <pubDate>Sat, 04 Apr 2026 21:57:57 GMT</pubDate>
+      <author>@karpathy</author>
+      <description><![CDATA[<p>Something I&apos;ve been thinking about - I am bullish on people (empowered by AI) increasing the visibility, legibility and accountability of their governments.<br><br>Historically, it is the governments that act to make society legible (e.g. &quot;Seeing like a state&quot; is the common reference),</p><p><img src="https://pbs.twimg.com/media/HFD4KSmWkAAdI3Z?format=jpg&amp;name=small" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>Wow, this tweet went very viral! I wanted share a possibly slightly improved version of the tweet in</title>
+      <link>https://x.com/karpathy/status/2040470801506541998</link>
+      <guid isPermaLink="true">https://x.com/karpathy/status/2040470801506541998</guid>
+      <pubDate>Sat, 04 Apr 2026 16:45:23 GMT</pubDate>
+      <author>@karpathy</author>
+      <description><![CDATA[<p>Wow, this tweet went very viral!<br><br>I wanted share a possibly slightly improved version of the tweet in an &quot;idea file&quot;. The idea of the idea file is that in this era of LLM agents, there is less of a point/need of sharing the specific code/app, you just share the idea, then the</p>]]></description>
+    </item>
+    <item>
+      <title>LLM Knowledge Bases Something I&apos;m finding very useful recently: using LLMs to build personal knowledge bases for various</title>
+      <link>https://x.com/karpathy/status/2039805659525644595</link>
+      <guid isPermaLink="true">https://x.com/karpathy/status/2039805659525644595</guid>
+      <pubDate>Thu, 02 Apr 2026 20:42:21 GMT</pubDate>
+      <author>@karpathy</author>
+      <description><![CDATA[<p>LLM Knowledge Bases<br><br>Something I&apos;m finding very useful recently: using LLMs to build personal knowledge bases for various topics of research interest. In this way, a large fraction of my recent token throughput is going less into manipulating code, and more into manipulating</p>]]></description>
+    </item>
+    <item>
+      <title>New supply chain attack this time for npm axios, the most popular HTTP client library with 300M weekly</title>
+      <link>https://x.com/karpathy/status/2038849654423798197</link>
+      <guid isPermaLink="true">https://x.com/karpathy/status/2038849654423798197</guid>
+      <pubDate>Tue, 31 Mar 2026 05:23:32 GMT</pubDate>
+      <author>@karpathy</author>
+      <description><![CDATA[<p>New supply chain attack this time for npm axios, the most popular HTTP client library with 300M weekly downloads.<br><br>Scanning my system I found a use imported from googleworkspace/cli from a few days ago when I was experimenting with gmail/gcal cli. The installed version (luckily)</p>]]></description>
+    </item>
+    <item>
+      <title>- Drafted a blog post - Used an LLM to meticulously improve the argument over 4 hours. -</title>
+      <link>https://x.com/karpathy/status/2037921699824607591</link>
+      <guid isPermaLink="true">https://x.com/karpathy/status/2037921699824607591</guid>
+      <pubDate>Sat, 28 Mar 2026 15:56:10 GMT</pubDate>
+      <author>@karpathy</author>
+      <description><![CDATA[<p>- Drafted a blog post<br>- Used an LLM to meticulously improve the argument over 4 hours.<br>- Wow, feeling great, it’s so convincing!<br>- Fun idea let’s ask it to argue the opposite. <br>- LLM demolishes the entire argument and convinces me that the opposite is in fact true.<br>- lol<br><br>The</p>]]></description>
+    </item>
+    <item>
+      <title>When I built menugen ~1 year ago, I observed that the hardest part by far was not the</title>
+      <link>https://x.com/karpathy/status/2037200624450936940</link>
+      <guid isPermaLink="true">https://x.com/karpathy/status/2037200624450936940</guid>
+      <pubDate>Thu, 26 Mar 2026 16:10:52 GMT</pubDate>
+      <author>@karpathy</author>
+      <description><![CDATA[<p>When I built menugen ~1 year ago, I observed that the hardest part by far was not the code itself, it was the plethora of services you have to assemble like IKEA furniture to make it real, the DevOps: services, payments, auth, database, security, domain names, etc...<br><br>I am really</p>]]></description>
+    </item>
+  </channel>
+</rss>

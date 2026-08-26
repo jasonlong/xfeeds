@@ -1,0 +1,35 @@
+{
+  "name": "xfeeds",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "auth": "tsx src/local/cli.ts auth",
+    "collect": "tsx src/local/cli.ts collect",
+    "feeds:publish": "tsx src/local/cli.ts publish --all",
+    "serve": "tsx src/local/cli.ts serve",
+    "schedule:install": "tsx src/local/schedule.ts install",
+    "schedule:uninstall": "tsx src/local/schedule.ts uninstall",
+    "check": "npm run safety:check && npm run typecheck && npm test",
+    "deploy": "node scripts/deploy-safe.mjs",
+    "dev": "wrangler dev",
+    "safety:check": "node scripts/verify-safe-config.mjs",
+    "test": "vitest run",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@cloudflare/playwright": "1.3.6",
+    "playwright": "1.62.1"
+  },
+  "devDependencies": {
+    "@cloudflare/workers-types": "5.20260821.1",
+    "@types/node": "22.18.1",
+    "tsx": "4.20.5",
+    "typescript": "7.0.2",
+    "vitest": "4.1.11",
+    "wrangler": "4.125.0"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}

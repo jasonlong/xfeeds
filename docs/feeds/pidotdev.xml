@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+  <channel>
+    <title>Pi / @pidotdev</title>
+    <description>Recent X posts collected for @pidotdev</description>
+    <link>https://x.com/pidotdev</link>
+    <atom:link href="https://jasonlong.github.io/xfeeds/feeds/pidotdev.xml" rel="self" type="application/rss+xml"/>
+    <webfeeds:icon>https://pbs.twimg.com/profile_images/2056719506785927168/ol1lqm8b_200x200.jpg</webfeeds:icon>
+    <image>
+      <url>https://pbs.twimg.com/profile_images/2056719506785927168/ol1lqm8b_200x200.jpg</url>
+      <title>Pi / @pidotdev</title>
+      <link>https://x.com/pidotdev</link>
+    </image>
+    <ttl>120</ttl>
+    <item>
+      <title>Pi comes with 15+ providers and hundreds of models. If you have some favorites you find yourself coming</title>
+      <link>https://x.com/pidotdev/status/2092575468226478431</link>
+      <guid isPermaLink="true">https://x.com/pidotdev/status/2092575468226478431</guid>
+      <pubDate>Wed, 26 Aug 2026 11:30:44 GMT</pubDate>
+      <author>@pidotdev</author>
+      <description><![CDATA[<p>Pi comes with 15+ providers and hundreds of models. If you have some favorites you find yourself coming back to, you can make a shortlist.<br><br>Use /scoped-models to select the models. Then Ctrl+P to cycle through them. <br> <br>What’s your current favorite model combo?</p><p><img src="https://pbs.twimg.com/media/HQpP3oEXUAAbjq4?format=jpg&amp;name=small" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>For details and examples learn more here</title>
+      <link>https://x.com/pidotdev/status/2092212898537881889</link>
+      <guid isPermaLink="true">https://x.com/pidotdev/status/2092212898537881889</guid>
+      <pubDate>Tue, 25 Aug 2026 11:30:01 GMT</pubDate>
+      <author>@pidotdev</author>
+      <description><![CDATA[<p>For details and examples learn more here</p>]]></description>
+    </item>
+    <item>
+      <title>Pi lets you register custom slash commands! Here’s an example of adding a /deploy command. Start with pi.registerCommand(“deploy”)</title>
+      <link>https://x.com/pidotdev/status/2092212898068136271</link>
+      <guid isPermaLink="true">https://x.com/pidotdev/status/2092212898068136271</guid>
+      <pubDate>Tue, 25 Aug 2026 11:30:00 GMT</pubDate>
+      <author>@pidotdev</author>
+      <description><![CDATA[<p>Pi lets you register custom slash commands! <br><br>Here’s an example of adding a /deploy command. Start with pi.registerCommand(“deploy”) followed by<br><br>- description: shows up in the command menu <br>- getArgumentCompletions: tab-autocomplete <br>-handler: the code that runs<br><br>Docs below</p><p><img src="https://pbs.twimg.com/media/HQjvk6yW0AAnWC8?format=jpg&amp;name=small" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>Ox Alpha is currently the most popular model on @OpenRouter and is free to use! A reasoning model</title>
+      <link>https://x.com/pidotdev/status/2091873157036793947</link>
+      <guid isPermaLink="true">https://x.com/pidotdev/status/2091873157036793947</guid>
+      <pubDate>Mon, 24 Aug 2026 13:00:00 GMT</pubDate>
+      <author>@pidotdev</author>
+      <description><![CDATA[<p>Ox Alpha is currently the most popular model on @OpenRouter and is free to use! <br><br>A reasoning model designed for coding, sustained agentic work and production workloads. 1M token context window, with support for text, image and video input. <br><br>Try it out in Pi today</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2091850005296365568/img/zwc9WFi8bqFA3iSH.jpg" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>You can also enable both bash and powershell.</title>
+      <link>https://x.com/pidotdev/status/2091855373141483757</link>
+      <guid isPermaLink="true">https://x.com/pidotdev/status/2091855373141483757</guid>
+      <pubDate>Mon, 24 Aug 2026 11:49:20 GMT</pubDate>
+      <author>@pidotdev</author>
+      <description><![CDATA[<p>You can also enable both bash and powershell.</p>]]></description>
+    </item>
+    <item>
+      <title>Powershell is currently opt in. After updating ask your pi to &quot;please configure my pi so that it</title>
+      <link>https://x.com/pidotdev/status/2091855341365420442</link>
+      <guid isPermaLink="true">https://x.com/pidotdev/status/2091855341365420442</guid>
+      <pubDate>Mon, 24 Aug 2026 11:49:12 GMT</pubDate>
+      <author>@pidotdev</author>
+      <description><![CDATA[<p>Powershell is currently opt in. After updating ask your pi to &quot;please configure my pi so that it uses powershell instead of bash by default&quot; and it will do the config changes for you to use powershell by default.</p>]]></description>
+    </item>
+    <item>
+      <title>Pi 0.84.3 is out! The main things to point out is that you can enable powershell on windows</title>
+      <link>https://x.com/pidotdev/status/2091846321472758093</link>
+      <guid isPermaLink="true">https://x.com/pidotdev/status/2091846321472758093</guid>
+      <pubDate>Mon, 24 Aug 2026 11:13:22 GMT</pubDate>
+      <author>@pidotdev</author>
+      <description><![CDATA[<p>Pi 0.84.3 is out! The main things to point out is that you can enable powershell on windows now and it should start much quicker on most systems due to changes in bundling.</p>]]></description>
+    </item>
+    <item>
+      <title>Good morning from Vienna People of Pi The usual Sunday meditations from @badlogicgames and @mitsuhiko - Understand the</title>
+      <link>https://x.com/pidotdev/status/2091488119728255245</link>
+      <guid isPermaLink="true">https://x.com/pidotdev/status/2091488119728255245</guid>
+      <pubDate>Sun, 23 Aug 2026 11:30:00 GMT</pubDate>
+      <author>@pidotdev</author>
+      <description><![CDATA[<p>Good morning from Vienna People of Pi<br><br>The usual Sunday meditations from @badlogicgames and @mitsuhiko <br><br>- Understand the consequences of your code design<br>- Avoid being purely performative<br>- Aim to create value</p>]]></description>
+    </item>
+    <item>
+      <title>Thank you to our friends from @CultRepo for the great conversations</title>
+      <link>https://x.com/pidotdev/status/2091488120445571341</link>
+      <guid isPermaLink="true">https://x.com/pidotdev/status/2091488120445571341</guid>
+      <pubDate>Sun, 23 Aug 2026 11:30:00 GMT</pubDate>
+      <author>@pidotdev</author>
+      <description><![CDATA[<p>Thank you to our friends from @CultRepo for the great conversations</p>]]></description>
+    </item>
+    <item>
+      <title>Get started here</title>
+      <link>https://x.com/pidotdev/status/2091125734643523992</link>
+      <guid isPermaLink="true">https://x.com/pidotdev/status/2091125734643523992</guid>
+      <pubDate>Sat, 22 Aug 2026 11:30:01 GMT</pubDate>
+      <author>@pidotdev</author>
+      <description><![CDATA[<p>Get started here</p>]]></description>
+    </item>
+    <item>
+      <title>ICYMI, pi-transcribe is our official package for local speech-to-text dictation in Pi Once you install it: - type</title>
+      <link>https://x.com/pidotdev/status/2091125733955608985</link>
+      <guid isPermaLink="true">https://x.com/pidotdev/status/2091125733955608985</guid>
+      <pubDate>Sat, 22 Aug 2026 11:30:00 GMT</pubDate>
+      <author>@pidotdev</author>
+      <description><![CDATA[<p>ICYMI, pi-transcribe is our official package for local speech-to-text dictation in Pi <br><br>Once you install it:<br>- type /transcribe <br>- select a local model and language <br>- run CTRL + ALT + Z to start or stop dictation<br><br>Are you a typer or a talker?</p><p><img src="https://pbs.twimg.com/media/HQUGM8qWMAASC-P?format=jpg&amp;name=small" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>Other findings from the paper include: - agents couldn’t be trusted to not use MCP even if prompted</title>
+      <link>https://x.com/pidotdev/status/2090763464553750924</link>
+      <guid isPermaLink="true">https://x.com/pidotdev/status/2090763464553750924</guid>
+      <pubDate>Fri, 21 Aug 2026 11:30:29 GMT</pubDate>
+      <author>@pidotdev</author>
+      <description><![CDATA[<p>Other findings from the paper include:<br><br>- agents couldn’t be trusted to not use MCP even if prompted not to. Only removing the option fixed this<br><br>- for well-specified, repeatable tasks a small harness is better than a larger general purpose one<br><br>https://arxiv.org/pdf/2608.08654</p>]]></description>
+    </item>
+    <item>
+      <title>This week we read research from a team of academics that ran a software task across 7 agents</title>
+      <link>https://x.com/pidotdev/status/2090763462217551976</link>
+      <guid isPermaLink="true">https://x.com/pidotdev/status/2090763462217551976</guid>
+      <pubDate>Fri, 21 Aug 2026 11:30:28 GMT</pubDate>
+      <author>@pidotdev</author>
+      <description><![CDATA[<p>This week we read research from a team of academics that ran a software task across 7 agents and 5 models. <br><br>They found that in domains with a mature CLI ecosystem, agents without MCP baked in completed the task just as reliably and were 5-28x cheaper. <br><br>Full arXiv paper below</p><p><img src="https://pbs.twimg.com/media/HQPbDPJWMAAV8CF?format=jpg&amp;name=small" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>This blog post was written for those who may be curious to know what an agent harness is,</title>
+      <link>https://x.com/pidotdev/status/2090416132817670578</link>
+      <guid isPermaLink="true">https://x.com/pidotdev/status/2090416132817670578</guid>
+      <pubDate>Thu, 20 Aug 2026 12:30:18 GMT</pubDate>
+      <author>@pidotdev</author>
+      <description><![CDATA[<p>This blog post was written for those who may be curious to know what an agent harness is, but don’t, and might not know where to start. Read the full post here</p>]]></description>
+    </item>
+    <item>
+      <title>A harness turns a model into an agent. At it’s core it provides 4 things: - a system</title>
+      <link>https://x.com/pidotdev/status/2090416055273542141</link>
+      <guid isPermaLink="true">https://x.com/pidotdev/status/2090416055273542141</guid>
+      <pubDate>Thu, 20 Aug 2026 12:30:00 GMT</pubDate>
+      <author>@pidotdev</author>
+      <description><![CDATA[<p>A harness turns a model into an agent. At it’s core it provides 4 things:<br><br>- a system prompt<br>- tools<br>- an agentic loop <br>- a translation layer across models <br><br>New blog post from Earendil co-founder @colindaymond on what a harness is, and how you can own yours. Full post below</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2090412016506695680/img/Y8bKh5p43u7vcpFo.jpg" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>Skills are often more context efficient than other tools and can be customized easily. Learn more about building</title>
+      <link>https://x.com/pidotdev/status/2090050322697752925</link>
+      <guid isPermaLink="true">https://x.com/pidotdev/status/2090050322697752925</guid>
+      <pubDate>Wed, 19 Aug 2026 12:16:42 GMT</pubDate>
+      <author>@pidotdev</author>
+      <description><![CDATA[<p>Skills are often more context efficient than other tools and can be customized easily. Learn more about building and using them in Pi here</p>]]></description>
+    </item>
+    <item>
+      <title>Pi can create skills! At startup, Pi scans skill locations and extracts their names and descriptions. When a</title>
+      <link>https://x.com/pidotdev/status/2090049615408119947</link>
+      <guid isPermaLink="true">https://x.com/pidotdev/status/2090049615408119947</guid>
+      <pubDate>Wed, 19 Aug 2026 12:13:54 GMT</pubDate>
+      <author>@pidotdev</author>
+      <description><![CDATA[<p>Pi can create skills! At startup, Pi scans skill locations and extracts their names and descriptions. When a task matches, the agent loads the full SKILL.md into its context. This is progressive disclosure. <br><br>Here’s an example of a commit skill. What skills have you made in Pi?</p><p><img src="https://pbs.twimg.com/media/HQFXBIkW8AAdDc4?format=jpg&amp;name=small" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>Last week Pi v0.84.2 came out This version comes with - fullscreen transcript search: hit Ctrl+Shift+F to search</title>
+      <link>https://x.com/pidotdev/status/2089676181738013150</link>
+      <guid isPermaLink="true">https://x.com/pidotdev/status/2089676181738013150</guid>
+      <pubDate>Tue, 18 Aug 2026 11:30:00 GMT</pubDate>
+      <author>@pidotdev</author>
+      <description><![CDATA[<p>Last week Pi v0.84.2 came out This version comes with<br><br>- fullscreen transcript search: hit Ctrl+Shift+F to search your whole session<br>- Configurable default tools: pick your startup built-ins, globally or per project <br><br>And more! Run ‘pi update’ to get the latest!</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2089664090872446976/img/DyCGhDP845g29D0B.jpg" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>One way you can you extend Pi is by building extensions for event interception. An example of this</title>
+      <link>https://x.com/pidotdev/status/2089313792014381321</link>
+      <guid isPermaLink="true">https://x.com/pidotdev/status/2089313792014381321</guid>
+      <pubDate>Mon, 17 Aug 2026 11:30:00 GMT</pubDate>
+      <author>@pidotdev</author>
+      <description><![CDATA[<p>One way you can you extend Pi is by building extensions for event interception. <br><br>An example of this is adding guardrail permission gates that block or modify dangerous tool calls. <br><br>Here’s the code you can use to ensure your agent confirms with you before running ‘rm -rf’</p><p><img src="https://pbs.twimg.com/media/HP6lIG1XUAAQYC2?format=jpg&amp;name=small" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>Thanks to our friends at @syntaxfm for the fantastic conversation!</title>
+      <link>https://x.com/pidotdev/status/2088977623552561544</link>
+      <guid isPermaLink="true">https://x.com/pidotdev/status/2088977623552561544</guid>
+      <pubDate>Sun, 16 Aug 2026 13:14:11 GMT</pubDate>
+      <author>@pidotdev</author>
+      <description><![CDATA[<p>Thanks to our friends at @syntaxfm for the fantastic conversation!</p>]]></description>
+    </item>
+  </channel>
+</rss>

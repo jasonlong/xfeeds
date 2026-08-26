@@ -1,0 +1,14 @@
+node_modules/
+.wrangler/
+.dev.vars
+coverage/
+dist/
+*.log
+
+# Local post history, browser profile, and scheduler logs.
+.xrss/
+/feeds/
+
+# Never commit browser authentication material.
+auth-state.json
+auth-state.encrypted.json

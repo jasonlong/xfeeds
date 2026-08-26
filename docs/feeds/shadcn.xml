@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+  <channel>
+    <title>shadcn / @shadcn</title>
+    <description>Recent X posts collected for @shadcn</description>
+    <link>https://x.com/shadcn</link>
+    <atom:link href="https://jasonlong.github.io/xfeeds/feeds/shadcn.xml" rel="self" type="application/rss+xml"/>
+    <webfeeds:icon>https://pbs.twimg.com/profile_images/1593304942210478080/TUYae5z7_200x200.jpg</webfeeds:icon>
+    <image>
+      <url>https://pbs.twimg.com/profile_images/1593304942210478080/TUYae5z7_200x200.jpg</url>
+      <title>shadcn / @shadcn</title>
+      <link>https://x.com/shadcn</link>
+    </image>
+    <ttl>120</ttl>
+    <item>
+      <title>Is there a way to persist this value in @googlechrome?</title>
+      <link>https://x.com/shadcn/status/2092333608593682656</link>
+      <guid isPermaLink="true">https://x.com/shadcn/status/2092333608593682656</guid>
+      <pubDate>Tue, 25 Aug 2026 19:29:40 GMT</pubDate>
+      <author>@shadcn</author>
+      <description><![CDATA[<p>Is there a way to persist this value in @googlechrome?</p><p><img src="https://pbs.twimg.com/media/HQl2CICXAAAdV71?format=png&amp;name=small" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>...is the answer, but I can&apos;t remember the question</title>
+      <link>https://x.com/shadcn/status/2092274481033097290</link>
+      <guid isPermaLink="true">https://x.com/shadcn/status/2092274481033097290</guid>
+      <pubDate>Tue, 25 Aug 2026 15:34:43 GMT</pubDate>
+      <author>@shadcn</author>
+      <description><![CDATA[<p>...is the answer, but I can&apos;t remember the question</p><p><img src="https://pbs.twimg.com/media/HQlAfmeXIAEMbIp?format=jpg&amp;name=small" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>One of my favorite examples of this: @JohnPhamous</title>
+      <link>https://x.com/shadcn/status/2091218208619425802</link>
+      <guid isPermaLink="true">https://x.com/shadcn/status/2091218208619425802</guid>
+      <pubDate>Sat, 22 Aug 2026 17:37:28 GMT</pubDate>
+      <author>@shadcn</author>
+      <description><![CDATA[<p>One of my favorite examples of this: @JohnPhamous</p>]]></description>
+    </item>
+    <item>
+      <title>Find one interaction. Make it simpler. Find one interaction. Make it faster. Repeat. You’re a design engineer.</title>
+      <link>https://x.com/shadcn/status/2091213667740123592</link>
+      <guid isPermaLink="true">https://x.com/shadcn/status/2091213667740123592</guid>
+      <pubDate>Sat, 22 Aug 2026 17:19:25 GMT</pubDate>
+      <author>@shadcn</author>
+      <description><![CDATA[<p>Find one interaction. Make it simpler. <br>Find one interaction. Make it faster. <br>Repeat. <br><br>You’re a design engineer.</p>]]></description>
+    </item>
+    <item>
+      <title>Bootstrap</title>
+      <link>https://x.com/shadcn/status/2090858847766208635</link>
+      <guid isPermaLink="true">https://x.com/shadcn/status/2090858847766208635</guid>
+      <pubDate>Fri, 21 Aug 2026 17:49:30 GMT</pubDate>
+      <author>@shadcn</author>
+      <description><![CDATA[<p>Bootstrap</p><p><img src="https://pbs.twimg.com/media/HOfcAxHWoAAiQZS?format=png&amp;name=small" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>We&apos;ve added support for private GitHub registries. npx shadcn list &lt;username&gt;/&lt;repo&gt;</title>
+      <link>https://x.com/shadcn/status/2090855100977758590</link>
+      <guid isPermaLink="true">https://x.com/shadcn/status/2090855100977758590</guid>
+      <pubDate>Fri, 21 Aug 2026 17:34:36 GMT</pubDate>
+      <author>@shadcn</author>
+      <description><![CDATA[<p>We&apos;ve added support for private GitHub registries.<br><br>npx shadcn list &lt;username&gt;/&lt;repo&gt;</p><p><img src="https://pbs.twimg.com/media/HJvVUhYWYAAXuKY?format=png&amp;name=small" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>I think about this tweet a lot.</title>
+      <link>https://x.com/shadcn/status/2090780437039706135</link>
+      <guid isPermaLink="true">https://x.com/shadcn/status/2090780437039706135</guid>
+      <pubDate>Fri, 21 Aug 2026 12:37:55 GMT</pubDate>
+      <author>@shadcn</author>
+      <description><![CDATA[<p>I think about this tweet a lot.</p>]]></description>
+    </item>
+    <item>
+      <title>If you don&apos;t trust your agent to push to main, why should I trust it with my data?</title>
+      <link>https://x.com/shadcn/status/2090768637342740747</link>
+      <guid isPermaLink="true">https://x.com/shadcn/status/2090768637342740747</guid>
+      <pubDate>Fri, 21 Aug 2026 11:51:02 GMT</pubDate>
+      <author>@shadcn</author>
+      <description><![CDATA[<p>If you don&apos;t trust your agent to push to main, why should I trust it with my data?</p>]]></description>
+    </item>
+    <item>
+      <title>Engineering is for the machines. Design is human.</title>
+      <link>https://x.com/shadcn/status/2090306648325648694</link>
+      <guid isPermaLink="true">https://x.com/shadcn/status/2090306648325648694</guid>
+      <pubDate>Thu, 20 Aug 2026 05:15:15 GMT</pubDate>
+      <author>@shadcn</author>
+      <description><![CDATA[<p>Engineering is for the machines. Design is human.</p>]]></description>
+    </item>
+    <item>
+      <title>Media post</title>
+      <link>https://x.com/shadcn/status/2089361603758076021</link>
+      <guid isPermaLink="true">https://x.com/shadcn/status/2089361603758076021</guid>
+      <pubDate>Mon, 17 Aug 2026 14:39:59 GMT</pubDate>
+      <author>@shadcn</author>
+      <description><![CDATA[<p></p>]]></description>
+    </item>
+    <item>
+      <title>Copper now supports freehand drawing. Hit Cmd + (Right) Shift + Shift to open the editor from anywhere.</title>
+      <link>https://x.com/shadcn/status/2089361600402657624</link>
+      <guid isPermaLink="true">https://x.com/shadcn/status/2089361600402657624</guid>
+      <pubDate>Mon, 17 Aug 2026 14:39:58 GMT</pubDate>
+      <author>@shadcn</author>
+      <description><![CDATA[<p>Copper now supports freehand drawing.<br><br>Hit Cmd + (Right) Shift + Shift to open the editor from anywhere.<br><br>Draw. Add shapes. Text. Colors.<br><br>Save to Copper. Or Copy Paste straight to your prompt composer.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2089361286987468800/img/-voOR_BgBTDDc5_3.jpg" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>First time reading Harry Potter fan fiction. Recommendation from @AliAbdaal</title>
+      <link>https://x.com/shadcn/status/2089035055465214171</link>
+      <guid isPermaLink="true">https://x.com/shadcn/status/2089035055465214171</guid>
+      <pubDate>Sun, 16 Aug 2026 17:02:24 GMT</pubDate>
+      <author>@shadcn</author>
+      <description><![CDATA[<p>First time reading Harry Potter fan fiction. Recommendation from @AliAbdaal</p><p><img src="https://pbs.twimg.com/media/HP2-TmpXEAEwIhr?format=jpg&amp;name=small" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>Can @kapish_dima save me from learning After Effects?</title>
+      <link>https://x.com/shadcn/status/2088940156480815210</link>
+      <guid isPermaLink="true">https://x.com/shadcn/status/2088940156480815210</guid>
+      <pubDate>Sun, 16 Aug 2026 10:45:18 GMT</pubDate>
+      <author>@shadcn</author>
+      <description><![CDATA[<p>Can @kapish_dima save me from learning After Effects?</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2087933239990366208/img/OhwI_Cvu_Q-lB4p9.jpg" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>Been testing a new feature for Copper. Took me a weeks to get the UX right. Launching soon.</title>
+      <link>https://x.com/shadcn/status/2088939287832080701</link>
+      <guid isPermaLink="true">https://x.com/shadcn/status/2088939287832080701</guid>
+      <pubDate>Sun, 16 Aug 2026 10:41:51 GMT</pubDate>
+      <author>@shadcn</author>
+      <description><![CDATA[<p>Been testing a new feature for Copper. Took me a weeks to get the UX right. Launching soon.</p>]]></description>
+    </item>
+    <item>
+      <title>The shadcn cli can now read registries config out of package.json. Which means if you&apos;re distributing non-component code,</title>
+      <link>https://x.com/shadcn/status/2087977629227925765</link>
+      <guid isPermaLink="true">https://x.com/shadcn/status/2087977629227925765</guid>
+      <pubDate>Thu, 13 Aug 2026 19:00:34 GMT</pubDate>
+      <author>@shadcn</author>
+      <description><![CDATA[<p>The shadcn cli can now read registries config out of package.json. Which means if you&apos;re distributing non-component code, no components.json required.<br><br>It works with everything else: add, search, view. <br><br>Any project can now install code from registries.</p><p><img src="https://pbs.twimg.com/media/HPn788bWMAAk0Zt?format=jpg&amp;name=small" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>We’re open sourcing @​shadcn/helpers, a new package for small, focused utils to help you build and test components</title>
+      <link>https://x.com/shadcn/status/2087287183090634806</link>
+      <guid isPermaLink="true">https://x.com/shadcn/status/2087287183090634806</guid>
+      <pubDate>Tue, 11 Aug 2026 21:16:59 GMT</pubDate>
+      <author>@shadcn</author>
+      <description><![CDATA[<p>We’re open sourcing @​shadcn/helpers, a new package for small, focused utils to help you build and test components faster.<br><br>Starting with `createChat` for AI SDK and TanStack AI. It lets you script a conversation between a user &amp; assistant then run it through `useChat`.<br><br>Your</p><p><img src="https://pbs.twimg.com/media/HNM26a2WwAAafOq?format=jpg&amp;name=360x360" alt=""></p><p><img src="https://pbs.twimg.com/media/HNM27dYX0AAsEki?format=jpg&amp;name=small" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>You can now script human-in-the-loop flows in @​shadcn/helpers. Approvals with approve/deny and dynamic tool calls that pause for</title>
+      <link>https://x.com/shadcn/status/2087283211994894814</link>
+      <guid isPermaLink="true">https://x.com/shadcn/status/2087283211994894814</guid>
+      <pubDate>Tue, 11 Aug 2026 21:01:12 GMT</pubDate>
+      <author>@shadcn</author>
+      <description><![CDATA[<p>You can now script human-in-the-loop flows in @​shadcn/helpers.<br><br>Approvals with approve/deny and dynamic tool calls that pause for user input e.g. user questions.<br><br>All through the @aisdk useChat lifecycle.</p><p><img src="https://pbs.twimg.com/media/HPeEqthWUAEpgr1?format=jpg&amp;name=small" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>I just open sourced a minimal chatbot template. This brings together everything we&apos;ve been doing the past weeks:</title>
+      <link>https://x.com/shadcn/status/2087153563340325341</link>
+      <guid isPermaLink="true">https://x.com/shadcn/status/2087153563340325341</guid>
+      <pubDate>Tue, 11 Aug 2026 12:26:01 GMT</pubDate>
+      <author>@shadcn</author>
+      <description><![CDATA[<p>I just open sourced a minimal chatbot template.<br><br>This brings together everything we&apos;ve been doing the past weeks: new components, shadcn/typeset, shadcn/react, tool calling, HITL with questionnaire, message parts. Deploys one click to @vercel AI Gateway.</p>]]></description>
+    </item>
+    <item>
+      <title>1 point for Levi. 1 point for battle scenes. 1/2 for mikasa and 1/2 for good vs evil.</title>
+      <link>https://x.com/shadcn/status/2086819793122853274</link>
+      <guid isPermaLink="true">https://x.com/shadcn/status/2086819793122853274</guid>
+      <pubDate>Mon, 10 Aug 2026 14:19:44 GMT</pubDate>
+      <author>@shadcn</author>
+      <description><![CDATA[<p>1 point for Levi. 1 point for battle scenes. 1/2 for mikasa and 1/2 for good vs evil.</p>]]></description>
+    </item>
+    <item>
+      <title>Just tagged a quick update for Copper. - You can now copy and paste files into Copper. -</title>
+      <link>https://x.com/shadcn/status/2086737201723764847</link>
+      <guid isPermaLink="true">https://x.com/shadcn/status/2086737201723764847</guid>
+      <pubDate>Mon, 10 Aug 2026 08:51:33 GMT</pubDate>
+      <author>@shadcn</author>
+      <description><![CDATA[<p>Just tagged a quick update for Copper.<br><br>- You can now copy and paste files into Copper.<br>- When you hide Copper, focus now returns to last active app.<br>- Fixed a bug with double-tap keys.</p><p><img src="https://pbs.twimg.com/media/HPWUWz_WQAAKKqJ?format=png&amp;name=small" alt=""></p>]]></description>
+    </item>
+  </channel>
+</rss>
