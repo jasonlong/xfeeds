@@ -34,6 +34,11 @@ function plist(): string {
     <string>--all</string>
   </array>
   <key>WorkingDirectory</key><string>${xml(projectRoot)}</string>
+  <key>EnvironmentVariables</key>
+  <dict>
+    <key>HOME</key><string>${xml(os.homedir())}</string>
+    <key>PATH</key><string>/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin</string>
+  </dict>
   <key>StartInterval</key><integer>3600</integer>
   <key>StandardOutPath</key><string>${xml(path.join(logsDir, "collect.log"))}</string>
   <key>StandardErrorPath</key><string>${xml(path.join(logsDir, "collect.error.log"))}</string>
