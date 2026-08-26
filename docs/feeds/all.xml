@@ -7,6 +7,14 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>we don&apos;t say &quot;user&quot; in this house.</title>
+      <link>https://x.com/AREdotNA/status/2092631438180921638</link>
+      <guid isPermaLink="true">https://x.com/AREdotNA/status/2092631438180921638</guid>
+      <pubDate>Wed, 26 Aug 2026 15:13:08 GMT</pubDate>
+      <author>@AREdotNA</author>
+      <description><![CDATA[<p>we don&apos;t say &quot;user&quot; in this house.</p>]]></description>
+    </item>
+    <item>
       <title>Pi comes with 15+ providers and hundreds of models. If you have some favorites you find yourself coming</title>
       <link>https://x.com/pidotdev/status/2092575468226478431</link>
       <guid isPermaLink="true">https://x.com/pidotdev/status/2092575468226478431</guid>
@@ -492,7 +500,7 @@
       <guid isPermaLink="true">https://x.com/almonk/status/2090756301085122612</guid>
       <pubDate>Fri, 21 Aug 2026 11:02:01 GMT</pubDate>
       <author>@almonk</author>
-      <description><![CDATA[<p>there&apos;s a phenomenon in engineering called the &quot;zenith before obsolescence&quot;: when a technology reaches its most perfected form just as it’s about to be replaced.<br><br>The Eiffel Tower was that for construction in wrought iron.<br><br>Disco was that for the Aqua-era.</p><p><img src="https://pbs.twimg.com/tweet_video_thumb/HQPXGEVWMAAugsf.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>there&apos;s a phenomenon in engineering called the &quot;zenith before obsolescence&quot;: when a technology reaches its most perfected form just as it’s about to be replaced.<br><br>The Eiffel Tower was that for construction in wrought iron.<br><br>Disco was that for the Aqua-era.</p>]]></description>
     </item>
     <item>
       <title>Media post</title>
@@ -1132,7 +1140,7 @@
       <guid isPermaLink="true">https://x.com/AREdotNA/status/2080739757168947652</guid>
       <pubDate>Fri, 24 Jul 2026 19:39:51 GMT</pubDate>
       <author>@AREdotNA</author>
-      <description><![CDATA[<p>https://walking-score.are.na</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2080739654362439681/img/aW5nJ_CgSUZx1RM_.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>https://walking-score.are.na</p>]]></description>
     </item>
     <item>
       <title>Request For Walk</title>
@@ -1597,14 +1605,6 @@
       <pubDate>Fri, 16 Jan 2026 02:24:55 GMT</pubDate>
       <author>@ReadwiseReader</author>
       <description><![CDATA[<p></p>]]></description>
-    </item>
-    <item>
-      <title>New: Reader for Tablets/iPad We rebuilt the iOS and Android apps from the ground up to support tablets</title>
-      <link>https://x.com/ReadwiseReader/status/2007884848145576226</link>
-      <guid isPermaLink="true">https://x.com/ReadwiseReader/status/2007884848145576226</guid>
-      <pubDate>Sun, 04 Jan 2026 18:40:27 GMT</pubDate>
-      <author>@ReadwiseReader</author>
-      <description><![CDATA[<p>New: Reader for Tablets/iPad <br><br>We rebuilt the iOS and Android apps from the ground up to support tablets as first-class devices.<br><br>Read with a two‑column view, better sidebars, native stylus support, and lots more!</p>]]></description>
     </item>
   </channel>
 </rss>
