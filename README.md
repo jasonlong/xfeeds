@@ -15,7 +15,7 @@ authentication and post history never leave this Mac.
 3. `npm run feeds:publish` collects every configured account and pushes changed
    files from `docs/` to GitHub.
 4. `npm run schedule:install` installs a macOS LaunchAgent that runs that publish
-   command immediately and approximately once per hour.
+   command approximately once per hour.
 
 Authentication data and post history live under `.xrss/` and are ignored by
 Git. The scraper never reads or modifies your normal Chrome profile.

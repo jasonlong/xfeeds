@@ -35,7 +35,6 @@ function plist(): string {
   </array>
   <key>WorkingDirectory</key><string>${xml(projectRoot)}</string>
   <key>StartInterval</key><integer>3600</integer>
-  <key>RunAtLoad</key><true/>
   <key>StandardOutPath</key><string>${xml(path.join(logsDir, "collect.log"))}</string>
   <key>StandardErrorPath</key><string>${xml(path.join(logsDir, "collect.error.log"))}</string>
 </dict>
@@ -57,7 +56,7 @@ async function install(): Promise<void> {
   await writeFile(plistPath, plist(), "utf8");
   bootout();
   execFileSync("/bin/launchctl", ["bootstrap", `gui/${process.getuid()}`, plistPath]);
-  console.log(`Installed ${label}; it publishes all configured accounts now and every 3600 seconds.`);
+  console.log(`Installed ${label}; it publishes all configured accounts every 3600 seconds.`);
   console.log(`Logs: ${logsDir}`);
 }
 
