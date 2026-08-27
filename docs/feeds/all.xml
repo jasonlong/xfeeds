@@ -7,6 +7,14 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>Media post</title>
+      <link>https://x.com/tldraw/status/2093004333021274287</link>
+      <guid isPermaLink="true">https://x.com/tldraw/status/2093004333021274287</guid>
+      <pubDate>Thu, 27 Aug 2026 15:54:53 GMT</pubDate>
+      <author>@tldraw</author>
+      <description><![CDATA[<p></p>]]></description>
+    </item>
+    <item>
       <title>@caligracomputer team passed by the tldraw office today and left some goodies</title>
       <link>https://x.com/tldraw/status/2092976040054268122</link>
       <guid isPermaLink="true">https://x.com/tldraw/status/2092976040054268122</guid>
@@ -36,7 +44,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2092926075940606147</guid>
       <pubDate>Thu, 27 Aug 2026 10:43:55 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>it&apos;s a fun time to be at tldraw</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2092925142498222080/img/zSTnvyDPzy-7961O.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>it&apos;s a fun time to be at tldraw</p>]]></description>
     </item>
     <item>
       <title>The benefits of switching between horizontal → vertical tabs are underrated. For the @superlogical multiplexer macOS client, both</title>
@@ -68,7 +76,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2092707615088255074</guid>
       <pubDate>Wed, 26 Aug 2026 20:15:50 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>the most interesting people in the world are using tldraw</p>]]></description>
+      <description><![CDATA[<p>the most interesting people in the world are using tldraw</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2091335109718712320/img/s0o8FiLJMAPGCbSZ.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>History of the #AppleEvent hashmoji</title>
@@ -108,7 +116,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2092656027959279938</guid>
       <pubDate>Wed, 26 Aug 2026 16:50:51 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>Agents can drive the canvas. We played around with controlling what they can &quot;see&quot; and set them loose, working their way through mazes.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2092653047688085504/img/DhQcuULvwWWk8uZk.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Agents can drive the canvas. We played around with controlling what they can &quot;see&quot; and set them loose, working their way through mazes.</p>]]></description>
     </item>
     <item>
       <title>Space isn&apos;t something you can type your way through. A canvas lets an agent move through it instead.</title>
@@ -236,7 +244,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2092285614146142281</guid>
       <pubDate>Tue, 25 Aug 2026 16:18:57 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>Here&apos;s a creative coding tool we made in tldraw offline. With this sketching tool, you can generate new nodes and modules with agents. You could also have agents generate sketches for you - and then work with your friends at the same time.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2092285365939847169/img/R7WS6Vm14FUylgOc.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Here&apos;s a creative coding tool we made in tldraw offline. With this sketching tool, you can generate new nodes and modules with agents. You could also have agents generate sketches for you - and then work with your friends at the same time.</p>]]></description>
     </item>
     <item>
       <title>Wow I completely misread this in the Mac Studio preview x.com/aaronp613/stat…</title>
@@ -276,7 +284,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2092244533593420243</guid>
       <pubDate>Tue, 25 Aug 2026 13:35:43 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>We&apos;re excited to keep building with @vidext_io.<br><br>Using tldraw as the foundation, Vidext has developed a platform that allows users to create beautiful and effective video for internal comms - in minutes.<br><br>With tldraw, Vidext users can collaborate, iterate, and storyboard, all in</p>]]></description>
+      <description><![CDATA[<p>We&apos;re excited to keep building with @vidext_io.<br><br>Using tldraw as the foundation, Vidext has developed a platform that allows users to create beautiful and effective video for internal comms - in minutes.<br><br>With tldraw, Vidext users can collaborate, iterate, and storyboard, all in</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2092244413430870016/img/beuPZxkyUqL6fGwZ.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>The new Mac Studio</title>
@@ -1597,14 +1605,6 @@
       <pubDate>Mon, 11 May 2026 16:20:21 GMT</pubDate>
       <author>@karpathy</author>
       <description><![CDATA[<p>This works really well btw, at the end of your query ask your LLM to &quot;structure your response as HTML&quot;, then view the generated file in your browser. I&apos;ve also had some success asking the LLM to present its output as slideshows, etc.<br><br>More generally, imo audio is the</p>]]></description>
-    </item>
-    <item>
-      <title>This is the the quote I&apos;ve been citing a lot recently.</title>
-      <link>https://x.com/karpathy/status/2049907410303865030</link>
-      <guid isPermaLink="true">https://x.com/karpathy/status/2049907410303865030</guid>
-      <pubDate>Thu, 30 Apr 2026 17:43:06 GMT</pubDate>
-      <author>@karpathy</author>
-      <description><![CDATA[<p>This is the the quote I&apos;ve been citing a lot recently.</p>]]></description>
     </item>
   </channel>
 </rss>
