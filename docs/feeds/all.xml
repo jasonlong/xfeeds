@@ -7,6 +7,22 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>Read more about Scott’s workflow here</title>
+      <link>https://x.com/pidotdev/status/2092954172656136377</link>
+      <guid isPermaLink="true">https://x.com/pidotdev/status/2092954172656136377</guid>
+      <pubDate>Thu, 27 Aug 2026 12:35:34 GMT</pubDate>
+      <author>@pidotdev</author>
+      <description><![CDATA[<p>Read more about Scott’s workflow here</p>]]></description>
+    </item>
+    <item>
+      <title>Lead Engineer, Scott Fryxell, used Pi to move most of his client work to DeepSeek, dipping into Fable</title>
+      <link>https://x.com/pidotdev/status/2092954167690023124</link>
+      <guid isPermaLink="true">https://x.com/pidotdev/status/2092954167690023124</guid>
+      <pubDate>Thu, 27 Aug 2026 12:35:33 GMT</pubDate>
+      <author>@pidotdev</author>
+      <description><![CDATA[<p>Lead Engineer, Scott Fryxell, used Pi to move most of his client work to DeepSeek, dipping into Fable only when necessary. <br><br>By primarily using ‘commodity models’ he only needs two $20 plans for his total usage.<br><br>Read how Pi became “the most important piece” of Scott’s rig below</p><p><img src="https://pbs.twimg.com/media/HQuplrnWYAAeR3m?format=jpg&amp;name=small" alt=""></p>]]></description>
+    </item>
+    <item>
       <title>it&apos;s a fun time to be at tldraw</title>
       <link>https://x.com/tldraw/status/2092926075940606147</link>
       <guid isPermaLink="true">https://x.com/tldraw/status/2092926075940606147</guid>
@@ -340,7 +356,7 @@
       <guid isPermaLink="true">https://x.com/pidotdev/status/2091873157036793947</guid>
       <pubDate>Mon, 24 Aug 2026 13:00:00 GMT</pubDate>
       <author>@pidotdev</author>
-      <description><![CDATA[<p>Ox Alpha is currently the most popular model on @OpenRouter and is free to use! <br><br>A reasoning model designed for coding, sustained agentic work and production workloads. 1M token context window, with support for text, image and video input. <br><br>Try it out in Pi today</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2091850005296365568/img/zwc9WFi8bqFA3iSH.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Ox Alpha is currently the most popular model on @OpenRouter and is free to use! <br><br>A reasoning model designed for coding, sustained agentic work and production workloads. 1M token context window, with support for text, image and video input. <br><br>Try it out in Pi today</p>]]></description>
     </item>
     <item>
       <title>You can also enable both bash and powershell.</title>
@@ -668,7 +684,7 @@
       <guid isPermaLink="true">https://x.com/pidotdev/status/2090416055273542141</guid>
       <pubDate>Thu, 20 Aug 2026 12:30:00 GMT</pubDate>
       <author>@pidotdev</author>
-      <description><![CDATA[<p>A harness turns a model into an agent. At it’s core it provides 4 things:<br><br>- a system prompt<br>- tools<br>- an agentic loop <br>- a translation layer across models <br><br>New blog post from Earendil co-founder @colindaymond on what a harness is, and how you can own yours. Full post below</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2090412016506695680/img/Y8bKh5p43u7vcpFo.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>A harness turns a model into an agent. At it’s core it provides 4 things:<br><br>- a system prompt<br>- tools<br>- an agentic loop <br>- a translation layer across models <br><br>New blog post from Earendil co-founder @colindaymond on what a harness is, and how you can own yours. Full post below</p>]]></description>
     </item>
     <item>
       <title>Mariusz Cieśla: The last product design tool</title>
@@ -1044,7 +1060,7 @@
       <guid isPermaLink="true">https://x.com/avstorm/status/2087968847248650287</guid>
       <pubDate>Thu, 13 Aug 2026 18:25:40 GMT</pubDate>
       <author>@avstorm</author>
-      <description><![CDATA[<p>Apple just dropped new videos on TikTok</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2087968256770318336/img/4wnCcPbLLIV6ZdDA.jpg" alt=""></p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2087968274390609920/img/9YmPml8lsk_x6XsI.jpg" alt=""></p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2087968284574380032/img/ologd1-0YLufbLgQ.jpg" alt=""></p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2087968295165087744/img/uvdHX5utEKlsahj-.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Apple just dropped new videos on TikTok</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2087968274390609920/img/9YmPml8lsk_x6XsI.jpg" alt=""></p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2087968284574380032/img/ologd1-0YLufbLgQ.jpg" alt=""></p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2087968295165087744/img/uvdHX5utEKlsahj-.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Microsoft Copilot’s new logo trades its old, unique shape for two overlapping layers.</title>
@@ -1244,7 +1260,7 @@
       <guid isPermaLink="true">https://x.com/AREdotNA/status/2080739757168947652</guid>
       <pubDate>Fri, 24 Jul 2026 19:39:51 GMT</pubDate>
       <author>@AREdotNA</author>
-      <description><![CDATA[<p>https://walking-score.are.na</p>]]></description>
+      <description><![CDATA[<p>https://walking-score.are.na</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2080739654362439681/img/aW5nJ_CgSUZx1RM_.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Request For Walk</title>
@@ -1364,7 +1380,7 @@
       <guid isPermaLink="true">https://x.com/ryolu_/status/2077108336844210352</guid>
       <pubDate>Tue, 14 Jul 2026 19:09:52 GMT</pubDate>
       <author>@ryolu_</author>
-      <description><![CDATA[<p>assembling the best design team<br>(looking for design engs, too)</p><p><img src="https://pbs.twimg.com/tweet_video_thumb/HNNEKF3aoAAR4aW.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>assembling the best design team<br>(looking for design engs, too)</p>]]></description>
     </item>
     <item>
       <title>Media post</title>
@@ -1589,22 +1605,6 @@
       <pubDate>Wed, 15 Apr 2026 13:08:54 GMT</pubDate>
       <author>@ReadwiseReader</author>
       <description><![CDATA[<p>New in Reader: a major performance upgrade for web &amp; desktop. <br><br>Scrolling feels a lot smoother.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2044402531493683200/img/yJDj4xyHuL684Otv.jpg" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>Someone recently suggested to me that the reason OpenClaw moment was so big is because it&apos;s the first</title>
-      <link>https://x.com/karpathy/status/2042341482531864741</link>
-      <guid isPermaLink="true">https://x.com/karpathy/status/2042341482531864741</guid>
-      <pubDate>Thu, 09 Apr 2026 20:38:48 GMT</pubDate>
-      <author>@karpathy</author>
-      <description><![CDATA[<p>Someone recently suggested to me that the reason OpenClaw moment was so big is because it&apos;s the first time a large group of non-technical people (who otherwise only knew AI as synonymous with ChatGPT as a website) experienced the latest agentic models.</p>]]></description>
-    </item>
-    <item>
-      <title>Judging by my tl there is a growing gap in understanding of AI capability. The first issue I</title>
-      <link>https://x.com/karpathy/status/2042334451611693415</link>
-      <guid isPermaLink="true">https://x.com/karpathy/status/2042334451611693415</guid>
-      <pubDate>Thu, 09 Apr 2026 20:10:52 GMT</pubDate>
-      <author>@karpathy</author>
-      <description><![CDATA[<p>Judging by my tl there is a growing gap in understanding of AI capability.<br><br>The first issue I think is around recency and tier of use. I think a lot of people tried the free tier of ChatGPT somewhere  last year and allowed it to inform their views on AI a little too much. This is</p>]]></description>
     </item>
   </channel>
 </rss>
