@@ -7,6 +7,14 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>you either die a yolo mode or live long enough to become auto allow</title>
+      <link>https://x.com/almonk/status/2092893148988969443</link>
+      <guid isPermaLink="true">https://x.com/almonk/status/2092893148988969443</guid>
+      <pubDate>Thu, 27 Aug 2026 08:33:05 GMT</pubDate>
+      <author>@almonk</author>
+      <description><![CDATA[<p>you either die a yolo mode or live long enough to become auto allow</p>]]></description>
+    </item>
+    <item>
       <title>lo-fi dinosaur sounds to code to</title>
       <link>https://x.com/almonk/status/2092751139124969675</link>
       <guid isPermaLink="true">https://x.com/almonk/status/2092751139124969675</guid>
@@ -1220,7 +1228,7 @@
       <guid isPermaLink="true">https://x.com/AREdotNA/status/2080739757168947652</guid>
       <pubDate>Fri, 24 Jul 2026 19:39:51 GMT</pubDate>
       <author>@AREdotNA</author>
-      <description><![CDATA[<p>https://walking-score.are.na</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2080739654362439681/img/aW5nJ_CgSUZx1RM_.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>https://walking-score.are.na</p>]]></description>
     </item>
     <item>
       <title>Request For Walk</title>
@@ -1340,7 +1348,7 @@
       <guid isPermaLink="true">https://x.com/ryolu_/status/2077108336844210352</guid>
       <pubDate>Tue, 14 Jul 2026 19:09:52 GMT</pubDate>
       <author>@ryolu_</author>
-      <description><![CDATA[<p>assembling the best design team<br>(looking for design engs, too)</p><p><img src="https://pbs.twimg.com/tweet_video_thumb/HNNEKF3aoAAR4aW.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>assembling the best design team<br>(looking for design engs, too)</p>]]></description>
     </item>
     <item>
       <title>Media post</title>
@@ -1597,14 +1605,6 @@
       <pubDate>Sat, 04 Apr 2026 23:28:36 GMT</pubDate>
       <author>@karpathy</author>
       <description><![CDATA[<p>Farzapedia, personal wikipedia of Farza, good example following my Wiki LLM tweet.<br><br>I really like this approach to personalization in a number of ways, compared to &quot;status quo&quot; of an AI that allegedly gets better the more you use it or something:<br><br>1. Explicit. The memory artifact</p>]]></description>
-    </item>
-    <item>
-      <title>Something I&apos;ve been thinking about - I am bullish on people (empowered by AI) increasing the visibility, legibility</title>
-      <link>https://x.com/karpathy/status/2040549459193704852</link>
-      <guid isPermaLink="true">https://x.com/karpathy/status/2040549459193704852</guid>
-      <pubDate>Sat, 04 Apr 2026 21:57:57 GMT</pubDate>
-      <author>@karpathy</author>
-      <description><![CDATA[<p>Something I&apos;ve been thinking about - I am bullish on people (empowered by AI) increasing the visibility, legibility and accountability of their governments.<br><br>Historically, it is the governments that act to make society legible (e.g. &quot;Seeing like a state&quot; is the common reference),</p><p><img src="https://pbs.twimg.com/media/HFD4KSmWkAAdI3Z?format=jpg&amp;name=small" alt=""></p>]]></description>
     </item>
   </channel>
 </rss>
