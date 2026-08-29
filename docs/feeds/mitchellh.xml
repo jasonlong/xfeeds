@@ -13,6 +13,14 @@
     </image>
     <ttl>120</ttl>
     <item>
+      <title>libghostty-vt running freestanding on a device with a 240 MHz CPU, 4 MB flash storage, and 520KB SRAM.</title>
+      <link>https://x.com/mitchellh/status/2093788871331103150</link>
+      <guid isPermaLink="true">https://x.com/mitchellh/status/2093788871331103150</guid>
+      <pubDate>Sat, 29 Aug 2026 19:52:22 GMT</pubDate>
+      <author>@mitchellh</author>
+      <description><![CDATA[<p>libghostty-vt running freestanding on a device with a 240 MHz CPU, 4 MB flash storage, and 520KB SRAM.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2093774574479405056/img/dBOL94yIaYkQ9yXK.jpg" alt=""></p>]]></description>
+    </item>
+    <item>
       <title>I love how many people are attaching to the &quot;half-bounch&quot; startup time metric. I used to do paid</title>
       <link>https://x.com/mitchellh/status/2093700021166485893</link>
       <guid isPermaLink="true">https://x.com/mitchellh/status/2093700021166485893</guid>
@@ -34,7 +42,7 @@
       <guid isPermaLink="true">https://x.com/mitchellh/status/2093451043661316217</guid>
       <pubDate>Fri, 28 Aug 2026 21:29:57 GMT</pubDate>
       <author>@mitchellh</author>
-      <description><![CDATA[<p>Quick Superlogical demo to end the week. This demo is just of the basic functionality, but I want to highlight just how FAST it is. There&apos;s a WHOLE lot more functionality already present and coming but I wanted to keep the demo short. But seriously, check out that speed.<br><br>I&apos;m</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2093450067940360192/img/9Ea_DUx0Vkr3lB7k.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Quick Superlogical demo to end the week. This demo is just of the basic functionality, but I want to highlight just how FAST it is. There&apos;s a WHOLE lot more functionality already present and coming but I wanted to keep the demo short. But seriously, check out that speed.<br><br>I&apos;m</p>]]></description>
     </item>
     <item>
       <title>Respect for anyone who objectively reassesses their priors. Also grateful because it’s genuinely hard to get diverse benchmark</title>
@@ -74,7 +82,7 @@
       <guid isPermaLink="true">https://x.com/mitchellh/status/2092001755055972800</guid>
       <pubDate>Mon, 24 Aug 2026 21:31:00 GMT</pubDate>
       <author>@mitchellh</author>
-      <description><![CDATA[<p>Ghostty (and libghostty) now fully implement the Kitty clipboard protocol to allow apps to read/write non-textual data (like images!). Ghostty is the first to implement the full protocol outside Kitty. The biggest program to support this is probably Claude Code. Demo below.<br><br>This</p>]]></description>
+      <description><![CDATA[<p>Ghostty (and libghostty) now fully implement the Kitty clipboard protocol to allow apps to read/write non-textual data (like images!). Ghostty is the first to implement the full protocol outside Kitty. The biggest program to support this is probably Claude Code. Demo below.<br><br>This</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2092000584065036288/img/_1QaF0_tQWMqNoAB.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Part of the LLM-assisted work here is that Fable+Sol put together a test suite of over 400 cases</title>

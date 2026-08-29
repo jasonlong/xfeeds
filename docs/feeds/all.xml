@@ -7,6 +7,14 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>libghostty-vt running freestanding on a device with a 240 MHz CPU, 4 MB flash storage, and 520KB SRAM.</title>
+      <link>https://x.com/mitchellh/status/2093788871331103150</link>
+      <guid isPermaLink="true">https://x.com/mitchellh/status/2093788871331103150</guid>
+      <pubDate>Sat, 29 Aug 2026 19:52:22 GMT</pubDate>
+      <author>@mitchellh</author>
+      <description><![CDATA[<p>libghostty-vt running freestanding on a device with a 240 MHz CPU, 4 MB flash storage, and 520KB SRAM.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2093774574479405056/img/dBOL94yIaYkQ9yXK.jpg" alt=""></p>]]></description>
+    </item>
+    <item>
       <title>Media post</title>
       <link>https://x.com/shadcn/status/2093769107141165229</link>
       <guid isPermaLink="true">https://x.com/shadcn/status/2093769107141165229</guid>
@@ -84,7 +92,7 @@
       <guid isPermaLink="true">https://x.com/mitchellh/status/2093451043661316217</guid>
       <pubDate>Fri, 28 Aug 2026 21:29:57 GMT</pubDate>
       <author>@mitchellh</author>
-      <description><![CDATA[<p>Quick Superlogical demo to end the week. This demo is just of the basic functionality, but I want to highlight just how FAST it is. There&apos;s a WHOLE lot more functionality already present and coming but I wanted to keep the demo short. But seriously, check out that speed.<br><br>I&apos;m</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2093450067940360192/img/9Ea_DUx0Vkr3lB7k.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Quick Superlogical demo to end the week. This demo is just of the basic functionality, but I want to highlight just how FAST it is. There&apos;s a WHOLE lot more functionality already present and coming but I wanted to keep the demo short. But seriously, check out that speed.<br><br>I&apos;m</p>]]></description>
     </item>
     <item>
       <title>Love concert photos on @zerocam_app , these are great</title>
@@ -564,7 +572,7 @@
       <guid isPermaLink="true">https://x.com/mitchellh/status/2092001755055972800</guid>
       <pubDate>Mon, 24 Aug 2026 21:31:00 GMT</pubDate>
       <author>@mitchellh</author>
-      <description><![CDATA[<p>Ghostty (and libghostty) now fully implement the Kitty clipboard protocol to allow apps to read/write non-textual data (like images!). Ghostty is the first to implement the full protocol outside Kitty. The biggest program to support this is probably Claude Code. Demo below.<br><br>This</p>]]></description>
+      <description><![CDATA[<p>Ghostty (and libghostty) now fully implement the Kitty clipboard protocol to allow apps to read/write non-textual data (like images!). Ghostty is the first to implement the full protocol outside Kitty. The biggest program to support this is probably Claude Code. Demo below.<br><br>This</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2092000584065036288/img/_1QaF0_tQWMqNoAB.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Tiny detail: All slider icons now match Apple’s new Liquid Glass slider thumb in upcoming OS versions.</title>
@@ -1020,7 +1028,7 @@
       <guid isPermaLink="true">https://x.com/almonk/status/2090140305081221202</guid>
       <pubDate>Wed, 19 Aug 2026 18:14:16 GMT</pubDate>
       <author>@almonk</author>
-      <description><![CDATA[<p>when they ask you to speak first at all hands</p><p><img src="https://pbs.twimg.com/profile_images/2028930419819962368/iuF2qygO_normal.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>when they ask you to speak first at all hands</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2089854403524395008/img/Ab-b6Z8MJmkBQGY6.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>After years being speakerless, I bought these edifier M60s for my home setup. Holy shit they sound so</title>
@@ -1597,14 +1605,6 @@
       <pubDate>Mon, 27 Jul 2026 01:27:15 GMT</pubDate>
       <author>@AREdotNA</author>
       <description><![CDATA[<p>Grocery store shopping</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2080739654362439681/img/aW5nJ_CgSUZx1RM_?format=jpg&amp;name=240x240" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>The best medium of a dynamic interface is a website.</title>
-      <link>https://x.com/pacocoursey/status/2081207032263451095</link>
-      <guid isPermaLink="true">https://x.com/pacocoursey/status/2081207032263451095</guid>
-      <pubDate>Sun, 26 Jul 2026 02:36:38 GMT</pubDate>
-      <author>@pacocoursey</author>
-      <description><![CDATA[<p>The best medium of a dynamic interface is a website.</p>]]></description>
     </item>
   </channel>
 </rss>
