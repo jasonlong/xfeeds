@@ -13,6 +13,22 @@
     </image>
     <ttl>120</ttl>
     <item>
+      <title>Media post</title>
+      <link>https://x.com/shadcn/status/2093769107141165229</link>
+      <guid isPermaLink="true">https://x.com/shadcn/status/2093769107141165229</guid>
+      <pubDate>Sat, 29 Aug 2026 18:33:50 GMT</pubDate>
+      <author>@shadcn</author>
+      <description><![CDATA[<p></p>]]></description>
+    </item>
+    <item>
+      <title>Copper is one month old today. I built it to keep the prompts, answers, links and half-formed ideas</title>
+      <link>https://x.com/shadcn/status/2093769104704360553</link>
+      <guid isPermaLink="true">https://x.com/shadcn/status/2093769104704360553</guid>
+      <pubDate>Sat, 29 Aug 2026 18:33:49 GMT</pubDate>
+      <author>@shadcn</author>
+      <description><![CDATA[<p>Copper is one month old today.<br><br>I built it to keep the prompts, answers, links and half-formed ideas that come up when working with AI.<br><br>Thank you to everyone who bought it, sent feedback and made Copper part of how they work.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2093768647101562880/img/eHyNeXwRlLATyHsk.jpg" alt=""></p>]]></description>
+    </item>
+    <item>
       <title>generational aura loss</title>
       <link>https://x.com/shadcn/status/2093057486076920136</link>
       <guid isPermaLink="true">https://x.com/shadcn/status/2093057486076920136</guid>
@@ -114,7 +130,7 @@
       <guid isPermaLink="true">https://x.com/shadcn/status/2089361600402657624</guid>
       <pubDate>Mon, 17 Aug 2026 14:39:58 GMT</pubDate>
       <author>@shadcn</author>
-      <description><![CDATA[<p>Copper now supports freehand drawing.<br><br>Hit Cmd + (Right) Shift + Shift to open the editor from anywhere.<br><br>Draw. Add shapes. Text. Colors.<br><br>Save to Copper. Or Copy Paste straight to your prompt composer.</p>]]></description>
+      <description><![CDATA[<p>Copper now supports freehand drawing.<br><br>Hit Cmd + (Right) Shift + Shift to open the editor from anywhere.<br><br>Draw. Add shapes. Text. Colors.<br><br>Save to Copper. Or Copy Paste straight to your prompt composer.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2089361286987468800/img/-voOR_BgBTDDc5_3.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>First time reading Harry Potter fan fiction. Recommendation from @AliAbdaal</title>
@@ -138,7 +154,7 @@
       <guid isPermaLink="true">https://x.com/shadcn/status/2088939287832080701</guid>
       <pubDate>Sun, 16 Aug 2026 10:41:51 GMT</pubDate>
       <author>@shadcn</author>
-      <description><![CDATA[<p>Been testing a new feature for Copper. Took me a weeks to get the UX right. Launching soon.</p>]]></description>
+      <description><![CDATA[<p>Been testing a new feature for Copper. Took me a weeks to get the UX right. Launching soon.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2082518119344459776/img/MqXnyHAYOzdtpP98.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>The shadcn cli can now read registries config out of package.json. Which means if you&apos;re distributing non-component code,</title>
