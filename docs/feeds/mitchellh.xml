@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+  <channel>
+    <title>Mitchell Hashimoto / @mitchellh</title>
+    <description>Recent X posts collected for @mitchellh</description>
+    <link>https://x.com/mitchellh</link>
+    <atom:link href="https://jasonlong.github.io/xfeeds/feeds/mitchellh.xml" rel="self" type="application/rss+xml"/>
+    <webfeeds:icon>https://pbs.twimg.com/profile_images/2082830624415698944/bRo7PB2S_200x200.jpg</webfeeds:icon>
+    <image>
+      <url>https://pbs.twimg.com/profile_images/2082830624415698944/bRo7PB2S_200x200.jpg</url>
+      <title>Mitchell Hashimoto / @mitchellh</title>
+      <link>https://x.com/mitchellh</link>
+    </image>
+    <ttl>120</ttl>
+    <item>
+      <title>I can&apos;t tell you the number of people over my career that have said &quot;I tried learning tmux&quot;</title>
+      <link>https://x.com/mitchellh/status/2093456226810200230</link>
+      <guid isPermaLink="true">https://x.com/mitchellh/status/2093456226810200230</guid>
+      <pubDate>Fri, 28 Aug 2026 21:50:33 GMT</pubDate>
+      <author>@mitchellh</author>
+      <description><![CDATA[<p>I can&apos;t tell you the number of people over my career that have said &quot;I tried learning tmux&quot; First problem: the fact you have to &quot;learn it&quot; at all. The world&apos;s best multiplexer is the one you don&apos;t have to learn. It just works. That&apos;s what we&apos;re building (and then some ).</p>]]></description>
+    </item>
+    <item>
+      <title>Quick Superlogical demo to end the week. This demo is just of the basic functionality, but I want</title>
+      <link>https://x.com/mitchellh/status/2093451043661316217</link>
+      <guid isPermaLink="true">https://x.com/mitchellh/status/2093451043661316217</guid>
+      <pubDate>Fri, 28 Aug 2026 21:29:57 GMT</pubDate>
+      <author>@mitchellh</author>
+      <description><![CDATA[<p>Quick Superlogical demo to end the week. This demo is just of the basic functionality, but I want to highlight just how FAST it is. There&apos;s a WHOLE lot more functionality already present and coming but I wanted to keep the demo short. But seriously, check out that speed.<br><br>I&apos;m</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2093450067940360192/img/9Ea_DUx0Vkr3lB7k.jpg" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>Respect for anyone who objectively reassesses their priors. Also grateful because it’s genuinely hard to get diverse benchmark</title>
+      <link>https://x.com/mitchellh/status/2093028073503678466</link>
+      <guid isPermaLink="true">https://x.com/mitchellh/status/2093028073503678466</guid>
+      <pubDate>Thu, 27 Aug 2026 17:29:13 GMT</pubDate>
+      <author>@mitchellh</author>
+      <description><![CDATA[<p>Respect for anyone who objectively reassesses their priors. Also grateful because it’s genuinely hard to get diverse benchmark numbers across hardware and this was another good data point on a machine that isn’t typical for the maintainers we have. Ghostty is fast.</p><p><img src="https://pbs.twimg.com/media/HQvl2FEWIAAxPaW?format=jpg&amp;name=large" alt=""></p><p><img src="https://pbs.twimg.com/media/HQvoAPUWkAAcSAE?format=jpg&amp;name=360x360" alt=""></p><p><img src="https://pbs.twimg.com/media/HQvo4akXMAAVvVP?format=png&amp;name=360x360" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>The Ghostty memory usage memes are dead with the upcoming 1.4 release, much to the dismay of internet</title>
+      <link>https://x.com/mitchellh/status/2092326409071198210</link>
+      <guid isPermaLink="true">https://x.com/mitchellh/status/2092326409071198210</guid>
+      <pubDate>Tue, 25 Aug 2026 19:01:04 GMT</pubDate>
+      <author>@mitchellh</author>
+      <description><![CDATA[<p>The Ghostty memory usage memes are dead with the upcoming 1.4 release, much to the dismay of internet trolls everywhere. ~10x less memory for a visible window. ~450x lower for a non-visible window. Very reasonable compared to other terminals with 10 tabs.<br><br>This was the result of</p><p><img src="https://pbs.twimg.com/media/HQluN0VaUAAEuDV?format=jpg&amp;name=small" alt=""></p><p><img src="https://pbs.twimg.com/media/HQlvi0xaIAA4Q9-?format=jpg&amp;name=small" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>OSC parsing in libghostty was our last non-SIMD optimized VT stream path. OSCs are usually small so it</title>
+      <link>https://x.com/mitchellh/status/2092250065582895509</link>
+      <guid isPermaLink="true">https://x.com/mitchellh/status/2092250065582895509</guid>
+      <pubDate>Tue, 25 Aug 2026 13:57:42 GMT</pubDate>
+      <author>@mitchellh</author>
+      <description><![CDATA[<p>OSC parsing in libghostty was our last non-SIMD optimized VT stream path. OSCs are usually small so it just never showed up on benchmarks. But now that we are potentially passing megabytes of data (Kitty clipboard), it got the SIMD treatment.</p><p><img src="https://pbs.twimg.com/media/HQkqMJZbEAA1UyG?format=jpg&amp;name=small" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>@jarredsumner btw, sorry it took so long.</title>
+      <link>https://x.com/mitchellh/status/2092004007707648196</link>
+      <guid isPermaLink="true">https://x.com/mitchellh/status/2092004007707648196</guid>
+      <pubDate>Mon, 24 Aug 2026 21:39:57 GMT</pubDate>
+      <author>@mitchellh</author>
+      <description><![CDATA[<p>@jarredsumner btw, sorry it took so long.</p>]]></description>
+    </item>
+    <item>
+      <title>Ghostty (and libghostty) now fully implement the Kitty clipboard protocol to allow apps to read/write non-textual data (like</title>
+      <link>https://x.com/mitchellh/status/2092001755055972800</link>
+      <guid isPermaLink="true">https://x.com/mitchellh/status/2092001755055972800</guid>
+      <pubDate>Mon, 24 Aug 2026 21:31:00 GMT</pubDate>
+      <author>@mitchellh</author>
+      <description><![CDATA[<p>Ghostty (and libghostty) now fully implement the Kitty clipboard protocol to allow apps to read/write non-textual data (like images!). Ghostty is the first to implement the full protocol outside Kitty. The biggest program to support this is probably Claude Code. Demo below.<br><br>This</p>]]></description>
+    </item>
+    <item>
+      <title>Part of the LLM-assisted work here is that Fable+Sol put together a test suite of over 400 cases</title>
+      <link>https://x.com/mitchellh/status/2090893729469268109</link>
+      <guid isPermaLink="true">https://x.com/mitchellh/status/2090893729469268109</guid>
+      <pubDate>Fri, 21 Aug 2026 20:08:06 GMT</pubDate>
+      <author>@mitchellh</author>
+      <description><![CDATA[<p>Part of the LLM-assisted work here is that Fable+Sol put together a test suite of over 400 cases that are bare shell scripts plus a harness that runs Kitty and Ghostty GUIs and captures their full pty stream AND screenshots (multiple, for animations).  <br><br>For the pty stream we</p>]]></description>
+    </item>
+    <item>
+      <title>Ghostty (and libghostty!) now has a 100% complete implementation of the Kitty Graphics Protocol. We support every feature,</title>
+      <link>https://x.com/mitchellh/status/2090875695346139621</link>
+      <guid isPermaLink="true">https://x.com/mitchellh/status/2090875695346139621</guid>
+      <pubDate>Fri, 21 Aug 2026 18:56:27 GMT</pubDate>
+      <author>@mitchellh</author>
+      <description><![CDATA[<p>Ghostty (and libghostty!) now has a 100% complete implementation of the Kitty Graphics Protocol. We support every feature, every option. We are the first terminal beyond Kitty to do this. <br><br>Most terminals stop at basic image placements, then give up on the long tail of other</p>]]></description>
+    </item>
+    <item>
+      <title>Synced web and desktop clients. Mobile (Apple) coming soon. All still very WIP.</title>
+      <link>https://x.com/mitchellh/status/2089718969125265621</link>
+      <guid isPermaLink="true">https://x.com/mitchellh/status/2089718969125265621</guid>
+      <pubDate>Tue, 18 Aug 2026 14:20:01 GMT</pubDate>
+      <author>@mitchellh</author>
+      <description><![CDATA[<p>Synced web and desktop clients. Mobile (Apple) coming soon. All still very WIP.</p><p><img src="https://pbs.twimg.com/media/HQANFs-W8AAseGR?format=jpg&amp;name=small" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>Good moment today to remind everyone to stay frosty with AI. I was working on making a server</title>
+      <link>https://x.com/mitchellh/status/2089446702285758559</link>
+      <guid isPermaLink="true">https://x.com/mitchellh/status/2089446702285758559</guid>
+      <pubDate>Mon, 17 Aug 2026 20:18:08 GMT</pubDate>
+      <author>@mitchellh</author>
+      <description><![CDATA[<p>Good moment today to remind everyone to stay frosty with AI. I was working on making a server stoppable via the CLI, and Codex decided the best path forward was to implement an unauthenticated network API to every server to shut itself down. Excellent work.<br><br>I responded with &quot;I</p>]]></description>
+    </item>
+    <item>
+      <title>I&apos;ve moved on to optimizing libghostty Wasm runtime memory usage and I am learning a lot! The first</title>
+      <link>https://x.com/mitchellh/status/2089351136839090387</link>
+      <guid isPermaLink="true">https://x.com/mitchellh/status/2089351136839090387</guid>
+      <pubDate>Mon, 17 Aug 2026 13:58:23 GMT</pubDate>
+      <author>@mitchellh</author>
+      <description><![CDATA[<p>I&apos;ve moved on to optimizing libghostty Wasm runtime memory usage and I am learning a lot! The first discovery: Zig&apos;s `std.heap.MemoryPool` is very bad for Wasm! We replaced it with a custom Wasm-specific pool that lowered libghostty&apos;s required terminal memory by 75% without any</p>]]></description>
+    </item>
+    <item>
+      <title>Something I routinely am in awe about is the compute amplification every commit has today vs. 20 years</title>
+      <link>https://x.com/mitchellh/status/2089103408330576056</link>
+      <guid isPermaLink="true">https://x.com/mitchellh/status/2089103408330576056</guid>
+      <pubDate>Sun, 16 Aug 2026 21:34:00 GMT</pubDate>
+      <author>@mitchellh</author>
+      <description><![CDATA[<p>Something I routinely am in awe about is the compute amplification every commit has today vs. 20 years ago, at least personally. <br><br>Back then, my personal computer was only non-idle when I was working locally. I ran tests locally. When I pushed, there was no CI. The tests</p>]]></description>
+    </item>
+    <item>
+      <title>A couple more notes on this: First, the xterm.js benchmarks were very noisy. A lot of the results</title>
+      <link>https://x.com/mitchellh/status/2088383346439336232</link>
+      <guid isPermaLink="true">https://x.com/mitchellh/status/2088383346439336232</guid>
+      <pubDate>Fri, 14 Aug 2026 21:52:44 GMT</pubDate>
+      <author>@mitchellh</author>
+      <description><![CDATA[<p>A couple more notes on this:<br><br>First, the xterm.js benchmarks were very noisy. A lot of the results relied on whether they got lucky with the V8 JIT/inliner. e.g. the frame times for ASCII ranged from 20us to 100us (!!!). For the purpose of optimism, I only used the fastest times</p><p><img src="https://pbs.twimg.com/media/HPtnSFwboAAHICD?format=jpg&amp;name=360x360" alt=""></p><p><img src="https://pbs.twimg.com/media/HPtnTA7bYAE6600?format=jpg&amp;name=360x360" alt=""></p><p><img src="https://pbs.twimg.com/media/HPtnT8qbUAAjc6M?format=jpg&amp;name=360x360" alt=""></p><p><img src="https://pbs.twimg.com/media/HPtnUh_bYAAj8kz?format=jpg&amp;name=360x360" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>libghostty for WebAssembly got a lot of love recently and is now very, very, very good. I spent</title>
+      <link>https://x.com/mitchellh/status/2088378990998524206</link>
+      <guid isPermaLink="true">https://x.com/mitchellh/status/2088378990998524206</guid>
+      <pubDate>Fri, 14 Aug 2026 21:35:26 GMT</pubDate>
+      <author>@mitchellh</author>
+      <description><![CDATA[<p>libghostty for WebAssembly got a lot of love recently and is now very, very, very good. I spent the day building harnesses and comparing to xterm.js and here are the results: faster at IO, faster at reflow, faster at rendering. Like, a lot a lot faster. <br><br>We now provide pre-built</p><p><img src="https://pbs.twimg.com/media/HPtnSFwboAAHICD?format=jpg&amp;name=small" alt=""></p><p><img src="https://pbs.twimg.com/media/HPtnTA7bYAE6600?format=jpg&amp;name=small" alt=""></p><p><img src="https://pbs.twimg.com/media/HPtnT8qbUAAjc6M?format=jpg&amp;name=small" alt=""></p><p><img src="https://pbs.twimg.com/media/HPtnUh_bYAAj8kz?format=jpg&amp;name=small" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>Look how good these themes are. They permeate through the app plus into the terminal. We built out</title>
+      <link>https://x.com/mitchellh/status/2088346714545750422</link>
+      <guid isPermaLink="true">https://x.com/mitchellh/status/2088346714545750422</guid>
+      <pubDate>Fri, 14 Aug 2026 19:27:11 GMT</pubDate>
+      <author>@mitchellh</author>
+      <description><![CDATA[<p>Look how good these themes are. They permeate through the app plus into the terminal. <br><br>We built out a set of 41 fully original human designer curated themes. We also built a full in browser theme editor. <br><br>The plan is to open source with a permissive license and package them all</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2088310823013752832/img/SGoa2NJ_JQGT6Qm4.jpg" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>I&apos;m so incredibly tired of seeing low-effort AI-designed web pages. I basically bounce off any new product immediately</title>
+      <link>https://x.com/mitchellh/status/2087939678695805147</link>
+      <guid isPermaLink="true">https://x.com/mitchellh/status/2087939678695805147</guid>
+      <pubDate>Thu, 13 Aug 2026 16:29:46 GMT</pubDate>
+      <author>@mitchellh</author>
+      <description><![CDATA[<p>I&apos;m so incredibly tired of seeing low-effort AI-designed web pages. I basically bounce off any new product immediately when I see it (never get a chance to judge the product itself). Lots of thin lines, glowy styles, inconsistent fonts, lots of monospace. You know who you are.</p>]]></description>
+    </item>
+    <item>
+      <title>A form of Conway&apos;s law: high quality internal tools lead to high quality external tools. Here&apos;s Hector showing</title>
+      <link>https://x.com/mitchellh/status/2087581234499321900</link>
+      <guid isPermaLink="true">https://x.com/mitchellh/status/2087581234499321900</guid>
+      <pubDate>Wed, 12 Aug 2026 16:45:26 GMT</pubDate>
+      <author>@mitchellh</author>
+      <description><![CDATA[<p>A form of Conway&apos;s law: high quality internal tools lead to high quality external tools. Here&apos;s Hector showing our internal dev tool we use to build our deck icon sets, including publishing the icons.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2087542104700452865/img/Tr_DJVJPA83D3bPy.jpg" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>We&apos;re looking to hire Windows developers capable of producing UI at this quality (but, idiomatic to the Windows</title>
+      <link>https://x.com/mitchellh/status/2087571133206007948</link>
+      <guid isPermaLink="true">https://x.com/mitchellh/status/2087571133206007948</guid>
+      <pubDate>Wed, 12 Aug 2026 16:05:18 GMT</pubDate>
+      <author>@mitchellh</author>
+      <description><![CDATA[<p>We&apos;re looking to hire Windows developers capable of producing UI at this quality (but, idiomatic to the Windows ecosystem, not cloning Apple). If you are one or know someone, please have them apply via `ssh http://superlogical.jobs`. We&apos;ve been struggling to find this person.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2087536066685526016/img/X8Yx0yHS8cubQNva.jpg" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>Sharing some more UI previews for Superlogical, this time the &quot;tab peek.&quot; If you three-finger swipe down, you</title>
+      <link>https://x.com/mitchellh/status/2087537750182666290</link>
+      <guid isPermaLink="true">https://x.com/mitchellh/status/2087537750182666290</guid>
+      <pubDate>Wed, 12 Aug 2026 13:52:38 GMT</pubDate>
+      <author>@mitchellh</author>
+      <description><![CDATA[<p>Sharing some more UI previews for Superlogical, this time the &quot;tab peek.&quot; If you three-finger swipe down, you can &quot;peek&quot; at the other session tabs. These are live-updating, metal-rendered previews including splits. If you keep dragging, you enter a &quot;mission control&quot; style mode.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2087536066685526016/img/X8Yx0yHS8cubQNva.jpg" alt=""></p>]]></description>
+    </item>
+  </channel>
+</rss>

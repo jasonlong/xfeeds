@@ -7,6 +7,14 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>In the next version of tldraw, your screen&apos;s refresh rate no longer affects the friction of camera panning</title>
+      <link>https://x.com/tldraw/status/2093669763348373558</link>
+      <guid isPermaLink="true">https://x.com/tldraw/status/2093669763348373558</guid>
+      <pubDate>Sat, 29 Aug 2026 11:59:04 GMT</pubDate>
+      <author>@tldraw</author>
+      <description><![CDATA[<p>In the next version of tldraw, your screen&apos;s refresh rate no longer affects the friction of camera panning movements.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2093669746466340864/img/KPavfMJlsOdmPb0i.jpg" alt=""></p>]]></description>
+    </item>
+    <item>
       <title>Pi 0.84.4 is out 3 updates we’re excited for you to try: - Compaction now runs between large</title>
       <link>https://x.com/pidotdev/status/2093662448293482855</link>
       <guid isPermaLink="true">https://x.com/pidotdev/status/2093662448293482855</guid>
@@ -29,6 +37,22 @@
       <pubDate>Fri, 28 Aug 2026 22:19:30 GMT</pubDate>
       <author>@pidotdev</author>
       <description><![CDATA[<p>Small pi update for y&apos;all!</p>]]></description>
+    </item>
+    <item>
+      <title>I can&apos;t tell you the number of people over my career that have said &quot;I tried learning tmux&quot;</title>
+      <link>https://x.com/mitchellh/status/2093456226810200230</link>
+      <guid isPermaLink="true">https://x.com/mitchellh/status/2093456226810200230</guid>
+      <pubDate>Fri, 28 Aug 2026 21:50:33 GMT</pubDate>
+      <author>@mitchellh</author>
+      <description><![CDATA[<p>I can&apos;t tell you the number of people over my career that have said &quot;I tried learning tmux&quot; First problem: the fact you have to &quot;learn it&quot; at all. The world&apos;s best multiplexer is the one you don&apos;t have to learn. It just works. That&apos;s what we&apos;re building (and then some ).</p>]]></description>
+    </item>
+    <item>
+      <title>Quick Superlogical demo to end the week. This demo is just of the basic functionality, but I want</title>
+      <link>https://x.com/mitchellh/status/2093451043661316217</link>
+      <guid isPermaLink="true">https://x.com/mitchellh/status/2093451043661316217</guid>
+      <pubDate>Fri, 28 Aug 2026 21:29:57 GMT</pubDate>
+      <author>@mitchellh</author>
+      <description><![CDATA[<p>Quick Superlogical demo to end the week. This demo is just of the basic functionality, but I want to highlight just how FAST it is. There&apos;s a WHOLE lot more functionality already present and coming but I wanted to keep the demo short. But seriously, check out that speed.<br><br>I&apos;m</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2093450067940360192/img/9Ea_DUx0Vkr3lB7k.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Love concert photos on @zerocam_app , these are great</title>
@@ -68,7 +92,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2093345403542331513</guid>
       <pubDate>Fri, 28 Aug 2026 14:30:11 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>tldraw offline!</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2093329612545683456/img/lsFGDRKniUKDEZ9U.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>tldraw offline!</p>]]></description>
     </item>
     <item>
       <title>Dia Canary is coming</title>
@@ -135,12 +159,20 @@
       <description><![CDATA[<p>generational aura loss</p><p><img src="https://pbs.twimg.com/media/HQwIiQNWcAAMxoF?format=jpg&amp;name=small" alt=""></p>]]></description>
     </item>
     <item>
+      <title>Respect for anyone who objectively reassesses their priors. Also grateful because it’s genuinely hard to get diverse benchmark</title>
+      <link>https://x.com/mitchellh/status/2093028073503678466</link>
+      <guid isPermaLink="true">https://x.com/mitchellh/status/2093028073503678466</guid>
+      <pubDate>Thu, 27 Aug 2026 17:29:13 GMT</pubDate>
+      <author>@mitchellh</author>
+      <description><![CDATA[<p>Respect for anyone who objectively reassesses their priors. Also grateful because it’s genuinely hard to get diverse benchmark numbers across hardware and this was another good data point on a machine that isn’t typical for the maintainers we have. Ghostty is fast.</p><p><img src="https://pbs.twimg.com/media/HQvl2FEWIAAxPaW?format=jpg&amp;name=large" alt=""></p><p><img src="https://pbs.twimg.com/media/HQvoAPUWkAAcSAE?format=jpg&amp;name=360x360" alt=""></p><p><img src="https://pbs.twimg.com/media/HQvo4akXMAAVvVP?format=png&amp;name=360x360" alt=""></p>]]></description>
+    </item>
+    <item>
       <title>In the next version of tldraw, changing the crop aspect ratio of a rotated image no longer causes</title>
       <link>https://x.com/tldraw/status/2093026717908848810</link>
       <guid isPermaLink="true">https://x.com/tldraw/status/2093026717908848810</guid>
       <pubDate>Thu, 27 Aug 2026 17:23:50 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>In the next version of tldraw, changing the crop aspect ratio of a rotated image no longer causes its center to change.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2093026691518251008/img/jgdWB2-ljSAJ9x3m.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>In the next version of tldraw, changing the crop aspect ratio of a rotated image no longer causes its center to change.</p>]]></description>
     </item>
     <item>
       <title>Media post</title>
@@ -212,7 +244,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2092707615088255074</guid>
       <pubDate>Wed, 26 Aug 2026 20:15:50 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>the most interesting people in the world are using tldraw</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2091335109718712320/img/s0o8FiLJMAPGCbSZ.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>the most interesting people in the world are using tldraw</p>]]></description>
     </item>
     <item>
       <title>History of the #AppleEvent hashmoji</title>
@@ -252,7 +284,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2092656027959279938</guid>
       <pubDate>Wed, 26 Aug 2026 16:50:51 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>Agents can drive the canvas. We played around with controlling what they can &quot;see&quot; and set them loose, working their way through mazes.</p>]]></description>
+      <description><![CDATA[<p>Agents can drive the canvas. We played around with controlling what they can &quot;see&quot; and set them loose, working their way through mazes.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2092653047688085504/img/DhQcuULvwWWk8uZk.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Space isn&apos;t something you can type your way through. A canvas lets an agent move through it instead.</title>
@@ -351,6 +383,14 @@
       <description><![CDATA[<p>Is there a way to persist this value in @googlechrome?</p><p><img src="https://pbs.twimg.com/media/HQl2CICXAAAdV71?format=png&amp;name=small" alt=""></p>]]></description>
     </item>
     <item>
+      <title>The Ghostty memory usage memes are dead with the upcoming 1.4 release, much to the dismay of internet</title>
+      <link>https://x.com/mitchellh/status/2092326409071198210</link>
+      <guid isPermaLink="true">https://x.com/mitchellh/status/2092326409071198210</guid>
+      <pubDate>Tue, 25 Aug 2026 19:01:04 GMT</pubDate>
+      <author>@mitchellh</author>
+      <description><![CDATA[<p>The Ghostty memory usage memes are dead with the upcoming 1.4 release, much to the dismay of internet trolls everywhere. ~10x less memory for a visible window. ~450x lower for a non-visible window. Very reasonable compared to other terminals with 10 tabs.<br><br>This was the result of</p><p><img src="https://pbs.twimg.com/media/HQluN0VaUAAEuDV?format=jpg&amp;name=small" alt=""></p><p><img src="https://pbs.twimg.com/media/HQlvi0xaIAA4Q9-?format=jpg&amp;name=small" alt=""></p>]]></description>
+    </item>
+    <item>
       <title>The handcrafted magic behind Apple&apos;s new Mac mini introduction</title>
       <link>https://x.com/avstorm/status/2092324054547997064</link>
       <guid isPermaLink="true">https://x.com/avstorm/status/2092324054547997064</guid>
@@ -364,7 +404,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2092285720320704859</guid>
       <pubDate>Tue, 25 Aug 2026 16:19:23 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>casual day at the office</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2092283742781886465/img/EZ5QRRfUzoUvU89u.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>casual day at the office</p>]]></description>
     </item>
     <item>
       <title>Try it now and jam with your friends with tldraw offline multiplayer: …https://pub-6ce42c104372415d97d2ee86b717059f.r2.dev/sketch%20(1).tldraw?utm_source=x&amp;utm_medium=organic_social&amp;utm_campaign=…</title>
@@ -380,7 +420,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2092285614146142281</guid>
       <pubDate>Tue, 25 Aug 2026 16:18:57 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>Here&apos;s a creative coding tool we made in tldraw offline. With this sketching tool, you can generate new nodes and modules with agents. You could also have agents generate sketches for you - and then work with your friends at the same time.</p>]]></description>
+      <description><![CDATA[<p>Here&apos;s a creative coding tool we made in tldraw offline. With this sketching tool, you can generate new nodes and modules with agents. You could also have agents generate sketches for you - and then work with your friends at the same time.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2092285365939847169/img/R7WS6Vm14FUylgOc.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Wow I completely misread this in the Mac Studio preview x.com/aaronp613/stat…</title>
@@ -405,6 +445,14 @@
       <pubDate>Tue, 25 Aug 2026 14:19:23 GMT</pubDate>
       <author>@zerocam_app</author>
       <description><![CDATA[<p>Soooooooo cute!</p><p><img src="https://pbs.twimg.com/media/HQkTi3RWcAAUZns?format=jpg&amp;name=360x360" alt=""></p><p><img src="https://pbs.twimg.com/media/HQkTi2zXUAA-Qyw?format=jpg&amp;name=360x360" alt=""></p><p><img src="https://pbs.twimg.com/media/HQkTi3HXMAIMJVp?format=jpg&amp;name=360x360" alt=""></p><p><img src="https://pbs.twimg.com/media/HQkTi3JXsAE7fMq?format=jpg&amp;name=360x360" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>OSC parsing in libghostty was our last non-SIMD optimized VT stream path. OSCs are usually small so it</title>
+      <link>https://x.com/mitchellh/status/2092250065582895509</link>
+      <guid isPermaLink="true">https://x.com/mitchellh/status/2092250065582895509</guid>
+      <pubDate>Tue, 25 Aug 2026 13:57:42 GMT</pubDate>
+      <author>@mitchellh</author>
+      <description><![CDATA[<p>OSC parsing in libghostty was our last non-SIMD optimized VT stream path. OSCs are usually small so it just never showed up on benchmarks. But now that we are potentially passing megabytes of data (Kitty clipboard), it got the SIMD treatment.</p><p><img src="https://pbs.twimg.com/media/HQkqMJZbEAA1UyG?format=jpg&amp;name=small" alt=""></p>]]></description>
     </item>
     <item>
       <title>Apple’s design team clearly had a blast with the new Mac Studio page. https://apple.com/mac-studio</title>
@@ -469,6 +517,22 @@
       <pubDate>Mon, 24 Aug 2026 21:51:34 GMT</pubDate>
       <author>@tldraw</author>
       <description><![CDATA[<p>I scream. You scream. We all scream for tldraw</p>]]></description>
+    </item>
+    <item>
+      <title>@jarredsumner btw, sorry it took so long.</title>
+      <link>https://x.com/mitchellh/status/2092004007707648196</link>
+      <guid isPermaLink="true">https://x.com/mitchellh/status/2092004007707648196</guid>
+      <pubDate>Mon, 24 Aug 2026 21:39:57 GMT</pubDate>
+      <author>@mitchellh</author>
+      <description><![CDATA[<p>@jarredsumner btw, sorry it took so long.</p>]]></description>
+    </item>
+    <item>
+      <title>Ghostty (and libghostty) now fully implement the Kitty clipboard protocol to allow apps to read/write non-textual data (like</title>
+      <link>https://x.com/mitchellh/status/2092001755055972800</link>
+      <guid isPermaLink="true">https://x.com/mitchellh/status/2092001755055972800</guid>
+      <pubDate>Mon, 24 Aug 2026 21:31:00 GMT</pubDate>
+      <author>@mitchellh</author>
+      <description><![CDATA[<p>Ghostty (and libghostty) now fully implement the Kitty clipboard protocol to allow apps to read/write non-textual data (like images!). Ghostty is the first to implement the full protocol outside Kitty. The biggest program to support this is probably Claude Code. Demo below.<br><br>This</p>]]></description>
     </item>
     <item>
       <title>Tiny detail: All slider icons now match Apple’s new Liquid Glass slider thumb in upcoming OS versions.</title>
@@ -580,7 +644,7 @@
       <guid isPermaLink="true">https://x.com/pidotdev/status/2091488119728255245</guid>
       <pubDate>Sun, 23 Aug 2026 11:30:00 GMT</pubDate>
       <author>@pidotdev</author>
-      <description><![CDATA[<p>Good morning from Vienna People of Pi<br><br>The usual Sunday meditations from @badlogicgames and @mitsuhiko <br><br>- Understand the consequences of your code design<br>- Avoid being purely performative<br>- Aim to create value</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2091445595219058689/img/kS-cMFyByue-HRRb.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Good morning from Vienna People of Pi<br><br>The usual Sunday meditations from @badlogicgames and @mitsuhiko <br><br>- Understand the consequences of your code design<br>- Avoid being purely performative<br>- Aim to create value</p>]]></description>
     </item>
     <item>
       <title>Thank you to our friends from @CultRepo for the great conversations</title>
@@ -669,6 +733,22 @@
       <pubDate>Sat, 22 Aug 2026 11:30:00 GMT</pubDate>
       <author>@pidotdev</author>
       <description><![CDATA[<p>ICYMI, pi-transcribe is our official package for local speech-to-text dictation in Pi <br><br>Once you install it:<br>- type /transcribe <br>- select a local model and language <br>- run CTRL + ALT + Z to start or stop dictation<br><br>Are you a typer or a talker?</p><p><img src="https://pbs.twimg.com/media/HQUGM8qWMAASC-P?format=jpg&amp;name=small" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>Part of the LLM-assisted work here is that Fable+Sol put together a test suite of over 400 cases</title>
+      <link>https://x.com/mitchellh/status/2090893729469268109</link>
+      <guid isPermaLink="true">https://x.com/mitchellh/status/2090893729469268109</guid>
+      <pubDate>Fri, 21 Aug 2026 20:08:06 GMT</pubDate>
+      <author>@mitchellh</author>
+      <description><![CDATA[<p>Part of the LLM-assisted work here is that Fable+Sol put together a test suite of over 400 cases that are bare shell scripts plus a harness that runs Kitty and Ghostty GUIs and captures their full pty stream AND screenshots (multiple, for animations).  <br><br>For the pty stream we</p>]]></description>
+    </item>
+    <item>
+      <title>Ghostty (and libghostty!) now has a 100% complete implementation of the Kitty Graphics Protocol. We support every feature,</title>
+      <link>https://x.com/mitchellh/status/2090875695346139621</link>
+      <guid isPermaLink="true">https://x.com/mitchellh/status/2090875695346139621</guid>
+      <pubDate>Fri, 21 Aug 2026 18:56:27 GMT</pubDate>
+      <author>@mitchellh</author>
+      <description><![CDATA[<p>Ghostty (and libghostty!) now has a 100% complete implementation of the Kitty Graphics Protocol. We support every feature, every option. We are the first terminal beyond Kitty to do this. <br><br>Most terminals stop at basic image placements, then give up on the long tail of other</p>]]></description>
     </item>
     <item>
       <title>Bootstrap</title>
@@ -1031,6 +1111,14 @@
       <description><![CDATA[<p>You can already update on TestFlight! We&apos;re sending email link to those who contacted us on https://zerotake.app</p>]]></description>
     </item>
     <item>
+      <title>Synced web and desktop clients. Mobile (Apple) coming soon. All still very WIP.</title>
+      <link>https://x.com/mitchellh/status/2089718969125265621</link>
+      <guid isPermaLink="true">https://x.com/mitchellh/status/2089718969125265621</guid>
+      <pubDate>Tue, 18 Aug 2026 14:20:01 GMT</pubDate>
+      <author>@mitchellh</author>
+      <description><![CDATA[<p>Synced web and desktop clients. Mobile (Apple) coming soon. All still very WIP.</p><p><img src="https://pbs.twimg.com/media/HQANFs-W8AAseGR?format=jpg&amp;name=small" alt=""></p>]]></description>
+    </item>
+    <item>
       <title>couldn&apos;t get imax tickets</title>
       <link>https://x.com/tldraw/status/2089715798000509244</link>
       <guid isPermaLink="true">https://x.com/tldraw/status/2089715798000509244</guid>
@@ -1069,6 +1157,14 @@
       <pubDate>Tue, 18 Aug 2026 10:58:44 GMT</pubDate>
       <author>@almonk</author>
       <description><![CDATA[<p>_cries in copilot_</p>]]></description>
+    </item>
+    <item>
+      <title>Good moment today to remind everyone to stay frosty with AI. I was working on making a server</title>
+      <link>https://x.com/mitchellh/status/2089446702285758559</link>
+      <guid isPermaLink="true">https://x.com/mitchellh/status/2089446702285758559</guid>
+      <pubDate>Mon, 17 Aug 2026 20:18:08 GMT</pubDate>
+      <author>@mitchellh</author>
+      <description><![CDATA[<p>Good moment today to remind everyone to stay frosty with AI. I was working on making a server stoppable via the CLI, and Codex decided the best path forward was to implement an unauthenticated network API to every server to shut itself down. Excellent work.<br><br>I responded with &quot;I</p>]]></description>
     </item>
     <item>
       <title>Designers will look at this and just think hell yeah</title>
@@ -1135,6 +1231,14 @@
       <description><![CDATA[<p>Copper now supports freehand drawing.<br><br>Hit Cmd + (Right) Shift + Shift to open the editor from anywhere.<br><br>Draw. Add shapes. Text. Colors.<br><br>Save to Copper. Or Copy Paste straight to your prompt composer.</p>]]></description>
     </item>
     <item>
+      <title>I&apos;ve moved on to optimizing libghostty Wasm runtime memory usage and I am learning a lot! The first</title>
+      <link>https://x.com/mitchellh/status/2089351136839090387</link>
+      <guid isPermaLink="true">https://x.com/mitchellh/status/2089351136839090387</guid>
+      <pubDate>Mon, 17 Aug 2026 13:58:23 GMT</pubDate>
+      <author>@mitchellh</author>
+      <description><![CDATA[<p>I&apos;ve moved on to optimizing libghostty Wasm runtime memory usage and I am learning a lot! The first discovery: Zig&apos;s `std.heap.MemoryPool` is very bad for Wasm! We replaced it with a custom Wasm-specific pool that lowered libghostty&apos;s required terminal memory by 75% without any</p>]]></description>
+    </item>
+    <item>
       <title>New beta in review. Tape mode and much more</title>
       <link>https://x.com/zerocam_app/status/2089337644022919270</link>
       <guid isPermaLink="true">https://x.com/zerocam_app/status/2089337644022919270</guid>
@@ -1149,6 +1253,14 @@
       <pubDate>Mon, 17 Aug 2026 11:30:00 GMT</pubDate>
       <author>@pidotdev</author>
       <description><![CDATA[<p>One way you can you extend Pi is by building extensions for event interception. <br><br>An example of this is adding guardrail permission gates that block or modify dangerous tool calls. <br><br>Here’s the code you can use to ensure your agent confirms with you before running ‘rm -rf’</p><p><img src="https://pbs.twimg.com/media/HP6lIG1XUAAQYC2?format=jpg&amp;name=small" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>Something I routinely am in awe about is the compute amplification every commit has today vs. 20 years</title>
+      <link>https://x.com/mitchellh/status/2089103408330576056</link>
+      <guid isPermaLink="true">https://x.com/mitchellh/status/2089103408330576056</guid>
+      <pubDate>Sun, 16 Aug 2026 21:34:00 GMT</pubDate>
+      <author>@mitchellh</author>
+      <description><![CDATA[<p>Something I routinely am in awe about is the compute amplification every commit has today vs. 20 years ago, at least personally. <br><br>Back then, my personal computer was only non-idle when I was working locally. I ran tests locally. When I pushed, there was no CI. The tests</p>]]></description>
     </item>
     <item>
       <title>First time reading Harry Potter fan fiction. Recommendation from @AliAbdaal</title>
@@ -1183,12 +1295,36 @@
       <description><![CDATA[<p>Been testing a new feature for Copper. Took me a weeks to get the UX right. Launching soon.</p>]]></description>
     </item>
     <item>
+      <title>A couple more notes on this: First, the xterm.js benchmarks were very noisy. A lot of the results</title>
+      <link>https://x.com/mitchellh/status/2088383346439336232</link>
+      <guid isPermaLink="true">https://x.com/mitchellh/status/2088383346439336232</guid>
+      <pubDate>Fri, 14 Aug 2026 21:52:44 GMT</pubDate>
+      <author>@mitchellh</author>
+      <description><![CDATA[<p>A couple more notes on this:<br><br>First, the xterm.js benchmarks were very noisy. A lot of the results relied on whether they got lucky with the V8 JIT/inliner. e.g. the frame times for ASCII ranged from 20us to 100us (!!!). For the purpose of optimism, I only used the fastest times</p><p><img src="https://pbs.twimg.com/media/HPtnSFwboAAHICD?format=jpg&amp;name=360x360" alt=""></p><p><img src="https://pbs.twimg.com/media/HPtnTA7bYAE6600?format=jpg&amp;name=360x360" alt=""></p><p><img src="https://pbs.twimg.com/media/HPtnT8qbUAAjc6M?format=jpg&amp;name=360x360" alt=""></p><p><img src="https://pbs.twimg.com/media/HPtnUh_bYAAj8kz?format=jpg&amp;name=360x360" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>libghostty for WebAssembly got a lot of love recently and is now very, very, very good. I spent</title>
+      <link>https://x.com/mitchellh/status/2088378990998524206</link>
+      <guid isPermaLink="true">https://x.com/mitchellh/status/2088378990998524206</guid>
+      <pubDate>Fri, 14 Aug 2026 21:35:26 GMT</pubDate>
+      <author>@mitchellh</author>
+      <description><![CDATA[<p>libghostty for WebAssembly got a lot of love recently and is now very, very, very good. I spent the day building harnesses and comparing to xterm.js and here are the results: faster at IO, faster at reflow, faster at rendering. Like, a lot a lot faster. <br><br>We now provide pre-built</p><p><img src="https://pbs.twimg.com/media/HPtnSFwboAAHICD?format=jpg&amp;name=small" alt=""></p><p><img src="https://pbs.twimg.com/media/HPtnTA7bYAE6600?format=jpg&amp;name=small" alt=""></p><p><img src="https://pbs.twimg.com/media/HPtnT8qbUAAjc6M?format=jpg&amp;name=small" alt=""></p><p><img src="https://pbs.twimg.com/media/HPtnUh_bYAAj8kz?format=jpg&amp;name=small" alt=""></p>]]></description>
+    </item>
+    <item>
       <title>same (except i am immortal)</title>
       <link>https://x.com/AREdotNA/status/2088375952090779904</link>
       <guid isPermaLink="true">https://x.com/AREdotNA/status/2088375952090779904</guid>
       <pubDate>Fri, 14 Aug 2026 21:23:21 GMT</pubDate>
       <author>@AREdotNA</author>
       <description><![CDATA[<p>same (except i am immortal)</p>]]></description>
+    </item>
+    <item>
+      <title>Look how good these themes are. They permeate through the app plus into the terminal. We built out</title>
+      <link>https://x.com/mitchellh/status/2088346714545750422</link>
+      <guid isPermaLink="true">https://x.com/mitchellh/status/2088346714545750422</guid>
+      <pubDate>Fri, 14 Aug 2026 19:27:11 GMT</pubDate>
+      <author>@mitchellh</author>
+      <description><![CDATA[<p>Look how good these themes are. They permeate through the app plus into the terminal. <br><br>We built out a set of 41 fully original human designer curated themes. We also built a full in browser theme editor. <br><br>The plan is to open source with a permissive license and package them all</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2088310823013752832/img/SGoa2NJ_JQGT6Qm4.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>matic is the first robot i’ve owned that actually feels like it gets smarter with every update</title>
@@ -1255,6 +1391,14 @@
       <description><![CDATA[<p>New on /editorial<br><br>@saramagenheimer interviews Emily Labarge about her book Dog Days, trauma as a rupturing experience, and references as fellow travelers<br><br>“That’s the critical act: paying attention to something until it offers you infinity”</p><p><img src="https://pbs.twimg.com/media/HPndK2PXsAAQ7P2?format=jpg&amp;name=small" alt=""></p>]]></description>
     </item>
     <item>
+      <title>I&apos;m so incredibly tired of seeing low-effort AI-designed web pages. I basically bounce off any new product immediately</title>
+      <link>https://x.com/mitchellh/status/2087939678695805147</link>
+      <guid isPermaLink="true">https://x.com/mitchellh/status/2087939678695805147</guid>
+      <pubDate>Thu, 13 Aug 2026 16:29:46 GMT</pubDate>
+      <author>@mitchellh</author>
+      <description><![CDATA[<p>I&apos;m so incredibly tired of seeing low-effort AI-designed web pages. I basically bounce off any new product immediately when I see it (never get a chance to judge the product itself). Lots of thin lines, glowy styles, inconsistent fonts, lots of monospace. You know who you are.</p>]]></description>
+    </item>
+    <item>
       <title>Instagram got a new wordmark</title>
       <link>https://x.com/avstorm/status/2087922965920858263</link>
       <guid isPermaLink="true">https://x.com/avstorm/status/2087922965920858263</guid>
@@ -1277,6 +1421,30 @@
       <pubDate>Thu, 13 Aug 2026 13:52:00 GMT</pubDate>
       <author>@ReadwiseReader</author>
       <description><![CDATA[<p>New in Reader: Mobile Chat<br><br>Effortlessly ask questions while reading and receive a fast, accurate answer that links directly to the cited text.<br><br>Chat is aware of your position at all times -- it&apos;s like having an assistant reading over your shoulder.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2087899179465216000/img/3vJYP_r322GHCWQp.jpg" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>A form of Conway&apos;s law: high quality internal tools lead to high quality external tools. Here&apos;s Hector showing</title>
+      <link>https://x.com/mitchellh/status/2087581234499321900</link>
+      <guid isPermaLink="true">https://x.com/mitchellh/status/2087581234499321900</guid>
+      <pubDate>Wed, 12 Aug 2026 16:45:26 GMT</pubDate>
+      <author>@mitchellh</author>
+      <description><![CDATA[<p>A form of Conway&apos;s law: high quality internal tools lead to high quality external tools. Here&apos;s Hector showing our internal dev tool we use to build our deck icon sets, including publishing the icons.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2087542104700452865/img/Tr_DJVJPA83D3bPy.jpg" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>We&apos;re looking to hire Windows developers capable of producing UI at this quality (but, idiomatic to the Windows</title>
+      <link>https://x.com/mitchellh/status/2087571133206007948</link>
+      <guid isPermaLink="true">https://x.com/mitchellh/status/2087571133206007948</guid>
+      <pubDate>Wed, 12 Aug 2026 16:05:18 GMT</pubDate>
+      <author>@mitchellh</author>
+      <description><![CDATA[<p>We&apos;re looking to hire Windows developers capable of producing UI at this quality (but, idiomatic to the Windows ecosystem, not cloning Apple). If you are one or know someone, please have them apply via `ssh http://superlogical.jobs`. We&apos;ve been struggling to find this person.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2087536066685526016/img/X8Yx0yHS8cubQNva.jpg" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>Sharing some more UI previews for Superlogical, this time the &quot;tab peek.&quot; If you three-finger swipe down, you</title>
+      <link>https://x.com/mitchellh/status/2087537750182666290</link>
+      <guid isPermaLink="true">https://x.com/mitchellh/status/2087537750182666290</guid>
+      <pubDate>Wed, 12 Aug 2026 13:52:38 GMT</pubDate>
+      <author>@mitchellh</author>
+      <description><![CDATA[<p>Sharing some more UI previews for Superlogical, this time the &quot;tab peek.&quot; If you three-finger swipe down, you can &quot;peek&quot; at the other session tabs. These are live-updating, metal-rendered previews including splits. If you keep dragging, you enter a &quot;mission control&quot; style mode.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2087536066685526016/img/X8Yx0yHS8cubQNva.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>We’re open sourcing @​shadcn/helpers, a new package for small, focused utils to help you build and test components</title>
@@ -1437,174 +1605,6 @@
       <pubDate>Wed, 22 Jul 2026 22:17:48 GMT</pubDate>
       <author>@ReadwiseReader</author>
       <description><![CDATA[<p>The original Readwise highlights app just got a complete overhaul</p>]]></description>
-    </item>
-    <item>
-      <title>One pattern I find useful for working with LLMs is a nice long ramble session. Sometimes the LLM</title>
-      <link>https://x.com/karpathy/status/2079610838143623371</link>
-      <guid isPermaLink="true">https://x.com/karpathy/status/2079610838143623371</guid>
-      <pubDate>Tue, 21 Jul 2026 16:53:55 GMT</pubDate>
-      <author>@karpathy</author>
-      <description><![CDATA[<p>One pattern I find useful for working with LLMs is a nice long ramble session. Sometimes the LLM needs more bits to understand what you&apos;re trying to achieve, but you&apos;re too lazy to type them. In these cases I like to lean back, switch to /voice and just ramble for like 10</p>]]></description>
-    </item>
-    <item>
-      <title>Media post</title>
-      <link>https://x.com/almonk/status/2079461952577802549</link>
-      <guid isPermaLink="true">https://x.com/almonk/status/2079461952577802549</guid>
-      <pubDate>Tue, 21 Jul 2026 07:02:18 GMT</pubDate>
-      <author>@almonk</author>
-      <description><![CDATA[<p></p>]]></description>
-    </item>
-    <item>
-      <title>Period.</title>
-      <link>https://x.com/AREdotNA/status/2078166216015831376</link>
-      <guid isPermaLink="true">https://x.com/AREdotNA/status/2078166216015831376</guid>
-      <pubDate>Fri, 17 Jul 2026 17:13:31 GMT</pubDate>
-      <author>@AREdotNA</author>
-      <description><![CDATA[<p>Period.</p>]]></description>
-    </item>
-    <item>
-      <title>We sent out a newsletter earlier</title>
-      <link>https://x.com/AREdotNA/status/2078166093672149264</link>
-      <guid isPermaLink="true">https://x.com/AREdotNA/status/2078166093672149264</guid>
-      <pubDate>Fri, 17 Jul 2026 17:13:01 GMT</pubDate>
-      <author>@AREdotNA</author>
-      <description><![CDATA[<p>We sent out a newsletter earlier</p>]]></description>
-    </item>
-    <item>
-      <title>New on /editorial: Meghna Rao (@meghn_a) interviews David Hecht (@wileycount) and Chaski of @cyberneticslib about organizing a library</title>
-      <link>https://x.com/AREdotNA/status/2077859037266223326</link>
-      <guid isPermaLink="true">https://x.com/AREdotNA/status/2077859037266223326</guid>
-      <pubDate>Thu, 16 Jul 2026 20:52:53 GMT</pubDate>
-      <author>@AREdotNA</author>
-      <description><![CDATA[<p>New on /editorial:<br>Meghna Rao (@meghn_a) interviews David Hecht (@wileycount) and Chaski of @cyberneticslib about organizing a library that takes in feedback and evolves from it. <br><br>This is the latest from our “Learning in Public” series.</p><p><img src="https://pbs.twimg.com/media/HNYJx-bWoAAG9rq?format=jpg&amp;name=small" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>Media post</title>
-      <link>https://x.com/AREdotNA/status/2077858921297916137</link>
-      <guid isPermaLink="true">https://x.com/AREdotNA/status/2077858921297916137</guid>
-      <pubDate>Thu, 16 Jul 2026 20:52:26 GMT</pubDate>
-      <author>@AREdotNA</author>
-      <description><![CDATA[<p></p>]]></description>
-    </item>
-    <item>
-      <title>New on /editorial: Meghna Rao (@meghn_a) interviews David Hecht (@wileycount) and Chaski of @cyberneticslib about organizing a library</title>
-      <link>https://x.com/AREdotNA/status/2077858769610883303</link>
-      <guid isPermaLink="true">https://x.com/AREdotNA/status/2077858769610883303</guid>
-      <pubDate>Thu, 16 Jul 2026 20:51:50 GMT</pubDate>
-      <author>@AREdotNA</author>
-      <description><![CDATA[<p>New on /editorial:<br>Meghna Rao (@meghn_a) interviews David Hecht (@wileycount) and Chaski of @cyberneticslib about organizing a library that takes in feedback and evolves from it. <br><br>This is the latest from our “Learning in Public” series.</p>]]></description>
-    </item>
-    <item>
-      <title>Media post</title>
-      <link>https://x.com/AREdotNA/status/2077851392379699276</link>
-      <guid isPermaLink="true">https://x.com/AREdotNA/status/2077851392379699276</guid>
-      <pubDate>Thu, 16 Jul 2026 20:22:31 GMT</pubDate>
-      <author>@AREdotNA</author>
-      <description><![CDATA[<p></p>]]></description>
-    </item>
-    <item>
-      <title>Media post</title>
-      <link>https://x.com/AREdotNA/status/2077851388126642316</link>
-      <guid isPermaLink="true">https://x.com/AREdotNA/status/2077851388126642316</guid>
-      <pubDate>Thu, 16 Jul 2026 20:22:30 GMT</pubDate>
-      <author>@AREdotNA</author>
-      <description><![CDATA[<p></p><p><img src="https://pbs.twimg.com/media/HNYC0wYXoAABHu7?format=jpg&amp;name=small" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>Media post</title>
-      <link>https://x.com/tldraw/status/2077784657869902121</link>
-      <guid isPermaLink="true">https://x.com/tldraw/status/2077784657869902121</guid>
-      <pubDate>Thu, 16 Jul 2026 15:57:20 GMT</pubDate>
-      <author>@tldraw</author>
-      <description><![CDATA[<p></p>]]></description>
-    </item>
-    <item>
-      <title>a rare dawn theme screenshot</title>
-      <link>https://x.com/AREdotNA/status/2077398209089941857</link>
-      <guid isPermaLink="true">https://x.com/AREdotNA/status/2077398209089941857</guid>
-      <pubDate>Wed, 15 Jul 2026 14:21:43 GMT</pubDate>
-      <author>@AREdotNA</author>
-      <description><![CDATA[<p>a rare dawn theme screenshot</p><p><img src="https://pbs.twimg.com/media/HNRk1IuXQAAYxSp?format=jpg&amp;name=small" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>when the dream becomes the job i used to think the dream was to make my hobby my</title>
-      <link>https://x.com/ryolu_/status/2077162119506833627</link>
-      <guid isPermaLink="true">https://x.com/ryolu_/status/2077162119506833627</guid>
-      <pubDate>Tue, 14 Jul 2026 22:43:35 GMT</pubDate>
-      <author>@ryolu_</author>
-      <description><![CDATA[<p>when the dream becomes the job<br><br>i used to think the dream was to make my hobby my work.<br><br>to spend my life close to the things i loved: computers, tools, interfaces, systems, tiny details, the feeling of making something from nothing. the things i used to do at night, after</p>]]></description>
-    </item>
-    <item>
-      <title>assembling the best design team (looking for design engs, too)</title>
-      <link>https://x.com/ryolu_/status/2077108336844210352</link>
-      <guid isPermaLink="true">https://x.com/ryolu_/status/2077108336844210352</guid>
-      <pubDate>Tue, 14 Jul 2026 19:09:52 GMT</pubDate>
-      <author>@ryolu_</author>
-      <description><![CDATA[<p>assembling the best design team<br>(looking for design engs, too)</p><p><img src="https://pbs.twimg.com/tweet_video_thumb/HNNEKF3aoAAR4aW.jpg" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>Media post</title>
-      <link>https://x.com/ryolu_/status/2077107655894860137</link>
-      <guid isPermaLink="true">https://x.com/ryolu_/status/2077107655894860137</guid>
-      <pubDate>Tue, 14 Jul 2026 19:07:10 GMT</pubDate>
-      <author>@ryolu_</author>
-      <description><![CDATA[<p></p>]]></description>
-    </item>
-    <item>
-      <title>some of us are building agents. some of us are buying landlines.</title>
-      <link>https://x.com/ryolu_/status/2077060449837990399</link>
-      <guid isPermaLink="true">https://x.com/ryolu_/status/2077060449837990399</guid>
-      <pubDate>Tue, 14 Jul 2026 15:59:35 GMT</pubDate>
-      <author>@ryolu_</author>
-      <description><![CDATA[<p>some of us are building agents. some of us are buying landlines.</p><p><img src="https://pbs.twimg.com/media/HNMzdTDaAAEr-Fx?format=jpg&amp;name=small" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>Today we’re releasing Reflect Open, a complete rewrite of Reflect for the age of AI. It’s local-first and</title>
-      <link>https://x.com/reflectnotes/status/2077031149231092065</link>
-      <guid isPermaLink="true">https://x.com/reflectnotes/status/2077031149231092065</guid>
-      <pubDate>Tue, 14 Jul 2026 14:03:10 GMT</pubDate>
-      <author>@reflectnotes</author>
-      <description><![CDATA[<p>Today we’re releasing Reflect Open, a complete rewrite of Reflect for the age of AI.<br><br>It’s local-first and open source, and every note is stored as a Markdown file on your computer.</p><p><img src="https://pbs.twimg.com/media/HNMQsQfW4AA_6zS?format=jpg&amp;name=small" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>The shape of Reflect is still there: daily notes, backlinks, tasks, search and chat with your notes. The</title>
-      <link>https://x.com/reflectnotes/status/2077031152448118901</link>
-      <guid isPermaLink="true">https://x.com/reflectnotes/status/2077031152448118901</guid>
-      <pubDate>Tue, 14 Jul 2026 14:03:10 GMT</pubDate>
-      <author>@reflectnotes</author>
-      <description><![CDATA[<p>The shape of Reflect is still there: daily notes, backlinks, tasks, search and chat with your notes.<br><br>The important difference is underneath. Your data lives in ordinary files, the app works offline, and the code is open for anyone to inspect or change.</p><p><img src="https://pbs.twimg.com/media/HNMYoEdXYAAj_0s?format=jpg&amp;name=small" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>works on Xteink X3 + X4 ask Cursor to flash it for you</title>
-      <link>https://x.com/ryolu_/status/2076713700942295226</link>
-      <guid isPermaLink="true">https://x.com/ryolu_/status/2076713700942295226</guid>
-      <pubDate>Mon, 13 Jul 2026 17:01:44 GMT</pubDate>
-      <author>@ryolu_</author>
-      <description><![CDATA[<p>works on Xteink X3 + X4<br>ask Cursor to flash it for you</p>]]></description>
-    </item>
-    <item>
-      <title>built a custom e-reader firmware with Cursor, hardware hacking is fun! made for: – beautiful latin + CJK</title>
-      <link>https://x.com/ryolu_/status/2076713331113734641</link>
-      <guid isPermaLink="true">https://x.com/ryolu_/status/2076713331113734641</guid>
-      <pubDate>Mon, 13 Jul 2026 17:00:16 GMT</pubDate>
-      <author>@ryolu_</author>
-      <description><![CDATA[<p>built a custom e-reader firmware with Cursor, hardware hacking is fun!<br><br>made for:<br>– beautiful latin + CJK typography<br>– vertical layout, line breaking, large character sets (縱書．禁則)<br>– syncs books + progress with ryOS<br>– speedy rendering + caching</p><p><img src="https://pbs.twimg.com/media/HNH3wxjbUAA7hgh?format=jpg&amp;name=360x360" alt=""></p><p><img src="https://pbs.twimg.com/media/HNH3wxZbsAAJd0t?format=jpg&amp;name=360x360" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>super stoked for jenny to join and lead our team makes me really happy for the team, and</title>
-      <link>https://x.com/ryolu_/status/2076689062921150479</link>
-      <guid isPermaLink="true">https://x.com/ryolu_/status/2076689062921150479</guid>
-      <pubDate>Mon, 13 Jul 2026 15:23:50 GMT</pubDate>
-      <author>@ryolu_</author>
-      <description><![CDATA[<p>super stoked for jenny to join and lead our team <br><br>makes me really happy for the team, and personally excited to regain the focus and mental space to dream big again</p>]]></description>
-    </item>
-    <item>
-      <title>recorded on a new tool I’m building that simulates an Origami style cursor over screen recordings</title>
-      <link>https://x.com/_yihui/status/2076512460027072738</link>
-      <guid isPermaLink="true">https://x.com/_yihui/status/2076512460027072738</guid>
-      <pubDate>Mon, 13 Jul 2026 03:42:04 GMT</pubDate>
-      <author>@_yihui</author>
-      <description><![CDATA[<p>recorded on a new tool I’m building that simulates an Origami style cursor over screen recordings</p>]]></description>
     </item>
   </channel>
 </rss>
