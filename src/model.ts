@@ -29,5 +29,6 @@ export interface StoredPostRow {
 export interface ScrapeResult {
   handle: string;
   posts: CollectedPost[];
+  avatarUrl?: string;
   errorCode?: string;
 }

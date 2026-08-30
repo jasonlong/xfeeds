@@ -49,10 +49,16 @@ function plist(): string {
 
 function bootout(): void {
   try {
-    execFileSync("/bin/launchctl", ["bootout", `gui/${process.getuid()}`, plistPath], { stdio: "ignore" });
+    execFileSync("/bin/launchctl", ["bootout", `gui/${userId()}`, plistPath], { stdio: "ignore" });
   } catch {
     // It is fine if the job was not loaded.
   }
+}
+
+function userId(): number {
+  const id = process.getuid?.();
+  if (id === undefined) throw new Error("The macOS scheduler requires a numeric user ID.");
+  return id;
 }
 
 async function install(): Promise<void> {
@@ -60,7 +66,7 @@ async function install(): Promise<void> {
   await mkdir(logsDir, { recursive: true, mode: 0o700 });
   await writeFile(plistPath, plist(), "utf8");
   bootout();
-  execFileSync("/bin/launchctl", ["bootstrap", `gui/${process.getuid()}`, plistPath]);
+  execFileSync("/bin/launchctl", ["bootstrap", `gui/${userId()}`, plistPath]);
   console.log(`Installed ${label}; it publishes all configured accounts every 3600 seconds.`);
   console.log(`Logs: ${logsDir}`);
 }

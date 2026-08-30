@@ -2,6 +2,7 @@ import { mkdir } from "node:fs/promises";
 import { chromium, type BrowserContext, type Page } from "playwright";
 import type { CollectedPost } from "../model";
 import { normalizeRawPost, type RawPost } from "../normalize";
+import { extractRawPostsFromArticles, validatedAvatarUrl } from "../timeline";
 import { browserProfileDir } from "./paths";
 
 export interface LocalScrapeResult {
@@ -28,45 +29,7 @@ export async function hasSignedInSession(context: BrowserContext): Promise<boole
 }
 
 async function extractVisiblePosts(page: Page, limit: number): Promise<RawPost[]> {
-  return page.locator('[data-testid="tweet"]').evaluateAll(
-    (articles, requestedLimit) => {
-      const output: RawPost[] = [];
-      for (const article of articles.slice(0, requestedLimit)) {
-        const time = article.querySelector("time[datetime]");
-        const statusAnchor = time?.closest('a[href*="/status/"]') as HTMLAnchorElement | null;
-        const statusPath = statusAnchor?.getAttribute("href") ?? "";
-        const match = statusPath.match(/^\/([A-Za-z0-9_]{1,15})\/status\/(\d+)/);
-        if (!match) continue;
-
-        const userName = article.querySelector('[data-testid="User-Name"]');
-        const handleText = [...(userName?.querySelectorAll("span") ?? [])]
-          .map((node) => node.textContent?.trim() ?? "")
-          .find((value) => /^@[A-Za-z0-9_]{1,15}$/.test(value));
-        const authorHandle = handleText?.slice(1) ?? match[1] ?? "";
-        const authorName = userName?.querySelector("span")?.textContent?.trim() ?? authorHandle;
-        const body = article.querySelector('[data-testid="tweetText"]')?.textContent ?? "";
-        const isReply = [...article.querySelectorAll("span")].some((node) =>
-          node.textContent?.startsWith("Replying to"),
-        );
-        const media = [...article.querySelectorAll('[data-testid="tweetPhoto"] img')]
-          .map((node) => (node as HTMLImageElement).src)
-          .filter((url) => url.startsWith("https://pbs.twimg.com/"));
-
-        output.push({
-          id: match[2] ?? "",
-          authorHandle,
-          authorName,
-          path: statusPath,
-          body,
-          publishedAt: time?.getAttribute("datetime") ?? "",
-          isReply,
-          media,
-        });
-      }
-      return output;
-    },
-    limit,
-  );
+  return page.locator('[data-testid="tweet"]').evaluateAll(extractRawPostsFromArticles, limit);
 }
 
 export async function scrapeHandle(
@@ -101,11 +64,7 @@ export async function scrapeHandle(
     const avatarUrl = await avatar.count() === 1
       ? await avatar.getAttribute("src") ?? undefined
       : undefined;
-    const safeAvatarUrl = avatarUrl && (() => {
-      const url = new URL(avatarUrl);
-      return url.protocol === "https:" &&
-        (url.hostname === "pbs.twimg.com" || url.hostname === "abs.twimg.com");
-    })() ? avatarUrl : undefined;
+    const safeAvatarUrl = validatedAvatarUrl(avatarUrl ?? null);
 
     const discoveredAt = new Date().toISOString();
     const byId = new Map<string, CollectedPost>();

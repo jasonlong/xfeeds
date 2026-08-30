@@ -1,6 +1,8 @@
 import { execFileSync, spawn, spawnSync } from "node:child_process";
-import { mkdir } from "node:fs/promises";
+import { mkdir, open as openFile } from "node:fs/promises";
+import { resolve } from "node:path";
 import { accounts, configuredAccount } from "../accounts";
+import { filterStorageState, type StorageState } from "../auth-state";
 import { readAvatars, writeAvatars } from "./avatars";
 import { hasSignedInSession, launchProfile, scrapeHandle } from "./browser";
 import { generateFeeds } from "./feeds";
@@ -51,6 +53,178 @@ async function authenticate(): Promise<void> {
   } finally {
     await context.close();
   }
+}
+
+async function promptSecret(label: string): Promise<string> {
+  if (!process.stdin.isTTY || !process.stdout.isTTY || !process.stdin.setRawMode) {
+    throw new Error("Set XFEEDS_ADMIN_TOKEN when standard input is not an interactive terminal.");
+  }
+  process.stdout.write(label);
+  process.stdin.setRawMode(true);
+  process.stdin.resume();
+  process.stdin.setEncoding("utf8");
+
+  return new Promise<string>((resolve, reject) => {
+    let secret = "";
+    const finish = (error?: Error) => {
+      process.stdin.off("data", onData);
+      process.stdin.setRawMode(false);
+      process.stdin.pause();
+      process.stdout.write("\n");
+      if (error) reject(error);
+      else resolve(secret);
+    };
+    const onData = (chunk: string) => {
+      for (const character of chunk) {
+        if (character === "\u0003") {
+          finish(new Error("Cancelled."));
+          return;
+        }
+        if (character === "\r" || character === "\n") {
+          finish();
+          return;
+        }
+        if (character === "\u007f" || character === "\b") secret = secret.slice(0, -1);
+        else if (character >= " ") secret += character;
+      }
+    };
+    process.stdin.on("data", onData);
+  });
+}
+
+function cloudflareUrl(): string | undefined {
+  return option("--url")?.trim() || process.env.XFEEDS_CANARY_URL?.trim() || undefined;
+}
+
+async function cloudflareAdminToken(label = "Cloudflare canary admin token: "): Promise<string> {
+  const configuredToken = process.env.XFEEDS_ADMIN_TOKEN?.trim();
+  const token = configuredToken || await promptSecret(label);
+  if (!token) throw new Error("The Cloudflare canary admin token is required.");
+  return token;
+}
+
+function validatedCloudflareBaseUrl(configuredUrl: string | undefined): URL {
+  if (!configuredUrl) {
+    throw new Error(
+      "Run npm run cloudflare:configure, pass --url https://<worker>.workers.dev, or set XFEEDS_CANARY_URL.",
+    );
+  }
+  const baseUrl = new URL(configuredUrl);
+  if (baseUrl.protocol !== "https:") throw new Error("The Cloudflare canary URL must use HTTPS.");
+  return baseUrl;
+}
+
+async function configureCloudflare(): Promise<void> {
+  const baseUrl = validatedCloudflareBaseUrl(cloudflareUrl());
+  const adminToken = await cloudflareAdminToken(
+    "Cloudflare canary admin token (saved locally): ",
+  );
+  if (/[\r\n']/.test(adminToken)) {
+    throw new Error("The admin token cannot contain a newline or single quote.");
+  }
+
+  const envPath = resolve(process.cwd(), ".env.cloudflare");
+  const file = await openFile(envPath, "w", 0o600);
+  try {
+    await file.chmod(0o600);
+    await file.writeFile(
+      `XFEEDS_CANARY_URL='${baseUrl.origin}'\nXFEEDS_ADMIN_TOKEN='${adminToken}'\n`,
+      "utf8",
+    );
+  } finally {
+    await file.close();
+  }
+  console.log("Saved Cloudflare settings in .env.cloudflare (permissions 0600).");
+}
+
+async function seedCloudflareAuthState(): Promise<void> {
+  const baseUrl = validatedCloudflareBaseUrl(cloudflareUrl());
+  const endpoint = new URL("/admin/auth-state", baseUrl);
+
+  const context = await launchProfile(true);
+  let storageState: StorageState;
+  try {
+    if (!(await hasSignedInSession(context))) {
+      throw new Error("No signed-in X session found; run npm run auth first.");
+    }
+    storageState = filterStorageState(await context.storageState());
+  } finally {
+    await context.close();
+  }
+
+  const adminToken = await cloudflareAdminToken();
+  const response = await fetch(endpoint, {
+    method: "POST",
+    headers: {
+      authorization: `Bearer ${adminToken}`,
+      "content-type": "application/json",
+    },
+    body: JSON.stringify(storageState),
+  });
+  if (!response.ok) {
+    throw new Error(`Cloudflare rejected the auth state with HTTP ${response.status}.`);
+  }
+  const metadata: unknown = await response.json();
+  if (
+    typeof metadata !== "object" || metadata === null ||
+    !("cookieCount" in metadata) || typeof metadata.cookieCount !== "number" ||
+    !("updatedAt" in metadata) || typeof metadata.updatedAt !== "string"
+  ) {
+    throw new Error("Cloudflare returned an invalid auth-state response.");
+  }
+  console.log(
+    `Seeded encrypted X auth state in Cloudflare (${metadata.cookieCount} cookies, ${metadata.updatedAt}).`,
+  );
+}
+
+async function collectCloudflare(): Promise<void> {
+  const baseUrl = validatedCloudflareBaseUrl(cloudflareUrl());
+  const endpoint = new URL("/admin/collect", baseUrl);
+
+  const requested = option("--handle") ?? accounts[0]?.handle;
+  const requestedAccount = requested ? configuredAccount(requested) : undefined;
+  if (!process.argv.includes("--all") && !requestedAccount) {
+    throw new Error(`Unknown configured handle: ${requested ?? "(none)"}`);
+  }
+  const selectedAccounts = process.argv.includes("--all")
+    ? accounts
+    : requestedAccount ? [requestedAccount] : [];
+  const maxPosts = positiveInteger(option("--max-posts"), 10, 10);
+  const delaySeconds = positiveInteger(option("--delay-seconds"), 10, 300);
+  const adminToken = await cloudflareAdminToken();
+
+  let failures = 0;
+  for (const [index, account] of selectedAccounts.entries()) {
+    process.stdout.write(`Collecting @${account.handle}... `);
+    try {
+      const response = await fetch(endpoint, {
+        method: "POST",
+        headers: {
+          authorization: `Bearer ${adminToken}`,
+          "content-type": "application/json",
+        },
+        body: JSON.stringify({
+          handles: [account.handle],
+          maxPostsPerHandle: maxPosts,
+        }),
+      });
+      const result: unknown = await response.json().catch(() => null);
+      if (!response.ok || typeof result !== "object" || result === null) {
+        failures += 1;
+        console.error(`failed (HTTP ${response.status})`);
+      } else {
+        console.log(JSON.stringify(result));
+      }
+    } catch (error) {
+      failures += 1;
+      console.error(error instanceof Error ? error.message : "request failed");
+    }
+    if (index < selectedAccounts.length - 1) {
+      await new Promise((resolve) => setTimeout(resolve, delaySeconds * 1_000));
+    }
+  }
+
+  if (failures > 0) throw new Error(`${failures} Cloudflare collection request(s) failed.`);
 }
 
 async function collect(): Promise<void> {
@@ -126,10 +300,13 @@ async function publish(): Promise<void> {
 const command = process.argv[2];
 try {
   if (command === "auth") await authenticate();
+  else if (command === "auth:seed-cloudflare") await seedCloudflareAuthState();
+  else if (command === "cloudflare:configure") await configureCloudflare();
+  else if (command === "cloudflare:collect") await collectCloudflare();
   else if (command === "collect") await collect();
   else if (command === "publish") await publish();
   else if (command === "serve") await serve(positiveInteger(option("--port"), 8787, 65_535));
-  else throw new Error("Usage: npm run auth | npm run collect -- [--handle HANDLE | --all] | npm run feeds:publish | npm run serve");
+  else throw new Error("Usage: npm run auth | npm run cloudflare:configure [-- --url URL] | npm run auth:seed-cloudflare | npm run cloudflare:collect -- [--handle HANDLE | --all] | npm run collect -- [--handle HANDLE | --all] | npm run feeds:publish | npm run serve");
 } catch (error) {
   console.error(error instanceof Error ? error.message : error);
   process.exitCode = 1;

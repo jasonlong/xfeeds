@@ -1,32 +1,39 @@
 {
   "$schema": "./node_modules/wrangler/config-schema.json",
-  "name": "xrss",
+  "name": "xfeeds-browser-canary",
   "main": "src/worker.ts",
-  "compatibility_date": "2026-08-25",
+  "compatibility_date": "2026-08-27",
   "compatibility_flags": ["nodejs_compat"],
   "workers_dev": true,
   "limits": {
-    "cpu_ms": 10
+    "cpu_ms": 500
   },
   "vars": {
-    "DEPLOY_MODE": "manual-only",
+    "DEPLOY_MODE": "scheduled-daily-et",
     "MAX_HANDLES_PER_RUN": "1",
-    "MAX_POSTS_PER_HANDLE": "20",
-    "RUN_DEADLINE_MS": "45000"
+    "MAX_POSTS_PER_HANDLE": "10",
+    "RUN_DEADLINE_MS": "45000",
+    "SCHEDULED_RUN_DEADLINE_MS": "300000",
+    "SCHEDULE_TIME_ZONE": "America/New_York",
+    "SCHEDULE_HOURS": "7,9,11,13,15,17,19"
   },
   "browser": {
     "binding": "BROWSER"
   },
+  "kv_namespaces": [
+    {
+      "binding": "AUTH_STATE"
+    }
+  ],
   "d1_databases": [
     {
       "binding": "DB",
-      "database_name": "xrss",
-      "database_id": "REPLACE_WITH_D1_DATABASE_ID",
+      "database_name": "xfeeds-browser-canary",
       "migrations_dir": "migrations"
     }
   ],
   "triggers": {
-    "crons": []
+    "crons": ["0 * * * *"]
   },
   "observability": {
     "enabled": true,

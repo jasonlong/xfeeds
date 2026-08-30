@@ -5,7 +5,13 @@
   "type": "module",
   "scripts": {
     "auth": "tsx src/local/cli.ts auth",
+    "auth:seed-cloudflare": "node --env-file-if-exists=.env.cloudflare --import tsx src/local/cli.ts auth:seed-cloudflare",
     "collect": "tsx src/local/cli.ts collect",
+    "cloudflare:migrate:local": "wrangler d1 migrations apply xfeeds-browser-canary --local",
+    "cloudflare:configure": "node --env-file-if-exists=.env.cloudflare --import tsx src/local/cli.ts cloudflare:configure",
+    "cloudflare:collect": "node --env-file-if-exists=.env.cloudflare --import tsx src/local/cli.ts cloudflare:collect",
+    "cloudflare:types": "wrangler types ./src/worker-configuration.d.ts",
+    "deploy:dry-run": "wrangler deploy --dry-run",
     "feeds:publish": "tsx src/local/cli.ts publish --all",
     "serve": "tsx src/local/cli.ts serve",
     "schedule:install": "tsx src/local/schedule.ts install",
@@ -22,7 +28,6 @@
     "playwright": "1.62.1"
   },
   "devDependencies": {
-    "@cloudflare/workers-types": "5.20260821.1",
     "@types/node": "22.18.1",
     "tsx": "4.20.5",
     "typescript": "7.0.2",

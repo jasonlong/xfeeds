@@ -79,9 +79,105 @@ command stages only `docs/`, creates a commit only when generated output changed
 and pushes it to `origin`. Never commit `.xrss/`; it holds the authenticated
 browser profile and local post history.
 
-The earlier Cloudflare Worker/D1 experiment remains in `src/worker.ts`,
-`src/scrape.ts`, `wrangler.jsonc`, and `migrations/`, but it is not involved in
-the local workflow.
+The Cloudflare Worker/D1 canary remains separate from this publishing path. It
+does not change the local collector, LaunchAgent, GitHub Pages URLs, or feed
+history.
+
+## Cloudflare Browser Run schedule
+
+The experimental Worker collects all configured accounts every day at 7 a.m.,
+9 a.m., 11 a.m., 1 p.m., 3 p.m., 5 p.m., and 7 p.m. America/New_York time.
+Cloudflare Cron runs hourly in UTC, and the Worker performs an Eastern-time
+check before launching the browser, so daylight-saving changes do not shift the
+schedule. Duplicate Cron delivery is suppressed by a unique D1 lease.
+
+Scheduled runs use one browser and one authenticated context, process accounts
+sequentially, collect at most ten posts per account, and stop after five
+minutes. The protected manual endpoint remains limited to one account and 45
+seconds. Browser recording is disabled, the Worker has no custom route, and an
+explicit 500-millisecond CPU ceiling remains in place.
+
+The local seeding command exports only X/Twitter cookies and storage from the
+dedicated Chrome profile. The Worker validates that state, requires an
+`auth_token`, encrypts it with AES-256-GCM, and stores only the encrypted
+envelope in Workers KV. The encryption key and admin token are separate Worker
+secrets. Browser session recording is explicitly disabled.
+
+Cloudflare documents two important constraints:
+
+- Browser Run requests are always identified as bot traffic, so valid cookies
+  do not guarantee that X will serve a timeline.
+- Workers Paid includes 10 browser hours per month before Browser Run overage.
+  Based on the measured 11.46 seconds per account, the seven daily batches use
+  about 9.4 browser hours in a 30-day month. Monitor the Browser Run dashboard
+  because slow or failed runs can push usage over the included allowance.
+
+See the current [Playwright storage-state documentation](https://developers.cloudflare.com/browser-run/playwright/),
+[Browser Run FAQ](https://developers.cloudflare.com/browser-run/faq/), and
+[pricing](https://developers.cloudflare.com/browser-run/pricing/) before running
+the experiment.
+
+### Cloudflare runbook
+
+First verify the exact Cloudflare account and its Workers plan. Do not deploy if
+the account is ambiguous or paid usage is not understood.
+
+```sh
+npx wrangler login
+npx wrangler whoami
+npm run check
+npm run deploy:dry-run
+```
+
+The checked-in config uses Wrangler automatic provisioning for a canary-only D1
+database and KV namespace. After verifying the account, deploy explicitly:
+
+```sh
+npx wrangler d1 migrations apply xfeeds-browser-canary --remote
+XRSS_DEPLOY_APPROVED=workers-paid-seven-daily-et npm run deploy
+```
+
+Set both secrets through Wrangler's interactive prompt. `AUTH_STATE_KEY` must be
+a base64 or base64url encoded 32-byte random key; keep it in a password manager
+because losing it makes the encrypted session state unreadable.
+
+```sh
+npx wrangler secret put ADMIN_TOKEN
+npx wrangler secret put AUTH_STATE_KEY
+```
+
+Save the canary URL and admin token once in the git-ignored
+`.env.cloudflare` file. The setup prompt does not echo the token and restricts
+the file to your user account (mode `0600`):
+
+```sh
+npm run cloudflare:configure -- \
+  --url https://xfeeds-browser-canary.<subdomain>.workers.dev
+```
+
+The Cloudflare commands load that file automatically. Seed the canary from the
+existing dedicated local X profile; exported cookies are never written to disk
+or stdout:
+
+```sh
+npm run auth:seed-cloudflare
+```
+
+To populate every configured feed outside the schedule, use the local batch
+command. It waits ten seconds between protected single-account Browser Run
+requests:
+
+```sh
+npm run cloudflare:collect -- --all
+```
+
+The response reports post count, avatar presence, error code, and measured
+browser duration; it never returns auth state. Treat `login-required`,
+`auth-challenge`, `consent-required`, `rate-limited`, or repeated
+`no-posts-visible` as a failed feasibility test. Do not add evasion behavior.
+Keep the Mac scheduler and GitHub Pages feeds as a rollback path until at least
+two consecutive scheduled all-account runs succeed and the feeds match during
+a 24–48 hour shadow window.
 
 ## Verification
 
