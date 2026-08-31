@@ -7,6 +7,14 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>In the next version of tldraw, the text and bookmark shapes created by pasting will also be selected.</title>
+      <link>https://x.com/tldraw/status/2094439085838590223</link>
+      <guid isPermaLink="true">https://x.com/tldraw/status/2094439085838590223</guid>
+      <pubDate>Mon, 31 Aug 2026 14:56:05 GMT</pubDate>
+      <author>@tldraw</author>
+      <description><![CDATA[<p>In the next version of tldraw, the text and bookmark shapes created by pasting will also be selected. This matches the select-on-paste behavior of other types of shapes.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2094439069686403073/img/AU3c62g-EpOHDVBm.jpg" alt=""></p>]]></description>
+    </item>
+    <item>
       <title>In the next version of tldraw, pasting from the context menu will center the pasted content on the</title>
       <link>https://x.com/tldraw/status/2094424744254898560</link>
       <guid isPermaLink="true">https://x.com/tldraw/status/2094424744254898560</guid>
@@ -340,7 +348,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2092707615088255074</guid>
       <pubDate>Wed, 26 Aug 2026 20:15:50 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>the most interesting people in the world are using tldraw</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2091335109718712320/img/s0o8FiLJMAPGCbSZ.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>the most interesting people in the world are using tldraw</p>]]></description>
     </item>
     <item>
       <title>History of the #AppleEvent hashmoji</title>
@@ -380,7 +388,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2092656027959279938</guid>
       <pubDate>Wed, 26 Aug 2026 16:50:51 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>Agents can drive the canvas. We played around with controlling what they can &quot;see&quot; and set them loose, working their way through mazes.</p>]]></description>
+      <description><![CDATA[<p>Agents can drive the canvas. We played around with controlling what they can &quot;see&quot; and set them loose, working their way through mazes.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2092653047688085504/img/DhQcuULvwWWk8uZk.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Space isn&apos;t something you can type your way through. A canvas lets an agent move through it instead.</title>
@@ -1597,14 +1605,6 @@
       <pubDate>Mon, 10 Aug 2026 08:51:33 GMT</pubDate>
       <author>@shadcn</author>
       <description><![CDATA[<p>Just tagged a quick update for Copper.<br><br>- You can now copy and paste files into Copper.<br>- When you hide Copper, focus now returns to last active app.<br>- Fixed a bug with double-tap keys.</p><p><img src="https://pbs.twimg.com/media/HPWUWz_WQAAKKqJ?format=png&amp;name=small" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>Today is our 15th birthday. For 15 years, we’ve built and maintained http://Are.na independently with no institutional investors,</title>
-      <link>https://x.com/AREdotNA/status/2086426916383338728</link>
-      <guid isPermaLink="true">https://x.com/AREdotNA/status/2086426916383338728</guid>
-      <pubDate>Sun, 09 Aug 2026 12:18:35 GMT</pubDate>
-      <author>@AREdotNA</author>
-      <description><![CDATA[<p>Today is our 15th birthday.<br><br>For 15 years, we’ve built and maintained http://Are.na independently with no institutional investors, sustained only by our members. <br><br>We (quite literally) would not be celebrating our 15 years if it weren’t for you.<br><br>Thank you</p><p><img src="https://pbs.twimg.com/media/HPR6OOwWsAAgYeD?format=jpg&amp;name=small" alt=""></p>]]></description>
     </item>
   </channel>
 </rss>
