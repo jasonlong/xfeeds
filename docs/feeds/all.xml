@@ -7,6 +7,14 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>Media post</title>
+      <link>https://x.com/almonk/status/2094342642637119544</link>
+      <guid isPermaLink="true">https://x.com/almonk/status/2094342642637119544</guid>
+      <pubDate>Mon, 31 Aug 2026 08:32:51 GMT</pubDate>
+      <author>@almonk</author>
+      <description><![CDATA[<p></p><p><img src="https://pbs.twimg.com/media/HRCZiHKXMAAT6ht?format=jpg&amp;name=small" alt=""></p>]]></description>
+    </item>
+    <item>
       <title>just realising the Pscion series 5 in 1997 is basically the perfect vibe coding device / @superlogical hardware</title>
       <link>https://x.com/almonk/status/2094136959945900224</link>
       <guid isPermaLink="true">https://x.com/almonk/status/2094136959945900224</guid>
@@ -100,7 +108,7 @@
       <guid isPermaLink="true">https://x.com/almonk/status/2093596518557036897</guid>
       <pubDate>Sat, 29 Aug 2026 07:08:01 GMT</pubDate>
       <author>@almonk</author>
-      <description><![CDATA[<p>Fast is the feature</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2093450067940360192/img/9Ea_DUx0Vkr3lB7k.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Fast is the feature</p>]]></description>
     </item>
     <item>
       <title>Small pi update for y&apos;all!</title>
@@ -292,7 +300,7 @@
       <guid isPermaLink="true">https://x.com/almonk/status/2092908172381982782</guid>
       <pubDate>Thu, 27 Aug 2026 09:32:47 GMT</pubDate>
       <author>@almonk</author>
-      <description><![CDATA[<p>The benefits of switching between horizontal → vertical tabs are underrated. For the @superlogical multiplexer macOS client, both tab styles are great for very different working styles. <br><br>For me, horizontal tabs are great for more focussed projects or tasks. I&apos;ll open a repo,</p>]]></description>
+      <description><![CDATA[<p>The benefits of switching between horizontal → vertical tabs are underrated. For the @superlogical multiplexer macOS client, both tab styles are great for very different working styles. <br><br>For me, horizontal tabs are great for more focussed projects or tasks. I&apos;ll open a repo,</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2092907309491986432/img/huhq6O-yc-OpeA3O.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>you either die a yolo mode or live long enough to become auto allow</title>
@@ -644,7 +652,7 @@
       <guid isPermaLink="true">https://x.com/pidotdev/status/2091873157036793947</guid>
       <pubDate>Mon, 24 Aug 2026 13:00:00 GMT</pubDate>
       <author>@pidotdev</author>
-      <description><![CDATA[<p>Ox Alpha is currently the most popular model on @OpenRouter and is free to use! <br><br>A reasoning model designed for coding, sustained agentic work and production workloads. 1M token context window, with support for text, image and video input. <br><br>Try it out in Pi today</p>]]></description>
+      <description><![CDATA[<p>Ox Alpha is currently the most popular model on @OpenRouter and is free to use! <br><br>A reasoning model designed for coding, sustained agentic work and production workloads. 1M token context window, with support for text, image and video input. <br><br>Try it out in Pi today</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2091850005296365568/img/zwc9WFi8bqFA3iSH.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>You can also enable both bash and powershell.</title>
@@ -884,7 +892,7 @@
       <guid isPermaLink="true">https://x.com/zerocam_app/status/2090782590475121071</guid>
       <pubDate>Fri, 21 Aug 2026 12:46:29 GMT</pubDate>
       <author>@zerocam_app</author>
-      <description><![CDATA[<p>Details</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2090754522314424320/img/uubrwVnR2tMMYW7k.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Details</p>]]></description>
     </item>
     <item>
       <title>I think about this tweet a lot.</title>
@@ -1060,7 +1068,7 @@
       <guid isPermaLink="true">https://x.com/almonk/status/2090140305081221202</guid>
       <pubDate>Wed, 19 Aug 2026 18:14:16 GMT</pubDate>
       <author>@almonk</author>
-      <description><![CDATA[<p>when they ask you to speak first at all hands</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2089854403524395008/img/Ab-b6Z8MJmkBQGY6.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>when they ask you to speak first at all hands</p><p><img src="https://pbs.twimg.com/profile_images/2028930419819962368/iuF2qygO_normal.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>After years being speakerless, I bought these edifier M60s for my home setup. Holy shit they sound so</title>
@@ -1597,14 +1605,6 @@
       <pubDate>Sun, 02 Aug 2026 15:34:18 GMT</pubDate>
       <author>@ryolu_</author>
       <description><![CDATA[<p>my early mentors were these apps, especially Rdio, Mailbox, and Apple<br><br>they made new patterns that made software feel simpler and intuitive to touch<br><br>as we leave the world of apps behind, what parts of software will remain visible, and how could it feel?</p><p><img src="https://pbs.twimg.com/media/HOqIcjEXwAAIxqe?format=jpg&amp;name=small" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>We&apos;re starting to leave the territory where you&apos;d test an LLM by e.g. &quot;create an svg of pelican</title>
-      <link>https://x.com/karpathy/status/2083749667410727319</link>
-      <guid isPermaLink="true">https://x.com/karpathy/status/2083749667410727319</guid>
-      <pubDate>Sun, 02 Aug 2026 03:00:09 GMT</pubDate>
-      <author>@karpathy</author>
-      <description><![CDATA[<p>We&apos;re starting to leave the territory where you&apos;d test an LLM by e.g. &quot;create an svg of pelican on a bicycle&quot;. As one idea to generalize it, I was interested what Opus 5 would do if I gave it the first paragraph of the Lord of the Rings, a 1M token budget (~$10) and asked for</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2083744791876292608/img/tWEKnM_bdE_nlfYD.jpg" alt=""></p>]]></description>
     </item>
   </channel>
 </rss>
