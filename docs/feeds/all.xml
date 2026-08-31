@@ -7,6 +7,14 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>To show how much I care about performance, I just ordered the worst specced 2020 Intel MacBook Air</title>
+      <link>https://x.com/mitchellh/status/2094494569857777750</link>
+      <guid isPermaLink="true">https://x.com/mitchellh/status/2094494569857777750</guid>
+      <pubDate>Mon, 31 Aug 2026 18:36:33 GMT</pubDate>
+      <author>@mitchellh</author>
+      <description><![CDATA[<p>To show how much I care about performance, I just ordered the worst specced 2020 Intel MacBook Air I could find (i3, 1.1 GHz, 8 GB RAM). It is the last supported hardware for macOS 15, our min target for Superlogical. Going to optimize on it for worst-case behavior.</p>]]></description>
+    </item>
+    <item>
       <title>iOS Camera app icon history</title>
       <link>https://x.com/avstorm/status/2094478296117309561</link>
       <guid isPermaLink="true">https://x.com/avstorm/status/2094478296117309561</guid>
@@ -180,7 +188,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2093430865162633227</guid>
       <pubDate>Fri, 28 Aug 2026 20:09:46 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>In the next version of tldraw, uploading multiple files will still succeed even if one of the files is invalid.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2093430844476325888/img/CeB1FiM8sFNQOh-u.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>In the next version of tldraw, uploading multiple files will still succeed even if one of the files is invalid.</p>]]></description>
     </item>
     <item>
       <title>you need to be sandwichmaxxing https://are.na/j-youngblood/sandwich-maxxing…</title>
@@ -204,7 +212,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2093345403542331513</guid>
       <pubDate>Fri, 28 Aug 2026 14:30:11 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>tldraw offline!</p>]]></description>
+      <description><![CDATA[<p>tldraw offline!</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2093329612545683456/img/lsFGDRKniUKDEZ9U.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Dia Canary is coming</title>
@@ -684,7 +692,7 @@
       <guid isPermaLink="true">https://x.com/pidotdev/status/2091873157036793947</guid>
       <pubDate>Mon, 24 Aug 2026 13:00:00 GMT</pubDate>
       <author>@pidotdev</author>
-      <description><![CDATA[<p>Ox Alpha is currently the most popular model on @OpenRouter and is free to use! <br><br>A reasoning model designed for coding, sustained agentic work and production workloads. 1M token context window, with support for text, image and video input. <br><br>Try it out in Pi today</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2091850005296365568/img/zwc9WFi8bqFA3iSH.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Ox Alpha is currently the most popular model on @OpenRouter and is free to use! <br><br>A reasoning model designed for coding, sustained agentic work and production workloads. 1M token context window, with support for text, image and video input. <br><br>Try it out in Pi today</p>]]></description>
     </item>
     <item>
       <title>You can also enable both bash and powershell.</title>
@@ -1597,14 +1605,6 @@
       <pubDate>Mon, 10 Aug 2026 16:37:39 GMT</pubDate>
       <author>@ryolu_</author>
       <description><![CDATA[<p>i left Cursor.<br><br>after 10 years inside the tech bubble in San Francisco, Cursor felt like the sharpest version of that world – fast, intense, ambitious, full of people trying to pull the future closer.<br><br>i’m leaving with gratitude, but also with the feeling that i need a different</p><p><img src="https://pbs.twimg.com/media/HPX_GmqaEAABfk9?format=jpg&amp;name=small" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>1 point for Levi. 1 point for battle scenes. 1/2 for mikasa and 1/2 for good vs evil.</title>
-      <link>https://x.com/shadcn/status/2086819793122853274</link>
-      <guid isPermaLink="true">https://x.com/shadcn/status/2086819793122853274</guid>
-      <pubDate>Mon, 10 Aug 2026 14:19:44 GMT</pubDate>
-      <author>@shadcn</author>
-      <description><![CDATA[<p>1 point for Levi. 1 point for battle scenes. 1/2 for mikasa and 1/2 for good vs evil.</p>]]></description>
     </item>
   </channel>
 </rss>

@@ -13,6 +13,14 @@
     </image>
     <ttl>120</ttl>
     <item>
+      <title>To show how much I care about performance, I just ordered the worst specced 2020 Intel MacBook Air</title>
+      <link>https://x.com/mitchellh/status/2094494569857777750</link>
+      <guid isPermaLink="true">https://x.com/mitchellh/status/2094494569857777750</guid>
+      <pubDate>Mon, 31 Aug 2026 18:36:33 GMT</pubDate>
+      <author>@mitchellh</author>
+      <description><![CDATA[<p>To show how much I care about performance, I just ordered the worst specced 2020 Intel MacBook Air I could find (i3, 1.1 GHz, 8 GB RAM). It is the last supported hardware for macOS 15, our min target for Superlogical. Going to optimize on it for worst-case behavior.</p>]]></description>
+    </item>
+    <item>
       <title>libghostty-vt running freestanding on a device with a 240 MHz CPU, 4 MB flash storage, and 520KB SRAM.</title>
       <link>https://x.com/mitchellh/status/2093788871331103150</link>
       <guid isPermaLink="true">https://x.com/mitchellh/status/2093788871331103150</guid>
