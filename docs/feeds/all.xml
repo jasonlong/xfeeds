@@ -7,6 +7,22 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>Join the waitlist → https://flash.tldraw.com/waitlist</title>
+      <link>https://x.com/tldraw/status/2094862971164053606</link>
+      <guid isPermaLink="true">https://x.com/tldraw/status/2094862971164053606</guid>
+      <pubDate>Tue, 01 Sep 2026 19:00:27 GMT</pubDate>
+      <author>@tldraw</author>
+      <description><![CDATA[<p>Join the waitlist → https://flash.tldraw.com/waitlist</p>]]></description>
+    </item>
+    <item>
+      <title>Bringing handmade animation to the infinite canvas</title>
+      <link>https://x.com/tldraw/status/2094862958761550217</link>
+      <guid isPermaLink="true">https://x.com/tldraw/status/2094862958761550217</guid>
+      <pubDate>Tue, 01 Sep 2026 19:00:24 GMT</pubDate>
+      <author>@tldraw</author>
+      <description><![CDATA[<p>Bringing handmade animation to the infinite canvas</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2094862935881576448/img/ZDdbWKyUr8Wb5szA.jpg" alt=""></p>]]></description>
+    </item>
+    <item>
       <title>The Story of VS Code Trailer</title>
       <link>https://x.com/avstorm/status/2094846788595302491</link>
       <guid isPermaLink="true">https://x.com/avstorm/status/2094846788595302491</guid>
@@ -92,7 +108,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2094501494649466962</guid>
       <pubDate>Mon, 31 Aug 2026 19:04:04 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>In case you missed it, our last release added the ability to hold ⌘ or Ctrl while using the drawing tool to hot-swap to the eraser.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2094501478211985408/img/q529v6uw7s8WHDED.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>In case you missed it, our last release added the ability to hold ⌘ or Ctrl while using the drawing tool to hot-swap to the eraser.</p>]]></description>
     </item>
     <item>
       <title>To show how much I care about performance, I just ordered the worst specced 2020 Intel MacBook Air</title>
@@ -116,7 +132,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2094439085838590223</guid>
       <pubDate>Mon, 31 Aug 2026 14:56:05 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>In the next version of tldraw, the text and bookmark shapes created by pasting will also be selected. This matches the select-on-paste behavior of other types of shapes.</p>]]></description>
+      <description><![CDATA[<p>In the next version of tldraw, the text and bookmark shapes created by pasting will also be selected. This matches the select-on-paste behavior of other types of shapes.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2094439069686403073/img/AU3c62g-EpOHDVBm.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>In the next version of tldraw, pasting from the context menu will center the pasted content on the</title>
@@ -204,7 +220,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2093700239853306317</guid>
       <pubDate>Sat, 29 Aug 2026 14:00:10 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>In the next version of tldraw, your screen&apos;s refresh rate no longer affects the speed of edge scrolling.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2093700222937706496/img/VSGdmye5BaGO54vW.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>In the next version of tldraw, your screen&apos;s refresh rate no longer affects the speed of edge scrolling.</p>]]></description>
     </item>
     <item>
       <title>I love how many people are attaching to the &quot;half-bounch&quot; startup time metric. I used to do paid</title>
@@ -220,7 +236,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2093669763348373558</guid>
       <pubDate>Sat, 29 Aug 2026 11:59:04 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>In the next version of tldraw, your screen&apos;s refresh rate no longer affects the friction of camera panning movements.</p>]]></description>
+      <description><![CDATA[<p>In the next version of tldraw, your screen&apos;s refresh rate no longer affects the friction of camera panning movements.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2093669746466340864/img/KPavfMJlsOdmPb0i.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Pi 0.84.4 is out 3 updates we’re excited for you to try: - Compaction now runs between large</title>
@@ -300,7 +316,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2093345403542331513</guid>
       <pubDate>Fri, 28 Aug 2026 14:30:11 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>tldraw offline!</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2093329612545683456/img/lsFGDRKniUKDEZ9U.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>tldraw offline!</p>]]></description>
     </item>
     <item>
       <title>Dia Canary is coming</title>
@@ -380,7 +396,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2093026717908848810</guid>
       <pubDate>Thu, 27 Aug 2026 17:23:50 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>In the next version of tldraw, changing the crop aspect ratio of a rotated image no longer causes its center to change.</p>]]></description>
+      <description><![CDATA[<p>In the next version of tldraw, changing the crop aspect ratio of a rotated image no longer causes its center to change.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2093026691518251008/img/jgdWB2-ljSAJ9x3m.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Media post</title>
@@ -420,7 +436,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2092926075940606147</guid>
       <pubDate>Thu, 27 Aug 2026 10:43:55 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>it&apos;s a fun time to be at tldraw</p>]]></description>
+      <description><![CDATA[<p>it&apos;s a fun time to be at tldraw</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2092925142498222080/img/zSTnvyDPzy-7961O.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>The benefits of switching between horizontal → vertical tabs are underrated. For the @superlogical multiplexer macOS client, both</title>
@@ -508,7 +524,7 @@
       <guid isPermaLink="true">https://x.com/avstorm/status/2092645980306890992</guid>
       <pubDate>Wed, 26 Aug 2026 16:10:55 GMT</pubDate>
       <author>@avstorm</author>
-      <description><![CDATA[<p>Surprise and shine.<br><br>#AppleEvent on Wednesday, September 9</p>]]></description>
+      <description><![CDATA[<p>Surprise and shine.<br><br>#AppleEvent on Wednesday, September 9</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2092645922505203712/img/9TdijoJ6Pxghmhlt.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Our @obsdmd plugin started asking for a license key a few weeks ago after our provided key expired.</title>
@@ -604,7 +620,7 @@
       <guid isPermaLink="true">https://x.com/avstorm/status/2092324054547997064</guid>
       <pubDate>Tue, 25 Aug 2026 18:51:42 GMT</pubDate>
       <author>@avstorm</author>
-      <description><![CDATA[<p>The handcrafted magic behind Apple&apos;s new Mac mini introduction</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2092323944220983296/img/_uPxj75bW0nXNmjX.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>The handcrafted magic behind Apple&apos;s new Mac mini introduction</p>]]></description>
     </item>
     <item>
       <title>casual day at the office</title>
@@ -1196,7 +1212,7 @@
       <guid isPermaLink="true">https://x.com/avstorm/status/2090174763213664496</guid>
       <pubDate>Wed, 19 Aug 2026 20:31:11 GMT</pubDate>
       <author>@avstorm</author>
-      <description><![CDATA[<p>Uber has introduced a new icon system</p>]]></description>
+      <description><![CDATA[<p>Uber has introduced a new icon system</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2090172787398709248/img/3H8QOwowvRo_Teg_.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>when they ask you to speak first at all hands</title>
@@ -1220,7 +1236,7 @@
       <guid isPermaLink="true">https://x.com/almonk/status/2090111057243132358</guid>
       <pubDate>Wed, 19 Aug 2026 16:18:03 GMT</pubDate>
       <author>@almonk</author>
-      <description><![CDATA[<p>wake up idiot, it&apos;s time to work</p><p><img src="https://pbs.twimg.com/media/HQDzNBlb0AAR3tJ?format=jpg&amp;name=240x240" alt=""></p>]]></description>
+      <description><![CDATA[<p>wake up idiot, it&apos;s time to work</p><p><img src="https://pbs.twimg.com/media/HQGQ5RNWgAAwwol?format=jpg&amp;name=small" alt=""></p><p><img src="https://pbs.twimg.com/media/HQDzNBlb0AAR3tJ?format=jpg&amp;name=240x240" alt=""></p>]]></description>
     </item>
     <item>
       <title>Nightmare fuel</title>
@@ -1268,7 +1284,7 @@
       <guid isPermaLink="true">https://x.com/avstorm/status/2090069368411463989</guid>
       <pubDate>Wed, 19 Aug 2026 13:32:23 GMT</pubDate>
       <author>@avstorm</author>
-      <description><![CDATA[<p>How Apple built the Preview app icon</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2090064632928948224/img/EsiB7B8aTY57LJ87.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>How Apple built the Preview app icon</p>]]></description>
     </item>
     <item>
       <title>Skills are often more context efficient than other tools and can be customized easily. Learn more about building</title>
@@ -1412,7 +1428,7 @@
       <guid isPermaLink="true">https://x.com/avstorm/status/2089412435711021389</guid>
       <pubDate>Mon, 17 Aug 2026 18:01:58 GMT</pubDate>
       <author>@avstorm</author>
-      <description><![CDATA[<p></p>]]></description>
+      <description><![CDATA[<p></p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2089412323031093248/img/23IHkUZ2EXvX38l5.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Apple has updated the traffic light buttons in macOS 27 Beta 6</title>
@@ -1588,23 +1604,7 @@
       <guid isPermaLink="true">https://x.com/avstorm/status/2087945405212282980</guid>
       <pubDate>Thu, 13 Aug 2026 16:52:31 GMT</pubDate>
       <author>@avstorm</author>
-      <description><![CDATA[<p>The new Instagram brand system</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2087945321020108801/img/0UM6_SFjjp9RQNQo.jpg" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>Media post</title>
-      <link>https://x.com/AREdotNA/status/2087943087653875890</link>
-      <guid isPermaLink="true">https://x.com/AREdotNA/status/2087943087653875890</guid>
-      <pubDate>Thu, 13 Aug 2026 16:43:18 GMT</pubDate>
-      <author>@AREdotNA</author>
-      <description><![CDATA[<p></p>]]></description>
-    </item>
-    <item>
-      <title>New on /editorial @saramagenheimer interviews Emily Labarge about her book Dog Days, trauma as a rupturing experience, and</title>
-      <link>https://x.com/AREdotNA/status/2087943084038336885</link>
-      <guid isPermaLink="true">https://x.com/AREdotNA/status/2087943084038336885</guid>
-      <pubDate>Thu, 13 Aug 2026 16:43:17 GMT</pubDate>
-      <author>@AREdotNA</author>
-      <description><![CDATA[<p>New on /editorial<br><br>@saramagenheimer interviews Emily Labarge about her book Dog Days, trauma as a rupturing experience, and references as fellow travelers<br><br>“That’s the critical act: paying attention to something until it offers you infinity”</p><p><img src="https://pbs.twimg.com/media/HPndK2PXsAAQ7P2?format=jpg&amp;name=small" alt=""></p>]]></description>
+      <description><![CDATA[<p>The new Instagram brand system</p>]]></description>
     </item>
   </channel>
 </rss>
