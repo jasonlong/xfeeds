@@ -58,7 +58,7 @@
       <guid isPermaLink="true">https://x.com/mitchellh/status/2093028073503678466</guid>
       <pubDate>Thu, 27 Aug 2026 17:29:13 GMT</pubDate>
       <author>@mitchellh</author>
-      <description><![CDATA[<p>Respect for anyone who objectively reassesses their priors. Also grateful because it’s genuinely hard to get diverse benchmark numbers across hardware and this was another good data point on a machine that isn’t typical for the maintainers we have. Ghostty is fast.</p><p><img src="https://pbs.twimg.com/media/HQvl2FEWIAAxPaW?format=jpg&amp;name=large" alt=""></p><p><img src="https://pbs.twimg.com/media/HQvoAPUWkAAcSAE?format=jpg&amp;name=360x360" alt=""></p><p><img src="https://pbs.twimg.com/media/HQvo4akXMAAVvVP?format=png&amp;name=360x360" alt=""></p>]]></description>
+      <description><![CDATA[<p>Respect for anyone who objectively reassesses their priors. Also grateful because it’s genuinely hard to get diverse benchmark numbers across hardware and this was another good data point on a machine that isn’t typical for the maintainers we have. Ghostty is fast.</p><p><img src="https://pbs.twimg.com/media/HQvl2FEWIAAxPaW?format=jpg&amp;name=large" alt=""></p><p><img src="https://pbs.twimg.com/media/HQvoAPUWkAAcSAE?format=jpg&amp;name=small" alt=""></p><p><img src="https://pbs.twimg.com/media/HQvo4akXMAAVvVP?format=png&amp;name=360x360" alt=""></p>]]></description>
     </item>
     <item>
       <title>The Ghostty memory usage memes are dead with the upcoming 1.4 release, much to the dismay of internet</title>
@@ -146,7 +146,7 @@
       <guid isPermaLink="true">https://x.com/mitchellh/status/2088383346439336232</guid>
       <pubDate>Fri, 14 Aug 2026 21:52:44 GMT</pubDate>
       <author>@mitchellh</author>
-      <description><![CDATA[<p>A couple more notes on this:<br><br>First, the xterm.js benchmarks were very noisy. A lot of the results relied on whether they got lucky with the V8 JIT/inliner. e.g. the frame times for ASCII ranged from 20us to 100us (!!!). For the purpose of optimism, I only used the fastest times</p><p><img src="https://pbs.twimg.com/media/HPtnSFwboAAHICD?format=jpg&amp;name=360x360" alt=""></p><p><img src="https://pbs.twimg.com/media/HPtnTA7bYAE6600?format=jpg&amp;name=360x360" alt=""></p><p><img src="https://pbs.twimg.com/media/HPtnT8qbUAAjc6M?format=jpg&amp;name=360x360" alt=""></p><p><img src="https://pbs.twimg.com/media/HPtnUh_bYAAj8kz?format=jpg&amp;name=360x360" alt=""></p>]]></description>
+      <description><![CDATA[<p>A couple more notes on this:<br><br>First, the xterm.js benchmarks were very noisy. A lot of the results relied on whether they got lucky with the V8 JIT/inliner. e.g. the frame times for ASCII ranged from 20us to 100us (!!!). For the purpose of optimism, I only used the fastest times</p><p><img src="https://pbs.twimg.com/media/HPtnSFwboAAHICD?format=jpg&amp;name=small" alt=""></p><p><img src="https://pbs.twimg.com/media/HPtnTA7bYAE6600?format=jpg&amp;name=small" alt=""></p><p><img src="https://pbs.twimg.com/media/HPtnT8qbUAAjc6M?format=jpg&amp;name=small" alt=""></p><p><img src="https://pbs.twimg.com/media/HPtnUh_bYAAj8kz?format=jpg&amp;name=small" alt=""></p>]]></description>
     </item>
     <item>
       <title>libghostty for WebAssembly got a lot of love recently and is now very, very, very good. I spent</title>
