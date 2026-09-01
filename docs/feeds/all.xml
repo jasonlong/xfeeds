@@ -7,6 +7,14 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>come on in, the water is warm</title>
+      <link>https://x.com/AREdotNA/status/2094832657255293081</link>
+      <guid isPermaLink="true">https://x.com/AREdotNA/status/2094832657255293081</guid>
+      <pubDate>Tue, 01 Sep 2026 17:00:00 GMT</pubDate>
+      <author>@AREdotNA</author>
+      <description><![CDATA[<p>come on in, the water is warm</p><p><img src="https://pbs.twimg.com/media/HRIygyRXYAENedD?format=jpg&amp;name=small" alt=""></p>]]></description>
+    </item>
+    <item>
       <title>Join the waitlist → https://flash.tldraw.com/waitlist</title>
       <link>https://x.com/tldraw/status/2094787559834648873</link>
       <guid isPermaLink="true">https://x.com/tldraw/status/2094787559834648873</guid>
@@ -180,7 +188,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2093700239853306317</guid>
       <pubDate>Sat, 29 Aug 2026 14:00:10 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>In the next version of tldraw, your screen&apos;s refresh rate no longer affects the speed of edge scrolling.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2093700222937706496/img/VSGdmye5BaGO54vW.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>In the next version of tldraw, your screen&apos;s refresh rate no longer affects the speed of edge scrolling.</p>]]></description>
     </item>
     <item>
       <title>I love how many people are attaching to the &quot;half-bounch&quot; startup time metric. I used to do paid</title>
@@ -196,7 +204,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2093669763348373558</guid>
       <pubDate>Sat, 29 Aug 2026 11:59:04 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>In the next version of tldraw, your screen&apos;s refresh rate no longer affects the friction of camera panning movements.</p>]]></description>
+      <description><![CDATA[<p>In the next version of tldraw, your screen&apos;s refresh rate no longer affects the friction of camera panning movements.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2093669746466340864/img/KPavfMJlsOdmPb0i.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Pi 0.84.4 is out 3 updates we’re excited for you to try: - Compaction now runs between large</title>
@@ -548,7 +556,7 @@
       <guid isPermaLink="true">https://x.com/AREdotNA/status/2092338689451995558</guid>
       <pubDate>Tue, 25 Aug 2026 19:49:51 GMT</pubDate>
       <author>@AREdotNA</author>
-      <description><![CDATA[<p>Our browser extension now allows for cropped screenshots.<br><br>It&apos;s the little things.</p>]]></description>
+      <description><![CDATA[<p>Our browser extension now allows for cropped screenshots.<br><br>It&apos;s the little things.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2092338356680093697/img/9IGsp1JP6-RqwsGF.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>We need more of that</title>
@@ -948,7 +956,7 @@
       <guid isPermaLink="true">https://x.com/AREdotNA/status/2090856859833893079</guid>
       <pubDate>Fri, 21 Aug 2026 17:41:36 GMT</pubDate>
       <author>@AREdotNA</author>
-      <description><![CDATA[<p>Niche, but useful: you can now drag across windows to connect blocks</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2090856846441558016/img/1dna34GtL9Ofwo1h.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Niche, but useful: you can now drag across windows to connect blocks</p>]]></description>
     </item>
     <item>
       <title>We&apos;ve added support for private GitHub registries. npx shadcn list &lt;username&gt;/&lt;repo&gt;</title>
@@ -1597,14 +1605,6 @@
       <pubDate>Thu, 13 Aug 2026 15:23:21 GMT</pubDate>
       <author>@avstorm</author>
       <description><![CDATA[<p>Instagram got a new wordmark</p><p><img src="https://pbs.twimg.com/media/HPnK3pCXsAARMyV?format=jpg&amp;name=small" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>Because it knows where you are in a document, something as vague as &quot;what does he mean here&quot;</title>
-      <link>https://x.com/ReadwiseReader/status/2087900052056637939</link>
-      <guid isPermaLink="true">https://x.com/ReadwiseReader/status/2087900052056637939</guid>
-      <pubDate>Thu, 13 Aug 2026 13:52:18 GMT</pubDate>
-      <author>@ReadwiseReader</author>
-      <description><![CDATA[<p>Because it knows where you are in a document, something as vague as &quot;what does he mean here&quot; just works<br><br>No need to dump a bunch of context for each question<br><br>Ask where else the author makes a point and you&apos;ll get the answer, with a link to the source passage.</p>]]></description>
     </item>
   </channel>
 </rss>
