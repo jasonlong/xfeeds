@@ -7,6 +7,22 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>cn has full parity, identical output and a smaller bundle. You can migrate your project today in one</title>
+      <link>https://x.com/shadcn/status/2095179051681882217</link>
+      <guid isPermaLink="true">https://x.com/shadcn/status/2095179051681882217</guid>
+      <pubDate>Wed, 02 Sep 2026 15:56:27 GMT</pubDate>
+      <author>@shadcn</author>
+      <description><![CDATA[<p>cn has full parity, identical output and a smaller bundle.<br><br>You can migrate your project today in one command: `npx shadcn migrate cn`<br><br>It works with any Tailwind project (not limited to shadcn/ui).</p><p><img src="https://pbs.twimg.com/media/HROQ1ixbEAAh-Hw?format=png&amp;name=small" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>We are open sourcing `cn`, a new engine for Tailwind class merging and conflict resolution. It is a</title>
+      <link>https://x.com/shadcn/status/2095179046904607092</link>
+      <guid isPermaLink="true">https://x.com/shadcn/status/2095179046904607092</guid>
+      <pubDate>Wed, 02 Sep 2026 15:56:25 GMT</pubDate>
+      <author>@shadcn</author>
+      <description><![CDATA[<p>We are open sourcing `cn`, a new engine for Tailwind class merging and conflict resolution. It is a drop-in replacement for tailwind-merge and clsx.<br><br>It works with all frameworks, runs everywhere and is 30x faster.<br><br>Brought to you by @aidenybai and me.</p>]]></description>
+    </item>
+    <item>
       <title>Join the waitlist → https://flash.tldraw.com/waitlist</title>
       <link>https://x.com/tldraw/status/2095148770342342724</link>
       <guid isPermaLink="true">https://x.com/tldraw/status/2095148770342342724</guid>
@@ -268,7 +284,7 @@
       <guid isPermaLink="true">https://x.com/shadcn/status/2093769104704360553</guid>
       <pubDate>Sat, 29 Aug 2026 18:33:49 GMT</pubDate>
       <author>@shadcn</author>
-      <description><![CDATA[<p>Copper is one month old today.<br><br>I built it to keep the prompts, answers, links and half-formed ideas that come up when working with AI.<br><br>Thank you to everyone who bought it, sent feedback and made Copper part of how they work.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2093768647101562880/img/eHyNeXwRlLATyHsk.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Copper is one month old today.<br><br>I built it to keep the prompts, answers, links and half-formed ideas that come up when working with AI.<br><br>Thank you to everyone who bought it, sent feedback and made Copper part of how they work.</p>]]></description>
     </item>
     <item>
       <title>In the next version of tldraw, your screen&apos;s refresh rate no longer affects the speed of edge scrolling.</title>
@@ -1516,7 +1532,7 @@
       <guid isPermaLink="true">https://x.com/shadcn/status/2089361600402657624</guid>
       <pubDate>Mon, 17 Aug 2026 14:39:58 GMT</pubDate>
       <author>@shadcn</author>
-      <description><![CDATA[<p>Copper now supports freehand drawing.<br><br>Hit Cmd + (Right) Shift + Shift to open the editor from anywhere.<br><br>Draw. Add shapes. Text. Colors.<br><br>Save to Copper. Or Copy Paste straight to your prompt composer.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2089361286987468800/img/-voOR_BgBTDDc5_3.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Copper now supports freehand drawing.<br><br>Hit Cmd + (Right) Shift + Shift to open the editor from anywhere.<br><br>Draw. Add shapes. Text. Colors.<br><br>Save to Copper. Or Copy Paste straight to your prompt composer.</p>]]></description>
     </item>
     <item>
       <title>I&apos;ve moved on to optimizing libghostty Wasm runtime memory usage and I am learning a lot! The first</title>
@@ -1589,22 +1605,6 @@
       <pubDate>Fri, 14 Aug 2026 21:52:44 GMT</pubDate>
       <author>@mitchellh</author>
       <description><![CDATA[<p>A couple more notes on this:<br><br>First, the xterm.js benchmarks were very noisy. A lot of the results relied on whether they got lucky with the V8 JIT/inliner. e.g. the frame times for ASCII ranged from 20us to 100us (!!!). For the purpose of optimism, I only used the fastest times</p><p><img src="https://pbs.twimg.com/media/HPtnSFwboAAHICD?format=jpg&amp;name=small" alt=""></p><p><img src="https://pbs.twimg.com/media/HPtnTA7bYAE6600?format=jpg&amp;name=small" alt=""></p><p><img src="https://pbs.twimg.com/media/HPtnT8qbUAAjc6M?format=jpg&amp;name=small" alt=""></p><p><img src="https://pbs.twimg.com/media/HPtnUh_bYAAj8kz?format=jpg&amp;name=small" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>libghostty for WebAssembly got a lot of love recently and is now very, very, very good. I spent</title>
-      <link>https://x.com/mitchellh/status/2088378990998524206</link>
-      <guid isPermaLink="true">https://x.com/mitchellh/status/2088378990998524206</guid>
-      <pubDate>Fri, 14 Aug 2026 21:35:26 GMT</pubDate>
-      <author>@mitchellh</author>
-      <description><![CDATA[<p>libghostty for WebAssembly got a lot of love recently and is now very, very, very good. I spent the day building harnesses and comparing to xterm.js and here are the results: faster at IO, faster at reflow, faster at rendering. Like, a lot a lot faster. <br><br>We now provide pre-built</p><p><img src="https://pbs.twimg.com/media/HPtnSFwboAAHICD?format=jpg&amp;name=small" alt=""></p><p><img src="https://pbs.twimg.com/media/HPtnTA7bYAE6600?format=jpg&amp;name=small" alt=""></p><p><img src="https://pbs.twimg.com/media/HPtnT8qbUAAjc6M?format=jpg&amp;name=small" alt=""></p><p><img src="https://pbs.twimg.com/media/HPtnUh_bYAAj8kz?format=jpg&amp;name=small" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>same (except i am immortal)</title>
-      <link>https://x.com/AREdotNA/status/2088375952090779904</link>
-      <guid isPermaLink="true">https://x.com/AREdotNA/status/2088375952090779904</guid>
-      <pubDate>Fri, 14 Aug 2026 21:23:21 GMT</pubDate>
-      <author>@AREdotNA</author>
-      <description><![CDATA[<p>same (except i am immortal)</p>]]></description>
     </item>
   </channel>
 </rss>

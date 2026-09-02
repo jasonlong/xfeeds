@@ -13,6 +13,22 @@
     </image>
     <ttl>120</ttl>
     <item>
+      <title>cn has full parity, identical output and a smaller bundle. You can migrate your project today in one</title>
+      <link>https://x.com/shadcn/status/2095179051681882217</link>
+      <guid isPermaLink="true">https://x.com/shadcn/status/2095179051681882217</guid>
+      <pubDate>Wed, 02 Sep 2026 15:56:27 GMT</pubDate>
+      <author>@shadcn</author>
+      <description><![CDATA[<p>cn has full parity, identical output and a smaller bundle.<br><br>You can migrate your project today in one command: `npx shadcn migrate cn`<br><br>It works with any Tailwind project (not limited to shadcn/ui).</p><p><img src="https://pbs.twimg.com/media/HROQ1ixbEAAh-Hw?format=png&amp;name=small" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>We are open sourcing `cn`, a new engine for Tailwind class merging and conflict resolution. It is a</title>
+      <link>https://x.com/shadcn/status/2095179046904607092</link>
+      <guid isPermaLink="true">https://x.com/shadcn/status/2095179046904607092</guid>
+      <pubDate>Wed, 02 Sep 2026 15:56:25 GMT</pubDate>
+      <author>@shadcn</author>
+      <description><![CDATA[<p>We are open sourcing `cn`, a new engine for Tailwind class merging and conflict resolution. It is a drop-in replacement for tailwind-merge and clsx.<br><br>It works with all frameworks, runs everywhere and is 30x faster.<br><br>Brought to you by @aidenybai and me.</p>]]></description>
+    </item>
+    <item>
       <title>Media post</title>
       <link>https://x.com/shadcn/status/2093769107141165229</link>
       <guid isPermaLink="true">https://x.com/shadcn/status/2093769107141165229</guid>
@@ -26,7 +42,7 @@
       <guid isPermaLink="true">https://x.com/shadcn/status/2093769104704360553</guid>
       <pubDate>Sat, 29 Aug 2026 18:33:49 GMT</pubDate>
       <author>@shadcn</author>
-      <description><![CDATA[<p>Copper is one month old today.<br><br>I built it to keep the prompts, answers, links and half-formed ideas that come up when working with AI.<br><br>Thank you to everyone who bought it, sent feedback and made Copper part of how they work.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2093768647101562880/img/eHyNeXwRlLATyHsk.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Copper is one month old today.<br><br>I built it to keep the prompts, answers, links and half-formed ideas that come up when working with AI.<br><br>Thank you to everyone who bought it, sent feedback and made Copper part of how they work.</p>]]></description>
     </item>
     <item>
       <title>generational aura loss</title>
@@ -130,7 +146,7 @@
       <guid isPermaLink="true">https://x.com/shadcn/status/2089361600402657624</guid>
       <pubDate>Mon, 17 Aug 2026 14:39:58 GMT</pubDate>
       <author>@shadcn</author>
-      <description><![CDATA[<p>Copper now supports freehand drawing.<br><br>Hit Cmd + (Right) Shift + Shift to open the editor from anywhere.<br><br>Draw. Add shapes. Text. Colors.<br><br>Save to Copper. Or Copy Paste straight to your prompt composer.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2089361286987468800/img/-voOR_BgBTDDc5_3.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Copper now supports freehand drawing.<br><br>Hit Cmd + (Right) Shift + Shift to open the editor from anywhere.<br><br>Draw. Add shapes. Text. Colors.<br><br>Save to Copper. Or Copy Paste straight to your prompt composer.</p>]]></description>
     </item>
     <item>
       <title>First time reading Harry Potter fan fiction. Recommendation from @AliAbdaal</title>
