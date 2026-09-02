@@ -50,7 +50,7 @@
       <guid isPermaLink="true">https://x.com/mitchellh/status/2093788871331103150</guid>
       <pubDate>Sat, 29 Aug 2026 19:52:22 GMT</pubDate>
       <author>@mitchellh</author>
-      <description><![CDATA[<p>libghostty-vt running freestanding on a device with a 240 MHz CPU, 4 MB flash storage, and 520KB SRAM.</p>]]></description>
+      <description><![CDATA[<p>libghostty-vt running freestanding on a device with a 240 MHz CPU, 4 MB flash storage, and 520KB SRAM. 😎</p>]]></description>
     </item>
     <item>
       <title>I love how many people are attaching to the &quot;half-bounch&quot; startup time metric. I used to do paid</title>
@@ -66,7 +66,7 @@
       <guid isPermaLink="true">https://x.com/mitchellh/status/2093456226810200230</guid>
       <pubDate>Fri, 28 Aug 2026 21:50:33 GMT</pubDate>
       <author>@mitchellh</author>
-      <description><![CDATA[<p>I can&apos;t tell you the number of people over my career that have said &quot;I tried learning tmux&quot; First problem: the fact you have to &quot;learn it&quot; at all. The world&apos;s best multiplexer is the one you don&apos;t have to learn. It just works. That&apos;s what we&apos;re building (and then some ).</p>]]></description>
+      <description><![CDATA[<p>I can&apos;t tell you the number of people over my career that have said &quot;I tried learning tmux&quot; First problem: the fact you have to &quot;learn it&quot; at all. The world&apos;s best multiplexer is the one you don&apos;t have to learn. It just works. That&apos;s what we&apos;re building (and then some 😜).</p>]]></description>
     </item>
     <item>
       <title>Quick Superlogical demo to end the week. This demo is just of the basic functionality, but I want</title>
@@ -82,7 +82,7 @@
       <guid isPermaLink="true">https://x.com/mitchellh/status/2093028073503678466</guid>
       <pubDate>Thu, 27 Aug 2026 17:29:13 GMT</pubDate>
       <author>@mitchellh</author>
-      <description><![CDATA[<p>Respect for anyone who objectively reassesses their priors. Also grateful because it’s genuinely hard to get diverse benchmark numbers across hardware and this was another good data point on a machine that isn’t typical for the maintainers we have. Ghostty is fast.</p><p><img src="https://pbs.twimg.com/media/HQvl2FEWIAAxPaW?format=jpg&amp;name=large" alt=""></p><p><img src="https://pbs.twimg.com/media/HQvoAPUWkAAcSAE?format=jpg&amp;name=small" alt=""></p><p><img src="https://pbs.twimg.com/media/HQvo4akXMAAVvVP?format=png&amp;name=360x360" alt=""></p>]]></description>
+      <description><![CDATA[<p>Respect for anyone who objectively reassesses their priors. Also grateful because it’s genuinely hard to get diverse benchmark numbers across hardware and this was another good data point on a machine that isn’t typical for the maintainers we have. Ghostty is fast. ❤️</p><p><img src="https://pbs.twimg.com/media/HQvl2FEWIAAxPaW?format=jpg&amp;name=large" alt=""></p><p><img src="https://pbs.twimg.com/media/HQvoAPUWkAAcSAE?format=jpg&amp;name=small" alt=""></p><p><img src="https://pbs.twimg.com/media/HQvo4akXMAAVvVP?format=png&amp;name=360x360" alt=""></p>]]></description>
     </item>
     <item>
       <title>The Ghostty memory usage memes are dead with the upcoming 1.4 release, much to the dismay of internet</title>
@@ -98,7 +98,7 @@
       <guid isPermaLink="true">https://x.com/mitchellh/status/2092250065582895509</guid>
       <pubDate>Tue, 25 Aug 2026 13:57:42 GMT</pubDate>
       <author>@mitchellh</author>
-      <description><![CDATA[<p>OSC parsing in libghostty was our last non-SIMD optimized VT stream path. OSCs are usually small so it just never showed up on benchmarks. But now that we are potentially passing megabytes of data (Kitty clipboard), it got the SIMD treatment.</p><p><img src="https://pbs.twimg.com/media/HQkqMJZbEAA1UyG?format=jpg&amp;name=small" alt=""></p>]]></description>
+      <description><![CDATA[<p>OSC parsing in libghostty was our last non-SIMD optimized VT stream path. OSCs are usually small so it just never showed up on benchmarks. But now that we are potentially passing megabytes of data (Kitty clipboard), it got the SIMD treatment. 🫡</p><p><img src="https://pbs.twimg.com/media/HQkqMJZbEAA1UyG?format=jpg&amp;name=small" alt=""></p>]]></description>
     </item>
     <item>
       <title>@jarredsumner btw, sorry it took so long.</title>
