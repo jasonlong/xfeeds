@@ -7,6 +7,14 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>Why a new engine? Speed yes. And we have a few interesting things built on top of coming</title>
+      <link>https://x.com/shadcn/status/2095205979906335176</link>
+      <guid isPermaLink="true">https://x.com/shadcn/status/2095205979906335176</guid>
+      <pubDate>Wed, 02 Sep 2026 17:43:27 GMT</pubDate>
+      <author>@shadcn</author>
+      <description><![CDATA[<p>Why a new engine? Speed yes. And we have a few interesting things built on top of coming soon.</p>]]></description>
+    </item>
+    <item>
       <title>remember tv party? (of course you don&apos;t)</title>
       <link>https://x.com/AREdotNA/status/2095197132953108725</link>
       <guid isPermaLink="true">https://x.com/AREdotNA/status/2095197132953108725</guid>
@@ -300,7 +308,7 @@
       <guid isPermaLink="true">https://x.com/shadcn/status/2093769104704360553</guid>
       <pubDate>Sat, 29 Aug 2026 18:33:49 GMT</pubDate>
       <author>@shadcn</author>
-      <description><![CDATA[<p>Copper is one month old today.<br><br>I built it to keep the prompts, answers, links and half-formed ideas that come up when working with AI.<br><br>Thank you to everyone who bought it, sent feedback and made Copper part of how they work.</p>]]></description>
+      <description><![CDATA[<p>Copper is one month old today.<br><br>I built it to keep the prompts, answers, links and half-formed ideas that come up when working with AI.<br><br>Thank you to everyone who bought it, sent feedback and made Copper part of how they work.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2093768647101562880/img/eHyNeXwRlLATyHsk.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>In the next version of tldraw, your screen&apos;s refresh rate no longer affects the speed of edge scrolling.</title>
@@ -1597,14 +1605,6 @@
       <pubDate>Sun, 16 Aug 2026 13:14:11 GMT</pubDate>
       <author>@pidotdev</author>
       <description><![CDATA[<p>Thanks to our friends at @syntaxfm for the fantastic conversation!</p>]]></description>
-    </item>
-    <item>
-      <title>Can @kapish_dima save me from learning After Effects?</title>
-      <link>https://x.com/shadcn/status/2088940156480815210</link>
-      <guid isPermaLink="true">https://x.com/shadcn/status/2088940156480815210</guid>
-      <pubDate>Sun, 16 Aug 2026 10:45:18 GMT</pubDate>
-      <author>@shadcn</author>
-      <description><![CDATA[<p>Can @kapish_dima save me from learning After Effects?</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2087933239990366208/img/OhwI_Cvu_Q-lB4p9.jpg" alt=""></p>]]></description>
     </item>
   </channel>
 </rss>
