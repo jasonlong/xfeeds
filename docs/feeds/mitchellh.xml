@@ -13,6 +13,22 @@
     </image>
     <ttl>120</ttl>
     <item>
+      <title>A video explaining a handful of the tricks we use to optimize for memory within the Superlogical server:</title>
+      <link>https://x.com/mitchellh/status/2095232081853039041</link>
+      <guid isPermaLink="true">https://x.com/mitchellh/status/2095232081853039041</guid>
+      <pubDate>Wed, 02 Sep 2026 19:27:10 GMT</pubDate>
+      <author>@mitchellh</author>
+      <description><![CDATA[<p>A video explaining a handful of the tricks we use to optimize for memory within the Superlogical server: in-memory compression, moving file descriptors between event-driven and blocked threads dynamically, full terminal state binary snapshot/restore in microseconds, and more!</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2095231696694312961/img/4X8RDN0dk4H5TQWS.jpg" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>The Superlogical server is built to run anywhere and everywhere and serve a level of scale (terminals+clients) unmatched</title>
+      <link>https://x.com/mitchellh/status/2095218879714996629</link>
+      <guid isPermaLink="true">https://x.com/mitchellh/status/2095218879714996629</guid>
+      <pubDate>Wed, 02 Sep 2026 18:34:42 GMT</pubDate>
+      <author>@mitchellh</author>
+      <description><![CDATA[<p>The Superlogical server is built to run anywhere and everywhere and serve a level of scale (terminals+clients) unmatched w/ prior solutions. So let&apos;s start talking about that, starting with memory usage and comparisons to other popular multiplexers.<br><br>I want to start by talking</p><p><img src="https://pbs.twimg.com/media/HRO1NAzbUAAm6P2?format=jpg&amp;name=small" alt=""></p><p><img src="https://pbs.twimg.com/media/HRO1NA2bIAAbuq2?format=jpg&amp;name=small" alt=""></p><p><img src="https://pbs.twimg.com/media/HRO1NA3bIAA0ADR?format=jpg&amp;name=small" alt=""></p><p><img src="https://pbs.twimg.com/media/HRO1NA0bUAArykU?format=jpg&amp;name=small" alt=""></p>]]></description>
+    </item>
+    <item>
       <title>To show how much I care about performance, I just ordered the worst specced 2020 Intel MacBook Air</title>
       <link>https://x.com/mitchellh/status/2094494569857777750</link>
       <guid isPermaLink="true">https://x.com/mitchellh/status/2094494569857777750</guid>
@@ -26,7 +42,7 @@
       <guid isPermaLink="true">https://x.com/mitchellh/status/2093788871331103150</guid>
       <pubDate>Sat, 29 Aug 2026 19:52:22 GMT</pubDate>
       <author>@mitchellh</author>
-      <description><![CDATA[<p>libghostty-vt running freestanding on a device with a 240 MHz CPU, 4 MB flash storage, and 520KB SRAM.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2093774574479405056/img/dBOL94yIaYkQ9yXK.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>libghostty-vt running freestanding on a device with a 240 MHz CPU, 4 MB flash storage, and 520KB SRAM.</p>]]></description>
     </item>
     <item>
       <title>I love how many people are attaching to the &quot;half-bounch&quot; startup time metric. I used to do paid</title>
@@ -90,7 +106,7 @@
       <guid isPermaLink="true">https://x.com/mitchellh/status/2092001755055972800</guid>
       <pubDate>Mon, 24 Aug 2026 21:31:00 GMT</pubDate>
       <author>@mitchellh</author>
-      <description><![CDATA[<p>Ghostty (and libghostty) now fully implement the Kitty clipboard protocol to allow apps to read/write non-textual data (like images!). Ghostty is the first to implement the full protocol outside Kitty. The biggest program to support this is probably Claude Code. Demo below.<br><br>This</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2092000584065036288/img/_1QaF0_tQWMqNoAB.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Ghostty (and libghostty) now fully implement the Kitty clipboard protocol to allow apps to read/write non-textual data (like images!). Ghostty is the first to implement the full protocol outside Kitty. The biggest program to support this is probably Claude Code. Demo below.<br><br>This</p>]]></description>
     </item>
     <item>
       <title>Part of the LLM-assisted work here is that Fable+Sol put together a test suite of over 400 cases</title>
