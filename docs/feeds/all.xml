@@ -7,6 +7,14 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>One of my favourite things about building @superlogical is that we all care, a disproportionate amount, about the</title>
+      <link>https://x.com/almonk/status/2095134190631096428</link>
+      <guid isPermaLink="true">https://x.com/almonk/status/2095134190631096428</guid>
+      <pubDate>Wed, 02 Sep 2026 12:58:11 GMT</pubDate>
+      <author>@almonk</author>
+      <description><![CDATA[<p>One of my favourite things about building @superlogical is that we all care, a disproportionate amount, about the little conveniences, performance gains and UI treats that most rational people just don’t.<br><br>I&apos;m currently working on our scrollback search UI. You basically have two</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2095133930185768966/img/z5RWxH7rU_yRstfx.jpg" alt=""></p>]]></description>
+    </item>
+    <item>
       <title>Tips to get the most out of /tree: - shift+l: label checkpoints - ctrl+o: cycle through to view</title>
       <link>https://x.com/pidotdev/status/2095119153766015285</link>
       <guid isPermaLink="true">https://x.com/pidotdev/status/2095119153766015285</guid>
@@ -284,7 +292,7 @@
       <guid isPermaLink="true">https://x.com/almonk/status/2093596518557036897</guid>
       <pubDate>Sat, 29 Aug 2026 07:08:01 GMT</pubDate>
       <author>@almonk</author>
-      <description><![CDATA[<p>Fast is the feature</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2093450067940360192/img/9Ea_DUx0Vkr3lB7k.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Fast is the feature</p>]]></description>
     </item>
     <item>
       <title>Small pi update for y&apos;all!</title>
@@ -476,7 +484,7 @@
       <guid isPermaLink="true">https://x.com/almonk/status/2092908172381982782</guid>
       <pubDate>Thu, 27 Aug 2026 09:32:47 GMT</pubDate>
       <author>@almonk</author>
-      <description><![CDATA[<p>The benefits of switching between horizontal → vertical tabs are underrated. For the @superlogical multiplexer macOS client, both tab styles are great for very different working styles. <br><br>For me, horizontal tabs are great for more focussed projects or tasks. I&apos;ll open a repo,</p>]]></description>
+      <description><![CDATA[<p>The benefits of switching between horizontal → vertical tabs are underrated. For the @superlogical multiplexer macOS client, both tab styles are great for very different working styles. <br><br>For me, horizontal tabs are great for more focussed projects or tasks. I&apos;ll open a repo,</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2092907309491986432/img/huhq6O-yc-OpeA3O.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>you either die a yolo mode or live long enough to become auto allow</title>
@@ -612,7 +620,7 @@
       <guid isPermaLink="true">https://x.com/almonk/status/2092517501926019076</guid>
       <pubDate>Wed, 26 Aug 2026 07:40:24 GMT</pubDate>
       <author>@almonk</author>
-      <description><![CDATA[<p>You should probably follow @prekesh for a masterclass in creative Blender work, and also very good pictures of birds</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2092513102411534336/img/dNGqqcgNNuuEuKgF.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>You should probably follow @prekesh for a masterclass in creative Blender work, and also very good pictures of birds</p>]]></description>
     </item>
     <item>
       <title>Our browser extension now allows for cropped screenshots. It&apos;s the little things.</title>
@@ -788,7 +796,7 @@
       <guid isPermaLink="true">https://x.com/mitchellh/status/2092001755055972800</guid>
       <pubDate>Mon, 24 Aug 2026 21:31:00 GMT</pubDate>
       <author>@mitchellh</author>
-      <description><![CDATA[<p>Ghostty (and libghostty) now fully implement the Kitty clipboard protocol to allow apps to read/write non-textual data (like images!). Ghostty is the first to implement the full protocol outside Kitty. The biggest program to support this is probably Claude Code. Demo below.<br><br>This</p>]]></description>
+      <description><![CDATA[<p>Ghostty (and libghostty) now fully implement the Kitty clipboard protocol to allow apps to read/write non-textual data (like images!). Ghostty is the first to implement the full protocol outside Kitty. The biggest program to support this is probably Claude Code. Demo below.<br><br>This</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2092000584065036288/img/_1QaF0_tQWMqNoAB.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Tiny detail: All slider icons now match Apple’s new Liquid Glass slider thumb in upcoming OS versions.</title>
@@ -1597,14 +1605,6 @@
       <pubDate>Thu, 13 Aug 2026 20:01:07 GMT</pubDate>
       <author>@ryolu_</author>
       <description><![CDATA[<p>matic is the first robot i’ve owned that actually feels like it gets smarter with every update</p>]]></description>
-    </item>
-    <item>
-      <title>The shadcn cli can now read registries config out of package.json. Which means if you&apos;re distributing non-component code,</title>
-      <link>https://x.com/shadcn/status/2087977629227925765</link>
-      <guid isPermaLink="true">https://x.com/shadcn/status/2087977629227925765</guid>
-      <pubDate>Thu, 13 Aug 2026 19:00:34 GMT</pubDate>
-      <author>@shadcn</author>
-      <description><![CDATA[<p>The shadcn cli can now read registries config out of package.json. Which means if you&apos;re distributing non-component code, no components.json required.<br><br>It works with everything else: add, search, view. <br><br>Any project can now install code from registries.</p><p><img src="https://pbs.twimg.com/media/HPn788bWMAAk0Zt?format=jpg&amp;name=small" alt=""></p>]]></description>
     </item>
   </channel>
 </rss>
