@@ -7,6 +7,14 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>Media post</title>
+      <link>https://x.com/AREdotNA/status/2095592992409034998</link>
+      <guid isPermaLink="true">https://x.com/AREdotNA/status/2095592992409034998</guid>
+      <pubDate>Thu, 03 Sep 2026 19:21:18 GMT</pubDate>
+      <author>@AREdotNA</author>
+      <description><![CDATA[<p></p><p><img src="https://pbs.twimg.com/media/HRUKkmoWgAQ02-d?format=jpg&amp;name=small" alt=""></p>]]></description>
+    </item>
+    <item>
       <title>Surprisingly Haiku seems to be winning. Not because it&apos;s smarter or better at mazes, it can just make</title>
       <link>https://x.com/tldraw/status/2095571824730059238</link>
       <guid isPermaLink="true">https://x.com/tldraw/status/2095571824730059238</guid>
@@ -156,7 +164,7 @@
       <guid isPermaLink="true">https://x.com/AREdotNA/status/2095222428251173235</guid>
       <pubDate>Wed, 02 Sep 2026 18:48:48 GMT</pubDate>
       <author>@AREdotNA</author>
-      <description><![CDATA[<p>we thought you might like to know that the browser extension is now both moveable and resizable.</p>]]></description>
+      <description><![CDATA[<p>we thought you might like to know that the browser extension is now both moveable and resizable.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2095221768827121664/img/rn6IjsOwqYngU87r.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>The Superlogical server is built to run anywhere and everywhere and serve a level of scale (terminals+clients) unmatched</title>
@@ -476,7 +484,7 @@
       <guid isPermaLink="true">https://x.com/shadcn/status/2093769104704360553</guid>
       <pubDate>Sat, 29 Aug 2026 18:33:49 GMT</pubDate>
       <author>@shadcn</author>
-      <description><![CDATA[<p>Copper is one month old today.<br><br>I built it to keep the prompts, answers, links and half-formed ideas that come up when working with AI.<br><br>Thank you to everyone who bought it, sent feedback and made Copper part of how they work.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2093768647101562880/img/eHyNeXwRlLATyHsk.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Copper is one month old today.<br><br>I built it to keep the prompts, answers, links and half-formed ideas that come up when working with AI.<br><br>Thank you to everyone who bought it, sent feedback and made Copper part of how they work.</p>]]></description>
     </item>
     <item>
       <title>In the next version of tldraw, your screen&apos;s refresh rate no longer affects the speed of edge scrolling.</title>
@@ -852,7 +860,7 @@
       <guid isPermaLink="true">https://x.com/AREdotNA/status/2092338689451995558</guid>
       <pubDate>Tue, 25 Aug 2026 19:49:51 GMT</pubDate>
       <author>@AREdotNA</author>
-      <description><![CDATA[<p>Our browser extension now allows for cropped screenshots.<br><br>It&apos;s the little things.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2092338356680093697/img/9IGsp1JP6-RqwsGF.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Our browser extension now allows for cropped screenshots.<br><br>It&apos;s the little things.</p>]]></description>
     </item>
     <item>
       <title>We need more of that</title>
@@ -1252,7 +1260,7 @@
       <guid isPermaLink="true">https://x.com/AREdotNA/status/2090856859833893079</guid>
       <pubDate>Fri, 21 Aug 2026 17:41:36 GMT</pubDate>
       <author>@AREdotNA</author>
-      <description><![CDATA[<p>Niche, but useful: you can now drag across windows to connect blocks</p>]]></description>
+      <description><![CDATA[<p>Niche, but useful: you can now drag across windows to connect blocks</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2090856846441558016/img/1dna34GtL9Ofwo1h.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>We&apos;ve added support for private GitHub registries. npx shadcn list &lt;username&gt;/&lt;repo&gt;</title>
@@ -1597,14 +1605,6 @@
       <pubDate>Tue, 18 Aug 2026 19:00:22 GMT</pubDate>
       <author>@tldraw</author>
       <description><![CDATA[<p>Chat scrolls, but real creative work branches, compares, and remixes.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2089789483516608512/img/dsjnK9f_cwmkWL2i.jpg" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>You can already update on TestFlight! We&apos;re sending email link to those who contacted us on https://zerotake.app</title>
-      <link>https://x.com/zerocam_app/status/2089721546717774127</link>
-      <guid isPermaLink="true">https://x.com/zerocam_app/status/2089721546717774127</guid>
-      <pubDate>Tue, 18 Aug 2026 14:30:16 GMT</pubDate>
-      <author>@zerocam_app</author>
-      <description><![CDATA[<p>You can already update on TestFlight! We&apos;re sending email link to those who contacted us on https://zerotake.app</p>]]></description>
     </item>
   </channel>
 </rss>
