@@ -7,6 +7,14 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>Guess which one is Rust btw. 🤣 (The point is the language isn&apos;t a free lunch for performance.</title>
+      <link>https://x.com/mitchellh/status/2095357417903345721</link>
+      <guid isPermaLink="true">https://x.com/mitchellh/status/2095357417903345721</guid>
+      <pubDate>Thu, 03 Sep 2026 03:45:12 GMT</pubDate>
+      <author>@mitchellh</author>
+      <description><![CDATA[<p>Guess which one is Rust btw. 🤣<br><br>(The point is the language isn&apos;t a free lunch for performance. Rust could be just as small as any other here. It isn&apos;t a given. Fundamentals and system design trump everything else. Language wars are stupid as hell.)</p><p><img src="https://pbs.twimg.com/media/HRO1NAzbUAAm6P2?format=jpg&amp;name=small" alt=""></p><p><img src="https://pbs.twimg.com/media/HRO1NA2bIAAbuq2?format=jpg&amp;name=small" alt=""></p><p><img src="https://pbs.twimg.com/media/HRO1NA3bIAA0ADR?format=jpg&amp;name=small" alt=""></p><p><img src="https://pbs.twimg.com/media/HRO1NA0bUAArykU?format=jpg&amp;name=small" alt=""></p>]]></description>
+    </item>
+    <item>
       <title>everyone stop, this is perfect</title>
       <link>https://x.com/AREdotNA/status/2095260993832034598</link>
       <guid isPermaLink="true">https://x.com/AREdotNA/status/2095260993832034598</guid>
@@ -364,7 +372,7 @@
       <guid isPermaLink="true">https://x.com/mitchellh/status/2093788871331103150</guid>
       <pubDate>Sat, 29 Aug 2026 19:52:22 GMT</pubDate>
       <author>@mitchellh</author>
-      <description><![CDATA[<p>libghostty-vt running freestanding on a device with a 240 MHz CPU, 4 MB flash storage, and 520KB SRAM. 😎</p>]]></description>
+      <description><![CDATA[<p>libghostty-vt running freestanding on a device with a 240 MHz CPU, 4 MB flash storage, and 520KB SRAM. 😎</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2093774574479405056/img/dBOL94yIaYkQ9yXK.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Media post</title>
@@ -380,7 +388,7 @@
       <guid isPermaLink="true">https://x.com/shadcn/status/2093769104704360553</guid>
       <pubDate>Sat, 29 Aug 2026 18:33:49 GMT</pubDate>
       <author>@shadcn</author>
-      <description><![CDATA[<p>Copper is one month old today.<br><br>I built it to keep the prompts, answers, links and half-formed ideas that come up when working with AI.<br><br>Thank you to everyone who bought it, sent feedback and made Copper part of how they work.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2093768647101562880/img/eHyNeXwRlLATyHsk.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Copper is one month old today.<br><br>I built it to keep the prompts, answers, links and half-formed ideas that come up when working with AI.<br><br>Thank you to everyone who bought it, sent feedback and made Copper part of how they work.</p>]]></description>
     </item>
     <item>
       <title>In the next version of tldraw, your screen&apos;s refresh rate no longer affects the speed of edge scrolling.</title>
@@ -924,7 +932,7 @@
       <guid isPermaLink="true">https://x.com/mitchellh/status/2092001755055972800</guid>
       <pubDate>Mon, 24 Aug 2026 21:31:00 GMT</pubDate>
       <author>@mitchellh</author>
-      <description><![CDATA[<p>Ghostty (and libghostty) now fully implement the Kitty clipboard protocol to allow apps to read/write non-textual data (like images!). Ghostty is the first to implement the full protocol outside Kitty. The biggest program to support this is probably Claude Code. Demo below.<br><br>This</p>]]></description>
+      <description><![CDATA[<p>Ghostty (and libghostty) now fully implement the Kitty clipboard protocol to allow apps to read/write non-textual data (like images!). Ghostty is the first to implement the full protocol outside Kitty. The biggest program to support this is probably Claude Code. Demo below.<br><br>This</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2092000584065036288/img/_1QaF0_tQWMqNoAB.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Tiny detail: All slider icons now match Apple’s new Liquid Glass slider thumb in upcoming OS versions.</title>
@@ -1597,14 +1605,6 @@
       <pubDate>Mon, 17 Aug 2026 18:01:58 GMT</pubDate>
       <author>@avstorm</author>
       <description><![CDATA[<p>🚥</p>]]></description>
-    </item>
-    <item>
-      <title>Apple has updated the traffic light buttons in macOS 27 Beta 6</title>
-      <link>https://x.com/avstorm/status/2089411605477855728</link>
-      <guid isPermaLink="true">https://x.com/avstorm/status/2089411605477855728</guid>
-      <pubDate>Mon, 17 Aug 2026 17:58:40 GMT</pubDate>
-      <author>@avstorm</author>
-      <description><![CDATA[<p>Apple has updated the traffic light buttons in macOS 27 Beta 6</p><p><img src="https://pbs.twimg.com/media/HP8UkoEXIAA_JOi?format=png&amp;name=small" alt=""></p>]]></description>
     </item>
   </channel>
 </rss>

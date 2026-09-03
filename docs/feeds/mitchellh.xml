@@ -13,6 +13,14 @@
     </image>
     <ttl>120</ttl>
     <item>
+      <title>Guess which one is Rust btw. 🤣 (The point is the language isn&apos;t a free lunch for performance.</title>
+      <link>https://x.com/mitchellh/status/2095357417903345721</link>
+      <guid isPermaLink="true">https://x.com/mitchellh/status/2095357417903345721</guid>
+      <pubDate>Thu, 03 Sep 2026 03:45:12 GMT</pubDate>
+      <author>@mitchellh</author>
+      <description><![CDATA[<p>Guess which one is Rust btw. 🤣<br><br>(The point is the language isn&apos;t a free lunch for performance. Rust could be just as small as any other here. It isn&apos;t a given. Fundamentals and system design trump everything else. Language wars are stupid as hell.)</p><p><img src="https://pbs.twimg.com/media/HRO1NAzbUAAm6P2?format=jpg&amp;name=small" alt=""></p><p><img src="https://pbs.twimg.com/media/HRO1NA2bIAAbuq2?format=jpg&amp;name=small" alt=""></p><p><img src="https://pbs.twimg.com/media/HRO1NA3bIAA0ADR?format=jpg&amp;name=small" alt=""></p><p><img src="https://pbs.twimg.com/media/HRO1NA0bUAArykU?format=jpg&amp;name=small" alt=""></p>]]></description>
+    </item>
+    <item>
       <title>Beware people obsessed with outcomes instead of building outcome machines. Its worse than ever with AI, but these</title>
       <link>https://x.com/mitchellh/status/2095256578559807810</link>
       <guid isPermaLink="true">https://x.com/mitchellh/status/2095256578559807810</guid>
@@ -50,7 +58,7 @@
       <guid isPermaLink="true">https://x.com/mitchellh/status/2093788871331103150</guid>
       <pubDate>Sat, 29 Aug 2026 19:52:22 GMT</pubDate>
       <author>@mitchellh</author>
-      <description><![CDATA[<p>libghostty-vt running freestanding on a device with a 240 MHz CPU, 4 MB flash storage, and 520KB SRAM. 😎</p>]]></description>
+      <description><![CDATA[<p>libghostty-vt running freestanding on a device with a 240 MHz CPU, 4 MB flash storage, and 520KB SRAM. 😎</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2093774574479405056/img/dBOL94yIaYkQ9yXK.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>I love how many people are attaching to the &quot;half-bounch&quot; startup time metric. I used to do paid</title>
@@ -114,7 +122,7 @@
       <guid isPermaLink="true">https://x.com/mitchellh/status/2092001755055972800</guid>
       <pubDate>Mon, 24 Aug 2026 21:31:00 GMT</pubDate>
       <author>@mitchellh</author>
-      <description><![CDATA[<p>Ghostty (and libghostty) now fully implement the Kitty clipboard protocol to allow apps to read/write non-textual data (like images!). Ghostty is the first to implement the full protocol outside Kitty. The biggest program to support this is probably Claude Code. Demo below.<br><br>This</p>]]></description>
+      <description><![CDATA[<p>Ghostty (and libghostty) now fully implement the Kitty clipboard protocol to allow apps to read/write non-textual data (like images!). Ghostty is the first to implement the full protocol outside Kitty. The biggest program to support this is probably Claude Code. Demo below.<br><br>This</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2092000584065036288/img/_1QaF0_tQWMqNoAB.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Part of the LLM-assisted work here is that Fable+Sol put together a test suite of over 400 cases</title>
