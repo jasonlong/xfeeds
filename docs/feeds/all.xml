@@ -7,6 +7,22 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>Pi is a tool for more than just engineers! New blog post by Earendil Founders Associate @jakob_ebe, sharing</title>
+      <link>https://x.com/pidotdev/status/2095474386417647827</link>
+      <guid isPermaLink="true">https://x.com/pidotdev/status/2095474386417647827</guid>
+      <pubDate>Thu, 03 Sep 2026 11:30:00 GMT</pubDate>
+      <author>@pidotdev</author>
+      <description><![CDATA[<p>Pi is a tool for more than just engineers! New blog post by Earendil Founders Associate @jakob_ebe, sharing his experience as a non-technical member of our team.<br><br>Jakob walks through his thoughts getting started and how he customized Pi to make it his own.<br><br>Link to blog below!</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2095471003510206464/img/2qJAnDczS3l7J_xZ.jpg" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>Read about how Jakob uses Pi here</title>
+      <link>https://x.com/pidotdev/status/2095474386879029592</link>
+      <guid isPermaLink="true">https://x.com/pidotdev/status/2095474386879029592</guid>
+      <pubDate>Thu, 03 Sep 2026 11:30:00 GMT</pubDate>
+      <author>@pidotdev</author>
+      <description><![CDATA[<p>Read about how Jakob uses Pi here</p>]]></description>
+    </item>
+    <item>
       <title>Guess which one is Rust btw. 🤣 (The point is the language isn&apos;t a free lunch for performance.</title>
       <link>https://x.com/mitchellh/status/2095357417903345721</link>
       <guid isPermaLink="true">https://x.com/mitchellh/status/2095357417903345721</guid>
@@ -244,7 +260,7 @@
       <guid isPermaLink="true">https://x.com/pidotdev/status/2094758621833765261</guid>
       <pubDate>Tue, 01 Sep 2026 12:05:48 GMT</pubDate>
       <author>@pidotdev</author>
-      <description><![CDATA[<p>Pi now has 100000 stars on GitHub⭐️Thank you People of Pi for your contributions and support. The community is growing faster than ever!<br><br>Pi v2 coming soon…</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2094758269948497920/img/V9hB_hISu78L0Xko.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Pi now has 100000 stars on GitHub⭐️Thank you People of Pi for your contributions and support. The community is growing faster than ever!<br><br>Pi v2 coming soon…</p>]]></description>
     </item>
     <item>
       <title>Please 🙏 Install zerotake on it and tell us how it works (waiting for Apple review)</title>
@@ -324,7 +340,7 @@
       <guid isPermaLink="true">https://x.com/pidotdev/status/2094387225131626847</guid>
       <pubDate>Mon, 31 Aug 2026 11:30:00 GMT</pubDate>
       <author>@pidotdev</author>
-      <description><![CDATA[<p>ICYMI, Pi now has a thinking level selector.<br> <br>- Use the /thinking slash command<br>- pick a level and Ctrl+S to make it your startup default.<br>- use Shift+Tab to cycle through levels mid-session</p>]]></description>
+      <description><![CDATA[<p>ICYMI, Pi now has a thinking level selector.<br> <br>- Use the /thinking slash command<br>- pick a level and Ctrl+S to make it your startup default.<br>- use Shift+Tab to cycle through levels mid-session</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2094374177302040576/img/aGko7AzKNQ62e8us.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Media post</title>
@@ -364,7 +380,7 @@
       <guid isPermaLink="true">https://x.com/pidotdev/status/2094024837790327110</guid>
       <pubDate>Sun, 30 Aug 2026 11:30:01 GMT</pubDate>
       <author>@pidotdev</author>
-      <description><![CDATA[<p>Good morning from Vienna People of Pi ☀️<br><br>Sunday meditations from @badlogicgames and @mitshuko <br><br>- LLMs seem to be improving for looping but not much elsewhere<br>- Over RLing on some harnesses can cause regressions<br>- Open weight models are not a panacea but can be a valid option</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2094011805358026752/img/YSeUvFHT5nHmuEdD.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Good morning from Vienna People of Pi ☀️<br><br>Sunday meditations from @badlogicgames and @mitshuko <br><br>- LLMs seem to be improving for looping but not much elsewhere<br>- Over RLing on some harnesses can cause regressions<br>- Open weight models are not a panacea but can be a valid option</p>]]></description>
     </item>
     <item>
       <title>libghostty-vt running freestanding on a device with a 240 MHz CPU, 4 MB flash storage, and 520KB SRAM.</title>
@@ -388,7 +404,7 @@
       <guid isPermaLink="true">https://x.com/shadcn/status/2093769104704360553</guid>
       <pubDate>Sat, 29 Aug 2026 18:33:49 GMT</pubDate>
       <author>@shadcn</author>
-      <description><![CDATA[<p>Copper is one month old today.<br><br>I built it to keep the prompts, answers, links and half-formed ideas that come up when working with AI.<br><br>Thank you to everyone who bought it, sent feedback and made Copper part of how they work.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2093768647101562880/img/eHyNeXwRlLATyHsk.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Copper is one month old today.<br><br>I built it to keep the prompts, answers, links and half-formed ideas that come up when working with AI.<br><br>Thank you to everyone who bought it, sent feedback and made Copper part of how they work.</p>]]></description>
     </item>
     <item>
       <title>In the next version of tldraw, your screen&apos;s refresh rate no longer affects the speed of edge scrolling.</title>
@@ -508,7 +524,7 @@
       <guid isPermaLink="true">https://x.com/pidotdev/status/2093300058628276732</guid>
       <pubDate>Fri, 28 Aug 2026 11:30:00 GMT</pubDate>
       <author>@pidotdev</author>
-      <description><![CDATA[<p>This week, our team listened in as @theo, creator of T3 Chat, explored whether code is all you need for memory 🎧<br><br>Theo walks through a clip of Mario and Armin discussing this and more. He also shares some thoughts on Pi!<br><br>Great for a Friday listen. Link below. We recommend!</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2093263273898491904/img/sBG-w0WCOdIRQSgu.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>This week, our team listened in as @theo, creator of T3 Chat, explored whether code is all you need for memory 🎧<br><br>Theo walks through a clip of Mario and Armin discussing this and more. He also shares some thoughts on Pi!<br><br>Great for a Friday listen. Link below. We recommend!</p>]]></description>
     </item>
     <item>
       <title>Watch the full episode here</title>
@@ -1589,22 +1605,6 @@
       <pubDate>Mon, 17 Aug 2026 18:22:48 GMT</pubDate>
       <author>@avstorm</author>
       <description><![CDATA[<p>New dynamic wallpapers in macOS 27 Beta 6<br><br>Golden Gate Day and Golden Gate Evening</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2089416908302897152/img/0awtYVXgWRTLewib.jpg" alt=""></p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2089417505559252992/img/I3bjobMf86HUu12H.jpg" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>Apple&apos;s new macOS window controls</title>
-      <link>https://x.com/avstorm/status/2089414274280009782</link>
-      <guid isPermaLink="true">https://x.com/avstorm/status/2089414274280009782</guid>
-      <pubDate>Mon, 17 Aug 2026 18:09:17 GMT</pubDate>
-      <author>@avstorm</author>
-      <description><![CDATA[<p>Apple&apos;s new macOS window controls</p><p><img src="https://pbs.twimg.com/media/HP8W-9FXMAAwLtv?format=png&amp;name=small" alt=""></p><p><img src="https://pbs.twimg.com/media/HP8W_OPXgAA95Ev?format=png&amp;name=small" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>🚥</title>
-      <link>https://x.com/avstorm/status/2089412435711021389</link>
-      <guid isPermaLink="true">https://x.com/avstorm/status/2089412435711021389</guid>
-      <pubDate>Mon, 17 Aug 2026 18:01:58 GMT</pubDate>
-      <author>@avstorm</author>
-      <description><![CDATA[<p>🚥</p>]]></description>
     </item>
   </channel>
 </rss>
