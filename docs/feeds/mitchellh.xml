@@ -13,6 +13,14 @@
     </image>
     <ttl>120</ttl>
     <item>
+      <title>We now have automated half-bounce analysis created by @infomiho! Paste an X post with a screen recording and</title>
+      <link>https://x.com/mitchellh/status/2095910168588632385</link>
+      <guid isPermaLink="true">https://x.com/mitchellh/status/2095910168588632385</guid>
+      <pubDate>Fri, 04 Sep 2026 16:21:38 GMT</pubDate>
+      <author>@mitchellh</author>
+      <description><![CDATA[<p>We now have automated half-bounce analysis created by @infomiho! Paste an X post with a screen recording and it&apos;ll automatically analyze the frames, screenshot them, and produce a report for you. Example: https://bounce-lab.miho.dev/?job=1cd8ec6ea9c4… Very cool!</p><p><img src="https://pbs.twimg.com/media/HRYrJt6akAAH2fG?format=jpg&amp;name=small" alt=""></p>]]></description>
+    </item>
+    <item>
       <title>Guess which one is Rust btw. 🤣 (The point is the language isn&apos;t a free lunch for performance.</title>
       <link>https://x.com/mitchellh/status/2095357417903345721</link>
       <guid isPermaLink="true">https://x.com/mitchellh/status/2095357417903345721</guid>
@@ -34,7 +42,7 @@
       <guid isPermaLink="true">https://x.com/mitchellh/status/2095232081853039041</guid>
       <pubDate>Wed, 02 Sep 2026 19:27:10 GMT</pubDate>
       <author>@mitchellh</author>
-      <description><![CDATA[<p>A video explaining a handful of the tricks we use to optimize for memory within the Superlogical server: in-memory compression, moving file descriptors between event-driven and blocked threads dynamically, full terminal state binary snapshot/restore in microseconds, and more!</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2095231696694312961/img/4X8RDN0dk4H5TQWS.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>A video explaining a handful of the tricks we use to optimize for memory within the Superlogical server: in-memory compression, moving file descriptors between event-driven and blocked threads dynamically, full terminal state binary snapshot/restore in microseconds, and more!</p>]]></description>
     </item>
     <item>
       <title>The Superlogical server is built to run anywhere and everywhere and serve a level of scale (terminals+clients) unmatched</title>
@@ -58,7 +66,7 @@
       <guid isPermaLink="true">https://x.com/mitchellh/status/2093788871331103150</guid>
       <pubDate>Sat, 29 Aug 2026 19:52:22 GMT</pubDate>
       <author>@mitchellh</author>
-      <description><![CDATA[<p>libghostty-vt running freestanding on a device with a 240 MHz CPU, 4 MB flash storage, and 520KB SRAM. 😎</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2093774574479405056/img/dBOL94yIaYkQ9yXK.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>libghostty-vt running freestanding on a device with a 240 MHz CPU, 4 MB flash storage, and 520KB SRAM. 😎</p>]]></description>
     </item>
     <item>
       <title>I love how many people are attaching to the &quot;half-bounch&quot; startup time metric. I used to do paid</title>
@@ -82,7 +90,7 @@
       <guid isPermaLink="true">https://x.com/mitchellh/status/2093451043661316217</guid>
       <pubDate>Fri, 28 Aug 2026 21:29:57 GMT</pubDate>
       <author>@mitchellh</author>
-      <description><![CDATA[<p>Quick Superlogical demo to end the week. This demo is just of the basic functionality, but I want to highlight just how FAST it is. There&apos;s a WHOLE lot more functionality already present and coming but I wanted to keep the demo short. But seriously, check out that speed.<br><br>I&apos;m</p>]]></description>
+      <description><![CDATA[<p>Quick Superlogical demo to end the week. This demo is just of the basic functionality, but I want to highlight just how FAST it is. There&apos;s a WHOLE lot more functionality already present and coming but I wanted to keep the demo short. But seriously, check out that speed.<br><br>I&apos;m</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2093450067940360192/img/9Ea_DUx0Vkr3lB7k.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Respect for anyone who objectively reassesses their priors. Also grateful because it’s genuinely hard to get diverse benchmark</title>
@@ -122,7 +130,7 @@
       <guid isPermaLink="true">https://x.com/mitchellh/status/2092001755055972800</guid>
       <pubDate>Mon, 24 Aug 2026 21:31:00 GMT</pubDate>
       <author>@mitchellh</author>
-      <description><![CDATA[<p>Ghostty (and libghostty) now fully implement the Kitty clipboard protocol to allow apps to read/write non-textual data (like images!). Ghostty is the first to implement the full protocol outside Kitty. The biggest program to support this is probably Claude Code. Demo below.<br><br>This</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2092000584065036288/img/_1QaF0_tQWMqNoAB.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Ghostty (and libghostty) now fully implement the Kitty clipboard protocol to allow apps to read/write non-textual data (like images!). Ghostty is the first to implement the full protocol outside Kitty. The biggest program to support this is probably Claude Code. Demo below.<br><br>This</p>]]></description>
     </item>
     <item>
       <title>Part of the LLM-assisted work here is that Fable+Sol put together a test suite of over 400 cases</title>
