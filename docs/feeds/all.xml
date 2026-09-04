@@ -7,6 +7,14 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>I’m getting a projector. This is going to be my new office.</title>
+      <link>https://x.com/shadcn/status/2095730612460020140</link>
+      <guid isPermaLink="true">https://x.com/shadcn/status/2095730612460020140</guid>
+      <pubDate>Fri, 04 Sep 2026 04:28:09 GMT</pubDate>
+      <author>@shadcn</author>
+      <description><![CDATA[<p>I’m getting a projector. This is going to be my new office.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2095595661559574528/img/Vmb2pgEFJ6fpCUTD.jpg" alt=""></p>]]></description>
+    </item>
+    <item>
       <title>Media post</title>
       <link>https://x.com/AREdotNA/status/2095592992409034998</link>
       <guid isPermaLink="true">https://x.com/AREdotNA/status/2095592992409034998</guid>
@@ -484,7 +492,7 @@
       <guid isPermaLink="true">https://x.com/shadcn/status/2093769104704360553</guid>
       <pubDate>Sat, 29 Aug 2026 18:33:49 GMT</pubDate>
       <author>@shadcn</author>
-      <description><![CDATA[<p>Copper is one month old today.<br><br>I built it to keep the prompts, answers, links and half-formed ideas that come up when working with AI.<br><br>Thank you to everyone who bought it, sent feedback and made Copper part of how they work.</p>]]></description>
+      <description><![CDATA[<p>Copper is one month old today.<br><br>I built it to keep the prompts, answers, links and half-formed ideas that come up when working with AI.<br><br>Thank you to everyone who bought it, sent feedback and made Copper part of how they work.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2093768647101562880/img/eHyNeXwRlLATyHsk.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>In the next version of tldraw, your screen&apos;s refresh rate no longer affects the speed of edge scrolling.</title>
@@ -1597,14 +1605,6 @@
       <pubDate>Tue, 18 Aug 2026 19:00:29 GMT</pubDate>
       <author>@tldraw</author>
       <description><![CDATA[<p>Agents need space.</p>]]></description>
-    </item>
-    <item>
-      <title>Chat scrolls, but real creative work branches, compares, and remixes.</title>
-      <link>https://x.com/tldraw/status/2089789517641531469</link>
-      <guid isPermaLink="true">https://x.com/tldraw/status/2089789517641531469</guid>
-      <pubDate>Tue, 18 Aug 2026 19:00:22 GMT</pubDate>
-      <author>@tldraw</author>
-      <description><![CDATA[<p>Chat scrolls, but real creative work branches, compares, and remixes.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2089789483516608512/img/dsjnK9f_cwmkWL2i.jpg" alt=""></p>]]></description>
     </item>
   </channel>
 </rss>
