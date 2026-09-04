@@ -13,6 +13,14 @@
     </image>
     <ttl>120</ttl>
     <item>
+      <title>Here&apos;s an example. A week ago I asked an agent (frontier model) to watch a restaurant and let</title>
+      <link>https://x.com/shadcn/status/2095922016977391938</link>
+      <guid isPermaLink="true">https://x.com/shadcn/status/2095922016977391938</guid>
+      <pubDate>Fri, 04 Sep 2026 17:08:43 GMT</pubDate>
+      <author>@shadcn</author>
+      <description><![CDATA[<p>Here&apos;s an example. A week ago I asked an agent (frontier model) to watch a restaurant and let me know when reservations open for Dec 20. Said okay, it will ping me.<br><br>A few days later I checked (just to make sure it was working). &quot;Still closed.&quot; Two days later, same asnwer.<br><br>Then</p>]]></description>
+    </item>
+    <item>
       <title>agents cheat too much for me to trust them with anything other than code right now.</title>
       <link>https://x.com/shadcn/status/2095871268683759751</link>
       <guid isPermaLink="true">https://x.com/shadcn/status/2095871268683759751</guid>
@@ -26,7 +34,7 @@
       <guid isPermaLink="true">https://x.com/shadcn/status/2095730612460020140</guid>
       <pubDate>Fri, 04 Sep 2026 04:28:09 GMT</pubDate>
       <author>@shadcn</author>
-      <description><![CDATA[<p>I’m getting a projector. This is going to be my new office.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2095595661559574528/img/Vmb2pgEFJ6fpCUTD.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>I’m getting a projector. This is going to be my new office.</p>]]></description>
     </item>
     <item>
       <title>Why a new engine? Speed yes. And we have a few interesting things built on top of coming</title>

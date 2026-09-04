@@ -7,6 +7,14 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>Here&apos;s an example. A week ago I asked an agent (frontier model) to watch a restaurant and let</title>
+      <link>https://x.com/shadcn/status/2095922016977391938</link>
+      <guid isPermaLink="true">https://x.com/shadcn/status/2095922016977391938</guid>
+      <pubDate>Fri, 04 Sep 2026 17:08:43 GMT</pubDate>
+      <author>@shadcn</author>
+      <description><![CDATA[<p>Here&apos;s an example. A week ago I asked an agent (frontier model) to watch a restaurant and let me know when reservations open for Dec 20. Said okay, it will ping me.<br><br>A few days later I checked (just to make sure it was working). &quot;Still closed.&quot; Two days later, same asnwer.<br><br>Then</p>]]></description>
+    </item>
+    <item>
       <title>We now have automated half-bounce analysis created by @infomiho! Paste an X post with a screen recording and</title>
       <link>https://x.com/mitchellh/status/2095910168588632385</link>
       <guid isPermaLink="true">https://x.com/mitchellh/status/2095910168588632385</guid>
@@ -100,7 +108,7 @@
       <guid isPermaLink="true">https://x.com/shadcn/status/2095730612460020140</guid>
       <pubDate>Fri, 04 Sep 2026 04:28:09 GMT</pubDate>
       <author>@shadcn</author>
-      <description><![CDATA[<p>I’m getting a projector. This is going to be my new office.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2095595661559574528/img/Vmb2pgEFJ6fpCUTD.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>I’m getting a projector. This is going to be my new office.</p>]]></description>
     </item>
     <item>
       <title>Media post</title>
@@ -1597,14 +1605,6 @@
       <pubDate>Wed, 19 Aug 2026 17:55:28 GMT</pubDate>
       <author>@almonk</author>
       <description><![CDATA[<p>After years being speakerless, I bought these edifier M60s for my home setup. Holy shit they sound so good I can&apos;t believe what I was missing. Best of all they just connect to the studio display via usbc. <br><br>Gonna go back to listening to Burial now.<br><br>https://edifier.com/uk/p/computer-speakers/m60…</p><p><img src="https://pbs.twimg.com/media/HQGnBzxXcAAAVPh?format=jpg&amp;name=small" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>wake up idiot, it&apos;s time to work</title>
-      <link>https://x.com/almonk/status/2090111057243132358</link>
-      <guid isPermaLink="true">https://x.com/almonk/status/2090111057243132358</guid>
-      <pubDate>Wed, 19 Aug 2026 16:18:03 GMT</pubDate>
-      <author>@almonk</author>
-      <description><![CDATA[<p>wake up idiot, it&apos;s time to work</p><p><img src="https://pbs.twimg.com/media/HQDzNBlb0AAR3tJ?format=jpg&amp;name=240x240" alt=""></p>]]></description>
     </item>
   </channel>
 </rss>
