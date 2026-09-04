@@ -42,7 +42,7 @@
       <guid isPermaLink="true">https://x.com/mitchellh/status/2095232081853039041</guid>
       <pubDate>Wed, 02 Sep 2026 19:27:10 GMT</pubDate>
       <author>@mitchellh</author>
-      <description><![CDATA[<p>A video explaining a handful of the tricks we use to optimize for memory within the Superlogical server: in-memory compression, moving file descriptors between event-driven and blocked threads dynamically, full terminal state binary snapshot/restore in microseconds, and more!</p>]]></description>
+      <description><![CDATA[<p>A video explaining a handful of the tricks we use to optimize for memory within the Superlogical server: in-memory compression, moving file descriptors between event-driven and blocked threads dynamically, full terminal state binary snapshot/restore in microseconds, and more!</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2095231696694312961/img/4X8RDN0dk4H5TQWS.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>The Superlogical server is built to run anywhere and everywhere and serve a level of scale (terminals+clients) unmatched</title>

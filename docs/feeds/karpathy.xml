@@ -26,7 +26,7 @@
       <guid isPermaLink="true">https://x.com/karpathy/status/2083749667410727319</guid>
       <pubDate>Sun, 02 Aug 2026 03:00:09 GMT</pubDate>
       <author>@karpathy</author>
-      <description><![CDATA[<p>We&apos;re starting to leave the territory where you&apos;d test an LLM by e.g. &quot;create an svg of pelican on a bicycle&quot;. As one idea to generalize it, I was interested what Opus 5 would do if I gave it the first paragraph of the Lord of the Rings, a 1M token budget (~$10) and asked for</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2083744791876292608/img/tWEKnM_bdE_nlfYD.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>We&apos;re starting to leave the territory where you&apos;d test an LLM by e.g. &quot;create an svg of pelican on a bicycle&quot;. As one idea to generalize it, I was interested what Opus 5 would do if I gave it the first paragraph of the Lord of the Rings, a 1M token budget (~$10) and asked for</p>]]></description>
     </item>
     <item>
       <title>One pattern I find useful for working with LLMs is a nice long ramble session. Sometimes the LLM</title>
