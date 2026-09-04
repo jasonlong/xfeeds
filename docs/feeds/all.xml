@@ -7,6 +7,14 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>agents cheat too much for me to trust them with anything other than code right now.</title>
+      <link>https://x.com/shadcn/status/2095871268683759751</link>
+      <guid isPermaLink="true">https://x.com/shadcn/status/2095871268683759751</guid>
+      <pubDate>Fri, 04 Sep 2026 13:47:04 GMT</pubDate>
+      <author>@shadcn</author>
+      <description><![CDATA[<p>agents cheat too much for me to trust them with anything other than code right now.</p>]]></description>
+    </item>
+    <item>
       <title>Set your creativity free with tldraw flash</title>
       <link>https://x.com/tldraw/status/2095864180066685405</link>
       <guid isPermaLink="true">https://x.com/tldraw/status/2095864180066685405</guid>
@@ -564,7 +572,7 @@
       <guid isPermaLink="true">https://x.com/shadcn/status/2093769104704360553</guid>
       <pubDate>Sat, 29 Aug 2026 18:33:49 GMT</pubDate>
       <author>@shadcn</author>
-      <description><![CDATA[<p>Copper is one month old today.<br><br>I built it to keep the prompts, answers, links and half-formed ideas that come up when working with AI.<br><br>Thank you to everyone who bought it, sent feedback and made Copper part of how they work.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2093768647101562880/img/eHyNeXwRlLATyHsk.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Copper is one month old today.<br><br>I built it to keep the prompts, answers, links and half-formed ideas that come up when working with AI.<br><br>Thank you to everyone who bought it, sent feedback and made Copper part of how they work.</p>]]></description>
     </item>
     <item>
       <title>In the next version of tldraw, your screen&apos;s refresh rate no longer affects the speed of edge scrolling.</title>
@@ -1597,14 +1605,6 @@
       <pubDate>Wed, 19 Aug 2026 16:09:32 GMT</pubDate>
       <author>@almonk</author>
       <description><![CDATA[<p>Nightmare fuel</p><p><img src="https://pbs.twimg.com/media/HQDzNBlb0AAR3tJ?format=jpg&amp;name=small" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>dropped into the new @UseCorgi café, London. great wifi, saw a corgi, managed to grab the only free</title>
-      <link>https://x.com/almonk/status/2090092807339872645</link>
-      <guid isPermaLink="true">https://x.com/almonk/status/2090092807339872645</guid>
-      <pubDate>Wed, 19 Aug 2026 15:05:31 GMT</pubDate>
-      <author>@almonk</author>
-      <description><![CDATA[<p>dropped into the new @UseCorgi café, London. great wifi, saw a corgi, managed to grab the only free seat in the place.</p><p><img src="https://pbs.twimg.com/media/HQGAGkIWsAAo5HB?format=jpg&amp;name=small" alt=""></p>]]></description>
     </item>
   </channel>
 </rss>
