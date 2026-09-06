@@ -292,7 +292,7 @@
       <guid isPermaLink="true">https://x.com/mitchellh/status/2095232081853039041</guid>
       <pubDate>Wed, 02 Sep 2026 19:27:10 GMT</pubDate>
       <author>@mitchellh</author>
-      <description><![CDATA[<p>A video explaining a handful of the tricks we use to optimize for memory within the Superlogical server: in-memory compression, moving file descriptors between event-driven and blocked threads dynamically, full terminal state binary snapshot/restore in microseconds, and more!</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2095231696694312961/img/4X8RDN0dk4H5TQWS.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>A video explaining a handful of the tricks we use to optimize for memory within the Superlogical server: in-memory compression, moving file descriptors between event-driven and blocked threads dynamically, full terminal state binary snapshot/restore in microseconds, and more!</p>]]></description>
     </item>
     <item>
       <title>baby you can have whatever you liiiiiiike</title>
@@ -764,7 +764,7 @@
       <guid isPermaLink="true">https://x.com/pidotdev/status/2093300058628276732</guid>
       <pubDate>Fri, 28 Aug 2026 11:30:00 GMT</pubDate>
       <author>@pidotdev</author>
-      <description><![CDATA[<p>This week, our team listened in as @theo, creator of T3 Chat, explored whether code is all you need for memory 🎧<br><br>Theo walks through a clip of Mario and Armin discussing this and more. He also shares some thoughts on Pi!<br><br>Great for a Friday listen. Link below. We recommend!</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2093263273898491904/img/sBG-w0WCOdIRQSgu.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>This week, our team listened in as @theo, creator of T3 Chat, explored whether code is all you need for memory 🎧<br><br>Theo walks through a clip of Mario and Armin discussing this and more. He also shares some thoughts on Pi!<br><br>Great for a Friday listen. Link below. We recommend!</p>]]></description>
     </item>
     <item>
       <title>Watch the full episode here</title>
@@ -1204,7 +1204,7 @@
       <guid isPermaLink="true">https://x.com/mitchellh/status/2092001755055972800</guid>
       <pubDate>Mon, 24 Aug 2026 21:31:00 GMT</pubDate>
       <author>@mitchellh</author>
-      <description><![CDATA[<p>Ghostty (and libghostty) now fully implement the Kitty clipboard protocol to allow apps to read/write non-textual data (like images!). Ghostty is the first to implement the full protocol outside Kitty. The biggest program to support this is probably Claude Code. Demo below.<br><br>This</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2092000584065036288/img/_1QaF0_tQWMqNoAB.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Ghostty (and libghostty) now fully implement the Kitty clipboard protocol to allow apps to read/write non-textual data (like images!). Ghostty is the first to implement the full protocol outside Kitty. The biggest program to support this is probably Claude Code. Demo below.<br><br>This</p>]]></description>
     </item>
     <item>
       <title>Tiny detail: All slider icons now match Apple’s new Liquid Glass slider thumb in upcoming OS versions.</title>
@@ -1484,7 +1484,7 @@
       <guid isPermaLink="true">https://x.com/zerocam_app/status/2090782590475121071</guid>
       <pubDate>Fri, 21 Aug 2026 12:46:29 GMT</pubDate>
       <author>@zerocam_app</author>
-      <description><![CDATA[<p>Details</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2090754522314424320/img/uubrwVnR2tMMYW7k.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Details</p>]]></description>
     </item>
     <item>
       <title>I think about this tweet a lot.</title>
