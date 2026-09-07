@@ -7,6 +7,22 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>We are in the geocities era of unbridled creativity in software thanks to ai</title>
+      <link>https://x.com/almonk/status/2096952405321453613</link>
+      <guid isPermaLink="true">https://x.com/almonk/status/2096952405321453613</guid>
+      <pubDate>Mon, 07 Sep 2026 13:23:07 GMT</pubDate>
+      <author>@almonk</author>
+      <description><![CDATA[<p>We are in the geocities era of unbridled creativity in software thanks to ai</p>]]></description>
+    </item>
+    <item>
+      <title>Fun software is back</title>
+      <link>https://x.com/almonk/status/2096952149913579748</link>
+      <guid isPermaLink="true">https://x.com/almonk/status/2096952149913579748</guid>
+      <pubDate>Mon, 07 Sep 2026 13:22:06 GMT</pubDate>
+      <author>@almonk</author>
+      <description><![CDATA[<p>Fun software is back</p>]]></description>
+    </item>
+    <item>
       <title>Pi lets you pass a project directory (cwd) to createAgentSession(), to help scope where tools should work. Tools</title>
       <link>https://x.com/pidotdev/status/2096929751994687950</link>
       <guid isPermaLink="true">https://x.com/pidotdev/status/2096929751994687950</guid>
@@ -1589,22 +1605,6 @@
       <pubDate>Thu, 20 Aug 2026 19:00:00 GMT</pubDate>
       <author>@tldraw</author>
       <description><![CDATA[<p>Agents need space.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2090482328648753152/img/hktEXC9u1ZhYjaOd.jpg" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>Media post</title>
-      <link>https://x.com/tldraw/status/2090477297992102084</link>
-      <guid isPermaLink="true">https://x.com/tldraw/status/2090477297992102084</guid>
-      <pubDate>Thu, 20 Aug 2026 16:33:21 GMT</pubDate>
-      <author>@tldraw</author>
-      <description><![CDATA[<p></p>]]></description>
-    </item>
-    <item>
-      <title>🫶</title>
-      <link>https://x.com/zerocam_app/status/2090465205373239760</link>
-      <guid isPermaLink="true">https://x.com/zerocam_app/status/2090465205373239760</guid>
-      <pubDate>Thu, 20 Aug 2026 15:45:18 GMT</pubDate>
-      <author>@zerocam_app</author>
-      <description><![CDATA[<p>🫶</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2090448117187354625/img/Q5iVjdprnYA5Ypku.jpg" alt=""></p>]]></description>
     </item>
   </channel>
 </rss>
