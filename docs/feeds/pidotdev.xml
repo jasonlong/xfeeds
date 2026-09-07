@@ -13,6 +13,14 @@
     </image>
     <ttl>120</ttl>
     <item>
+      <title>Pi lets you pass a project directory (cwd) to createAgentSession(), to help scope where tools should work. Tools</title>
+      <link>https://x.com/pidotdev/status/2096929751994687950</link>
+      <guid isPermaLink="true">https://x.com/pidotdev/status/2096929751994687950</guid>
+      <pubDate>Mon, 07 Sep 2026 11:53:06 GMT</pubDate>
+      <author>@pidotdev</author>
+      <description><![CDATA[<p>Pi lets you pass a project directory (cwd) to createAgentSession(), to help scope where tools should work. <br><br>Tools like read, grep, find and ls efficiently resolve in that project, and the session picks up the projects AGENTS.md and skills. <br><br>Here’s the code to try this out</p><p><img src="https://pbs.twimg.com/media/HRnIpLJWgAIAx6s?format=jpg&amp;name=small" alt=""></p>]]></description>
+    </item>
+    <item>
       <title>Good morning from Vienna People of Pi🌞 Sunday meditations today from @badlogicgames and @mitsuhiko - change the harness,</title>
       <link>https://x.com/pidotdev/status/2096561549356007547</link>
       <guid isPermaLink="true">https://x.com/pidotdev/status/2096561549356007547</guid>
@@ -26,7 +34,7 @@
       <guid isPermaLink="true">https://x.com/pidotdev/status/2096199162203107524</guid>
       <pubDate>Sat, 05 Sep 2026 11:30:00 GMT</pubDate>
       <author>@pidotdev</author>
-      <description><![CDATA[<p>Extensions are one of Pi’s most loved features! They are TypeScript modules that extend pi&apos;s behavior. <br><br>Here’s an example of an extension that:<br><br>- git commits a checkpoint before every turn <br>- gives the model a run_tests tool<br>- adds an /undo command to roll the session back</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2095953257440894984/img/6YTh28B9gAxmaImW.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Extensions are one of Pi’s most loved features! They are TypeScript modules that extend pi&apos;s behavior. <br><br>Here’s an example of an extension that:<br><br>- git commits a checkpoint before every turn <br>- gives the model a run_tests tool<br>- adds an /undo command to roll the session back</p>]]></description>
     </item>
     <item>
       <title>You can run &quot;pi update --models&quot; to refresh the model registry to get astra if your account has</title>

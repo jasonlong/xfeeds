@@ -7,6 +7,38 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>Pi lets you pass a project directory (cwd) to createAgentSession(), to help scope where tools should work. Tools</title>
+      <link>https://x.com/pidotdev/status/2096929751994687950</link>
+      <guid isPermaLink="true">https://x.com/pidotdev/status/2096929751994687950</guid>
+      <pubDate>Mon, 07 Sep 2026 11:53:06 GMT</pubDate>
+      <author>@pidotdev</author>
+      <description><![CDATA[<p>Pi lets you pass a project directory (cwd) to createAgentSession(), to help scope where tools should work. <br><br>Tools like read, grep, find and ls efficiently resolve in that project, and the session picks up the projects AGENTS.md and skills. <br><br>Here’s the code to try this out</p><p><img src="https://pbs.twimg.com/media/HRnIpLJWgAIAx6s?format=jpg&amp;name=small" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>Whenever Apple uses a heart animation for an Apple Event reminder, you know a special Like animation is</title>
+      <link>https://x.com/avstorm/status/2096921464473620765</link>
+      <guid isPermaLink="true">https://x.com/avstorm/status/2096921464473620765</guid>
+      <pubDate>Mon, 07 Sep 2026 11:20:10 GMT</pubDate>
+      <author>@avstorm</author>
+      <description><![CDATA[<p>Whenever Apple uses a heart animation for an Apple Event reminder, you know a special Like animation is coming on the big day.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2096918669532307456/img/0-3p1kGCpG3H2JSQ.jpg" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>Look at macOS. Apple spent so much time designing marketing Liquid Glass. Two years in, very little of</title>
+      <link>https://x.com/shadcn/status/2096797264370950464</link>
+      <guid isPermaLink="true">https://x.com/shadcn/status/2096797264370950464</guid>
+      <pubDate>Mon, 07 Sep 2026 03:06:39 GMT</pubDate>
+      <author>@shadcn</author>
+      <description><![CDATA[<p>Look at macOS. Apple spent so much time designing marketing Liquid Glass. Two years in, very little of it has made it to the Mac.<br><br>Menus, alerts, dialogs. They open instantly. Some of the glass. Almost none of the liquid.<br><br>Where work happens, the interface should feel instant.</p>]]></description>
+    </item>
+    <item>
+      <title>To understand how little you should animate, open the app you use every day and count how many</title>
+      <link>https://x.com/shadcn/status/2096648867567608084</link>
+      <guid isPermaLink="true">https://x.com/shadcn/status/2096648867567608084</guid>
+      <pubDate>Sun, 06 Sep 2026 17:16:58 GMT</pubDate>
+      <author>@shadcn</author>
+      <description><![CDATA[<p>To understand how little you should animate, open the app you use every day and count how many things are animated. Almost none.</p>]]></description>
+    </item>
+    <item>
       <title>Good morning from Vienna People of Pi🌞 Sunday meditations today from @badlogicgames and @mitsuhiko - change the harness,</title>
       <link>https://x.com/pidotdev/status/2096561549356007547</link>
       <guid isPermaLink="true">https://x.com/pidotdev/status/2096561549356007547</guid>
@@ -28,7 +60,7 @@
       <guid isPermaLink="true">https://x.com/pidotdev/status/2096199162203107524</guid>
       <pubDate>Sat, 05 Sep 2026 11:30:00 GMT</pubDate>
       <author>@pidotdev</author>
-      <description><![CDATA[<p>Extensions are one of Pi’s most loved features! They are TypeScript modules that extend pi&apos;s behavior. <br><br>Here’s an example of an extension that:<br><br>- git commits a checkpoint before every turn <br>- gives the model a run_tests tool<br>- adds an /undo command to roll the session back</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2095953257440894984/img/6YTh28B9gAxmaImW.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Extensions are one of Pi’s most loved features! They are TypeScript modules that extend pi&apos;s behavior. <br><br>Here’s an example of an extension that:<br><br>- git commits a checkpoint before every turn <br>- gives the model a run_tests tool<br>- adds an /undo command to roll the session back</p>]]></description>
     </item>
     <item>
       <title>Paper, fall 2026 collection</title>
@@ -156,7 +188,7 @@
       <guid isPermaLink="true">https://x.com/shadcn/status/2095730612460020140</guid>
       <pubDate>Fri, 04 Sep 2026 04:28:09 GMT</pubDate>
       <author>@shadcn</author>
-      <description><![CDATA[<p>I’m getting a projector. This is going to be my new office.</p>]]></description>
+      <description><![CDATA[<p>I’m getting a projector. This is going to be my new office.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2095595661559574528/img/Vmb2pgEFJ6fpCUTD.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Media post</title>
@@ -292,7 +324,7 @@
       <guid isPermaLink="true">https://x.com/avstorm/status/2095234643138072828</guid>
       <pubDate>Wed, 02 Sep 2026 19:37:21 GMT</pubDate>
       <author>@avstorm</author>
-      <description><![CDATA[<p>Here is the Apple Event YouTube ad</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2095234494391336962/img/nqf7Te3OhE3M9Jvk.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Here is the Apple Event YouTube ad</p>]]></description>
     </item>
     <item>
       <title>A video explaining a handful of the tricks we use to optimize for memory within the Superlogical server:</title>
@@ -652,7 +684,7 @@
       <guid isPermaLink="true">https://x.com/shadcn/status/2093769104704360553</guid>
       <pubDate>Sat, 29 Aug 2026 18:33:49 GMT</pubDate>
       <author>@shadcn</author>
-      <description><![CDATA[<p>Copper is one month old today.<br><br>I built it to keep the prompts, answers, links and half-formed ideas that come up when working with AI.<br><br>Thank you to everyone who bought it, sent feedback and made Copper part of how they work.</p>]]></description>
+      <description><![CDATA[<p>Copper is one month old today.<br><br>I built it to keep the prompts, answers, links and half-formed ideas that come up when working with AI.<br><br>Thank you to everyone who bought it, sent feedback and made Copper part of how they work.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2093768647101562880/img/eHyNeXwRlLATyHsk.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>In the next version of tldraw, your screen&apos;s refresh rate no longer affects the speed of edge scrolling.</title>
@@ -972,7 +1004,7 @@
       <guid isPermaLink="true">https://x.com/avstorm/status/2092645980306890992</guid>
       <pubDate>Wed, 26 Aug 2026 16:10:55 GMT</pubDate>
       <author>@avstorm</author>
-      <description><![CDATA[<p>Surprise and shine.<br><br>#AppleEvent on Wednesday, September 9</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2092645922505203712/img/9TdijoJ6Pxghmhlt.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Surprise and shine.<br><br>#AppleEvent on Wednesday, September 9</p>]]></description>
     </item>
     <item>
       <title>Our @obsdmd plugin started asking for a license key a few weeks ago after our provided key expired.</title>
@@ -1068,7 +1100,7 @@
       <guid isPermaLink="true">https://x.com/avstorm/status/2092324054547997064</guid>
       <pubDate>Tue, 25 Aug 2026 18:51:42 GMT</pubDate>
       <author>@avstorm</author>
-      <description><![CDATA[<p>The handcrafted magic behind Apple&apos;s new Mac mini introduction</p>]]></description>
+      <description><![CDATA[<p>The handcrafted magic behind Apple&apos;s new Mac mini introduction</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2092323944220983296/img/_uPxj75bW0nXNmjX.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>casual day at the office</title>
@@ -1156,7 +1188,7 @@
       <guid isPermaLink="true">https://x.com/avstorm/status/2092238608958734645</guid>
       <pubDate>Tue, 25 Aug 2026 13:12:10 GMT</pubDate>
       <author>@avstorm</author>
-      <description><![CDATA[<p>Apple has introduced new Mac mini</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2092238371758235648/img/wiQEQtUjIrw6SNSU.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Apple has introduced new Mac mini</p>]]></description>
     </item>
     <item>
       <title>For details and examples learn more here</title>
@@ -1532,7 +1564,7 @@
       <guid isPermaLink="true">https://x.com/almonk/status/2090756301085122612</guid>
       <pubDate>Fri, 21 Aug 2026 11:02:01 GMT</pubDate>
       <author>@almonk</author>
-      <description><![CDATA[<p>there&apos;s a phenomenon in engineering called the &quot;zenith before obsolescence&quot;: when a technology reaches its most perfected form just as it’s about to be replaced.<br><br>The Eiffel Tower was that for construction in wrought iron.<br><br>Disco was that for the Aqua-era.</p><p><img src="https://pbs.twimg.com/tweet_video_thumb/HQPXGEVWMAAugsf.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>there&apos;s a phenomenon in engineering called the &quot;zenith before obsolescence&quot;: when a technology reaches its most perfected form just as it’s about to be replaced.<br><br>The Eiffel Tower was that for construction in wrought iron.<br><br>Disco was that for the Aqua-era.</p>]]></description>
     </item>
     <item>
       <title>👏</title>
@@ -1573,38 +1605,6 @@
       <pubDate>Thu, 20 Aug 2026 15:45:18 GMT</pubDate>
       <author>@zerocam_app</author>
       <description><![CDATA[<p>🫶</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2090448117187354625/img/Q5iVjdprnYA5Ypku.jpg" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>Deep dive into Instagram’s new wordmark. https://koto.com/projects/instagram…</title>
-      <link>https://x.com/avstorm/status/2090432362601410832</link>
-      <guid isPermaLink="true">https://x.com/avstorm/status/2090432362601410832</guid>
-      <pubDate>Thu, 20 Aug 2026 13:34:48 GMT</pubDate>
-      <author>@avstorm</author>
-      <description><![CDATA[<p>Deep dive into Instagram’s new wordmark.<br><br>https://koto.com/projects/instagram…</p><p><img src="https://pbs.twimg.com/media/HQK1FhRWYAA0miC?format=jpg&amp;name=small" alt=""></p><p><img src="https://pbs.twimg.com/media/HQK1GmTWcAA_nL5?format=jpg&amp;name=small" alt=""></p><p><img src="https://pbs.twimg.com/media/HQK1HikXAAAvXBR?format=png&amp;name=small" alt=""></p><p><img src="https://pbs.twimg.com/media/HQK1ILCWMAAXWzb?format=png&amp;name=small" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>This blog post was written for those who may be curious to know what an agent harness is,</title>
-      <link>https://x.com/pidotdev/status/2090416132817670578</link>
-      <guid isPermaLink="true">https://x.com/pidotdev/status/2090416132817670578</guid>
-      <pubDate>Thu, 20 Aug 2026 12:30:18 GMT</pubDate>
-      <author>@pidotdev</author>
-      <description><![CDATA[<p>This blog post was written for those who may be curious to know what an agent harness is, but don’t, and might not know where to start. Read the full post here</p>]]></description>
-    </item>
-    <item>
-      <title>A harness turns a model into an agent. At it’s core it provides 4 things: - a system</title>
-      <link>https://x.com/pidotdev/status/2090416055273542141</link>
-      <guid isPermaLink="true">https://x.com/pidotdev/status/2090416055273542141</guid>
-      <pubDate>Thu, 20 Aug 2026 12:30:00 GMT</pubDate>
-      <author>@pidotdev</author>
-      <description><![CDATA[<p>A harness turns a model into an agent. At it’s core it provides 4 things:<br><br>- a system prompt<br>- tools<br>- an agentic loop <br>- a translation layer across models <br><br>New blog post from Earendil co-founder @colindaymond on what a harness is, and how you can own yours. Full post below</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2090412016506695680/img/Y8bKh5p43u7vcpFo.jpg" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>Mariusz Cieśla: The last product design tool</title>
-      <link>https://x.com/tldraw/status/2090415582914969996</link>
-      <guid isPermaLink="true">https://x.com/tldraw/status/2090415582914969996</guid>
-      <pubDate>Thu, 20 Aug 2026 12:28:07 GMT</pubDate>
-      <author>@tldraw</author>
-      <description><![CDATA[<p>Mariusz Cieśla: The last product design tool</p>]]></description>
     </item>
   </channel>
 </rss>
