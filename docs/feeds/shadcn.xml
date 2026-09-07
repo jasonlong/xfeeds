@@ -13,6 +13,14 @@
     </image>
     <ttl>120</ttl>
     <item>
+      <title>having your own personal component library is insanely useful for agentic coding start with shadcn/ui. ask your agent</title>
+      <link>https://x.com/shadcn/status/2097011536367931596</link>
+      <guid isPermaLink="true">https://x.com/shadcn/status/2097011536367931596</guid>
+      <pubDate>Mon, 07 Sep 2026 17:18:05 GMT</pubDate>
+      <author>@shadcn</author>
+      <description><![CDATA[<p>having your own personal component library is insanely useful for agentic coding<br><br>start with shadcn/ui. ask your agent to customize the components. they’re really good at it.<br><br>then every project starts with: <br><br>npx shadcn init name/repo<br><br>your components. your defaults. every time.</p>]]></description>
+    </item>
+    <item>
       <title>Look at macOS. Apple spent so much time designing marketing Liquid Glass. Two years in, very little of</title>
       <link>https://x.com/shadcn/status/2096797264370950464</link>
       <guid isPermaLink="true">https://x.com/shadcn/status/2096797264370950464</guid>
