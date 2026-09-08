@@ -7,6 +7,22 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>join the waitlist → https://flash.tldraw.com/waitlist</title>
+      <link>https://x.com/tldraw/status/2097330003763487185</link>
+      <guid isPermaLink="true">https://x.com/tldraw/status/2097330003763487185</guid>
+      <pubDate>Tue, 08 Sep 2026 14:23:34 GMT</pubDate>
+      <author>@tldraw</author>
+      <description><![CDATA[<p>join the waitlist → https://flash.tldraw.com/waitlist</p>]]></description>
+    </item>
+    <item>
+      <title>what you can do with tldraw flash</title>
+      <link>https://x.com/tldraw/status/2097330001334989060</link>
+      <guid isPermaLink="true">https://x.com/tldraw/status/2097330001334989060</guid>
+      <pubDate>Tue, 08 Sep 2026 14:23:33 GMT</pubDate>
+      <author>@tldraw</author>
+      <description><![CDATA[<p>what you can do with tldraw flash</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2097329530843353088/img/_ijOX_izHQQwUVHC.jpg" alt=""></p>]]></description>
+    </item>
+    <item>
       <title>Submit your own tldraw flash animations to be featured that night!</title>
       <link>https://x.com/tldraw/status/2097306333611471182</link>
       <guid isPermaLink="true">https://x.com/tldraw/status/2097306333611471182</guid>
@@ -76,7 +92,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2097038238632591713</guid>
       <pubDate>Mon, 07 Sep 2026 19:04:11 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>In the next version of tldraw, newly created notes will be automatically panned into view.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2097038195691249664/img/kp4VC9HXs9IxJyK2.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>In the next version of tldraw, newly created notes will be automatically panned into view.</p>]]></description>
     </item>
     <item>
       <title>In the next version of tldraw, the toolbar drag gesture spawns shapes only when the pointer leaves toolbar.</title>
@@ -84,7 +100,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2097015320502587652</guid>
       <pubDate>Mon, 07 Sep 2026 17:33:07 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>In the next version of tldraw, the toolbar drag gesture spawns shapes only when the pointer leaves toolbar. This prevents accidental shape spawning, especially on mobile.</p>]]></description>
+      <description><![CDATA[<p>In the next version of tldraw, the toolbar drag gesture spawns shapes only when the pointer leaves toolbar. This prevents accidental shape spawning, especially on mobile.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2097015268384112640/img/ePC8tbGFiOHLE1eJ.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>having your own personal component library is insanely useful for agentic coding start with shadcn/ui. ask your agent</title>
@@ -948,7 +964,7 @@
       <guid isPermaLink="true">https://x.com/pidotdev/status/2093300058628276732</guid>
       <pubDate>Fri, 28 Aug 2026 11:30:00 GMT</pubDate>
       <author>@pidotdev</author>
-      <description><![CDATA[<p>This week, our team listened in as @theo, creator of T3 Chat, explored whether code is all you need for memory 🎧<br><br>Theo walks through a clip of Mario and Armin discussing this and more. He also shares some thoughts on Pi!<br><br>Great for a Friday listen. Link below. We recommend!</p>]]></description>
+      <description><![CDATA[<p>This week, our team listened in as @theo, creator of T3 Chat, explored whether code is all you need for memory 🎧<br><br>Theo walks through a clip of Mario and Armin discussing this and more. He also shares some thoughts on Pi!<br><br>Great for a Friday listen. Link below. We recommend!</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2093263273898491904/img/sBG-w0WCOdIRQSgu.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Watch the full episode here</title>
@@ -1589,22 +1605,6 @@
       <pubDate>Sat, 22 Aug 2026 11:30:00 GMT</pubDate>
       <author>@pidotdev</author>
       <description><![CDATA[<p>ICYMI, pi-transcribe is our official package for local speech-to-text dictation in Pi <br><br>Once you install it:<br>- type /transcribe <br>- select a local model and language <br>- run CTRL + ALT + Z to start or stop dictation<br><br>Are you a typer or a talker?</p><p><img src="https://pbs.twimg.com/media/HQUGM8qWMAASC-P?format=jpg&amp;name=small" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>Part of the LLM-assisted work here is that Fable+Sol put together a test suite of over 400 cases</title>
-      <link>https://x.com/mitchellh/status/2090893729469268109</link>
-      <guid isPermaLink="true">https://x.com/mitchellh/status/2090893729469268109</guid>
-      <pubDate>Fri, 21 Aug 2026 20:08:06 GMT</pubDate>
-      <author>@mitchellh</author>
-      <description><![CDATA[<p>Part of the LLM-assisted work here is that Fable+Sol put together a test suite of over 400 cases that are bare shell scripts plus a harness that runs Kitty and Ghostty GUIs and captures their full pty stream AND screenshots (multiple, for animations).  <br><br>For the pty stream we</p>]]></description>
-    </item>
-    <item>
-      <title>Ghostty (and libghostty!) now has a 100% complete implementation of the Kitty Graphics Protocol. We support every feature,</title>
-      <link>https://x.com/mitchellh/status/2090875695346139621</link>
-      <guid isPermaLink="true">https://x.com/mitchellh/status/2090875695346139621</guid>
-      <pubDate>Fri, 21 Aug 2026 18:56:27 GMT</pubDate>
-      <author>@mitchellh</author>
-      <description><![CDATA[<p>Ghostty (and libghostty!) now has a 100% complete implementation of the Kitty Graphics Protocol. We support every feature, every option. We are the first terminal beyond Kitty to do this. <br><br>Most terminals stop at basic image placements, then give up on the long tail of other</p>]]></description>
     </item>
   </channel>
 </rss>
