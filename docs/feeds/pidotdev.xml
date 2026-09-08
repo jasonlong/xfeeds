@@ -34,7 +34,7 @@
       <guid isPermaLink="true">https://x.com/pidotdev/status/2096561549356007547</guid>
       <pubDate>Sun, 06 Sep 2026 11:30:00 GMT</pubDate>
       <author>@pidotdev</author>
-      <description><![CDATA[<p>Good morning from Vienna People of Pi🌞<br><br>Sunday meditations today from @badlogicgames and @mitsuhiko <br><br>- change the harness, not your workflow <br>- harness, know thyself <br>- agency to build the features you need when you need them <br><br>*clip from February with our friends @syntaxfm</p>]]></description>
+      <description><![CDATA[<p>Good morning from Vienna People of Pi🌞<br><br>Sunday meditations today from @badlogicgames and @mitsuhiko <br><br>- change the harness, not your workflow <br>- harness, know thyself <br>- agency to build the features you need when you need them <br><br>*clip from February with our friends @syntaxfm</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2096541993413554176/img/D6J46h3BRWhLuVMT.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Extensions are one of Pi’s most loved features! They are TypeScript modules that extend pi&apos;s behavior. Here’s an</title>
@@ -42,7 +42,7 @@
       <guid isPermaLink="true">https://x.com/pidotdev/status/2096199162203107524</guid>
       <pubDate>Sat, 05 Sep 2026 11:30:00 GMT</pubDate>
       <author>@pidotdev</author>
-      <description><![CDATA[<p>Extensions are one of Pi’s most loved features! They are TypeScript modules that extend pi&apos;s behavior. <br><br>Here’s an example of an extension that:<br><br>- git commits a checkpoint before every turn <br>- gives the model a run_tests tool<br>- adds an /undo command to roll the session back</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2095953257440894984/img/6YTh28B9gAxmaImW.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Extensions are one of Pi’s most loved features! They are TypeScript modules that extend pi&apos;s behavior. <br><br>Here’s an example of an extension that:<br><br>- git commits a checkpoint before every turn <br>- gives the model a run_tests tool<br>- adds an /undo command to roll the session back</p>]]></description>
     </item>
     <item>
       <title>You can run &quot;pi update --models&quot; to refresh the model registry to get astra if your account has</title>
