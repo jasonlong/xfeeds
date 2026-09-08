@@ -7,6 +7,22 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>.@mitchellh walks us thru the most in-depth look at our macOS client so far</title>
+      <link>https://x.com/almonk/status/2097427463101911521</link>
+      <guid isPermaLink="true">https://x.com/almonk/status/2097427463101911521</guid>
+      <pubDate>Tue, 08 Sep 2026 20:50:50 GMT</pubDate>
+      <author>@almonk</author>
+      <description><![CDATA[<p>.@mitchellh walks us thru the most in-depth look at our macOS client so far</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2097423824325337088/img/6fxkvF8tDwoXqWRQ.jpg" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>A quick look into remote persistent sessions with Superlogical! Not just remote sessions, but some functionality like remote</title>
+      <link>https://x.com/mitchellh/status/2097424868203758046</link>
+      <guid isPermaLink="true">https://x.com/mitchellh/status/2097424868203758046</guid>
+      <pubDate>Tue, 08 Sep 2026 20:40:31 GMT</pubDate>
+      <author>@mitchellh</author>
+      <description><![CDATA[<p>A quick look into remote persistent sessions with Superlogical! Not just remote sessions, but some functionality like remote directory lists, too. Superlogical can actually be a full SSH replacement (I don&apos;t run SSH on my servers anymore), and I talk about that briefly, too.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2097423824325337088/img/6fxkvF8tDwoXqWRQ.jpg" alt=""></p>]]></description>
+    </item>
+    <item>
       <title>folks are making cool stuff on tldraw flash</title>
       <link>https://x.com/tldraw/status/2097385510779900137</link>
       <guid isPermaLink="true">https://x.com/tldraw/status/2097385510779900137</guid>
@@ -468,7 +484,7 @@
       <guid isPermaLink="true">https://x.com/pidotdev/status/2095474386417647827</guid>
       <pubDate>Thu, 03 Sep 2026 11:30:00 GMT</pubDate>
       <author>@pidotdev</author>
-      <description><![CDATA[<p>Pi is a tool for more than just engineers! New blog post by Earendil Founders Associate @jakob_ebe, sharing his experience as a non-technical member of our team.<br><br>Jakob walks through his thoughts getting started and how he customized Pi to make it his own.<br><br>Link to blog below!</p>]]></description>
+      <description><![CDATA[<p>Pi is a tool for more than just engineers! New blog post by Earendil Founders Associate @jakob_ebe, sharing his experience as a non-technical member of our team.<br><br>Jakob walks through his thoughts getting started and how he customized Pi to make it his own.<br><br>Link to blog below!</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2095471003510206464/img/2qJAnDczS3l7J_xZ.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Read about how Jakob uses Pi here</title>
@@ -524,7 +540,7 @@
       <guid isPermaLink="true">https://x.com/mitchellh/status/2095232081853039041</guid>
       <pubDate>Wed, 02 Sep 2026 19:27:10 GMT</pubDate>
       <author>@mitchellh</author>
-      <description><![CDATA[<p>A video explaining a handful of the tricks we use to optimize for memory within the Superlogical server: in-memory compression, moving file descriptors between event-driven and blocked threads dynamically, full terminal state binary snapshot/restore in microseconds, and more!</p>]]></description>
+      <description><![CDATA[<p>A video explaining a handful of the tricks we use to optimize for memory within the Superlogical server: in-memory compression, moving file descriptors between event-driven and blocked threads dynamically, full terminal state binary snapshot/restore in microseconds, and more!</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2095231696694312961/img/4X8RDN0dk4H5TQWS.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>baby you can have whatever you liiiiiiike</title>
@@ -636,7 +652,7 @@
       <guid isPermaLink="true">https://x.com/almonk/status/2095134190631096428</guid>
       <pubDate>Wed, 02 Sep 2026 12:58:11 GMT</pubDate>
       <author>@almonk</author>
-      <description><![CDATA[<p>One of my favourite things about building @superlogical is that we all care, a disproportionate amount, about the little conveniences, performance gains and UI treats that most rational people just don’t.<br><br>I&apos;m currently working on our scrollback search UI. You basically have two</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2095133930185768966/img/z5RWxH7rU_yRstfx.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>One of my favourite things about building @superlogical is that we all care, a disproportionate amount, about the little conveniences, performance gains and UI treats that most rational people just don’t.<br><br>I&apos;m currently working on our scrollback search UI. You basically have two</p>]]></description>
     </item>
     <item>
       <title>Tips to get the most out of /tree: - shift+l: label checkpoints - ctrl+o: cycle through to view</title>
@@ -644,7 +660,7 @@
       <guid isPermaLink="true">https://x.com/pidotdev/status/2095119153766015285</guid>
       <pubDate>Wed, 02 Sep 2026 11:58:26 GMT</pubDate>
       <author>@pidotdev</author>
-      <description><![CDATA[<p>Tips to get the most out of /tree: <br> <br>- shift+l: label checkpoints <br> - ctrl+o: cycle through to view session trees in default mode, with no-tools, user-only or labeled-only views <br>- ctrl+l: collapse to just checkpoints <br><br>Here’s an example workflow of how to use these</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2095116227693760512/img/fc6GGgurp4G9z6RT.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Tips to get the most out of /tree: <br> <br>- shift+l: label checkpoints <br> - ctrl+o: cycle through to view session trees in default mode, with no-tools, user-only or labeled-only views <br>- ctrl+l: collapse to just checkpoints <br><br>Here’s an example workflow of how to use these</p>]]></description>
     </item>
     <item>
       <title>In case you missed it, our last release allowed geometric shapes to be flipped horizontally or vertically. Surprise</title>
@@ -812,7 +828,7 @@
       <guid isPermaLink="true">https://x.com/pidotdev/status/2094387225131626847</guid>
       <pubDate>Mon, 31 Aug 2026 11:30:00 GMT</pubDate>
       <author>@pidotdev</author>
-      <description><![CDATA[<p>ICYMI, Pi now has a thinking level selector.<br> <br>- Use the /thinking slash command<br>- pick a level and Ctrl+S to make it your startup default.<br>- use Shift+Tab to cycle through levels mid-session</p>]]></description>
+      <description><![CDATA[<p>ICYMI, Pi now has a thinking level selector.<br> <br>- Use the /thinking slash command<br>- pick a level and Ctrl+S to make it your startup default.<br>- use Shift+Tab to cycle through levels mid-session</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2094374177302040576/img/aGko7AzKNQ62e8us.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Media post</title>
@@ -852,7 +868,7 @@
       <guid isPermaLink="true">https://x.com/pidotdev/status/2094024837790327110</guid>
       <pubDate>Sun, 30 Aug 2026 11:30:01 GMT</pubDate>
       <author>@pidotdev</author>
-      <description><![CDATA[<p>Good morning from Vienna People of Pi ☀️<br><br>Sunday meditations from @badlogicgames and @mitshuko <br><br>- LLMs seem to be improving for looping but not much elsewhere<br>- Over RLing on some harnesses can cause regressions<br>- Open weight models are not a panacea but can be a valid option</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2094011805358026752/img/YSeUvFHT5nHmuEdD.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Good morning from Vienna People of Pi ☀️<br><br>Sunday meditations from @badlogicgames and @mitshuko <br><br>- LLMs seem to be improving for looping but not much elsewhere<br>- Over RLing on some harnesses can cause regressions<br>- Open weight models are not a panacea but can be a valid option</p>]]></description>
     </item>
     <item>
       <title>libghostty-vt running freestanding on a device with a 240 MHz CPU, 4 MB flash storage, and 520KB SRAM.</title>
@@ -860,7 +876,7 @@
       <guid isPermaLink="true">https://x.com/mitchellh/status/2093788871331103150</guid>
       <pubDate>Sat, 29 Aug 2026 19:52:22 GMT</pubDate>
       <author>@mitchellh</author>
-      <description><![CDATA[<p>libghostty-vt running freestanding on a device with a 240 MHz CPU, 4 MB flash storage, and 520KB SRAM. 😎</p>]]></description>
+      <description><![CDATA[<p>libghostty-vt running freestanding on a device with a 240 MHz CPU, 4 MB flash storage, and 520KB SRAM. 😎</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2093774574479405056/img/dBOL94yIaYkQ9yXK.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Media post</title>
@@ -916,7 +932,7 @@
       <guid isPermaLink="true">https://x.com/almonk/status/2093596518557036897</guid>
       <pubDate>Sat, 29 Aug 2026 07:08:01 GMT</pubDate>
       <author>@almonk</author>
-      <description><![CDATA[<p>Fast is the feature</p>]]></description>
+      <description><![CDATA[<p>Fast is the feature</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2093450067940360192/img/9Ea_DUx0Vkr3lB7k.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Small pi update for y&apos;all!</title>
@@ -940,7 +956,7 @@
       <guid isPermaLink="true">https://x.com/mitchellh/status/2093451043661316217</guid>
       <pubDate>Fri, 28 Aug 2026 21:29:57 GMT</pubDate>
       <author>@mitchellh</author>
-      <description><![CDATA[<p>Quick Superlogical demo to end the week. This demo is just of the basic functionality, but I want to highlight just how FAST it is. There&apos;s a WHOLE lot more functionality already present and coming but I wanted to keep the demo short. But seriously, check out that speed.<br><br>I&apos;m</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2093450067940360192/img/9Ea_DUx0Vkr3lB7k.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Quick Superlogical demo to end the week. This demo is just of the basic functionality, but I want to highlight just how FAST it is. There&apos;s a WHOLE lot more functionality already present and coming but I wanted to keep the demo short. But seriously, check out that speed.<br><br>I&apos;m</p>]]></description>
     </item>
     <item>
       <title>Love concert photos on @zerocam_app , these are great 🙌</title>
@@ -1589,22 +1605,6 @@
       <pubDate>Sat, 22 Aug 2026 15:42:50 GMT</pubDate>
       <author>@zerocam_app</author>
       <description><![CDATA[<p>🧪 🧬</p><p><img src="https://pbs.twimg.com/media/HQSM0MaWkAAJgIS?format=jpg&amp;name=small" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>More recipes coming to zerotake</title>
-      <link>https://x.com/zerocam_app/status/2091185811953746338</link>
-      <guid isPermaLink="true">https://x.com/zerocam_app/status/2091185811953746338</guid>
-      <pubDate>Sat, 22 Aug 2026 15:28:44 GMT</pubDate>
-      <author>@zerocam_app</author>
-      <description><![CDATA[<p>More recipes coming to zerotake</p><p><img src="https://pbs.twimg.com/media/HQUw5MpWYAAY6nk?format=jpg&amp;name=360x360" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>So Nice 😊</title>
-      <link>https://x.com/zerocam_app/status/2091170099612758245</link>
-      <guid isPermaLink="true">https://x.com/zerocam_app/status/2091170099612758245</guid>
-      <pubDate>Sat, 22 Aug 2026 14:26:18 GMT</pubDate>
-      <author>@zerocam_app</author>
-      <description><![CDATA[<p>So Nice 😊</p><p><img src="https://pbs.twimg.com/media/HQUFIWXWgAI0rlc?format=jpg&amp;name=360x360" alt=""></p><p><img src="https://pbs.twimg.com/media/HQUFIWNXMAAOc5w?format=jpg&amp;name=360x360" alt=""></p><p><img src="https://pbs.twimg.com/media/HQUFIWNWkAAzQ9i?format=jpg&amp;name=360x360" alt=""></p><p><img src="https://pbs.twimg.com/media/HQUFIWXWgAEin92?format=jpg&amp;name=360x360" alt=""></p>]]></description>
     </item>
   </channel>
 </rss>
