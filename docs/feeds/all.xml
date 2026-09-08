@@ -7,6 +7,14 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>Split screen. Favorite feature.</title>
+      <link>https://x.com/shadcn/status/2097137031474286595</link>
+      <guid isPermaLink="true">https://x.com/shadcn/status/2097137031474286595</guid>
+      <pubDate>Tue, 08 Sep 2026 01:36:45 GMT</pubDate>
+      <author>@shadcn</author>
+      <description><![CDATA[<p>Split screen. Favorite feature.</p>]]></description>
+    </item>
+    <item>
       <title>tldraw flash, a new tool we&apos;re building for making handmade animations, launches later this week. we&apos;ve just given</title>
       <link>https://x.com/tldraw/status/2097082956061818962</link>
       <guid isPermaLink="true">https://x.com/tldraw/status/2097082956061818962</guid>
@@ -284,7 +292,7 @@
       <guid isPermaLink="true">https://x.com/shadcn/status/2095730612460020140</guid>
       <pubDate>Fri, 04 Sep 2026 04:28:09 GMT</pubDate>
       <author>@shadcn</author>
-      <description><![CDATA[<p>I’m getting a projector. This is going to be my new office.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2095595661559574528/img/Vmb2pgEFJ6fpCUTD.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>I’m getting a projector. This is going to be my new office.</p>]]></description>
     </item>
     <item>
       <title>Media post</title>
@@ -780,7 +788,7 @@
       <guid isPermaLink="true">https://x.com/shadcn/status/2093769104704360553</guid>
       <pubDate>Sat, 29 Aug 2026 18:33:49 GMT</pubDate>
       <author>@shadcn</author>
-      <description><![CDATA[<p>Copper is one month old today.<br><br>I built it to keep the prompts, answers, links and half-formed ideas that come up when working with AI.<br><br>Thank you to everyone who bought it, sent feedback and made Copper part of how they work.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2093768647101562880/img/eHyNeXwRlLATyHsk.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Copper is one month old today.<br><br>I built it to keep the prompts, answers, links and half-formed ideas that come up when working with AI.<br><br>Thank you to everyone who bought it, sent feedback and made Copper part of how they work.</p>]]></description>
     </item>
     <item>
       <title>In the next version of tldraw, your screen&apos;s refresh rate no longer affects the speed of edge scrolling.</title>
@@ -1597,14 +1605,6 @@
       <pubDate>Fri, 21 Aug 2026 15:58:05 GMT</pubDate>
       <author>@zerocam_app</author>
       <description><![CDATA[<p>You don’t need iPhone 6, just @zerocam_app</p><p><img src="https://pbs.twimg.com/media/HQPn8e0aoAAJ7_E?format=jpg&amp;name=360x360" alt=""></p><p><img src="https://pbs.twimg.com/media/HQPn8ezbcAArwAI?format=jpg&amp;name=360x360" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>🔥 🔥 🔥 🔥 🔥 🔥 🔥 🔥 🔥</title>
-      <link>https://x.com/zerocam_app/status/2090830551154311257</link>
-      <guid isPermaLink="true">https://x.com/zerocam_app/status/2090830551154311257</guid>
-      <pubDate>Fri, 21 Aug 2026 15:57:03 GMT</pubDate>
-      <author>@zerocam_app</author>
-      <description><![CDATA[<p>🔥 🔥 🔥 🔥 🔥 🔥 🔥 🔥 🔥</p><p><img src="https://pbs.twimg.com/media/HQQctD8X0AEx-Wd?format=jpg&amp;name=small" alt=""></p><p><img src="https://pbs.twimg.com/media/HQQctEBWIAA2tox?format=jpg&amp;name=small" alt=""></p><p><img src="https://pbs.twimg.com/media/HQQctD-WgAAzrCl?format=jpg&amp;name=small" alt=""></p><p><img src="https://pbs.twimg.com/media/HQQctEAWQAAJ_A8?format=jpg&amp;name=small" alt=""></p>]]></description>
     </item>
   </channel>
 </rss>
