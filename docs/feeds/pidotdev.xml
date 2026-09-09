@@ -13,12 +13,28 @@
     </image>
     <ttl>120</ttl>
     <item>
+      <title>A cache miss happens when a model has to re-read (and re-charge you for) text it had already</title>
+      <link>https://x.com/pidotdev/status/2097648758888542527</link>
+      <guid isPermaLink="true">https://x.com/pidotdev/status/2097648758888542527</guid>
+      <pubDate>Wed, 09 Sep 2026 11:30:11 GMT</pubDate>
+      <author>@pidotdev</author>
+      <description><![CDATA[<p>A cache miss happens when a model has to re-read (and re-charge you for) text it had already processed before. <br><br>This can be caused by: <br> - switching models<br> - idling past 5mins<br>- editing earlier threads<br><br>Pi can notify you when this happens and how much it costs!</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2097644899940110336/img/HPCalWpuhMl7UKcw.jpg" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>Run /settings and set ‘cache miss notices’ to True. Follow the cache miss notice with the /sessions command</title>
+      <link>https://x.com/pidotdev/status/2097648761224732798</link>
+      <guid isPermaLink="true">https://x.com/pidotdev/status/2097648761224732798</guid>
+      <pubDate>Wed, 09 Sep 2026 11:30:11 GMT</pubDate>
+      <author>@pidotdev</author>
+      <description><![CDATA[<p>Run /settings and set ‘cache miss notices’ to True. <br><br>Follow the cache miss notice with the /sessions command for an even more detailed report!</p>]]></description>
+    </item>
+    <item>
       <title>Gpt-6-astra is @OpenAI’s latest model. Astra is said to be their most intelligent model so far, with frontier</title>
       <link>https://x.com/pidotdev/status/2097289933434024187</link>
       <guid isPermaLink="true">https://x.com/pidotdev/status/2097289933434024187</guid>
       <pubDate>Tue, 08 Sep 2026 11:44:20 GMT</pubDate>
       <author>@pidotdev</author>
-      <description><![CDATA[<p>Gpt-6-astra is @OpenAI’s latest model. Astra is said to be their most intelligent model so far, with frontier leading capabilities for computer use. <br><br>Have you tried it? What are your thoughts so far? If you haven’t, give it a try in Pi today!</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2097288218223734784/img/cjowWufG1UOAEBqe.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Gpt-6-astra is @OpenAI’s latest model. Astra is said to be their most intelligent model so far, with frontier leading capabilities for computer use. <br><br>Have you tried it? What are your thoughts so far? If you haven’t, give it a try in Pi today!</p>]]></description>
     </item>
     <item>
       <title>Pi lets you pass a project directory (cwd) to createAgentSession(), to help scope where tools should work. Tools</title>
@@ -34,7 +50,7 @@
       <guid isPermaLink="true">https://x.com/pidotdev/status/2096561549356007547</guid>
       <pubDate>Sun, 06 Sep 2026 11:30:00 GMT</pubDate>
       <author>@pidotdev</author>
-      <description><![CDATA[<p>Good morning from Vienna People of Pi🌞<br><br>Sunday meditations today from @badlogicgames and @mitsuhiko <br><br>- change the harness, not your workflow <br>- harness, know thyself <br>- agency to build the features you need when you need them <br><br>*clip from February with our friends @syntaxfm</p>]]></description>
+      <description><![CDATA[<p>Good morning from Vienna People of Pi🌞<br><br>Sunday meditations today from @badlogicgames and @mitsuhiko <br><br>- change the harness, not your workflow <br>- harness, know thyself <br>- agency to build the features you need when you need them <br><br>*clip from February with our friends @syntaxfm</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2096541993413554176/img/D6J46h3BRWhLuVMT.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Extensions are one of Pi’s most loved features! They are TypeScript modules that extend pi&apos;s behavior. Here’s an</title>
@@ -42,7 +58,7 @@
       <guid isPermaLink="true">https://x.com/pidotdev/status/2096199162203107524</guid>
       <pubDate>Sat, 05 Sep 2026 11:30:00 GMT</pubDate>
       <author>@pidotdev</author>
-      <description><![CDATA[<p>Extensions are one of Pi’s most loved features! They are TypeScript modules that extend pi&apos;s behavior. <br><br>Here’s an example of an extension that:<br><br>- git commits a checkpoint before every turn <br>- gives the model a run_tests tool<br>- adds an /undo command to roll the session back</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2095953257440894984/img/6YTh28B9gAxmaImW.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Extensions are one of Pi’s most loved features! They are TypeScript modules that extend pi&apos;s behavior. <br><br>Here’s an example of an extension that:<br><br>- git commits a checkpoint before every turn <br>- gives the model a run_tests tool<br>- adds an /undo command to roll the session back</p>]]></description>
     </item>
     <item>
       <title>You can run &quot;pi update --models&quot; to refresh the model registry to get astra if your account has</title>
@@ -82,7 +98,7 @@
       <guid isPermaLink="true">https://x.com/pidotdev/status/2095474386417647827</guid>
       <pubDate>Thu, 03 Sep 2026 11:30:00 GMT</pubDate>
       <author>@pidotdev</author>
-      <description><![CDATA[<p>Pi is a tool for more than just engineers! New blog post by Earendil Founders Associate @jakob_ebe, sharing his experience as a non-technical member of our team.<br><br>Jakob walks through his thoughts getting started and how he customized Pi to make it his own.<br><br>Link to blog below!</p>]]></description>
+      <description><![CDATA[<p>Pi is a tool for more than just engineers! New blog post by Earendil Founders Associate @jakob_ebe, sharing his experience as a non-technical member of our team.<br><br>Jakob walks through his thoughts getting started and how he customized Pi to make it his own.<br><br>Link to blog below!</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2095471003510206464/img/2qJAnDczS3l7J_xZ.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Read about how Jakob uses Pi here</title>
@@ -98,7 +114,7 @@
       <guid isPermaLink="true">https://x.com/pidotdev/status/2095119153766015285</guid>
       <pubDate>Wed, 02 Sep 2026 11:58:26 GMT</pubDate>
       <author>@pidotdev</author>
-      <description><![CDATA[<p>Tips to get the most out of /tree: <br> <br>- shift+l: label checkpoints <br> - ctrl+o: cycle through to view session trees in default mode, with no-tools, user-only or labeled-only views <br>- ctrl+l: collapse to just checkpoints <br><br>Here’s an example workflow of how to use these</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2095116227693760512/img/fc6GGgurp4G9z6RT.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Tips to get the most out of /tree: <br> <br>- shift+l: label checkpoints <br> - ctrl+o: cycle through to view session trees in default mode, with no-tools, user-only or labeled-only views <br>- ctrl+l: collapse to just checkpoints <br><br>Here’s an example workflow of how to use these</p>]]></description>
     </item>
     <item>
       <title>Pi now has 100000 stars on GitHub⭐️Thank you People of Pi for your contributions and support. The community</title>
@@ -114,7 +130,7 @@
       <guid isPermaLink="true">https://x.com/pidotdev/status/2094387225131626847</guid>
       <pubDate>Mon, 31 Aug 2026 11:30:00 GMT</pubDate>
       <author>@pidotdev</author>
-      <description><![CDATA[<p>ICYMI, Pi now has a thinking level selector.<br> <br>- Use the /thinking slash command<br>- pick a level and Ctrl+S to make it your startup default.<br>- use Shift+Tab to cycle through levels mid-session</p>]]></description>
+      <description><![CDATA[<p>ICYMI, Pi now has a thinking level selector.<br> <br>- Use the /thinking slash command<br>- pick a level and Ctrl+S to make it your startup default.<br>- use Shift+Tab to cycle through levels mid-session</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2094374177302040576/img/aGko7AzKNQ62e8us.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>The correct account tagged should be @mitsuhiko 👀 Multi tasking and posting - Pi intern</title>
