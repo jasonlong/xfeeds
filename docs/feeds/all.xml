@@ -7,6 +7,38 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>Media post</title>
+      <link>https://x.com/tldraw/status/2098089905717166304</link>
+      <guid isPermaLink="true">https://x.com/tldraw/status/2098089905717166304</guid>
+      <pubDate>Thu, 10 Sep 2026 16:43:08 GMT</pubDate>
+      <author>@tldraw</author>
+      <description><![CDATA[<p></p>]]></description>
+    </item>
+    <item>
+      <title>tldraw flash is now live. A new animation tool that lives on the infinite canvas. Draw something, press</title>
+      <link>https://x.com/tldraw/status/2098089893524292036</link>
+      <guid isPermaLink="true">https://x.com/tldraw/status/2098089893524292036</guid>
+      <pubDate>Thu, 10 Sep 2026 16:43:05 GMT</pubDate>
+      <author>@tldraw</author>
+      <description><![CDATA[<p>tldraw flash is now live. A new animation tool that lives on the infinite canvas. Draw something, press record, drag it, and watch it come to life. Try it now – it&apos;s free.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2098089871667806212/img/e0ojqCzTo_8gkKMv.jpg" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>Live soon with the tldraw flash team. Join us →</title>
+      <link>https://x.com/tldraw/status/2098084423988351289</link>
+      <guid isPermaLink="true">https://x.com/tldraw/status/2098084423988351289</guid>
+      <pubDate>Thu, 10 Sep 2026 16:21:21 GMT</pubDate>
+      <author>@tldraw</author>
+      <description><![CDATA[<p>Live soon with the tldraw flash team.<br><br>Join us →</p>]]></description>
+    </item>
+    <item>
+      <title>hmmm, not quite right</title>
+      <link>https://x.com/tldraw/status/2098078164752773486</link>
+      <guid isPermaLink="true">https://x.com/tldraw/status/2098078164752773486</guid>
+      <pubDate>Thu, 10 Sep 2026 15:56:29 GMT</pubDate>
+      <author>@tldraw</author>
+      <description><![CDATA[<p>hmmm, not quite right</p>]]></description>
+    </item>
+    <item>
       <title>Aperture + Photos = Apple Reference Image</title>
       <link>https://x.com/avstorm/status/2098061683201650794</link>
       <guid isPermaLink="true">https://x.com/avstorm/status/2098061683201650794</guid>
@@ -340,7 +372,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2097715528575909947</guid>
       <pubDate>Wed, 09 Sep 2026 15:55:30 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>Today, we landed the newest release of https://tldraw.com. This week was all about smoothing out the edges, which included:<br><br>➡️ Switching pages is now its own undo step, so undo behaves the way you&apos;d expect.</p>]]></description>
+      <description><![CDATA[<p>Today, we landed the newest release of https://tldraw.com. This week was all about smoothing out the edges, which included:<br><br>➡️ Switching pages is now its own undo step, so undo behaves the way you&apos;d expect.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2097707078291009536/img/muG8O2JG5ym8NdlG.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Join us →</title>
@@ -1573,38 +1605,6 @@
       <pubDate>Thu, 27 Aug 2026 17:29:13 GMT</pubDate>
       <author>@mitchellh</author>
       <description><![CDATA[<p>Respect for anyone who objectively reassesses their priors. Also grateful because it’s genuinely hard to get diverse benchmark numbers across hardware and this was another good data point on a machine that isn’t typical for the maintainers we have. Ghostty is fast. ❤️</p><p><img src="https://pbs.twimg.com/media/HQvl2FEWIAAxPaW?format=jpg&amp;name=large" alt=""></p><p><img src="https://pbs.twimg.com/media/HQvoAPUWkAAcSAE?format=jpg&amp;name=small" alt=""></p><p><img src="https://pbs.twimg.com/media/HQvo4akXMAAVvVP?format=png&amp;name=360x360" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>In the next version of tldraw, changing the crop aspect ratio of a rotated image no longer causes</title>
-      <link>https://x.com/tldraw/status/2093026717908848810</link>
-      <guid isPermaLink="true">https://x.com/tldraw/status/2093026717908848810</guid>
-      <pubDate>Thu, 27 Aug 2026 17:23:50 GMT</pubDate>
-      <author>@tldraw</author>
-      <description><![CDATA[<p>In the next version of tldraw, changing the crop aspect ratio of a rotated image no longer causes its center to change.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2093026691518251008/img/jgdWB2-ljSAJ9x3m.jpg" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>Media post</title>
-      <link>https://x.com/tldraw/status/2093004333021274287</link>
-      <guid isPermaLink="true">https://x.com/tldraw/status/2093004333021274287</guid>
-      <pubDate>Thu, 27 Aug 2026 15:54:53 GMT</pubDate>
-      <author>@tldraw</author>
-      <description><![CDATA[<p></p>]]></description>
-    </item>
-    <item>
-      <title>@caligracomputer team passed by the tldraw office today and left some goodies</title>
-      <link>https://x.com/tldraw/status/2092976040054268122</link>
-      <guid isPermaLink="true">https://x.com/tldraw/status/2092976040054268122</guid>
-      <pubDate>Thu, 27 Aug 2026 14:02:28 GMT</pubDate>
-      <author>@tldraw</author>
-      <description><![CDATA[<p>@caligracomputer team passed by the tldraw office today and left some goodies</p><p><img src="https://pbs.twimg.com/media/HQu-Y6HXsAAFaTz?format=jpg&amp;name=small" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>Read more about Scott’s workflow here</title>
-      <link>https://x.com/pidotdev/status/2092954172656136377</link>
-      <guid isPermaLink="true">https://x.com/pidotdev/status/2092954172656136377</guid>
-      <pubDate>Thu, 27 Aug 2026 12:35:34 GMT</pubDate>
-      <author>@pidotdev</author>
-      <description><![CDATA[<p>Read more about Scott’s workflow here</p>]]></description>
     </item>
   </channel>
 </rss>
