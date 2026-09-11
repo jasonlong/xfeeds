@@ -7,6 +7,14 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>🐛 bug on Zerocam: We recently migrated to company account in the App Store, so you may have</title>
+      <link>https://x.com/zerocam_app/status/2098506104099803264</link>
+      <guid isPermaLink="true">https://x.com/zerocam_app/status/2098506104099803264</guid>
+      <pubDate>Fri, 11 Sep 2026 20:16:58 GMT</pubDate>
+      <author>@zerocam_app</author>
+      <description><![CDATA[<p>🐛 bug on Zerocam:<br><br>We recently migrated to company account in the App Store, so you may have issues to restore lifetime purchase.<br><br>We are working on it, sorry for the inconvenience 🙏</p>]]></description>
+    </item>
+    <item>
       <title>And upset the delicate balance of compute between arrow inference and arrow research? I think not</title>
       <link>https://x.com/tldraw/status/2098478397273866250</link>
       <guid isPermaLink="true">https://x.com/tldraw/status/2098478397273866250</guid>
@@ -644,7 +652,7 @@
       <guid isPermaLink="true">https://x.com/almonk/status/2097612610166288713</guid>
       <pubDate>Wed, 09 Sep 2026 09:06:32 GMT</pubDate>
       <author>@almonk</author>
-      <description><![CDATA[<p>Doom pixel melt shader effect for when you kill the multiplexer server, why not.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2097612524396879872/img/XR7HVPjEQYXMP1O5.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Doom pixel melt shader effect for when you kill the multiplexer server, why not.</p>]]></description>
     </item>
     <item>
       <title>Love this sublte folding in the Apple Event like animation.</title>
@@ -1244,7 +1252,7 @@
       <guid isPermaLink="true">https://x.com/mitchellh/status/2095232081853039041</guid>
       <pubDate>Wed, 02 Sep 2026 19:27:10 GMT</pubDate>
       <author>@mitchellh</author>
-      <description><![CDATA[<p>A video explaining a handful of the tricks we use to optimize for memory within the Superlogical server: in-memory compression, moving file descriptors between event-driven and blocked threads dynamically, full terminal state binary snapshot/restore in microseconds, and more!</p>]]></description>
+      <description><![CDATA[<p>A video explaining a handful of the tricks we use to optimize for memory within the Superlogical server: in-memory compression, moving file descriptors between event-driven and blocked threads dynamically, full terminal state binary snapshot/restore in microseconds, and more!</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2095231696694312961/img/4X8RDN0dk4H5TQWS.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>baby you can have whatever you liiiiiiike</title>
@@ -1532,7 +1540,7 @@
       <guid isPermaLink="true">https://x.com/pidotdev/status/2094387225131626847</guid>
       <pubDate>Mon, 31 Aug 2026 11:30:00 GMT</pubDate>
       <author>@pidotdev</author>
-      <description><![CDATA[<p>ICYMI, Pi now has a thinking level selector.<br> <br>- Use the /thinking slash command<br>- pick a level and Ctrl+S to make it your startup default.<br>- use Shift+Tab to cycle through levels mid-session</p>]]></description>
+      <description><![CDATA[<p>ICYMI, Pi now has a thinking level selector.<br> <br>- Use the /thinking slash command<br>- pick a level and Ctrl+S to make it your startup default.<br>- use Shift+Tab to cycle through levels mid-session</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2094374177302040576/img/aGko7AzKNQ62e8us.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Media post</title>
@@ -1597,14 +1605,6 @@
       <pubDate>Sat, 29 Aug 2026 18:33:49 GMT</pubDate>
       <author>@shadcn</author>
       <description><![CDATA[<p>Copper is one month old today.<br><br>I built it to keep the prompts, answers, links and half-formed ideas that come up when working with AI.<br><br>Thank you to everyone who bought it, sent feedback and made Copper part of how they work.</p>]]></description>
-    </item>
-    <item>
-      <title>In the next version of tldraw, your screen&apos;s refresh rate no longer affects the speed of edge scrolling.</title>
-      <link>https://x.com/tldraw/status/2093700239853306317</link>
-      <guid isPermaLink="true">https://x.com/tldraw/status/2093700239853306317</guid>
-      <pubDate>Sat, 29 Aug 2026 14:00:10 GMT</pubDate>
-      <author>@tldraw</author>
-      <description><![CDATA[<p>In the next version of tldraw, your screen&apos;s refresh rate no longer affects the speed of edge scrolling.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2093700222937706496/img/VSGdmye5BaGO54vW.jpg" alt=""></p>]]></description>
     </item>
   </channel>
 </rss>
