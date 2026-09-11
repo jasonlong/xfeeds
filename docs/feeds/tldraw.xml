@@ -13,6 +13,22 @@
     </image>
     <ttl>120</ttl>
     <item>
+      <title>2. Shape resizing is broken after touching it with an eraser (2/10)</title>
+      <link>https://x.com/tldraw/status/2098459177572000198</link>
+      <guid isPermaLink="true">https://x.com/tldraw/status/2098459177572000198</guid>
+      <pubDate>Fri, 11 Sep 2026 17:10:30 GMT</pubDate>
+      <author>@tldraw</author>
+      <description><![CDATA[<p>2. Shape resizing is broken after touching it with an eraser (2/10)</p>]]></description>
+    </item>
+    <item>
+      <title>heya, this is Andy from tldraw. Here are 10 free bugs I found with @OpenAI&apos;s new chatgpt sketch</title>
+      <link>https://x.com/tldraw/status/2098459138120454523</link>
+      <guid isPermaLink="true">https://x.com/tldraw/status/2098459138120454523</guid>
+      <pubDate>Fri, 11 Sep 2026 17:10:20 GMT</pubDate>
+      <author>@tldraw</author>
+      <description><![CDATA[<p>heya, this is Andy from tldraw. Here are 10 free bugs I found with @OpenAI&apos;s new chatgpt sketch feature. #3 will shock you<br><br>1. Vertical and horizontal lines look jagged when resizing them (1/10)</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2098459108009816064/img/LmnVu74a0IynkjGw.jpg" alt=""></p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2097983349138829312/img/0RdH6ygcd0uu3oqK?format=jpg&amp;name=240x240" alt=""></p>]]></description>
+    </item>
+    <item>
       <title>Sign up →</title>
       <link>https://x.com/tldraw/status/2098444748918866055</link>
       <guid isPermaLink="true">https://x.com/tldraw/status/2098444748918866055</guid>
@@ -42,7 +58,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2098371223629807740</guid>
       <pubDate>Fri, 11 Sep 2026 11:21:00 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>You can now remix this in tldraw flash! https://flash.tldraw.com/f/flash-o1e47cl5ge9twqvb…</p>]]></description>
+      <description><![CDATA[<p>You can now remix this in tldraw flash! https://flash.tldraw.com/f/flash-o1e47cl5ge9twqvb…</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2097983349138829312/img/0RdH6ygcd0uu3oqK.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>As of this week&apos;s release, holding the right shift key while pressing the arrow keys to nudge shapes</title>
@@ -50,7 +66,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2098366231405592796</guid>
       <pubDate>Fri, 11 Sep 2026 11:01:09 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>As of this week&apos;s release, holding the right shift key while pressing the arrow keys to nudge shapes will do a &quot;big nudge&quot; in the same way as does holding the left shift key.<br><br>sorry, we&apos;re running out of bugs over here</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2098366193128370176/img/wQrHvw7I-xZ4Gwr7.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>As of this week&apos;s release, holding the right shift key while pressing the arrow keys to nudge shapes will do a &quot;big nudge&quot; in the same way as does holding the left shift key.<br><br>sorry, we&apos;re running out of bugs over here</p>]]></description>
     </item>
     <item>
       <title>Remix it here:</title>
@@ -122,7 +138,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2098078164752773486</guid>
       <pubDate>Thu, 10 Sep 2026 15:56:29 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>hmmm, not quite right</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2098077955154927616/img/Eb85Zr7Ns7VPRYb9.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>hmmm, not quite right</p>]]></description>
     </item>
     <item>
       <title>Only a few hours to go before the launch of tldraw flash, our new animation tool. @steveruizok strapped</title>
@@ -154,7 +170,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2098017973663666260</guid>
       <pubDate>Thu, 10 Sep 2026 11:57:18 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>Audrey on building tldraw flash, tldraw&apos;s newest build with the tldraw SDK to turn handmade ideas into performed animations on the infinite canvas</p>]]></description>
+      <description><![CDATA[<p>Audrey on building tldraw flash, tldraw&apos;s newest build with the tldraw SDK to turn handmade ideas into performed animations on the infinite canvas</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2098017899697053696/img/jFs-Z3NL_tTENXb3.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Reminder that tldraw works great on iPad too! Full Pencil support with pressure sensitivity, tons of mobile affordances,</title>
@@ -795,22 +811,6 @@
       <pubDate>Mon, 24 Aug 2026 14:04:09 GMT</pubDate>
       <author>@tldraw</author>
       <description><![CDATA[<p>One prompt, four models, side by side: the canvas gives you every version you tried, still editable. AI creative work has outgrown chat.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2091889269489209344/img/HUjGR19m_915UbME.jpg" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>We recently shipped comments on tldraw (SDK and dotcom). Here&apos;s the tldraw file we used to research, design,</title>
-      <link>https://x.com/tldraw/status/2091582830111285326</link>
-      <guid isPermaLink="true">https://x.com/tldraw/status/2091582830111285326</guid>
-      <pubDate>Sun, 23 Aug 2026 17:46:21 GMT</pubDate>
-      <author>@tldraw</author>
-      <description><![CDATA[<p>We recently shipped comments on tldraw (SDK and dotcom). Here&apos;s the tldraw file we used to research, design, and track progress on the comments feature. <br>Link in the next post</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2091582284621078528/img/igogg1lllSqlHZiC.jpg" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>You can explore the file yourself here: https://tldraw.com/p/ppOak5w6wynw8mbPjRyZ_?d=v-145.25.1489.842.JjGKX6ZjZYMGZQ4D1yTP8…</title>
-      <link>https://x.com/tldraw/status/2091582832355287490</link>
-      <guid isPermaLink="true">https://x.com/tldraw/status/2091582832355287490</guid>
-      <pubDate>Sun, 23 Aug 2026 17:46:21 GMT</pubDate>
-      <author>@tldraw</author>
-      <description><![CDATA[<p>You can explore the file yourself here: https://tldraw.com/p/ppOak5w6wynw8mbPjRyZ_?d=v-145.25.1489.842.JjGKX6ZjZYMGZQ4D1yTP8…</p>]]></description>
     </item>
   </channel>
 </rss>

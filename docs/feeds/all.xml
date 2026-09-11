@@ -7,6 +7,22 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>2. Shape resizing is broken after touching it with an eraser (2/10)</title>
+      <link>https://x.com/tldraw/status/2098459177572000198</link>
+      <guid isPermaLink="true">https://x.com/tldraw/status/2098459177572000198</guid>
+      <pubDate>Fri, 11 Sep 2026 17:10:30 GMT</pubDate>
+      <author>@tldraw</author>
+      <description><![CDATA[<p>2. Shape resizing is broken after touching it with an eraser (2/10)</p>]]></description>
+    </item>
+    <item>
+      <title>heya, this is Andy from tldraw. Here are 10 free bugs I found with @OpenAI&apos;s new chatgpt sketch</title>
+      <link>https://x.com/tldraw/status/2098459138120454523</link>
+      <guid isPermaLink="true">https://x.com/tldraw/status/2098459138120454523</guid>
+      <pubDate>Fri, 11 Sep 2026 17:10:20 GMT</pubDate>
+      <author>@tldraw</author>
+      <description><![CDATA[<p>heya, this is Andy from tldraw. Here are 10 free bugs I found with @OpenAI&apos;s new chatgpt sketch feature. #3 will shock you<br><br>1. Vertical and horizontal lines look jagged when resizing them (1/10)</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2098459108009816064/img/LmnVu74a0IynkjGw.jpg" alt=""></p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2097983349138829312/img/0RdH6ygcd0uu3oqK?format=jpg&amp;name=240x240" alt=""></p>]]></description>
+    </item>
+    <item>
       <title>People ask us where to find &quot;copy as code&quot; a lot, so we added a quick menu to</title>
       <link>https://x.com/paper/status/2098453314786767096</link>
       <guid isPermaLink="true">https://x.com/paper/status/2098453314786767096</guid>
@@ -68,7 +84,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2098371223629807740</guid>
       <pubDate>Fri, 11 Sep 2026 11:21:00 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>You can now remix this in tldraw flash! https://flash.tldraw.com/f/flash-o1e47cl5ge9twqvb…</p>]]></description>
+      <description><![CDATA[<p>You can now remix this in tldraw flash! https://flash.tldraw.com/f/flash-o1e47cl5ge9twqvb…</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2097983349138829312/img/0RdH6ygcd0uu3oqK.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>As of this week&apos;s release, holding the right shift key while pressing the arrow keys to nudge shapes</title>
@@ -76,7 +92,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2098366231405592796</guid>
       <pubDate>Fri, 11 Sep 2026 11:01:09 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>As of this week&apos;s release, holding the right shift key while pressing the arrow keys to nudge shapes will do a &quot;big nudge&quot; in the same way as does holding the left shift key.<br><br>sorry, we&apos;re running out of bugs over here</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2098366193128370176/img/wQrHvw7I-xZ4Gwr7.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>As of this week&apos;s release, holding the right shift key while pressing the arrow keys to nudge shapes will do a &quot;big nudge&quot; in the same way as does holding the left shift key.<br><br>sorry, we&apos;re running out of bugs over here</p>]]></description>
     </item>
     <item>
       <title>Love that shot</title>
@@ -180,7 +196,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2098078164752773486</guid>
       <pubDate>Thu, 10 Sep 2026 15:56:29 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>hmmm, not quite right</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2098077955154927616/img/Eb85Zr7Ns7VPRYb9.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>hmmm, not quite right</p>]]></description>
     </item>
     <item>
       <title>Aperture + Photos = Apple Reference Image</title>
@@ -228,7 +244,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2098017973663666260</guid>
       <pubDate>Thu, 10 Sep 2026 11:57:18 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>Audrey on building tldraw flash, tldraw&apos;s newest build with the tldraw SDK to turn handmade ideas into performed animations on the infinite canvas</p>]]></description>
+      <description><![CDATA[<p>Audrey on building tldraw flash, tldraw&apos;s newest build with the tldraw SDK to turn handmade ideas into performed animations on the infinite canvas</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2098017899697053696/img/jFs-Z3NL_tTENXb3.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>it&apos;s time, @superlogical</title>
@@ -1500,7 +1516,7 @@
       <guid isPermaLink="true">https://x.com/pidotdev/status/2094387225131626847</guid>
       <pubDate>Mon, 31 Aug 2026 11:30:00 GMT</pubDate>
       <author>@pidotdev</author>
-      <description><![CDATA[<p>ICYMI, Pi now has a thinking level selector.<br> <br>- Use the /thinking slash command<br>- pick a level and Ctrl+S to make it your startup default.<br>- use Shift+Tab to cycle through levels mid-session</p>]]></description>
+      <description><![CDATA[<p>ICYMI, Pi now has a thinking level selector.<br> <br>- Use the /thinking slash command<br>- pick a level and Ctrl+S to make it your startup default.<br>- use Shift+Tab to cycle through levels mid-session</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2094374177302040576/img/aGko7AzKNQ62e8us.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Media post</title>
@@ -1589,22 +1605,6 @@
       <pubDate>Sat, 29 Aug 2026 11:59:04 GMT</pubDate>
       <author>@tldraw</author>
       <description><![CDATA[<p>In the next version of tldraw, your screen&apos;s refresh rate no longer affects the friction of camera panning movements.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2093669746466340864/img/KPavfMJlsOdmPb0i.jpg" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>Pi 0.84.4 is out🥳 3 updates we’re excited for you to try: - Compaction now runs between large</title>
-      <link>https://x.com/pidotdev/status/2093662448293482855</link>
-      <guid isPermaLink="true">https://x.com/pidotdev/status/2093662448293482855</guid>
-      <pubDate>Sat, 29 Aug 2026 11:30:00 GMT</pubDate>
-      <author>@pidotdev</author>
-      <description><![CDATA[<p>Pi 0.84.4 is out🥳 3 updates we’re excited for you to try:<br> <br> - Compaction now runs between large tool results and the next reply, in the same run<br><br> - DeepSeek V4 Flash Vision<br><br> - Terminal overrides for hyperlinks, images and true color<br><br>Run pi update for the latest</p><p><img src="https://pbs.twimg.com/media/HQ4qj__WMAAxZrO?format=jpg&amp;name=small" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>Fast is the feature</title>
-      <link>https://x.com/almonk/status/2093596518557036897</link>
-      <guid isPermaLink="true">https://x.com/almonk/status/2093596518557036897</guid>
-      <pubDate>Sat, 29 Aug 2026 07:08:01 GMT</pubDate>
-      <author>@almonk</author>
-      <description><![CDATA[<p>Fast is the feature</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2093450067940360192/img/9Ea_DUx0Vkr3lB7k.jpg" alt=""></p>]]></description>
     </item>
   </channel>
 </rss>
