@@ -7,6 +7,14 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>iPhone Duo gets an option to always show the battery percentage.</title>
+      <link>https://x.com/avstorm/status/2098718957943332962</link>
+      <guid isPermaLink="true">https://x.com/avstorm/status/2098718957943332962</guid>
+      <pubDate>Sat, 12 Sep 2026 10:22:46 GMT</pubDate>
+      <author>@avstorm</author>
+      <description><![CDATA[<p>iPhone Duo gets an option to always show the battery percentage.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2098718780809789440/img/fp0Vjzz-jsBaC-vK.jpg" alt=""></p>]]></description>
+    </item>
+    <item>
       <title>Even better news for everyone who always wants to see the percentage.</title>
       <link>https://x.com/avstorm/status/2098702468213285040</link>
       <guid isPermaLink="true">https://x.com/avstorm/status/2098702468213285040</guid>
@@ -380,7 +388,7 @@
       <guid isPermaLink="true">https://x.com/avstorm/status/2097920481194135935</guid>
       <pubDate>Thu, 10 Sep 2026 05:29:54 GMT</pubDate>
       <author>@avstorm</author>
-      <description><![CDATA[<p>Design for iPhone Duo<br><br>https://developer.apple.com/iphone-duo</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2097920349362962439/img/beN21eVeb60daQi6.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Design for iPhone Duo<br><br>https://developer.apple.com/iphone-duo</p>]]></description>
     </item>
     <item>
       <title>ok hear me out. nintendo ds emulator on the iphone duo</title>
@@ -412,7 +420,7 @@
       <guid isPermaLink="true">https://x.com/avstorm/status/2097801612064334203</guid>
       <pubDate>Wed, 09 Sep 2026 21:37:34 GMT</pubDate>
       <author>@avstorm</author>
-      <description><![CDATA[<p>Can&apos;t stop playing with the iPhone Duo folding slider</p>]]></description>
+      <description><![CDATA[<p>Can&apos;t stop playing with the iPhone Duo folding slider</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2097800677439283210/img/rbGXpy_-6Jcv0F_V.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>First zerotake reviews ❤️</title>
@@ -508,7 +516,7 @@
       <guid isPermaLink="true">https://x.com/shadcn/status/2097739763302162606</guid>
       <pubDate>Wed, 09 Sep 2026 17:31:48 GMT</pubDate>
       <author>@shadcn</author>
-      <description><![CDATA[<p>Let me know if the new iPhone goes like this.</p><p><img src="https://pbs.twimg.com/tweet_video_thumb/HRyrGOzXIAAKyJv.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Let me know if the new iPhone goes like this.</p>]]></description>
     </item>
     <item>
       <title>iPhone 18 Pro bento</title>
@@ -548,7 +556,7 @@
       <guid isPermaLink="true">https://x.com/avstorm/status/2097734630128415045</guid>
       <pubDate>Wed, 09 Sep 2026 17:11:24 GMT</pubDate>
       <author>@avstorm</author>
-      <description><![CDATA[<p>Apple has introduced the new iPhone 18 Pro</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2097734041294581760/img/4kPQqJ7yN9-TeGun.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Apple has introduced the new iPhone 18 Pro</p>]]></description>
     </item>
     <item>
       <title>Variable Aperture is coming</title>
@@ -556,7 +564,7 @@
       <guid isPermaLink="true">https://x.com/avstorm/status/2097732946677387662</guid>
       <pubDate>Wed, 09 Sep 2026 17:04:43 GMT</pubDate>
       <author>@avstorm</author>
-      <description><![CDATA[<p>Variable Aperture is coming</p>]]></description>
+      <description><![CDATA[<p>Variable Aperture is coming</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2097732556506427393/img/Q5_2Kg872ITNZ7nv.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>I promise you @sama I can make this 100x better in one day</title>
@@ -1597,14 +1605,6 @@
       <pubDate>Sun, 30 Aug 2026 12:43:07 GMT</pubDate>
       <author>@pidotdev</author>
       <description><![CDATA[<p>The correct account tagged should be @mitsuhiko 👀 Multi tasking and posting - Pi intern</p>]]></description>
-    </item>
-    <item>
-      <title>Good morning from Vienna People of Pi ☀️ Sunday meditations from @badlogicgames and @mitshuko - LLMs seem to</title>
-      <link>https://x.com/pidotdev/status/2094024837790327110</link>
-      <guid isPermaLink="true">https://x.com/pidotdev/status/2094024837790327110</guid>
-      <pubDate>Sun, 30 Aug 2026 11:30:01 GMT</pubDate>
-      <author>@pidotdev</author>
-      <description><![CDATA[<p>Good morning from Vienna People of Pi ☀️<br><br>Sunday meditations from @badlogicgames and @mitshuko <br><br>- LLMs seem to be improving for looping but not much elsewhere<br>- Over RLing on some harnesses can cause regressions<br>- Open weight models are not a panacea but can be a valid option</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2094011805358026752/img/YSeUvFHT5nHmuEdD.jpg" alt=""></p>]]></description>
     </item>
   </channel>
 </rss>
