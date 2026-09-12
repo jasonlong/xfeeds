@@ -7,6 +7,14 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>i emptied my house said goodbyes and moved to taipei so far so great! 💛</title>
+      <link>https://x.com/ryolu_/status/2098612137321201942</link>
+      <guid isPermaLink="true">https://x.com/ryolu_/status/2098612137321201942</guid>
+      <pubDate>Sat, 12 Sep 2026 03:18:18 GMT</pubDate>
+      <author>@ryolu_</author>
+      <description><![CDATA[<p>i emptied my house<br>said goodbyes<br>and moved to taipei<br><br>so far so great! 💛</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2098612112629387264/img/UsjQ42E3qQRIZJ1u.jpg" alt=""></p>]]></description>
+    </item>
+    <item>
       <title>🐛 bug on Zerocam: We recently migrated to company account in the App Store, so you may have</title>
       <link>https://x.com/zerocam_app/status/2098506104099803264</link>
       <guid isPermaLink="true">https://x.com/zerocam_app/status/2098506104099803264</guid>
@@ -140,7 +148,7 @@
       <guid isPermaLink="true">https://x.com/ryolu_/status/2098324260867772806</guid>
       <pubDate>Fri, 11 Sep 2026 08:14:23 GMT</pubDate>
       <author>@ryolu_</author>
-      <description><![CDATA[<p>long-lived agents for your big ideas<br>now in Cursor</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2098151257902809092/img/7V5b7uUDmeLhB2QY.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>long-lived agents for your big ideas<br>now in Cursor</p>]]></description>
     </item>
     <item>
       <title>Remix it here:</title>
@@ -1540,7 +1548,7 @@
       <guid isPermaLink="true">https://x.com/pidotdev/status/2094387225131626847</guid>
       <pubDate>Mon, 31 Aug 2026 11:30:00 GMT</pubDate>
       <author>@pidotdev</author>
-      <description><![CDATA[<p>ICYMI, Pi now has a thinking level selector.<br> <br>- Use the /thinking slash command<br>- pick a level and Ctrl+S to make it your startup default.<br>- use Shift+Tab to cycle through levels mid-session</p>]]></description>
+      <description><![CDATA[<p>ICYMI, Pi now has a thinking level selector.<br> <br>- Use the /thinking slash command<br>- pick a level and Ctrl+S to make it your startup default.<br>- use Shift+Tab to cycle through levels mid-session</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2094374177302040576/img/aGko7AzKNQ62e8us.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Media post</title>
@@ -1597,14 +1605,6 @@
       <pubDate>Sat, 29 Aug 2026 18:33:50 GMT</pubDate>
       <author>@shadcn</author>
       <description><![CDATA[<p></p>]]></description>
-    </item>
-    <item>
-      <title>Copper is one month old today. I built it to keep the prompts, answers, links and half-formed ideas</title>
-      <link>https://x.com/shadcn/status/2093769104704360553</link>
-      <guid isPermaLink="true">https://x.com/shadcn/status/2093769104704360553</guid>
-      <pubDate>Sat, 29 Aug 2026 18:33:49 GMT</pubDate>
-      <author>@shadcn</author>
-      <description><![CDATA[<p>Copper is one month old today.<br><br>I built it to keep the prompts, answers, links and half-formed ideas that come up when working with AI.<br><br>Thank you to everyone who bought it, sent feedback and made Copper part of how they work.</p>]]></description>
     </item>
   </channel>
 </rss>
