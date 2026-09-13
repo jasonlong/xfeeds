@@ -7,6 +7,22 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>Legendary demo from @threepointone, who first described this idea to me back in 2024. I&apos;ve had designs for</title>
+      <link>https://x.com/tldraw/status/2099093618036298219</link>
+      <guid isPermaLink="true">https://x.com/tldraw/status/2099093618036298219</guid>
+      <pubDate>Sun, 13 Sep 2026 11:11:32 GMT</pubDate>
+      <author>@tldraw</author>
+      <description><![CDATA[<p>Legendary demo from @threepointone, who first described this idea to me back in 2024. I&apos;ve had designs for &quot;make realtime&quot; just waiting for the new voice models to land, here we go</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2098895514792075271/img/IOa0Z7tHPeMNL-x0.jpg" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>The game loop: communicate with a real time model through voice, annotation, and ad-hoc UI. Real time model</title>
+      <link>https://x.com/tldraw/status/2099093620229869718</link>
+      <guid isPermaLink="true">https://x.com/tldraw/status/2099093620229869718</guid>
+      <pubDate>Sun, 13 Sep 2026 11:11:32 GMT</pubDate>
+      <author>@tldraw</author>
+      <description><![CDATA[<p>The game loop: communicate with a real time model through voice, annotation, and ad-hoc UI. Real time model kicks off asynchronous work to make the changes you&apos;ve requested. Continue until complete.</p>]]></description>
+    </item>
+    <item>
       <title>Good morning from Vienna People of Pi🌞 Sunday meditations today from @badlogicgames and @mitsuhiko Among other things: -</title>
       <link>https://x.com/pidotdev/status/2099045420496486415</link>
       <guid isPermaLink="true">https://x.com/pidotdev/status/2099045420496486415</guid>
@@ -28,7 +44,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2098773427830337548</guid>
       <pubDate>Sat, 12 Sep 2026 13:59:13 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>In the next version of tldraw, the &quot;Frame selection&quot; action will support wrapping a single shape in a new frame. Previously, you could only use this operation with multiple shapes selected.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2098773376454234112/img/FkXHE7ISsNFhrx5R.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>In the next version of tldraw, the &quot;Frame selection&quot; action will support wrapping a single shape in a new frame. Previously, you could only use this operation with multiple shapes selected.</p>]]></description>
     </item>
     <item>
       <title>iPhone Duo gets an option to always show the battery percentage.</title>
@@ -100,7 +116,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2098459138120454523</guid>
       <pubDate>Fri, 11 Sep 2026 17:10:20 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>heya, this is Andy from tldraw. Here are 10 free bugs I found with @OpenAI&apos;s new chatgpt sketch feature. #3 will shock you<br><br>1. Vertical and horizontal lines look jagged when resizing them (1/10)</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2097983349138829312/img/0RdH6ygcd0uu3oqK?format=jpg&amp;name=240x240" alt=""></p>]]></description>
+      <description><![CDATA[<p>heya, this is Andy from tldraw. Here are 10 free bugs I found with @OpenAI&apos;s new chatgpt sketch feature. #3 will shock you<br><br>1. Vertical and horizontal lines look jagged when resizing them (1/10)</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2098459108009816064/img/LmnVu74a0IynkjGw.jpg" alt=""></p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2097983349138829312/img/0RdH6ygcd0uu3oqK?format=jpg&amp;name=240x240" alt=""></p>]]></description>
     </item>
     <item>
       <title>People ask us where to find &quot;copy as code&quot; a lot, so we added a quick menu to</title>
@@ -172,7 +188,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2098366231405592796</guid>
       <pubDate>Fri, 11 Sep 2026 11:01:09 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>As of this week&apos;s release, holding the right shift key while pressing the arrow keys to nudge shapes will do a &quot;big nudge&quot; in the same way as does holding the left shift key.<br><br>sorry, we&apos;re running out of bugs over here</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2098366193128370176/img/wQrHvw7I-xZ4Gwr7.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>As of this week&apos;s release, holding the right shift key while pressing the arrow keys to nudge shapes will do a &quot;big nudge&quot; in the same way as does holding the left shift key.<br><br>sorry, we&apos;re running out of bugs over here</p>]]></description>
     </item>
     <item>
       <title>Love that shot</title>
@@ -212,7 +228,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2098310180521775470</guid>
       <pubDate>Fri, 11 Sep 2026 07:18:26 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>tldraw flash!</p>]]></description>
+      <description><![CDATA[<p>tldraw flash!</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2098310017120112643/img/j8GLmgwO7lq8yXkg.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>I can’t stress enough how little an idea matters compared to the agency of the people executing the</title>
@@ -260,7 +276,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2098089893524292036</guid>
       <pubDate>Thu, 10 Sep 2026 16:43:05 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>tldraw flash is now live. A new animation tool that lives on the infinite canvas. Draw something, press record, drag it, and watch it come to life. Try it now – it&apos;s free.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2098089871667806212/img/e0ojqCzTo_8gkKMv.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>tldraw flash is now live. A new animation tool that lives on the infinite canvas. Draw something, press record, drag it, and watch it come to life. Try it now – it&apos;s free.</p>]]></description>
     </item>
     <item>
       <title>Live soon with the tldraw flash team. Join us →</title>
@@ -1589,22 +1605,6 @@
       <pubDate>Mon, 31 Aug 2026 13:59:06 GMT</pubDate>
       <author>@tldraw</author>
       <description><![CDATA[<p>In the next version of tldraw, pasting from the context menu will center the pasted content on the canvas location where you first opened the menu, rather than on your cursor&apos;s position when you clicked Paste.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2094424722402672640/img/PAIL9cKkRF5MabkH.jpg" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>ICYMI, Pi now has a thinking level selector. - Use the /thinking slash command - pick a level</title>
-      <link>https://x.com/pidotdev/status/2094387225131626847</link>
-      <guid isPermaLink="true">https://x.com/pidotdev/status/2094387225131626847</guid>
-      <pubDate>Mon, 31 Aug 2026 11:30:00 GMT</pubDate>
-      <author>@pidotdev</author>
-      <description><![CDATA[<p>ICYMI, Pi now has a thinking level selector.<br> <br>- Use the /thinking slash command<br>- pick a level and Ctrl+S to make it your startup default.<br>- use Shift+Tab to cycle through levels mid-session</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2094374177302040576/img/aGko7AzKNQ62e8us.jpg" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>Media post</title>
-      <link>https://x.com/almonk/status/2094342642637119544</link>
-      <guid isPermaLink="true">https://x.com/almonk/status/2094342642637119544</guid>
-      <pubDate>Mon, 31 Aug 2026 08:32:51 GMT</pubDate>
-      <author>@almonk</author>
-      <description><![CDATA[<p></p><p><img src="https://pbs.twimg.com/media/HRCZiHKXMAAT6ht?format=jpg&amp;name=small" alt=""></p>]]></description>
     </item>
   </channel>
 </rss>

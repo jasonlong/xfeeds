@@ -13,12 +13,28 @@
     </image>
     <ttl>120</ttl>
     <item>
+      <title>Legendary demo from @threepointone, who first described this idea to me back in 2024. I&apos;ve had designs for</title>
+      <link>https://x.com/tldraw/status/2099093618036298219</link>
+      <guid isPermaLink="true">https://x.com/tldraw/status/2099093618036298219</guid>
+      <pubDate>Sun, 13 Sep 2026 11:11:32 GMT</pubDate>
+      <author>@tldraw</author>
+      <description><![CDATA[<p>Legendary demo from @threepointone, who first described this idea to me back in 2024. I&apos;ve had designs for &quot;make realtime&quot; just waiting for the new voice models to land, here we go</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2098895514792075271/img/IOa0Z7tHPeMNL-x0.jpg" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>The game loop: communicate with a real time model through voice, annotation, and ad-hoc UI. Real time model</title>
+      <link>https://x.com/tldraw/status/2099093620229869718</link>
+      <guid isPermaLink="true">https://x.com/tldraw/status/2099093620229869718</guid>
+      <pubDate>Sun, 13 Sep 2026 11:11:32 GMT</pubDate>
+      <author>@tldraw</author>
+      <description><![CDATA[<p>The game loop: communicate with a real time model through voice, annotation, and ad-hoc UI. Real time model kicks off asynchronous work to make the changes you&apos;ve requested. Continue until complete.</p>]]></description>
+    </item>
+    <item>
       <title>In the next version of tldraw, the &quot;Frame selection&quot; action will support wrapping a single shape in a</title>
       <link>https://x.com/tldraw/status/2098773427830337548</link>
       <guid isPermaLink="true">https://x.com/tldraw/status/2098773427830337548</guid>
       <pubDate>Sat, 12 Sep 2026 13:59:13 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>In the next version of tldraw, the &quot;Frame selection&quot; action will support wrapping a single shape in a new frame. Previously, you could only use this operation with multiple shapes selected.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2098773376454234112/img/FkXHE7ISsNFhrx5R.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>In the next version of tldraw, the &quot;Frame selection&quot; action will support wrapping a single shape in a new frame. Previously, you could only use this operation with multiple shapes selected.</p>]]></description>
     </item>
     <item>
       <title>And upset the delicate balance of compute between arrow inference and arrow research? I think not</title>
@@ -42,7 +58,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2098459138120454523</guid>
       <pubDate>Fri, 11 Sep 2026 17:10:20 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>heya, this is Andy from tldraw. Here are 10 free bugs I found with @OpenAI&apos;s new chatgpt sketch feature. #3 will shock you<br><br>1. Vertical and horizontal lines look jagged when resizing them (1/10)</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2097983349138829312/img/0RdH6ygcd0uu3oqK?format=jpg&amp;name=240x240" alt=""></p>]]></description>
+      <description><![CDATA[<p>heya, this is Andy from tldraw. Here are 10 free bugs I found with @OpenAI&apos;s new chatgpt sketch feature. #3 will shock you<br><br>1. Vertical and horizontal lines look jagged when resizing them (1/10)</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2098459108009816064/img/LmnVu74a0IynkjGw.jpg" alt=""></p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2097983349138829312/img/0RdH6ygcd0uu3oqK?format=jpg&amp;name=240x240" alt=""></p>]]></description>
     </item>
     <item>
       <title>Sign up →</title>
@@ -82,7 +98,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2098366231405592796</guid>
       <pubDate>Fri, 11 Sep 2026 11:01:09 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>As of this week&apos;s release, holding the right shift key while pressing the arrow keys to nudge shapes will do a &quot;big nudge&quot; in the same way as does holding the left shift key.<br><br>sorry, we&apos;re running out of bugs over here</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2098366193128370176/img/wQrHvw7I-xZ4Gwr7.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>As of this week&apos;s release, holding the right shift key while pressing the arrow keys to nudge shapes will do a &quot;big nudge&quot; in the same way as does holding the left shift key.<br><br>sorry, we&apos;re running out of bugs over here</p>]]></description>
     </item>
     <item>
       <title>Remix it here:</title>
@@ -98,7 +114,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2098310180521775470</guid>
       <pubDate>Fri, 11 Sep 2026 07:18:26 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>tldraw flash!</p>]]></description>
+      <description><![CDATA[<p>tldraw flash!</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2098310017120112643/img/j8GLmgwO7lq8yXkg.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>tldr: really really good fundamentals, improved workflow (editing forward from previous canvases) and more tools for image composition</title>
@@ -138,7 +154,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2098089893524292036</guid>
       <pubDate>Thu, 10 Sep 2026 16:43:05 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>tldraw flash is now live. A new animation tool that lives on the infinite canvas. Draw something, press record, drag it, and watch it come to life. Try it now – it&apos;s free.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2098089871667806212/img/e0ojqCzTo_8gkKMv.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>tldraw flash is now live. A new animation tool that lives on the infinite canvas. Draw something, press record, drag it, and watch it come to life. Try it now – it&apos;s free.</p>]]></description>
     </item>
     <item>
       <title>Live soon with the tldraw flash team. Join us →</title>
@@ -795,22 +811,6 @@
       <pubDate>Tue, 25 Aug 2026 16:18:57 GMT</pubDate>
       <author>@tldraw</author>
       <description><![CDATA[<p>Here&apos;s a creative coding tool we made in tldraw offline. With this sketching tool, you can generate new nodes and modules with agents. You could also have agents generate sketches for you - and then work with your friends at the same time.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2092285365939847169/img/R7WS6Vm14FUylgOc.jpg" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>We&apos;re excited to keep building with @vidext_io. Using tldraw as the foundation, Vidext has developed a platform that</title>
-      <link>https://x.com/tldraw/status/2092244533593420243</link>
-      <guid isPermaLink="true">https://x.com/tldraw/status/2092244533593420243</guid>
-      <pubDate>Tue, 25 Aug 2026 13:35:43 GMT</pubDate>
-      <author>@tldraw</author>
-      <description><![CDATA[<p>We&apos;re excited to keep building with @vidext_io.<br><br>Using tldraw as the foundation, Vidext has developed a platform that allows users to create beautiful and effective video for internal comms - in minutes.<br><br>With tldraw, Vidext users can collaborate, iterate, and storyboard, all in</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2092244413430870016/img/beuPZxkyUqL6fGwZ.jpg" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>I scream. You scream. We all scream for tldraw</title>
-      <link>https://x.com/tldraw/status/2092006929887351000</link>
-      <guid isPermaLink="true">https://x.com/tldraw/status/2092006929887351000</guid>
-      <pubDate>Mon, 24 Aug 2026 21:51:34 GMT</pubDate>
-      <author>@tldraw</author>
-      <description><![CDATA[<p>I scream. You scream. We all scream for tldraw</p>]]></description>
     </item>
   </channel>
 </rss>
