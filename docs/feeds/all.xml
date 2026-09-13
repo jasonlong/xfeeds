@@ -7,6 +7,22 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>PRObably some cool update this week on @zerocam_app iOS</title>
+      <link>https://x.com/zerocam_app/status/2099195901822775306</link>
+      <guid isPermaLink="true">https://x.com/zerocam_app/status/2099195901822775306</guid>
+      <pubDate>Sun, 13 Sep 2026 17:57:58 GMT</pubDate>
+      <author>@zerocam_app</author>
+      <description><![CDATA[<p>PRObably some cool update this week on @zerocam_app iOS</p>]]></description>
+    </item>
+    <item>
+      <title>Nice idea!</title>
+      <link>https://x.com/zerocam_app/status/2099194898000011653</link>
+      <guid isPermaLink="true">https://x.com/zerocam_app/status/2099194898000011653</guid>
+      <pubDate>Sun, 13 Sep 2026 17:53:59 GMT</pubDate>
+      <author>@zerocam_app</author>
+      <description><![CDATA[<p>Nice idea!</p>]]></description>
+    </item>
+    <item>
       <title>Legendary demo from @threepointone, who first described this idea to me back in 2024. I&apos;ve had designs for</title>
       <link>https://x.com/tldraw/status/2099093618036298219</link>
       <guid isPermaLink="true">https://x.com/tldraw/status/2099093618036298219</guid>
@@ -52,7 +68,7 @@
       <guid isPermaLink="true">https://x.com/avstorm/status/2098718957943332962</guid>
       <pubDate>Sat, 12 Sep 2026 10:22:46 GMT</pubDate>
       <author>@avstorm</author>
-      <description><![CDATA[<p>iPhone Duo gets an option to always show the battery percentage.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2098718780809789440/img/fp0Vjzz-jsBaC-vK.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>iPhone Duo gets an option to always show the battery percentage.</p>]]></description>
     </item>
     <item>
       <title>Even better news for everyone who always wants to see the percentage.</title>
@@ -756,7 +772,7 @@
       <guid isPermaLink="true">https://x.com/zerocam_app/status/2097590707498434930</guid>
       <pubDate>Wed, 09 Sep 2026 07:39:30 GMT</pubDate>
       <author>@zerocam_app</author>
-      <description><![CDATA[<p>Happy recording 📼</p>]]></description>
+      <description><![CDATA[<p>Happy recording 📼</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2097579687002198017/img/oKKSUitHV2iBF4JO.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Building for a future where more people realize drawing is a fundamental input type and also awesome and</title>
@@ -1589,22 +1605,6 @@
       <pubDate>Mon, 31 Aug 2026 17:31:53 GMT</pubDate>
       <author>@avstorm</author>
       <description><![CDATA[<p>iOS Camera app icon history</p><p><img src="https://pbs.twimg.com/media/HREUowSW4AEndex?format=jpg&amp;name=small" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>In the next version of tldraw, the text and bookmark shapes created by pasting will also be selected.</title>
-      <link>https://x.com/tldraw/status/2094439085838590223</link>
-      <guid isPermaLink="true">https://x.com/tldraw/status/2094439085838590223</guid>
-      <pubDate>Mon, 31 Aug 2026 14:56:05 GMT</pubDate>
-      <author>@tldraw</author>
-      <description><![CDATA[<p>In the next version of tldraw, the text and bookmark shapes created by pasting will also be selected. This matches the select-on-paste behavior of other types of shapes.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2094439069686403073/img/AU3c62g-EpOHDVBm.jpg" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>In the next version of tldraw, pasting from the context menu will center the pasted content on the</title>
-      <link>https://x.com/tldraw/status/2094424744254898560</link>
-      <guid isPermaLink="true">https://x.com/tldraw/status/2094424744254898560</guid>
-      <pubDate>Mon, 31 Aug 2026 13:59:06 GMT</pubDate>
-      <author>@tldraw</author>
-      <description><![CDATA[<p>In the next version of tldraw, pasting from the context menu will center the pasted content on the canvas location where you first opened the menu, rather than on your cursor&apos;s position when you clicked Paste.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2094424722402672640/img/PAIL9cKkRF5MabkH.jpg" alt=""></p>]]></description>
     </item>
   </channel>
 </rss>
