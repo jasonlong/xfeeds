@@ -13,6 +13,22 @@
     </image>
     <ttl>120</ttl>
     <item>
+      <title>Agents write good code. When the code can be verified. An agent adds p-4 to a Button that</title>
+      <link>https://x.com/shadcn/status/2099534239272177747</link>
+      <guid isPermaLink="true">https://x.com/shadcn/status/2099534239272177747</guid>
+      <pubDate>Mon, 14 Sep 2026 16:22:24 GMT</pubDate>
+      <author>@shadcn</author>
+      <description><![CDATA[<p>Agents write good code. When the code can be verified. <br><br>An agent adds p-4 to a Button that already has a size prop. The code compiles. The button renders.<br><br>But it just broke your design system.</p><p><img src="https://pbs.twimg.com/media/HSMGWVjXEAAXIFX?format=jpg&amp;name=small" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>Introducing shadcn/lint. An agent-first linter for Tailwind design systems. You define what’s allowed. When an agent breaks a</title>
+      <link>https://x.com/shadcn/status/2099534231114314145</link>
+      <guid isPermaLink="true">https://x.com/shadcn/status/2099534231114314145</guid>
+      <pubDate>Mon, 14 Sep 2026 16:22:22 GMT</pubDate>
+      <author>@shadcn</author>
+      <description><![CDATA[<p>Introducing shadcn/lint. An agent-first linter for Tailwind design systems.<br><br>You define what’s allowed. When an agent breaks a rule, the error explains what’s wrong and how to fix it using your components, variants and theme.<br><br>There’s a lot you can do with this. Let me show you</p>]]></description>
+    </item>
+    <item>
       <title>Launch day.</title>
       <link>https://x.com/shadcn/status/2099502497400336714</link>
       <guid isPermaLink="true">https://x.com/shadcn/status/2099502497400336714</guid>
@@ -98,7 +114,7 @@
       <guid isPermaLink="true">https://x.com/shadcn/status/2095730612460020140</guid>
       <pubDate>Fri, 04 Sep 2026 04:28:09 GMT</pubDate>
       <author>@shadcn</author>
-      <description><![CDATA[<p>I’m getting a projector. This is going to be my new office.</p>]]></description>
+      <description><![CDATA[<p>I’m getting a projector. This is going to be my new office.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2095595661559574528/img/Vmb2pgEFJ6fpCUTD.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Why a new engine? Speed yes. And we have a few interesting things built on top of coming</title>
@@ -138,7 +154,7 @@
       <guid isPermaLink="true">https://x.com/shadcn/status/2093769104704360553</guid>
       <pubDate>Sat, 29 Aug 2026 18:33:49 GMT</pubDate>
       <author>@shadcn</author>
-      <description><![CDATA[<p>Copper is one month old today.<br><br>I built it to keep the prompts, answers, links and half-formed ideas that come up when working with AI.<br><br>Thank you to everyone who bought it, sent feedback and made Copper part of how they work.</p>]]></description>
+      <description><![CDATA[<p>Copper is one month old today.<br><br>I built it to keep the prompts, answers, links and half-formed ideas that come up when working with AI.<br><br>Thank you to everyone who bought it, sent feedback and made Copper part of how they work.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2093768647101562880/img/eHyNeXwRlLATyHsk.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>generational aura loss</title>

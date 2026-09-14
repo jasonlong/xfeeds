@@ -7,6 +7,38 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>Media post</title>
+      <link>https://x.com/AREdotNA/status/2099535017584001294</link>
+      <guid isPermaLink="true">https://x.com/AREdotNA/status/2099535017584001294</guid>
+      <pubDate>Mon, 14 Sep 2026 16:25:30 GMT</pubDate>
+      <author>@AREdotNA</author>
+      <description><![CDATA[<p></p>]]></description>
+    </item>
+    <item>
+      <title>The most perfect font in the world</title>
+      <link>https://x.com/AREdotNA/status/2099535014744539543</link>
+      <guid isPermaLink="true">https://x.com/AREdotNA/status/2099535014744539543</guid>
+      <pubDate>Mon, 14 Sep 2026 16:25:29 GMT</pubDate>
+      <author>@AREdotNA</author>
+      <description><![CDATA[<p>The most perfect font in the world</p><p><img src="https://pbs.twimg.com/media/HSMLve8XAAEHblb?format=jpg&amp;name=small" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>Agents write good code. When the code can be verified. An agent adds p-4 to a Button that</title>
+      <link>https://x.com/shadcn/status/2099534239272177747</link>
+      <guid isPermaLink="true">https://x.com/shadcn/status/2099534239272177747</guid>
+      <pubDate>Mon, 14 Sep 2026 16:22:24 GMT</pubDate>
+      <author>@shadcn</author>
+      <description><![CDATA[<p>Agents write good code. When the code can be verified. <br><br>An agent adds p-4 to a Button that already has a size prop. The code compiles. The button renders.<br><br>But it just broke your design system.</p><p><img src="https://pbs.twimg.com/media/HSMGWVjXEAAXIFX?format=jpg&amp;name=small" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>Introducing shadcn/lint. An agent-first linter for Tailwind design systems. You define what’s allowed. When an agent breaks a</title>
+      <link>https://x.com/shadcn/status/2099534231114314145</link>
+      <guid isPermaLink="true">https://x.com/shadcn/status/2099534231114314145</guid>
+      <pubDate>Mon, 14 Sep 2026 16:22:22 GMT</pubDate>
+      <author>@shadcn</author>
+      <description><![CDATA[<p>Introducing shadcn/lint. An agent-first linter for Tailwind design systems.<br><br>You define what’s allowed. When an agent breaks a rule, the error explains what’s wrong and how to fix it using your components, variants and theme.<br><br>There’s a lot you can do with this. Let me show you</p>]]></description>
+    </item>
+    <item>
       <title>*macOS 15 🙃</title>
       <link>https://x.com/avstorm/status/2099518408731545661</link>
       <guid isPermaLink="true">https://x.com/avstorm/status/2099518408731545661</guid>
@@ -772,7 +804,7 @@
       <guid isPermaLink="true">https://x.com/pidotdev/status/2097648758888542527</guid>
       <pubDate>Wed, 09 Sep 2026 11:30:11 GMT</pubDate>
       <author>@pidotdev</author>
-      <description><![CDATA[<p>A cache miss happens when a model has to re-read (and re-charge you for) text it had already processed before. <br><br>This can be caused by: <br> - switching models<br> - idling past 5mins<br>- editing earlier threads<br><br>Pi can notify you when this happens and how much it costs!</p>]]></description>
+      <description><![CDATA[<p>A cache miss happens when a model has to re-read (and re-charge you for) text it had already processed before. <br><br>This can be caused by: <br> - switching models<br> - idling past 5mins<br>- editing earlier threads<br><br>Pi can notify you when this happens and how much it costs!</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2097644899940110336/img/HPCalWpuhMl7UKcw.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Run /settings and set ‘cache miss notices’ to True. Follow the cache miss notice with the /sessions command</title>
@@ -1260,7 +1292,7 @@
       <guid isPermaLink="true">https://x.com/shadcn/status/2095730612460020140</guid>
       <pubDate>Fri, 04 Sep 2026 04:28:09 GMT</pubDate>
       <author>@shadcn</author>
-      <description><![CDATA[<p>I’m getting a projector. This is going to be my new office.</p>]]></description>
+      <description><![CDATA[<p>I’m getting a projector. This is going to be my new office.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2095595661559574528/img/Vmb2pgEFJ6fpCUTD.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Media post</title>
@@ -1404,7 +1436,7 @@
       <guid isPermaLink="true">https://x.com/mitchellh/status/2095232081853039041</guid>
       <pubDate>Wed, 02 Sep 2026 19:27:10 GMT</pubDate>
       <author>@mitchellh</author>
-      <description><![CDATA[<p>A video explaining a handful of the tricks we use to optimize for memory within the Superlogical server: in-memory compression, moving file descriptors between event-driven and blocked threads dynamically, full terminal state binary snapshot/restore in microseconds, and more!</p>]]></description>
+      <description><![CDATA[<p>A video explaining a handful of the tricks we use to optimize for memory within the Superlogical server: in-memory compression, moving file descriptors between event-driven and blocked threads dynamically, full terminal state binary snapshot/restore in microseconds, and more!</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2095231696694312961/img/4X8RDN0dk4H5TQWS.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>baby you can have whatever you liiiiiiike</title>
@@ -1420,7 +1452,7 @@
       <guid isPermaLink="true">https://x.com/AREdotNA/status/2095222428251173235</guid>
       <pubDate>Wed, 02 Sep 2026 18:48:48 GMT</pubDate>
       <author>@AREdotNA</author>
-      <description><![CDATA[<p>we thought you might like to know that the browser extension is now both moveable and resizable.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2095221768827121664/img/rn6IjsOwqYngU87r.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>we thought you might like to know that the browser extension is now both moveable and resizable.</p>]]></description>
     </item>
     <item>
       <title>The Superlogical server is built to run anywhere and everywhere and serve a level of scale (terminals+clients) unmatched</title>
@@ -1573,38 +1605,6 @@
       <pubDate>Tue, 01 Sep 2026 17:56:09 GMT</pubDate>
       <author>@avstorm</author>
       <description><![CDATA[<p>The Story of VS Code Trailer</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2094846507711135744/img/X8sWp0BtsfdvGUnO.jpg" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>Apple’s credit card emoji hits different now. 💳</title>
-      <link>https://x.com/avstorm/status/2094832923409051797</link>
-      <guid isPermaLink="true">https://x.com/avstorm/status/2094832923409051797</guid>
-      <pubDate>Tue, 01 Sep 2026 17:01:03 GMT</pubDate>
-      <author>@avstorm</author>
-      <description><![CDATA[<p>Apple’s credit card emoji hits different now. 💳</p><p><img src="https://pbs.twimg.com/media/HRJWyyiXcAAbBL-?format=jpg&amp;name=small" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>come on in, the water is warm</title>
-      <link>https://x.com/AREdotNA/status/2094832657255293081</link>
-      <guid isPermaLink="true">https://x.com/AREdotNA/status/2094832657255293081</guid>
-      <pubDate>Tue, 01 Sep 2026 17:00:00 GMT</pubDate>
-      <author>@AREdotNA</author>
-      <description><![CDATA[<p>come on in, the water is warm</p><p><img src="https://pbs.twimg.com/media/HRIygyRXYAENedD?format=jpg&amp;name=small" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>Join the waitlist → https://flash.tldraw.com/waitlist</title>
-      <link>https://x.com/tldraw/status/2094787559834648873</link>
-      <guid isPermaLink="true">https://x.com/tldraw/status/2094787559834648873</guid>
-      <pubDate>Tue, 01 Sep 2026 14:00:48 GMT</pubDate>
-      <author>@tldraw</author>
-      <description><![CDATA[<p>Join the waitlist → https://flash.tldraw.com/waitlist</p>]]></description>
-    </item>
-    <item>
-      <title>Get up, it&apos;s time</title>
-      <link>https://x.com/tldraw/status/2094787547876716710</link>
-      <guid isPermaLink="true">https://x.com/tldraw/status/2094787547876716710</guid>
-      <pubDate>Tue, 01 Sep 2026 14:00:45 GMT</pubDate>
-      <author>@tldraw</author>
-      <description><![CDATA[<p>Get up, it&apos;s time</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2094787514808815616/img/QcpkZ2SoEKRtvRog.jpg" alt=""></p>]]></description>
     </item>
   </channel>
 </rss>
