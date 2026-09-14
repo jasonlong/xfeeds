@@ -7,6 +7,14 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>*macOS 15 🙃</title>
+      <link>https://x.com/avstorm/status/2099518408731545661</link>
+      <guid isPermaLink="true">https://x.com/avstorm/status/2099518408731545661</guid>
+      <pubDate>Mon, 14 Sep 2026 15:19:30 GMT</pubDate>
+      <author>@avstorm</author>
+      <description><![CDATA[<p>*macOS 15 🙃</p>]]></description>
+    </item>
+    <item>
       <title>Apple now uses “CA” instead of “California” on the Mail app icon.</title>
       <link>https://x.com/avstorm/status/2099505765748707442</link>
       <guid isPermaLink="true">https://x.com/avstorm/status/2099505765748707442</guid>
@@ -1597,14 +1605,6 @@
       <pubDate>Tue, 01 Sep 2026 14:00:45 GMT</pubDate>
       <author>@tldraw</author>
       <description><![CDATA[<p>Get up, it&apos;s time</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2094787514808815616/img/QcpkZ2SoEKRtvRog.jpg" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>Pi now has 100000 stars on GitHub⭐️Thank you People of Pi for your contributions and support. The community</title>
-      <link>https://x.com/pidotdev/status/2094758621833765261</link>
-      <guid isPermaLink="true">https://x.com/pidotdev/status/2094758621833765261</guid>
-      <pubDate>Tue, 01 Sep 2026 12:05:48 GMT</pubDate>
-      <author>@pidotdev</author>
-      <description><![CDATA[<p>Pi now has 100000 stars on GitHub⭐️Thank you People of Pi for your contributions and support. The community is growing faster than ever!<br><br>Pi v2 coming soon…</p>]]></description>
     </item>
   </channel>
 </rss>
