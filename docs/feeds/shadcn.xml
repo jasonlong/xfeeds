@@ -13,6 +13,14 @@
     </image>
     <ttl>120</ttl>
     <item>
+      <title>Introducing shadcn/lint. An agent-first linter for Tailwind design systems. You define what’s allowed. When an agent breaks a</title>
+      <link>https://x.com/shadcn/status/2099677803125903379</link>
+      <guid isPermaLink="true">https://x.com/shadcn/status/2099677803125903379</guid>
+      <pubDate>Tue, 15 Sep 2026 01:52:53 GMT</pubDate>
+      <author>@shadcn</author>
+      <description><![CDATA[<p>Introducing shadcn/lint. An agent-first linter for Tailwind design systems.<br><br>You define what’s allowed. When an agent breaks a rule, the error explains what’s wrong and how to fix it using your components, variants and theme.<br><br>There’s a lot you can do with this. Let me show you</p>]]></description>
+    </item>
+    <item>
       <title>Agents write good code. When the code can be verified. An agent adds p-4 to a Button that</title>
       <link>https://x.com/shadcn/status/2099534239272177747</link>
       <guid isPermaLink="true">https://x.com/shadcn/status/2099534239272177747</guid>
