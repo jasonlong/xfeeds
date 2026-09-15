@@ -1164,7 +1164,7 @@
       <guid isPermaLink="true">https://x.com/pidotdev/status/2096929751994687950</guid>
       <pubDate>Mon, 07 Sep 2026 11:53:06 GMT</pubDate>
       <author>@pidotdev</author>
-      <description><![CDATA[<p>Pi lets you pass a project directory (cwd) to createAgentSession(), to help scope where tools should work. <br><br>Tools like read, grep, find and ls efficiently resolve in that project, and the session picks up the projects AGENTS.md and skills. <br><br>Here’s the code to try this out</p><p><img src="https://pbs.twimg.com/media/HRnIpLJWgAIAx6s?format=jpg&amp;name=small" alt=""></p>]]></description>
+      <description><![CDATA[<p>Pi lets you pass a project directory (cwd) to createAgentSession(), to help scope where tools should work. <br><br>Tools like read, grep, find and ls efficiently resolve in that project, and the session picks up the projects AGENTS.md and skills. <br><br>Here’s the code to try this out</p>]]></description>
     </item>
     <item>
       <title>Whenever Apple uses a heart animation for an Apple Event reminder, you know a special Like animation is</title>
