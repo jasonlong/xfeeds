@@ -7,6 +7,14 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>Guess</title>
+      <link>https://x.com/zerocam_app/status/2099811435509678184</link>
+      <guid isPermaLink="true">https://x.com/zerocam_app/status/2099811435509678184</guid>
+      <pubDate>Tue, 15 Sep 2026 10:43:53 GMT</pubDate>
+      <author>@zerocam_app</author>
+      <description><![CDATA[<p>Guess</p><p><img src="https://pbs.twimg.com/media/HSP8ispWoAAdQIO?format=jpg&amp;name=small" alt=""></p>]]></description>
+    </item>
+    <item>
       <title>Join us at the tldraw offices in London tonight at 6pm for the tldraw flash launch party. We&apos;ll</title>
       <link>https://x.com/tldraw/status/2099796507717234836</link>
       <guid isPermaLink="true">https://x.com/tldraw/status/2099796507717234836</guid>
@@ -940,7 +948,7 @@
       <guid isPermaLink="true">https://x.com/zerocam_app/status/2097590707498434930</guid>
       <pubDate>Wed, 09 Sep 2026 07:39:30 GMT</pubDate>
       <author>@zerocam_app</author>
-      <description><![CDATA[<p>Happy recording 📼</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2097579687002198017/img/oKKSUitHV2iBF4JO.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Happy recording 📼</p>]]></description>
     </item>
     <item>
       <title>Building for a future where more people realize drawing is a fundamental input type and also awesome and</title>
@@ -1597,14 +1605,6 @@
       <pubDate>Wed, 02 Sep 2026 15:56:25 GMT</pubDate>
       <author>@shadcn</author>
       <description><![CDATA[<p>We are open sourcing `cn`, a new engine for Tailwind class merging and conflict resolution. It is a drop-in replacement for tailwind-merge and clsx.<br><br>It works with all frameworks, runs everywhere and is 30x faster.<br><br>Brought to you by @aidenybai and me.</p>]]></description>
-    </item>
-    <item>
-      <title>Join the waitlist → https://flash.tldraw.com/waitlist</title>
-      <link>https://x.com/tldraw/status/2095148770342342724</link>
-      <guid isPermaLink="true">https://x.com/tldraw/status/2095148770342342724</guid>
-      <pubDate>Wed, 02 Sep 2026 13:56:07 GMT</pubDate>
-      <author>@tldraw</author>
-      <description><![CDATA[<p>Join the waitlist → https://flash.tldraw.com/waitlist</p>]]></description>
     </item>
   </channel>
 </rss>
