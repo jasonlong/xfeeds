@@ -7,6 +7,22 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>almost, but the entire loop is “design it”</title>
+      <link>https://x.com/almonk/status/2099831933345689693</link>
+      <guid isPermaLink="true">https://x.com/almonk/status/2099831933345689693</guid>
+      <pubDate>Tue, 15 Sep 2026 12:05:20 GMT</pubDate>
+      <author>@almonk</author>
+      <description><![CDATA[<p>almost, but the entire loop is “design it”</p>]]></description>
+    </item>
+    <item>
+      <title>The most perfect font in the world</title>
+      <link>https://x.com/AREdotNA/status/2099829379408756858</link>
+      <guid isPermaLink="true">https://x.com/AREdotNA/status/2099829379408756858</guid>
+      <pubDate>Tue, 15 Sep 2026 11:55:11 GMT</pubDate>
+      <author>@AREdotNA</author>
+      <description><![CDATA[<p>The most perfect font in the world</p><p><img src="https://pbs.twimg.com/media/HSQXp3yWQAAqb0a?format=png&amp;name=small" alt=""></p><p><img src="https://pbs.twimg.com/media/HSMLve8XAAEHblb?format=jpg&amp;name=240x240" alt=""></p>]]></description>
+    </item>
+    <item>
       <title>Guess</title>
       <link>https://x.com/zerocam_app/status/2099811435509678184</link>
       <guid isPermaLink="true">https://x.com/zerocam_app/status/2099811435509678184</guid>
@@ -1532,7 +1548,7 @@
       <guid isPermaLink="true">https://x.com/AREdotNA/status/2095222428251173235</guid>
       <pubDate>Wed, 02 Sep 2026 18:48:48 GMT</pubDate>
       <author>@AREdotNA</author>
-      <description><![CDATA[<p>we thought you might like to know that the browser extension is now both moveable and resizable.</p>]]></description>
+      <description><![CDATA[<p>we thought you might like to know that the browser extension is now both moveable and resizable.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2095221768827121664/img/rn6IjsOwqYngU87r.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>The Superlogical server is built to run anywhere and everywhere and serve a level of scale (terminals+clients) unmatched</title>
@@ -1589,22 +1605,6 @@
       <pubDate>Wed, 02 Sep 2026 16:00:40 GMT</pubDate>
       <author>@tldraw</author>
       <description><![CDATA[<p>In the next version of tldraw, resizing multiple objects will now move bookmarks and other non-resizable objects instead of keeping them frozen in place.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2095180091961806848/img/SPDEyTy7fGQ7uxfT.jpg" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>cn has full parity, identical output and a smaller bundle. You can migrate your project today in one</title>
-      <link>https://x.com/shadcn/status/2095179051681882217</link>
-      <guid isPermaLink="true">https://x.com/shadcn/status/2095179051681882217</guid>
-      <pubDate>Wed, 02 Sep 2026 15:56:27 GMT</pubDate>
-      <author>@shadcn</author>
-      <description><![CDATA[<p>cn has full parity, identical output and a smaller bundle.<br><br>You can migrate your project today in one command: `npx shadcn migrate cn`<br><br>It works with any Tailwind project (not limited to shadcn/ui).</p><p><img src="https://pbs.twimg.com/media/HROQ1ixbEAAh-Hw?format=png&amp;name=small" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>We are open sourcing `cn`, a new engine for Tailwind class merging and conflict resolution. It is a</title>
-      <link>https://x.com/shadcn/status/2095179046904607092</link>
-      <guid isPermaLink="true">https://x.com/shadcn/status/2095179046904607092</guid>
-      <pubDate>Wed, 02 Sep 2026 15:56:25 GMT</pubDate>
-      <author>@shadcn</author>
-      <description><![CDATA[<p>We are open sourcing `cn`, a new engine for Tailwind class merging and conflict resolution. It is a drop-in replacement for tailwind-merge and clsx.<br><br>It works with all frameworks, runs everywhere and is 30x faster.<br><br>Brought to you by @aidenybai and me.</p>]]></description>
     </item>
   </channel>
 </rss>
