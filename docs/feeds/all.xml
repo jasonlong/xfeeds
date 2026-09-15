@@ -7,6 +7,30 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>agent came through. got me the reservation.</title>
+      <link>https://x.com/shadcn/status/2099928961891307605</link>
+      <guid isPermaLink="true">https://x.com/shadcn/status/2099928961891307605</guid>
+      <pubDate>Tue, 15 Sep 2026 18:30:53 GMT</pubDate>
+      <author>@shadcn</author>
+      <description><![CDATA[<p>agent came through. got me the reservation.</p>]]></description>
+    </item>
+    <item>
+      <title>Why a rules file and not collocated with your components: → You can have one design system but</title>
+      <link>https://x.com/shadcn/status/2099917419997208890</link>
+      <guid isPermaLink="true">https://x.com/shadcn/status/2099917419997208890</guid>
+      <pubDate>Tue, 15 Sep 2026 17:45:02 GMT</pubDate>
+      <author>@shadcn</author>
+      <description><![CDATA[<p>Why a rules file and not collocated with your components:<br><br>→ You can have one design system but different rules. Think a workspace with marketing site and a dashboard. You could allow `motion` classes on the marketing site but not the dashboard.<br><br>→ You can write rules for</p>]]></description>
+    </item>
+    <item>
+      <title>After all, why shouldn&apos;t we [ab]use the CLI to recreate 2048 in the Superlogical multiplexer? Amazing work by</title>
+      <link>https://x.com/mitchellh/status/2099915915056074807</link>
+      <guid isPermaLink="true">https://x.com/mitchellh/status/2099915915056074807</guid>
+      <pubDate>Tue, 15 Sep 2026 17:39:03 GMT</pubDate>
+      <author>@mitchellh</author>
+      <description><![CDATA[<p>After all, why shouldn&apos;t we [ab]use the CLI to recreate 2048 in the Superlogical multiplexer? Amazing work by a tester, not by me. The final boss will be getting DOOM running where every pixel is its own terminal. Software should be fun.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2099915469293867009/img/bkOWe9FQkUnXaOob.jpg" alt=""></p>]]></description>
+    </item>
+    <item>
       <title>In https://tldraw.com, stacking shapes more consistently preserves the relative positioning of shapes connected with arrows.</title>
       <link>https://x.com/tldraw/status/2099875994261991678</link>
       <guid isPermaLink="true">https://x.com/tldraw/status/2099875994261991678</guid>
@@ -1396,7 +1420,7 @@
       <guid isPermaLink="true">https://x.com/shadcn/status/2095730612460020140</guid>
       <pubDate>Fri, 04 Sep 2026 04:28:09 GMT</pubDate>
       <author>@shadcn</author>
-      <description><![CDATA[<p>I’m getting a projector. This is going to be my new office.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2095595661559574528/img/Vmb2pgEFJ6fpCUTD.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>I’m getting a projector. This is going to be my new office.</p>]]></description>
     </item>
     <item>
       <title>Media post</title>
@@ -1540,7 +1564,7 @@
       <guid isPermaLink="true">https://x.com/mitchellh/status/2095232081853039041</guid>
       <pubDate>Wed, 02 Sep 2026 19:27:10 GMT</pubDate>
       <author>@mitchellh</author>
-      <description><![CDATA[<p>A video explaining a handful of the tricks we use to optimize for memory within the Superlogical server: in-memory compression, moving file descriptors between event-driven and blocked threads dynamically, full terminal state binary snapshot/restore in microseconds, and more!</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2095231696694312961/img/4X8RDN0dk4H5TQWS.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>A video explaining a handful of the tricks we use to optimize for memory within the Superlogical server: in-memory compression, moving file descriptors between event-driven and blocked threads dynamically, full terminal state binary snapshot/restore in microseconds, and more!</p>]]></description>
     </item>
     <item>
       <title>baby you can have whatever you liiiiiiike</title>
@@ -1581,30 +1605,6 @@
       <pubDate>Wed, 02 Sep 2026 18:25:47 GMT</pubDate>
       <author>@paper</author>
       <description><![CDATA[<p>Check out the full video on YT. Let us know what you build!</p>]]></description>
-    </item>
-    <item>
-      <title>New tutorial is up!! 🌟 Go Design to Code with Paper ✨ Shout out @harcourttt for working hard</title>
-      <link>https://x.com/paper/status/2095216477741994216</link>
-      <guid isPermaLink="true">https://x.com/paper/status/2095216477741994216</guid>
-      <pubDate>Wed, 02 Sep 2026 18:25:10 GMT</pubDate>
-      <author>@paper</author>
-      <description><![CDATA[<p>New tutorial is up!!<br><br>🌟 Go Design to Code with Paper ✨<br><br>Shout out @harcourttt for working hard to create these videos for the Paper community<br><br>Full video link in the replies ⬇︎</p>]]></description>
-    </item>
-    <item>
-      <title>Why a new engine? Speed yes. And we have a few interesting things built on top of coming</title>
-      <link>https://x.com/shadcn/status/2095205979906335176</link>
-      <guid isPermaLink="true">https://x.com/shadcn/status/2095205979906335176</guid>
-      <pubDate>Wed, 02 Sep 2026 17:43:27 GMT</pubDate>
-      <author>@shadcn</author>
-      <description><![CDATA[<p>Why a new engine? Speed yes. And we have a few interesting things built on top of coming soon.</p>]]></description>
-    </item>
-    <item>
-      <title>remember tv party? (of course you don&apos;t)</title>
-      <link>https://x.com/AREdotNA/status/2095197132953108725</link>
-      <guid isPermaLink="true">https://x.com/AREdotNA/status/2095197132953108725</guid>
-      <pubDate>Wed, 02 Sep 2026 17:08:18 GMT</pubDate>
-      <author>@AREdotNA</author>
-      <description><![CDATA[<p>remember tv party? (of course you don&apos;t)</p><p><img src="https://pbs.twimg.com/media/HROUY8CXQAUO5pd?format=jpg&amp;name=small" alt=""></p>]]></description>
     </item>
   </channel>
 </rss>

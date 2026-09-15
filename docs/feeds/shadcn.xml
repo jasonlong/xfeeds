@@ -13,6 +13,22 @@
     </image>
     <ttl>120</ttl>
     <item>
+      <title>agent came through. got me the reservation.</title>
+      <link>https://x.com/shadcn/status/2099928961891307605</link>
+      <guid isPermaLink="true">https://x.com/shadcn/status/2099928961891307605</guid>
+      <pubDate>Tue, 15 Sep 2026 18:30:53 GMT</pubDate>
+      <author>@shadcn</author>
+      <description><![CDATA[<p>agent came through. got me the reservation.</p>]]></description>
+    </item>
+    <item>
+      <title>Why a rules file and not collocated with your components: → You can have one design system but</title>
+      <link>https://x.com/shadcn/status/2099917419997208890</link>
+      <guid isPermaLink="true">https://x.com/shadcn/status/2099917419997208890</guid>
+      <pubDate>Tue, 15 Sep 2026 17:45:02 GMT</pubDate>
+      <author>@shadcn</author>
+      <description><![CDATA[<p>Why a rules file and not collocated with your components:<br><br>→ You can have one design system but different rules. Think a workspace with marketing site and a dashboard. You could allow `motion` classes on the marketing site but not the dashboard.<br><br>→ You can write rules for</p>]]></description>
+    </item>
+    <item>
       <title>Introducing shadcn/lint. An agent-first linter for Tailwind design systems. You define what’s allowed. When an agent breaks a</title>
       <link>https://x.com/shadcn/status/2099677803125903379</link>
       <guid isPermaLink="true">https://x.com/shadcn/status/2099677803125903379</guid>
@@ -122,7 +138,7 @@
       <guid isPermaLink="true">https://x.com/shadcn/status/2095730612460020140</guid>
       <pubDate>Fri, 04 Sep 2026 04:28:09 GMT</pubDate>
       <author>@shadcn</author>
-      <description><![CDATA[<p>I’m getting a projector. This is going to be my new office.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2095595661559574528/img/Vmb2pgEFJ6fpCUTD.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>I’m getting a projector. This is going to be my new office.</p>]]></description>
     </item>
     <item>
       <title>Why a new engine? Speed yes. And we have a few interesting things built on top of coming</title>
