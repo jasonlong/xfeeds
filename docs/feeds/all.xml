@@ -7,6 +7,14 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>iOS version icons tell the story of Apple’s design evolution.</title>
+      <link>https://x.com/avstorm/status/2100185901846397376</link>
+      <guid isPermaLink="true">https://x.com/avstorm/status/2100185901846397376</guid>
+      <pubDate>Wed, 16 Sep 2026 11:31:53 GMT</pubDate>
+      <author>@avstorm</author>
+      <description><![CDATA[<p>iOS version icons tell the story of Apple’s design evolution.</p><p><img src="https://pbs.twimg.com/media/HSVa1ndWAAAfHfz?format=jpg&amp;name=small" alt=""></p>]]></description>
+    </item>
+    <item>
       <title>prepare for what&apos;s coming to zerocam iOS</title>
       <link>https://x.com/zerocam_app/status/2100039264679723276</link>
       <guid isPermaLink="true">https://x.com/zerocam_app/status/2100039264679723276</guid>
@@ -236,7 +244,7 @@
       <guid isPermaLink="true">https://x.com/avstorm/status/2099487935015907628</guid>
       <pubDate>Mon, 14 Sep 2026 13:18:24 GMT</pubDate>
       <author>@avstorm</author>
-      <description><![CDATA[<p>Apple’s refreshed app icons start rolling out today.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2099486127941922818/img/m9dHKKseSucgn9TA.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Apple’s refreshed app icons start rolling out today.</p>]]></description>
     </item>
     <item>
       <title>idk about anyone else, but I find it really hard to dictate what I&apos;m thinking. typing unlocks something</title>
@@ -324,7 +332,7 @@
       <guid isPermaLink="true">https://x.com/avstorm/status/2098718957943332962</guid>
       <pubDate>Sat, 12 Sep 2026 10:22:46 GMT</pubDate>
       <author>@avstorm</author>
-      <description><![CDATA[<p>iPhone Duo gets an option to always show the battery percentage.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2098718780809789440/img/fp0Vjzz-jsBaC-vK.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>iPhone Duo gets an option to always show the battery percentage.</p>]]></description>
     </item>
     <item>
       <title>Even better news for everyone who always wants to see the percentage.</title>
@@ -652,7 +660,7 @@
       <guid isPermaLink="true">https://x.com/avstorm/status/2097976035547517401</guid>
       <pubDate>Thu, 10 Sep 2026 09:10:40 GMT</pubDate>
       <author>@avstorm</author>
-      <description><![CDATA[<p>Love this animation</p><p><img src="https://pbs.twimg.com/media/HR1po5Za0AAYe38?format=jpg&amp;name=240x240" alt=""></p>]]></description>
+      <description><![CDATA[<p>Love this animation</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2097975868500869124/img/a06iy0CXPKukh7rs.jpg" alt=""></p><p><img src="https://pbs.twimg.com/media/HR1po5Za0AAYe38?format=jpg&amp;name=240x240" alt=""></p>]]></description>
     </item>
     <item>
       <title>Imagine sitting at your desk merging the pull request that deploys this model :)</title>
@@ -1597,14 +1605,6 @@
       <pubDate>Wed, 02 Sep 2026 19:27:10 GMT</pubDate>
       <author>@mitchellh</author>
       <description><![CDATA[<p>A video explaining a handful of the tricks we use to optimize for memory within the Superlogical server: in-memory compression, moving file descriptors between event-driven and blocked threads dynamically, full terminal state binary snapshot/restore in microseconds, and more!</p>]]></description>
-    </item>
-    <item>
-      <title>baby you can have whatever you liiiiiiike</title>
-      <link>https://x.com/AREdotNA/status/2095223473131970855</link>
-      <guid isPermaLink="true">https://x.com/AREdotNA/status/2095223473131970855</guid>
-      <pubDate>Wed, 02 Sep 2026 18:52:58 GMT</pubDate>
-      <author>@AREdotNA</author>
-      <description><![CDATA[<p>baby you can have whatever you liiiiiiike</p>]]></description>
     </item>
   </channel>
 </rss>
