@@ -13,6 +13,22 @@
     </image>
     <ttl>120</ttl>
     <item>
+      <title>We also fixed a few things: ⌨️ Text no longer disappears while you&apos;re editing it 💨 The zoom</title>
+      <link>https://x.com/tldraw/status/2100261345270669538</link>
+      <guid isPermaLink="true">https://x.com/tldraw/status/2100261345270669538</guid>
+      <pubDate>Wed, 16 Sep 2026 16:31:40 GMT</pubDate>
+      <author>@tldraw</author>
+      <description><![CDATA[<p>We also fixed a few things:<br><br>⌨️ Text no longer disappears while you&apos;re editing it<br><br>💨 The zoom tool no longer gets stuck when you hold Z<br><br>🖼️ Frame contents stay put when you double-click a frame&apos;s edge</p>]]></description>
+    </item>
+    <item>
+      <title>It’s Wednesday, which means we’ve landed the new version of https://tldraw.com. In this version: 🧜 Mermaid diagrams render</title>
+      <link>https://x.com/tldraw/status/2100261342816973275</link>
+      <guid isPermaLink="true">https://x.com/tldraw/status/2100261342816973275</guid>
+      <pubDate>Wed, 16 Sep 2026 16:31:39 GMT</pubDate>
+      <author>@tldraw</author>
+      <description><![CDATA[<p>It’s Wednesday, which means we’ve landed the new version of https://tldraw.com. In this version:<br><br>🧜 Mermaid diagrams render much more accurately — sequence diagrams, flowcharts, self-loops, and multi-line labels now match how Mermaid lays them out<br><br>🖼️ You can now wrap a</p>]]></description>
+    </item>
+    <item>
       <title>Media post</title>
       <link>https://x.com/tldraw/status/2100242581556764923</link>
       <guid isPermaLink="true">https://x.com/tldraw/status/2100242581556764923</guid>
@@ -26,7 +42,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2100234110341955781</guid>
       <pubDate>Wed, 16 Sep 2026 14:43:27 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>We’re thrilled to welcome Baidu App on board as our newest SDK customer!<br><br>Baidu App has integrated tldraw into its customer-facing platform to create AI short-form dramas. Script, storyboard, plan, and execute all in one collaborative canvas.<br><br>We look forward to seeing what</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2100233951340118016/img/O1kPlfBOPTfkfnIk.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>We’re thrilled to welcome Baidu App on board as our newest SDK customer!<br><br>Baidu App has integrated tldraw into its customer-facing platform to create AI short-form dramas. Script, storyboard, plan, and execute all in one collaborative canvas.<br><br>We look forward to seeing what</p>]]></description>
     </item>
     <item>
       <title>In https://tldraw.com, stacking shapes more consistently preserves the relative positioning of shapes connected with arrows.</title>
@@ -34,7 +50,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2099875994261991678</guid>
       <pubDate>Tue, 15 Sep 2026 15:00:25 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>In https://tldraw.com, stacking shapes more consistently preserves the relative positioning of shapes connected with arrows.</p>]]></description>
+      <description><![CDATA[<p>In https://tldraw.com, stacking shapes more consistently preserves the relative positioning of shapes connected with arrows.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2099875950888718336/img/AWCLuGfwZoU_zlUh.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Join us at the tldraw offices in London tonight at 6pm for the tldraw flash launch party. We&apos;ll</title>
@@ -50,7 +66,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2099212558653870508</guid>
       <pubDate>Sun, 13 Sep 2026 19:04:10 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>In the next version of tldraw, locked shapes will be skipped when cycling through shapes with the tab key.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2099212519680430080/img/b34Kqhg_8-WH_T0w.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>In the next version of tldraw, locked shapes will be skipped when cycling through shapes with the tab key.</p>]]></description>
     </item>
     <item>
       <title>Legendary demo from @threepointone, who first described this idea to me back in 2024. I&apos;ve had designs for</title>
@@ -58,7 +74,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2099093618036298219</guid>
       <pubDate>Sun, 13 Sep 2026 11:11:32 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>Legendary demo from @threepointone, who first described this idea to me back in 2024. I&apos;ve had designs for &quot;make realtime&quot; just waiting for the new voice models to land, here we go</p>]]></description>
+      <description><![CDATA[<p>Legendary demo from @threepointone, who first described this idea to me back in 2024. I&apos;ve had designs for &quot;make realtime&quot; just waiting for the new voice models to land, here we go</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2098895514792075271/img/IOa0Z7tHPeMNL-x0.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>The game loop: communicate with a real time model through voice, annotation, and ad-hoc UI. Real time model</title>
@@ -90,7 +106,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2098459177572000198</guid>
       <pubDate>Fri, 11 Sep 2026 17:10:30 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>2. Shape resizing is broken after touching it with an eraser (2/10)</p>]]></description>
+      <description><![CDATA[<p>2. Shape resizing is broken after touching it with an eraser (2/10)</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2098459141169717258/img/hIwQu7bjXaaLLkQd.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>heya, this is Andy from tldraw. Here are 10 free bugs I found with @OpenAI&apos;s new chatgpt sketch</title>
@@ -98,7 +114,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2098459138120454523</guid>
       <pubDate>Fri, 11 Sep 2026 17:10:20 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>heya, this is Andy from tldraw. Here are 10 free bugs I found with @OpenAI&apos;s new chatgpt sketch feature. #3 will shock you<br><br>1. Vertical and horizontal lines look jagged when resizing them (1/10)</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2098459108009816064/img/LmnVu74a0IynkjGw.jpg" alt=""></p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2097983349138829312/img/0RdH6ygcd0uu3oqK?format=jpg&amp;name=240x240" alt=""></p>]]></description>
+      <description><![CDATA[<p>heya, this is Andy from tldraw. Here are 10 free bugs I found with @OpenAI&apos;s new chatgpt sketch feature. #3 will shock you<br><br>1. Vertical and horizontal lines look jagged when resizing them (1/10)</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2097983349138829312/img/0RdH6ygcd0uu3oqK?format=jpg&amp;name=240x240" alt=""></p>]]></description>
     </item>
     <item>
       <title>Sign up →</title>
@@ -130,7 +146,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2098371223629807740</guid>
       <pubDate>Fri, 11 Sep 2026 11:21:00 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>You can now remix this in tldraw flash! https://flash.tldraw.com/f/flash-o1e47cl5ge9twqvb…</p>]]></description>
+      <description><![CDATA[<p>You can now remix this in tldraw flash! https://flash.tldraw.com/f/flash-o1e47cl5ge9twqvb…</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2097983349138829312/img/0RdH6ygcd0uu3oqK.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>As of this week&apos;s release, holding the right shift key while pressing the arrow keys to nudge shapes</title>
@@ -795,22 +811,6 @@
       <pubDate>Wed, 26 Aug 2026 16:50:51 GMT</pubDate>
       <author>@tldraw</author>
       <description><![CDATA[<p>Agents can drive the canvas. We played around with controlling what they can &quot;see&quot; and set them loose, working their way through mazes.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2092653047688085504/img/DhQcuULvwWWk8uZk.jpg" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>Space isn&apos;t something you can type your way through. A canvas lets an agent move through it instead.</title>
-      <link>https://x.com/tldraw/status/2092656030282842132</link>
-      <guid isPermaLink="true">https://x.com/tldraw/status/2092656030282842132</guid>
-      <pubDate>Wed, 26 Aug 2026 16:50:51 GMT</pubDate>
-      <author>@tldraw</author>
-      <description><![CDATA[<p>Space isn&apos;t something you can type your way through. A canvas lets an agent move through it instead. If you&apos;re building anything that needs an agent to actually perceive space, fork our Agent Starter Kit →</p>]]></description>
-    </item>
-    <item>
-      <title>Our @obsdmd plugin started asking for a license key a few weeks ago after our provided key expired.</title>
-      <link>https://x.com/tldraw/status/2092645893824475372</link>
-      <guid isPermaLink="true">https://x.com/tldraw/status/2092645893824475372</guid>
-      <pubDate>Wed, 26 Aug 2026 16:10:35 GMT</pubDate>
-      <author>@tldraw</author>
-      <description><![CDATA[<p>Our @obsdmd plugin started asking for a license key a few weeks ago after our provided key expired. We fixed it quickly but apologies to anyone affected</p>]]></description>
     </item>
   </channel>
 </rss>
