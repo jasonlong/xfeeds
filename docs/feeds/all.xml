@@ -7,6 +7,22 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>Use Pi to build software that shows others how to use Pi to build software</title>
+      <link>https://x.com/pidotdev/status/2100239508826394844</link>
+      <guid isPermaLink="true">https://x.com/pidotdev/status/2100239508826394844</guid>
+      <pubDate>Wed, 16 Sep 2026 15:04:54 GMT</pubDate>
+      <author>@pidotdev</author>
+      <description><![CDATA[<p>Use Pi to build software that shows others how to use Pi to build software</p>]]></description>
+    </item>
+    <item>
+      <title>We’re thrilled to welcome Baidu App on board as our newest SDK customer! Baidu App has integrated tldraw</title>
+      <link>https://x.com/tldraw/status/2100234110341955781</link>
+      <guid isPermaLink="true">https://x.com/tldraw/status/2100234110341955781</guid>
+      <pubDate>Wed, 16 Sep 2026 14:43:27 GMT</pubDate>
+      <author>@tldraw</author>
+      <description><![CDATA[<p>We’re thrilled to welcome Baidu App on board as our newest SDK customer!<br><br>Baidu App has integrated tldraw into its customer-facing platform to create AI short-form dramas. Script, storyboard, plan, and execute all in one collaborative canvas.<br><br>We look forward to seeing what</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2100233951340118016/img/O1kPlfBOPTfkfnIk.jpg" alt=""></p>]]></description>
+    </item>
+    <item>
       <title>The most perfect font in the world</title>
       <link>https://x.com/AREdotNA/status/2100222134312198489</link>
       <guid isPermaLink="true">https://x.com/AREdotNA/status/2100222134312198489</guid>
@@ -100,7 +116,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2099875994261991678</guid>
       <pubDate>Tue, 15 Sep 2026 15:00:25 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>In https://tldraw.com, stacking shapes more consistently preserves the relative positioning of shapes connected with arrows.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2099875950888718336/img/AWCLuGfwZoU_zlUh.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>In https://tldraw.com, stacking shapes more consistently preserves the relative positioning of shapes connected with arrows.</p>]]></description>
     </item>
     <item>
       <title>almost, but the entire loop is “design it”</title>
@@ -292,7 +308,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2099212558653870508</guid>
       <pubDate>Sun, 13 Sep 2026 19:04:10 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>In the next version of tldraw, locked shapes will be skipped when cycling through shapes with the tab key.</p>]]></description>
+      <description><![CDATA[<p>In the next version of tldraw, locked shapes will be skipped when cycling through shapes with the tab key.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2099212519680430080/img/b34Kqhg_8-WH_T0w.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>PRObably some cool update this week on @zerocam_app iOS</title>
@@ -412,7 +428,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2098459177572000198</guid>
       <pubDate>Fri, 11 Sep 2026 17:10:30 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>2. Shape resizing is broken after touching it with an eraser (2/10)</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2098459141169717258/img/hIwQu7bjXaaLLkQd.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>2. Shape resizing is broken after touching it with an eraser (2/10)</p>]]></description>
     </item>
     <item>
       <title>heya, this is Andy from tldraw. Here are 10 free bugs I found with @OpenAI&apos;s new chatgpt sketch</title>
@@ -492,7 +508,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2098366231405592796</guid>
       <pubDate>Fri, 11 Sep 2026 11:01:09 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>As of this week&apos;s release, holding the right shift key while pressing the arrow keys to nudge shapes will do a &quot;big nudge&quot; in the same way as does holding the left shift key.<br><br>sorry, we&apos;re running out of bugs over here</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2098366193128370176/img/wQrHvw7I-xZ4Gwr7.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>As of this week&apos;s release, holding the right shift key while pressing the arrow keys to nudge shapes will do a &quot;big nudge&quot; in the same way as does holding the left shift key.<br><br>sorry, we&apos;re running out of bugs over here</p>]]></description>
     </item>
     <item>
       <title>Love that shot</title>
@@ -532,7 +548,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2098310180521775470</guid>
       <pubDate>Fri, 11 Sep 2026 07:18:26 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>tldraw flash!</p>]]></description>
+      <description><![CDATA[<p>tldraw flash!</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2098310017120112643/img/j8GLmgwO7lq8yXkg.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>I can’t stress enough how little an idea matters compared to the agency of the people executing the</title>
@@ -1589,22 +1605,6 @@
       <pubDate>Thu, 03 Sep 2026 03:45:12 GMT</pubDate>
       <author>@mitchellh</author>
       <description><![CDATA[<p>Guess which one is Rust btw. 🤣<br><br>(The point is the language isn&apos;t a free lunch for performance. Rust could be just as small as any other here. It isn&apos;t a given. Fundamentals and system design trump everything else. Language wars are stupid as hell.)</p><p><img src="https://pbs.twimg.com/media/HRO1NAzbUAAm6P2?format=jpg&amp;name=small" alt=""></p><p><img src="https://pbs.twimg.com/media/HRO1NA2bIAAbuq2?format=jpg&amp;name=small" alt=""></p><p><img src="https://pbs.twimg.com/media/HRO1NA3bIAA0ADR?format=jpg&amp;name=small" alt=""></p><p><img src="https://pbs.twimg.com/media/HRO1NA0bUAArykU?format=jpg&amp;name=small" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>everyone stop, this is perfect</title>
-      <link>https://x.com/AREdotNA/status/2095260993832034598</link>
-      <guid isPermaLink="true">https://x.com/AREdotNA/status/2095260993832034598</guid>
-      <pubDate>Wed, 02 Sep 2026 21:22:03 GMT</pubDate>
-      <author>@AREdotNA</author>
-      <description><![CDATA[<p>everyone stop, this is perfect</p><p><img src="https://pbs.twimg.com/media/HRPctfcagAA1bH7?format=png&amp;name=240x240" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>Beware people obsessed with outcomes instead of building outcome machines. Its worse than ever with AI, but these</title>
-      <link>https://x.com/mitchellh/status/2095256578559807810</link>
-      <guid isPermaLink="true">https://x.com/mitchellh/status/2095256578559807810</guid>
-      <pubDate>Wed, 02 Sep 2026 21:04:30 GMT</pubDate>
-      <author>@mitchellh</author>
-      <description><![CDATA[<p>Beware people obsessed with outcomes instead of building outcome machines. Its worse than ever with AI, but these people existed before. Short term results above all else, etc. Don&apos;t fall into the trap. Invest in building strong fundamentals, invisible supports, and outcomes flow</p>]]></description>
     </item>
   </channel>
 </rss>
