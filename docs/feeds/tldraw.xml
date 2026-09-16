@@ -13,6 +13,14 @@
     </image>
     <ttl>120</ttl>
     <item>
+      <title>Media post</title>
+      <link>https://x.com/tldraw/status/2100242581556764923</link>
+      <guid isPermaLink="true">https://x.com/tldraw/status/2100242581556764923</guid>
+      <pubDate>Wed, 16 Sep 2026 15:17:06 GMT</pubDate>
+      <author>@tldraw</author>
+      <description><![CDATA[<p></p>]]></description>
+    </item>
+    <item>
       <title>We’re thrilled to welcome Baidu App on board as our newest SDK customer! Baidu App has integrated tldraw</title>
       <link>https://x.com/tldraw/status/2100234110341955781</link>
       <guid isPermaLink="true">https://x.com/tldraw/status/2100234110341955781</guid>
@@ -50,7 +58,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2099093618036298219</guid>
       <pubDate>Sun, 13 Sep 2026 11:11:32 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>Legendary demo from @threepointone, who first described this idea to me back in 2024. I&apos;ve had designs for &quot;make realtime&quot; just waiting for the new voice models to land, here we go</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2098895514792075271/img/IOa0Z7tHPeMNL-x0.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Legendary demo from @threepointone, who first described this idea to me back in 2024. I&apos;ve had designs for &quot;make realtime&quot; just waiting for the new voice models to land, here we go</p>]]></description>
     </item>
     <item>
       <title>The game loop: communicate with a real time model through voice, annotation, and ad-hoc UI. Real time model</title>
@@ -66,7 +74,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2098773427830337548</guid>
       <pubDate>Sat, 12 Sep 2026 13:59:13 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>In the next version of tldraw, the &quot;Frame selection&quot; action will support wrapping a single shape in a new frame. Previously, you could only use this operation with multiple shapes selected.</p>]]></description>
+      <description><![CDATA[<p>In the next version of tldraw, the &quot;Frame selection&quot; action will support wrapping a single shape in a new frame. Previously, you could only use this operation with multiple shapes selected.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2098773376454234112/img/FkXHE7ISsNFhrx5R.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>And upset the delicate balance of compute between arrow inference and arrow research? I think not</title>
@@ -122,7 +130,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2098371223629807740</guid>
       <pubDate>Fri, 11 Sep 2026 11:21:00 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>You can now remix this in tldraw flash! https://flash.tldraw.com/f/flash-o1e47cl5ge9twqvb…</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2097983349138829312/img/0RdH6ygcd0uu3oqK.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>You can now remix this in tldraw flash! https://flash.tldraw.com/f/flash-o1e47cl5ge9twqvb…</p>]]></description>
     </item>
     <item>
       <title>As of this week&apos;s release, holding the right shift key while pressing the arrow keys to nudge shapes</title>
@@ -130,7 +138,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2098366231405592796</guid>
       <pubDate>Fri, 11 Sep 2026 11:01:09 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>As of this week&apos;s release, holding the right shift key while pressing the arrow keys to nudge shapes will do a &quot;big nudge&quot; in the same way as does holding the left shift key.<br><br>sorry, we&apos;re running out of bugs over here</p>]]></description>
+      <description><![CDATA[<p>As of this week&apos;s release, holding the right shift key while pressing the arrow keys to nudge shapes will do a &quot;big nudge&quot; in the same way as does holding the left shift key.<br><br>sorry, we&apos;re running out of bugs over here</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2098366193128370176/img/wQrHvw7I-xZ4Gwr7.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Remix it here:</title>
@@ -803,14 +811,6 @@
       <pubDate>Wed, 26 Aug 2026 16:10:35 GMT</pubDate>
       <author>@tldraw</author>
       <description><![CDATA[<p>Our @obsdmd plugin started asking for a license key a few weeks ago after our provided key expired. We fixed it quickly but apologies to anyone affected</p>]]></description>
-    </item>
-    <item>
-      <title>We’ve also made the loading screen respect your system&apos;s light/dark mode, and reduce-motion settings are honoured live.</title>
-      <link>https://x.com/tldraw/status/2092574094927548500</link>
-      <guid isPermaLink="true">https://x.com/tldraw/status/2092574094927548500</guid>
-      <pubDate>Wed, 26 Aug 2026 11:25:17 GMT</pubDate>
-      <author>@tldraw</author>
-      <description><![CDATA[<p>We’ve also made the loading screen respect your system&apos;s light/dark mode, and reduce-motion settings are honoured live.</p>]]></description>
     </item>
   </channel>
 </rss>
