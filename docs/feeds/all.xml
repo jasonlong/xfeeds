@@ -7,6 +7,14 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>Radius extends the supermalleability of Pi into the inference layer. We&apos;re in early alpha.</title>
+      <link>https://x.com/pidotdev/status/2100205578077282508</link>
+      <guid isPermaLink="true">https://x.com/pidotdev/status/2100205578077282508</guid>
+      <pubDate>Wed, 16 Sep 2026 12:50:04 GMT</pubDate>
+      <author>@pidotdev</author>
+      <description><![CDATA[<p>Radius extends the supermalleability of Pi into the inference layer. We&apos;re in early alpha.</p>]]></description>
+    </item>
+    <item>
       <title>iOS version icons tell the story of Apple’s design evolution.</title>
       <link>https://x.com/avstorm/status/2100185901846397376</link>
       <guid isPermaLink="true">https://x.com/avstorm/status/2100185901846397376</guid>
@@ -244,7 +252,7 @@
       <guid isPermaLink="true">https://x.com/avstorm/status/2099487935015907628</guid>
       <pubDate>Mon, 14 Sep 2026 13:18:24 GMT</pubDate>
       <author>@avstorm</author>
-      <description><![CDATA[<p>Apple’s refreshed app icons start rolling out today.</p>]]></description>
+      <description><![CDATA[<p>Apple’s refreshed app icons start rolling out today.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2099486127941922818/img/m9dHKKseSucgn9TA.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>idk about anyone else, but I find it really hard to dictate what I&apos;m thinking. typing unlocks something</title>
@@ -332,7 +340,7 @@
       <guid isPermaLink="true">https://x.com/avstorm/status/2098718957943332962</guid>
       <pubDate>Sat, 12 Sep 2026 10:22:46 GMT</pubDate>
       <author>@avstorm</author>
-      <description><![CDATA[<p>iPhone Duo gets an option to always show the battery percentage.</p>]]></description>
+      <description><![CDATA[<p>iPhone Duo gets an option to always show the battery percentage.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2098718780809789440/img/fp0Vjzz-jsBaC-vK.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Even better news for everyone who always wants to see the percentage.</title>
@@ -452,7 +460,7 @@
       <guid isPermaLink="true">https://x.com/pidotdev/status/2098373491586425056</guid>
       <pubDate>Fri, 11 Sep 2026 11:30:00 GMT</pubDate>
       <author>@pidotdev</author>
-      <description><![CDATA[<p>When code is abundant quality becomes the differentiator, but what is good code?<br><br>New blog post from Earendil engineer @SebastianBaye on why quantifying the ‘sloppiness’ of code is difficult, which eval methods don’t work well, and what metrics matter. <br><br>Link to the post below</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2098362691223990282/img/3kbtZcC0pe9vE1uc.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>When code is abundant quality becomes the differentiator, but what is good code?<br><br>New blog post from Earendil engineer @SebastianBaye on why quantifying the ‘sloppiness’ of code is difficult, which eval methods don’t work well, and what metrics matter. <br><br>Link to the post below</p>]]></description>
     </item>
     <item>
       <title>You can now remix this in tldraw flash! https://flash.tldraw.com/f/flash-o1e47cl5ge9twqvb…</title>
@@ -660,7 +668,7 @@
       <guid isPermaLink="true">https://x.com/avstorm/status/2097976035547517401</guid>
       <pubDate>Thu, 10 Sep 2026 09:10:40 GMT</pubDate>
       <author>@avstorm</author>
-      <description><![CDATA[<p>Love this animation</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2097975868500869124/img/a06iy0CXPKukh7rs.jpg" alt=""></p><p><img src="https://pbs.twimg.com/media/HR1po5Za0AAYe38?format=jpg&amp;name=240x240" alt=""></p>]]></description>
+      <description><![CDATA[<p>Love this animation</p><p><img src="https://pbs.twimg.com/media/HR1po5Za0AAYe38?format=jpg&amp;name=240x240" alt=""></p>]]></description>
     </item>
     <item>
       <title>Imagine sitting at your desk merging the pull request that deploys this model :)</title>
@@ -972,7 +980,7 @@
       <guid isPermaLink="true">https://x.com/pidotdev/status/2097648758888542527</guid>
       <pubDate>Wed, 09 Sep 2026 11:30:11 GMT</pubDate>
       <author>@pidotdev</author>
-      <description><![CDATA[<p>A cache miss happens when a model has to re-read (and re-charge you for) text it had already processed before. <br><br>This can be caused by: <br> - switching models<br> - idling past 5mins<br>- editing earlier threads<br><br>Pi can notify you when this happens and how much it costs!</p>]]></description>
+      <description><![CDATA[<p>A cache miss happens when a model has to re-read (and re-charge you for) text it had already processed before. <br><br>This can be caused by: <br> - switching models<br> - idling past 5mins<br>- editing earlier threads<br><br>Pi can notify you when this happens and how much it costs!</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2097644899940110336/img/HPCalWpuhMl7UKcw.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Run /settings and set ‘cache miss notices’ to True. Follow the cache miss notice with the /sessions command</title>
@@ -1156,7 +1164,7 @@
       <guid isPermaLink="true">https://x.com/pidotdev/status/2097289933434024187</guid>
       <pubDate>Tue, 08 Sep 2026 11:44:20 GMT</pubDate>
       <author>@pidotdev</author>
-      <description><![CDATA[<p>Gpt-6-astra is @OpenAI’s latest model. Astra is said to be their most intelligent model so far, with frontier leading capabilities for computer use. <br><br>Have you tried it? What are your thoughts so far? If you haven’t, give it a try in Pi today!</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2097288218223734784/img/cjowWufG1UOAEBqe.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Gpt-6-astra is @OpenAI’s latest model. Astra is said to be their most intelligent model so far, with frontier leading capabilities for computer use. <br><br>Have you tried it? What are your thoughts so far? If you haven’t, give it a try in Pi today!</p>]]></description>
     </item>
     <item>
       <title>get on the waitlist https://flash.tldraw.com/waitlist !</title>
@@ -1548,7 +1556,7 @@
       <guid isPermaLink="true">https://x.com/pidotdev/status/2095474386417647827</guid>
       <pubDate>Thu, 03 Sep 2026 11:30:00 GMT</pubDate>
       <author>@pidotdev</author>
-      <description><![CDATA[<p>Pi is a tool for more than just engineers! New blog post by Earendil Founders Associate @jakob_ebe, sharing his experience as a non-technical member of our team.<br><br>Jakob walks through his thoughts getting started and how he customized Pi to make it his own.<br><br>Link to blog below!</p>]]></description>
+      <description><![CDATA[<p>Pi is a tool for more than just engineers! New blog post by Earendil Founders Associate @jakob_ebe, sharing his experience as a non-technical member of our team.<br><br>Jakob walks through his thoughts getting started and how he customized Pi to make it his own.<br><br>Link to blog below!</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2095471003510206464/img/2qJAnDczS3l7J_xZ.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Read about how Jakob uses Pi here</title>
@@ -1597,14 +1605,6 @@
       <pubDate>Wed, 02 Sep 2026 19:37:21 GMT</pubDate>
       <author>@avstorm</author>
       <description><![CDATA[<p>Here is the Apple Event YouTube ad</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2095234494391336962/img/nqf7Te3OhE3M9Jvk.jpg" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>A video explaining a handful of the tricks we use to optimize for memory within the Superlogical server:</title>
-      <link>https://x.com/mitchellh/status/2095232081853039041</link>
-      <guid isPermaLink="true">https://x.com/mitchellh/status/2095232081853039041</guid>
-      <pubDate>Wed, 02 Sep 2026 19:27:10 GMT</pubDate>
-      <author>@mitchellh</author>
-      <description><![CDATA[<p>A video explaining a handful of the tricks we use to optimize for memory within the Superlogical server: in-memory compression, moving file descriptors between event-driven and blocked threads dynamically, full terminal state binary snapshot/restore in microseconds, and more!</p>]]></description>
     </item>
   </channel>
 </rss>
