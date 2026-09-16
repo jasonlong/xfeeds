@@ -13,6 +13,14 @@
     </image>
     <ttl>120</ttl>
     <item>
+      <title>&quot;A user reports something strange, costs spike, or an eval score drops. Someone opens the logs and tries</title>
+      <link>https://x.com/tldraw/status/2100284079866568773</link>
+      <guid isPermaLink="true">https://x.com/tldraw/status/2100284079866568773</guid>
+      <pubDate>Wed, 16 Sep 2026 18:02:00 GMT</pubDate>
+      <author>@tldraw</author>
+      <description><![CDATA[<p>&quot;A user reports something strange, costs spike, or an eval score drops. Someone opens the logs and tries to reconstruct what happened with a grep and a prayer. The immediate question gets answered, maybe, but the next investigation starts from scratch.&quot;<br><br>Very interesting insights</p>]]></description>
+    </item>
+    <item>
       <title>We also fixed a few things: ⌨️ Text no longer disappears while you&apos;re editing it 💨 The zoom</title>
       <link>https://x.com/tldraw/status/2100261345270669538</link>
       <guid isPermaLink="true">https://x.com/tldraw/status/2100261345270669538</guid>
@@ -42,7 +50,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2100234110341955781</guid>
       <pubDate>Wed, 16 Sep 2026 14:43:27 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>We’re thrilled to welcome Baidu App on board as our newest SDK customer!<br><br>Baidu App has integrated tldraw into its customer-facing platform to create AI short-form dramas. Script, storyboard, plan, and execute all in one collaborative canvas.<br><br>We look forward to seeing what</p>]]></description>
+      <description><![CDATA[<p>We’re thrilled to welcome Baidu App on board as our newest SDK customer!<br><br>Baidu App has integrated tldraw into its customer-facing platform to create AI short-form dramas. Script, storyboard, plan, and execute all in one collaborative canvas.<br><br>We look forward to seeing what</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2100233951340118016/img/O1kPlfBOPTfkfnIk.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>In https://tldraw.com, stacking shapes more consistently preserves the relative positioning of shapes connected with arrows.</title>
@@ -50,7 +58,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2099875994261991678</guid>
       <pubDate>Tue, 15 Sep 2026 15:00:25 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>In https://tldraw.com, stacking shapes more consistently preserves the relative positioning of shapes connected with arrows.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2099875950888718336/img/AWCLuGfwZoU_zlUh.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>In https://tldraw.com, stacking shapes more consistently preserves the relative positioning of shapes connected with arrows.</p>]]></description>
     </item>
     <item>
       <title>Join us at the tldraw offices in London tonight at 6pm for the tldraw flash launch party. We&apos;ll</title>
@@ -66,7 +74,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2099212558653870508</guid>
       <pubDate>Sun, 13 Sep 2026 19:04:10 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>In the next version of tldraw, locked shapes will be skipped when cycling through shapes with the tab key.</p>]]></description>
+      <description><![CDATA[<p>In the next version of tldraw, locked shapes will be skipped when cycling through shapes with the tab key.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2099212519680430080/img/b34Kqhg_8-WH_T0w.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Legendary demo from @threepointone, who first described this idea to me back in 2024. I&apos;ve had designs for</title>
@@ -90,7 +98,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2098773427830337548</guid>
       <pubDate>Sat, 12 Sep 2026 13:59:13 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>In the next version of tldraw, the &quot;Frame selection&quot; action will support wrapping a single shape in a new frame. Previously, you could only use this operation with multiple shapes selected.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2098773376454234112/img/FkXHE7ISsNFhrx5R.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>In the next version of tldraw, the &quot;Frame selection&quot; action will support wrapping a single shape in a new frame. Previously, you could only use this operation with multiple shapes selected.</p>]]></description>
     </item>
     <item>
       <title>And upset the delicate balance of compute between arrow inference and arrow research? I think not</title>
@@ -106,7 +114,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2098459177572000198</guid>
       <pubDate>Fri, 11 Sep 2026 17:10:30 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>2. Shape resizing is broken after touching it with an eraser (2/10)</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2098459141169717258/img/hIwQu7bjXaaLLkQd.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>2. Shape resizing is broken after touching it with an eraser (2/10)</p>]]></description>
     </item>
     <item>
       <title>heya, this is Andy from tldraw. Here are 10 free bugs I found with @OpenAI&apos;s new chatgpt sketch</title>
@@ -114,7 +122,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2098459138120454523</guid>
       <pubDate>Fri, 11 Sep 2026 17:10:20 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>heya, this is Andy from tldraw. Here are 10 free bugs I found with @OpenAI&apos;s new chatgpt sketch feature. #3 will shock you<br><br>1. Vertical and horizontal lines look jagged when resizing them (1/10)</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2097983349138829312/img/0RdH6ygcd0uu3oqK?format=jpg&amp;name=240x240" alt=""></p>]]></description>
+      <description><![CDATA[<p>heya, this is Andy from tldraw. Here are 10 free bugs I found with @OpenAI&apos;s new chatgpt sketch feature. #3 will shock you<br><br>1. Vertical and horizontal lines look jagged when resizing them (1/10)</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2098459108009816064/img/LmnVu74a0IynkjGw.jpg" alt=""></p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2097983349138829312/img/0RdH6ygcd0uu3oqK?format=jpg&amp;name=240x240" alt=""></p>]]></description>
     </item>
     <item>
       <title>Sign up →</title>
@@ -803,14 +811,6 @@
       <pubDate>Wed, 26 Aug 2026 20:15:50 GMT</pubDate>
       <author>@tldraw</author>
       <description><![CDATA[<p>the most interesting people in the world are using tldraw</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2091335109718712320/img/s0o8FiLJMAPGCbSZ.jpg" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>Agents can drive the canvas. We played around with controlling what they can &quot;see&quot; and set them loose,</title>
-      <link>https://x.com/tldraw/status/2092656027959279938</link>
-      <guid isPermaLink="true">https://x.com/tldraw/status/2092656027959279938</guid>
-      <pubDate>Wed, 26 Aug 2026 16:50:51 GMT</pubDate>
-      <author>@tldraw</author>
-      <description><![CDATA[<p>Agents can drive the canvas. We played around with controlling what they can &quot;see&quot; and set them loose, working their way through mazes.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2092653047688085504/img/DhQcuULvwWWk8uZk.jpg" alt=""></p>]]></description>
     </item>
   </channel>
 </rss>
