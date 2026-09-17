@@ -7,6 +7,14 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>Apple has updated the installer package icon in macOS 27.2 beta 1</title>
+      <link>https://x.com/avstorm/status/2100581791601983601</link>
+      <guid isPermaLink="true">https://x.com/avstorm/status/2100581791601983601</guid>
+      <pubDate>Thu, 17 Sep 2026 13:45:00 GMT</pubDate>
+      <author>@avstorm</author>
+      <description><![CDATA[<p>Apple has updated the installer package icon in macOS 27.2 beta 1</p><p><img src="https://pbs.twimg.com/media/HSbDKv-WYAA4GWy?format=jpg&amp;name=small" alt=""></p>]]></description>
+    </item>
+    <item>
       <title>Media post</title>
       <link>https://x.com/tldraw/status/2100550108781896035</link>
       <guid isPermaLink="true">https://x.com/tldraw/status/2100550108781896035</guid>
@@ -60,7 +68,7 @@
       <guid isPermaLink="true">https://x.com/avstorm/status/2100299754961818016</guid>
       <pubDate>Wed, 16 Sep 2026 19:04:17 GMT</pubDate>
       <author>@avstorm</author>
-      <description><![CDATA[<p>macOS 27.2 Beta 1 brings a new Siri animation</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2100299673722368000/img/02nO1GzrsdUMowIz.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>macOS 27.2 Beta 1 brings a new Siri animation</p>]]></description>
     </item>
     <item>
       <title>After Walker Evans</title>
@@ -220,7 +228,7 @@
       <guid isPermaLink="true">https://x.com/avstorm/status/2099953395779907764</guid>
       <pubDate>Tue, 15 Sep 2026 20:07:59 GMT</pubDate>
       <author>@avstorm</author>
-      <description><![CDATA[<p>Dark version</p>]]></description>
+      <description><![CDATA[<p>Dark version</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2099953302767116288/img/3oCQwtktlU0OBQlv.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>There is a cute Finder animation in the macOS Tips app</title>
@@ -228,7 +236,7 @@
       <guid isPermaLink="true">https://x.com/avstorm/status/2099931104933253355</guid>
       <pubDate>Tue, 15 Sep 2026 18:39:24 GMT</pubDate>
       <author>@avstorm</author>
-      <description><![CDATA[<p>There is a cute Finder animation in the macOS Tips app</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2099930901643776000/img/yGOYC59Pg4yQ5GG2.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>There is a cute Finder animation in the macOS Tips app</p>]]></description>
     </item>
     <item>
       <title>agent came through. got me the reservation.</title>
@@ -428,7 +436,7 @@
       <guid isPermaLink="true">https://x.com/avstorm/status/2099487935015907628</guid>
       <pubDate>Mon, 14 Sep 2026 13:18:24 GMT</pubDate>
       <author>@avstorm</author>
-      <description><![CDATA[<p>Apple’s refreshed app icons start rolling out today.</p>]]></description>
+      <description><![CDATA[<p>Apple’s refreshed app icons start rolling out today.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2099486127941922818/img/m9dHKKseSucgn9TA.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>idk about anyone else, but I find it really hard to dictate what I&apos;m thinking. typing unlocks something</title>
@@ -1597,14 +1605,6 @@
       <pubDate>Fri, 04 Sep 2026 11:30:00 GMT</pubDate>
       <author>@pidotdev</author>
       <description><![CDATA[<p>Pi v0.85.0 is out 🥳<br><br>New QOL improvements you’ll notice in this version:<br><br>- persistent per turn Claude thinking effort and safe recovery from signed thinking mismatches <br>- better fullscreen transcript navigation and controls <br>- faster transcript search on long sessions</p><p><img src="https://pbs.twimg.com/media/HRXh53qW0AEgjE4?format=jpg&amp;name=small" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>+ the option to hide some app icons</title>
-      <link>https://x.com/avstorm/status/2095832132308332774</link>
-      <guid isPermaLink="true">https://x.com/avstorm/status/2095832132308332774</guid>
-      <pubDate>Fri, 04 Sep 2026 11:11:33 GMT</pubDate>
-      <author>@avstorm</author>
-      <description><![CDATA[<p>+ the option to hide some app icons</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2095831839906652161/img/8QopesVr9LJI--lG.jpg" alt=""></p>]]></description>
     </item>
   </channel>
 </rss>
