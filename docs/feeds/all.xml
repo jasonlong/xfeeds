@@ -7,6 +7,14 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>++</title>
+      <link>https://x.com/AREdotNA/status/2100628681534120128</link>
+      <guid isPermaLink="true">https://x.com/AREdotNA/status/2100628681534120128</guid>
+      <pubDate>Thu, 17 Sep 2026 16:51:20 GMT</pubDate>
+      <author>@AREdotNA</author>
+      <description><![CDATA[<p>++</p>]]></description>
+    </item>
+    <item>
       <title>a 74-second TL;DR on active noise cancelling in tldraw offline</title>
       <link>https://x.com/tldraw/status/2100619730939781622</link>
       <guid isPermaLink="true">https://x.com/tldraw/status/2100619730939781622</guid>
@@ -292,7 +300,7 @@
       <guid isPermaLink="true">https://x.com/mitchellh/status/2099915915056074807</guid>
       <pubDate>Tue, 15 Sep 2026 17:39:03 GMT</pubDate>
       <author>@mitchellh</author>
-      <description><![CDATA[<p>After all, why shouldn&apos;t we [ab]use the CLI to recreate 2048 in the Superlogical multiplexer? Amazing work by a tester, not by me. The final boss will be getting DOOM running where every pixel is its own terminal. Software should be fun.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2099915469293867009/img/bkOWe9FQkUnXaOob.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>After all, why shouldn&apos;t we [ab]use the CLI to recreate 2048 in the Superlogical multiplexer? Amazing work by a tester, not by me. The final boss will be getting DOOM running where every pixel is its own terminal. Software should be fun.</p>]]></description>
     </item>
     <item>
       <title>In https://tldraw.com, stacking shapes more consistently preserves the relative positioning of shapes connected with arrows.</title>
@@ -364,7 +372,7 @@
       <guid isPermaLink="true">https://x.com/mitchellh/status/2099622049325232505</guid>
       <pubDate>Mon, 14 Sep 2026 22:11:20 GMT</pubDate>
       <author>@mitchellh</author>
-      <description><![CDATA[<p>New week new demo! Today I want to showcase the CLI to control the @superlogical multiplexer. The CLI is an extremely powerful tool for automation and hooking into other tools like editors, agentic coding tools, and more. And, it&apos;s super fun!<br><br>Everything you can do in the GUI,</p>]]></description>
+      <description><![CDATA[<p>New week new demo! Today I want to showcase the CLI to control the @superlogical multiplexer. The CLI is an extremely powerful tool for automation and hooking into other tools like editors, agentic coding tools, and more. And, it&apos;s super fun!<br><br>Everything you can do in the GUI,</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2099620779042480128/img/fCUSEzKBJdKiH8OG.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>We need this Siri drop animation on macOS</title>
@@ -1060,7 +1068,7 @@
       <guid isPermaLink="true">https://x.com/shadcn/status/2097739763302162606</guid>
       <pubDate>Wed, 09 Sep 2026 17:31:48 GMT</pubDate>
       <author>@shadcn</author>
-      <description><![CDATA[<p>Let me know if the new iPhone goes like this.</p><p><img src="https://pbs.twimg.com/tweet_video_thumb/HRyrGOzXIAAKyJv.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Let me know if the new iPhone goes like this.</p>]]></description>
     </item>
     <item>
       <title>iPhone 18 Pro bento</title>
@@ -1228,7 +1236,7 @@
       <guid isPermaLink="true">https://x.com/almonk/status/2097612610166288713</guid>
       <pubDate>Wed, 09 Sep 2026 09:06:32 GMT</pubDate>
       <author>@almonk</author>
-      <description><![CDATA[<p>Doom pixel melt shader effect for when you kill the multiplexer server, why not.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2097612524396879872/img/XR7HVPjEQYXMP1O5.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Doom pixel melt shader effect for when you kill the multiplexer server, why not.</p>]]></description>
     </item>
     <item>
       <title>Love this sublte folding in the Apple Event like animation.</title>
@@ -1292,7 +1300,7 @@
       <guid isPermaLink="true">https://x.com/almonk/status/2097439320076403125</guid>
       <pubDate>Tue, 08 Sep 2026 21:37:57 GMT</pubDate>
       <author>@almonk</author>
-      <description><![CDATA[<p>i think we&apos;re all really particular about our terminal environment. we&apos;re building the @superlogical clients to have beautiful defaults but also quite a few levels of customisation. <br><br>this ranges from full liquid glass embrace to totally solid system palettes, through to our 41</p>]]></description>
+      <description><![CDATA[<p>i think we&apos;re all really particular about our terminal environment. we&apos;re building the @superlogical clients to have beautiful defaults but also quite a few levels of customisation. <br><br>this ranges from full liquid glass embrace to totally solid system palettes, through to our 41</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2097439162546704384/img/jrmPUgC2Bm7T5Cgj.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>.@mitchellh walks us thru the most in-depth look at our macOS client so far</title>
@@ -1597,14 +1605,6 @@
       <pubDate>Fri, 04 Sep 2026 16:05:33 GMT</pubDate>
       <author>@paper</author>
       <description><![CDATA[<p>The new builder stack, seeing this a lot!</p><p><img src="https://pbs.twimg.com/media/HRXMXHoWsAMELOU?format=png&amp;name=small" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>agents cheat too much for me to trust them with anything other than code right now.</title>
-      <link>https://x.com/shadcn/status/2095871268683759751</link>
-      <guid isPermaLink="true">https://x.com/shadcn/status/2095871268683759751</guid>
-      <pubDate>Fri, 04 Sep 2026 13:47:04 GMT</pubDate>
-      <author>@shadcn</author>
-      <description><![CDATA[<p>agents cheat too much for me to trust them with anything other than code right now.</p>]]></description>
     </item>
   </channel>
 </rss>
