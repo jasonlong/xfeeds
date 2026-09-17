@@ -7,6 +7,22 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>No way 🤣</title>
+      <link>https://x.com/avstorm/status/2100681496403034189</link>
+      <guid isPermaLink="true">https://x.com/avstorm/status/2100681496403034189</guid>
+      <pubDate>Thu, 17 Sep 2026 20:21:12 GMT</pubDate>
+      <author>@avstorm</author>
+      <description><![CDATA[<p>No way 🤣</p>]]></description>
+    </item>
+    <item>
+      <title>Terminal programs bias to dark modes and explicit colors are hostile to light modes and themes. We now</title>
+      <link>https://x.com/mitchellh/status/2100669845478215762</link>
+      <guid isPermaLink="true">https://x.com/mitchellh/status/2100669845478215762</guid>
+      <pubDate>Thu, 17 Sep 2026 19:34:54 GMT</pubDate>
+      <author>@mitchellh</author>
+      <description><![CDATA[<p>Terminal programs bias to dark modes and explicit colors are hostile to light modes and themes. We now detect programs when they request colors too out of whack from your theme, apply some Oklab magic and hue rotation to match your theme. <br><br>Harmonious themes, everywhere, always.</p><p><img src="https://pbs.twimg.com/media/HScI8d0W4AAaIkn?format=jpg&amp;name=small" alt=""></p><p><img src="https://pbs.twimg.com/media/HScI9EmXoAEz8oB?format=jpg&amp;name=small" alt=""></p>]]></description>
+    </item>
+    <item>
       <title>Have some fun stuff to share for fellow light mode terminal lovers: we call it Automatic Contrast Correction.</title>
       <link>https://x.com/almonk/status/2100659108697305577</link>
       <guid isPermaLink="true">https://x.com/almonk/status/2100659108697305577</guid>
@@ -132,7 +148,7 @@
       <guid isPermaLink="true">https://x.com/avstorm/status/2100299754961818016</guid>
       <pubDate>Wed, 16 Sep 2026 19:04:17 GMT</pubDate>
       <author>@avstorm</author>
-      <description><![CDATA[<p>macOS 27.2 Beta 1 brings a new Siri animation</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2100299673722368000/img/02nO1GzrsdUMowIz.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>macOS 27.2 Beta 1 brings a new Siri animation</p>]]></description>
     </item>
     <item>
       <title>After Walker Evans</title>
@@ -292,7 +308,7 @@
       <guid isPermaLink="true">https://x.com/avstorm/status/2099953395779907764</guid>
       <pubDate>Tue, 15 Sep 2026 20:07:59 GMT</pubDate>
       <author>@avstorm</author>
-      <description><![CDATA[<p>Dark version</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2099953302767116288/img/3oCQwtktlU0OBQlv.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Dark version</p>]]></description>
     </item>
     <item>
       <title>There is a cute Finder animation in the macOS Tips app</title>
@@ -372,7 +388,7 @@
       <guid isPermaLink="true">https://x.com/avstorm/status/2099764487771341228</guid>
       <pubDate>Tue, 15 Sep 2026 07:37:20 GMT</pubDate>
       <author>@avstorm</author>
-      <description><![CDATA[<p>Love this little iCloud animation</p>]]></description>
+      <description><![CDATA[<p>Love this little iCloud animation</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2099763622687670273/img/m8y2MJ_Roc5dkyw_.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Introducing shadcn/lint. An agent-first linter for Tailwind design systems. You define what’s allowed. When an agent breaks a</title>
@@ -1092,7 +1108,7 @@
       <guid isPermaLink="true">https://x.com/shadcn/status/2097739763302162606</guid>
       <pubDate>Wed, 09 Sep 2026 17:31:48 GMT</pubDate>
       <author>@shadcn</author>
-      <description><![CDATA[<p>Let me know if the new iPhone goes like this.</p>]]></description>
+      <description><![CDATA[<p>Let me know if the new iPhone goes like this.</p><p><img src="https://pbs.twimg.com/tweet_video_thumb/HRyrGOzXIAAKyJv.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>iPhone 18 Pro bento</title>
@@ -1340,7 +1356,7 @@
       <guid isPermaLink="true">https://x.com/mitchellh/status/2097424868203758046</guid>
       <pubDate>Tue, 08 Sep 2026 20:40:31 GMT</pubDate>
       <author>@mitchellh</author>
-      <description><![CDATA[<p>A quick look into remote persistent sessions with Superlogical! Not just remote sessions, but some functionality like remote directory lists, too. Superlogical can actually be a full SSH replacement (I don&apos;t run SSH on my servers anymore), and I talk about that briefly, too.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2097423824325337088/img/6fxkvF8tDwoXqWRQ.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>A quick look into remote persistent sessions with Superlogical! Not just remote sessions, but some functionality like remote directory lists, too. Superlogical can actually be a full SSH replacement (I don&apos;t run SSH on my servers anymore), and I talk about that briefly, too.</p>]]></description>
     </item>
     <item>
       <title>folks are making cool stuff on tldraw flash</title>
@@ -1589,22 +1605,6 @@
       <pubDate>Sat, 05 Sep 2026 11:30:00 GMT</pubDate>
       <author>@pidotdev</author>
       <description><![CDATA[<p>Extensions are one of Pi’s most loved features! They are TypeScript modules that extend pi&apos;s behavior. <br><br>Here’s an example of an extension that:<br><br>- git commits a checkpoint before every turn <br>- gives the model a run_tests tool<br>- adds an /undo command to roll the session back</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2095953257440894984/img/6YTh28B9gAxmaImW.jpg" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>Paper, fall 2026 collection</title>
-      <link>https://x.com/paper/status/2096087111183351958</link>
-      <guid isPermaLink="true">https://x.com/paper/status/2096087111183351958</guid>
-      <pubDate>Sat, 05 Sep 2026 04:04:45 GMT</pubDate>
-      <author>@paper</author>
-      <description><![CDATA[<p>Paper, fall 2026 collection</p><p><img src="https://pbs.twimg.com/media/HRaPj-Za0AAihku?format=jpg&amp;name=small" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>You can run &quot;pi update --models&quot; to refresh the model registry to get astra if your account has</title>
-      <link>https://x.com/pidotdev/status/2095968396835738050</link>
-      <guid isPermaLink="true">https://x.com/pidotdev/status/2095968396835738050</guid>
-      <pubDate>Fri, 04 Sep 2026 20:13:01 GMT</pubDate>
-      <author>@pidotdev</author>
-      <description><![CDATA[<p>You can run &quot;pi update --models&quot; to refresh the model registry to get astra if your account has access to it.</p>]]></description>
     </item>
   </channel>
 </rss>
