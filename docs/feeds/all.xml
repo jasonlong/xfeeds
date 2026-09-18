@@ -7,6 +7,14 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>So far so good. Thank you so much!</title>
+      <link>https://x.com/zerocam_app/status/2100805557888372828</link>
+      <guid isPermaLink="true">https://x.com/zerocam_app/status/2100805557888372828</guid>
+      <pubDate>Fri, 18 Sep 2026 04:34:10 GMT</pubDate>
+      <author>@zerocam_app</author>
+      <description><![CDATA[<p>So far so good. Thank you so much!</p><p><img src="https://pbs.twimg.com/media/HSePcrWbMAACd4K?format=png&amp;name=small" alt=""></p>]]></description>
+    </item>
+    <item>
       <title>No way 🤣</title>
       <link>https://x.com/avstorm/status/2100681496403034189</link>
       <guid isPermaLink="true">https://x.com/avstorm/status/2100681496403034189</guid>
@@ -1244,7 +1252,7 @@
       <guid isPermaLink="true">https://x.com/pidotdev/status/2097648758888542527</guid>
       <pubDate>Wed, 09 Sep 2026 11:30:11 GMT</pubDate>
       <author>@pidotdev</author>
-      <description><![CDATA[<p>A cache miss happens when a model has to re-read (and re-charge you for) text it had already processed before. <br><br>This can be caused by: <br> - switching models<br> - idling past 5mins<br>- editing earlier threads<br><br>Pi can notify you when this happens and how much it costs!</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2097644899940110336/img/HPCalWpuhMl7UKcw.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>A cache miss happens when a model has to re-read (and re-charge you for) text it had already processed before. <br><br>This can be caused by: <br> - switching models<br> - idling past 5mins<br>- editing earlier threads<br><br>Pi can notify you when this happens and how much it costs!</p>]]></description>
     </item>
     <item>
       <title>Run /settings and set ‘cache miss notices’ to True. Follow the cache miss notice with the /sessions command</title>
@@ -1428,7 +1436,7 @@
       <guid isPermaLink="true">https://x.com/pidotdev/status/2097289933434024187</guid>
       <pubDate>Tue, 08 Sep 2026 11:44:20 GMT</pubDate>
       <author>@pidotdev</author>
-      <description><![CDATA[<p>Gpt-6-astra is @OpenAI’s latest model. Astra is said to be their most intelligent model so far, with frontier leading capabilities for computer use. <br><br>Have you tried it? What are your thoughts so far? If you haven’t, give it a try in Pi today!</p>]]></description>
+      <description><![CDATA[<p>Gpt-6-astra is @OpenAI’s latest model. Astra is said to be their most intelligent model so far, with frontier leading capabilities for computer use. <br><br>Have you tried it? What are your thoughts so far? If you haven’t, give it a try in Pi today!</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2097288218223734784/img/cjowWufG1UOAEBqe.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>get on the waitlist https://flash.tldraw.com/waitlist !</title>
@@ -1588,7 +1596,7 @@
       <guid isPermaLink="true">https://x.com/pidotdev/status/2096561549356007547</guid>
       <pubDate>Sun, 06 Sep 2026 11:30:00 GMT</pubDate>
       <author>@pidotdev</author>
-      <description><![CDATA[<p>Good morning from Vienna People of Pi🌞<br><br>Sunday meditations today from @badlogicgames and @mitsuhiko <br><br>- change the harness, not your workflow <br>- harness, know thyself <br>- agency to build the features you need when you need them <br><br>*clip from February with our friends @syntaxfm</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2096541993413554176/img/D6J46h3BRWhLuVMT.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Good morning from Vienna People of Pi🌞<br><br>Sunday meditations today from @badlogicgames and @mitsuhiko <br><br>- change the harness, not your workflow <br>- harness, know thyself <br>- agency to build the features you need when you need them <br><br>*clip from February with our friends @syntaxfm</p>]]></description>
     </item>
     <item>
       <title>we will teach the bots to tldraw</title>
@@ -1597,14 +1605,6 @@
       <pubDate>Sat, 05 Sep 2026 18:57:36 GMT</pubDate>
       <author>@tldraw</author>
       <description><![CDATA[<p>we will teach the bots to tldraw</p><p><img src="https://pbs.twimg.com/media/HReYdAqaUAAfJwh?format=jpg&amp;name=small" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>Extensions are one of Pi’s most loved features! They are TypeScript modules that extend pi&apos;s behavior. Here’s an</title>
-      <link>https://x.com/pidotdev/status/2096199162203107524</link>
-      <guid isPermaLink="true">https://x.com/pidotdev/status/2096199162203107524</guid>
-      <pubDate>Sat, 05 Sep 2026 11:30:00 GMT</pubDate>
-      <author>@pidotdev</author>
-      <description><![CDATA[<p>Extensions are one of Pi’s most loved features! They are TypeScript modules that extend pi&apos;s behavior. <br><br>Here’s an example of an extension that:<br><br>- git commits a checkpoint before every turn <br>- gives the model a run_tests tool<br>- adds an /undo command to roll the session back</p>]]></description>
     </item>
   </channel>
 </rss>
