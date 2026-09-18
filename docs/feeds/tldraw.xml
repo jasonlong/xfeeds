@@ -13,6 +13,14 @@
     </image>
     <ttl>120</ttl>
     <item>
+      <title>how we made tldraw flash</title>
+      <link>https://x.com/tldraw/status/2100989799578411264</link>
+      <guid isPermaLink="true">https://x.com/tldraw/status/2100989799578411264</guid>
+      <pubDate>Fri, 18 Sep 2026 16:46:17 GMT</pubDate>
+      <author>@tldraw</author>
+      <description><![CDATA[<p>how we made tldraw flash</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2100986155105681409/img/VE-TAGCikwh5KBiq.jpg" alt=""></p>]]></description>
+    </item>
+    <item>
       <title>We&apos;re thrilled to welcome @makingendless as a new customer. Endless is using the tldraw SDK infinite canvas to</title>
       <link>https://x.com/tldraw/status/2100962603090452538</link>
       <guid isPermaLink="true">https://x.com/tldraw/status/2100962603090452538</guid>
@@ -114,7 +122,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2099093618036298219</guid>
       <pubDate>Sun, 13 Sep 2026 11:11:32 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>Legendary demo from @threepointone, who first described this idea to me back in 2024. I&apos;ve had designs for &quot;make realtime&quot; just waiting for the new voice models to land, here we go</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2098895514792075271/img/IOa0Z7tHPeMNL-x0.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Legendary demo from @threepointone, who first described this idea to me back in 2024. I&apos;ve had designs for &quot;make realtime&quot; just waiting for the new voice models to land, here we go</p>]]></description>
     </item>
     <item>
       <title>The game loop: communicate with a real time model through voice, annotation, and ad-hoc UI. Real time model</title>
@@ -130,7 +138,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2098773427830337548</guid>
       <pubDate>Sat, 12 Sep 2026 13:59:13 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>In the next version of tldraw, the &quot;Frame selection&quot; action will support wrapping a single shape in a new frame. Previously, you could only use this operation with multiple shapes selected.</p>]]></description>
+      <description><![CDATA[<p>In the next version of tldraw, the &quot;Frame selection&quot; action will support wrapping a single shape in a new frame. Previously, you could only use this operation with multiple shapes selected.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2098773376454234112/img/FkXHE7ISsNFhrx5R.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>And upset the delicate balance of compute between arrow inference and arrow research? I think not</title>
@@ -803,14 +811,6 @@
       <pubDate>Fri, 28 Aug 2026 08:38:29 GMT</pubDate>
       <author>@tldraw</author>
       <description><![CDATA[<p>Hello, World!</p><p><img src="https://pbs.twimg.com/media/HQy92CZWEAAeUPq?format=jpg&amp;name=small" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>In the next version of tldraw, changing the crop aspect ratio of a rotated image no longer causes</title>
-      <link>https://x.com/tldraw/status/2093026717908848810</link>
-      <guid isPermaLink="true">https://x.com/tldraw/status/2093026717908848810</guid>
-      <pubDate>Thu, 27 Aug 2026 17:23:50 GMT</pubDate>
-      <author>@tldraw</author>
-      <description><![CDATA[<p>In the next version of tldraw, changing the crop aspect ratio of a rotated image no longer causes its center to change.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2093026691518251008/img/jgdWB2-ljSAJ9x3m.jpg" alt=""></p>]]></description>
     </item>
   </channel>
 </rss>

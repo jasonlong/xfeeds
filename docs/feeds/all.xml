@@ -7,6 +7,14 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>how we made tldraw flash</title>
+      <link>https://x.com/tldraw/status/2100989799578411264</link>
+      <guid isPermaLink="true">https://x.com/tldraw/status/2100989799578411264</guid>
+      <pubDate>Fri, 18 Sep 2026 16:46:17 GMT</pubDate>
+      <author>@tldraw</author>
+      <description><![CDATA[<p>how we made tldraw flash</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2100986155105681409/img/VE-TAGCikwh5KBiq.jpg" alt=""></p>]]></description>
+    </item>
+    <item>
       <title>We&apos;re thrilled to welcome @makingendless as a new customer. Endless is using the tldraw SDK infinite canvas to</title>
       <link>https://x.com/tldraw/status/2100962603090452538</link>
       <guid isPermaLink="true">https://x.com/tldraw/status/2100962603090452538</guid>
@@ -604,7 +612,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2099093618036298219</guid>
       <pubDate>Sun, 13 Sep 2026 11:11:32 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>Legendary demo from @threepointone, who first described this idea to me back in 2024. I&apos;ve had designs for &quot;make realtime&quot; just waiting for the new voice models to land, here we go</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2098895514792075271/img/IOa0Z7tHPeMNL-x0.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Legendary demo from @threepointone, who first described this idea to me back in 2024. I&apos;ve had designs for &quot;make realtime&quot; just waiting for the new voice models to land, here we go</p>]]></description>
     </item>
     <item>
       <title>The game loop: communicate with a real time model through voice, annotation, and ad-hoc UI. Real time model</title>
@@ -636,7 +644,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2098773427830337548</guid>
       <pubDate>Sat, 12 Sep 2026 13:59:13 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>In the next version of tldraw, the &quot;Frame selection&quot; action will support wrapping a single shape in a new frame. Previously, you could only use this operation with multiple shapes selected.</p>]]></description>
+      <description><![CDATA[<p>In the next version of tldraw, the &quot;Frame selection&quot; action will support wrapping a single shape in a new frame. Previously, you could only use this operation with multiple shapes selected.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2098773376454234112/img/FkXHE7ISsNFhrx5R.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>iPhone Duo gets an option to always show the battery percentage.</title>
@@ -1468,7 +1476,7 @@
       <guid isPermaLink="true">https://x.com/pidotdev/status/2097289933434024187</guid>
       <pubDate>Tue, 08 Sep 2026 11:44:20 GMT</pubDate>
       <author>@pidotdev</author>
-      <description><![CDATA[<p>Gpt-6-astra is @OpenAI’s latest model. Astra is said to be their most intelligent model so far, with frontier leading capabilities for computer use. <br><br>Have you tried it? What are your thoughts so far? If you haven’t, give it a try in Pi today!</p>]]></description>
+      <description><![CDATA[<p>Gpt-6-astra is @OpenAI’s latest model. Astra is said to be their most intelligent model so far, with frontier leading capabilities for computer use. <br><br>Have you tried it? What are your thoughts so far? If you haven’t, give it a try in Pi today!</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2097288218223734784/img/cjowWufG1UOAEBqe.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>get on the waitlist https://flash.tldraw.com/waitlist !</title>
@@ -1597,14 +1605,6 @@
       <pubDate>Mon, 07 Sep 2026 11:53:06 GMT</pubDate>
       <author>@pidotdev</author>
       <description><![CDATA[<p>Pi lets you pass a project directory (cwd) to createAgentSession(), to help scope where tools should work. <br><br>Tools like read, grep, find and ls efficiently resolve in that project, and the session picks up the projects AGENTS.md and skills. <br><br>Here’s the code to try this out</p><p><img src="https://pbs.twimg.com/media/HRnIpLJWgAIAx6s?format=jpg&amp;name=small" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>Whenever Apple uses a heart animation for an Apple Event reminder, you know a special Like animation is</title>
-      <link>https://x.com/avstorm/status/2096921464473620765</link>
-      <guid isPermaLink="true">https://x.com/avstorm/status/2096921464473620765</guid>
-      <pubDate>Mon, 07 Sep 2026 11:20:10 GMT</pubDate>
-      <author>@avstorm</author>
-      <description><![CDATA[<p>Whenever Apple uses a heart animation for an Apple Event reminder, you know a special Like animation is coming on the big day.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2096918669532307456/img/0-3p1kGCpG3H2JSQ.jpg" alt=""></p>]]></description>
     </item>
   </channel>
 </rss>
