@@ -58,7 +58,7 @@
       <guid isPermaLink="true">https://x.com/pidotdev/status/2098373491586425056</guid>
       <pubDate>Fri, 11 Sep 2026 11:30:00 GMT</pubDate>
       <author>@pidotdev</author>
-      <description><![CDATA[<p>When code is abundant quality becomes the differentiator, but what is good code?<br><br>New blog post from Earendil engineer @SebastianBaye on why quantifying the ‘sloppiness’ of code is difficult, which eval methods don’t work well, and what metrics matter. <br><br>Link to the post below</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2098362691223990282/img/3kbtZcC0pe9vE1uc.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>When code is abundant quality becomes the differentiator, but what is good code?<br><br>New blog post from Earendil engineer @SebastianBaye on why quantifying the ‘sloppiness’ of code is difficult, which eval methods don’t work well, and what metrics matter. <br><br>Link to the post below</p>]]></description>
     </item>
     <item>
       <title>A cache miss happens when a model has to re-read (and re-charge you for) text it had already</title>
@@ -66,7 +66,7 @@
       <guid isPermaLink="true">https://x.com/pidotdev/status/2097648758888542527</guid>
       <pubDate>Wed, 09 Sep 2026 11:30:11 GMT</pubDate>
       <author>@pidotdev</author>
-      <description><![CDATA[<p>A cache miss happens when a model has to re-read (and re-charge you for) text it had already processed before. <br><br>This can be caused by: <br> - switching models<br> - idling past 5mins<br>- editing earlier threads<br><br>Pi can notify you when this happens and how much it costs!</p>]]></description>
+      <description><![CDATA[<p>A cache miss happens when a model has to re-read (and re-charge you for) text it had already processed before. <br><br>This can be caused by: <br> - switching models<br> - idling past 5mins<br>- editing earlier threads<br><br>Pi can notify you when this happens and how much it costs!</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2097644899940110336/img/HPCalWpuhMl7UKcw.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Run /settings and set ‘cache miss notices’ to True. Follow the cache miss notice with the /sessions command</title>
@@ -98,7 +98,7 @@
       <guid isPermaLink="true">https://x.com/pidotdev/status/2096561549356007547</guid>
       <pubDate>Sun, 06 Sep 2026 11:30:00 GMT</pubDate>
       <author>@pidotdev</author>
-      <description><![CDATA[<p>Good morning from Vienna People of Pi🌞<br><br>Sunday meditations today from @badlogicgames and @mitsuhiko <br><br>- change the harness, not your workflow <br>- harness, know thyself <br>- agency to build the features you need when you need them <br><br>*clip from February with our friends @syntaxfm</p>]]></description>
+      <description><![CDATA[<p>Good morning from Vienna People of Pi🌞<br><br>Sunday meditations today from @badlogicgames and @mitsuhiko <br><br>- change the harness, not your workflow <br>- harness, know thyself <br>- agency to build the features you need when you need them <br><br>*clip from February with our friends @syntaxfm</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2096541993413554176/img/D6J46h3BRWhLuVMT.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Extensions are one of Pi’s most loved features! They are TypeScript modules that extend pi&apos;s behavior. Here’s an</title>
