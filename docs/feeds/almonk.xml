@@ -13,6 +13,30 @@
     </image>
     <ttl>120</ttl>
     <item>
+      <title>Eventually we won’t need these kind of affordances anymore, but in the terminal, and particularly over traditional ssh,</title>
+      <link>https://x.com/almonk/status/2101307051087430097</link>
+      <guid isPermaLink="true">https://x.com/almonk/status/2101307051087430097</guid>
+      <pubDate>Sat, 19 Sep 2026 13:46:56 GMT</pubDate>
+      <author>@almonk</author>
+      <description><![CDATA[<p>Eventually we won’t need these kind of affordances anymore, but in the terminal, and particularly over traditional ssh, copy behaviour is so flaky that having the assurance that it’s working takes some of the guesswork out of it</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2101298108160262144/img/gUjExEwaz_iiN-7Q.jpg" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>importing your ghostty config to @superlogical is a moment to celebrate, right?</title>
+      <link>https://x.com/almonk/status/2101298597811679433</link>
+      <guid isPermaLink="true">https://x.com/almonk/status/2101298597811679433</guid>
+      <pubDate>Sat, 19 Sep 2026 13:13:20 GMT</pubDate>
+      <author>@almonk</author>
+      <description><![CDATA[<p>importing your ghostty config to @superlogical is a moment to celebrate, right?</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2101298493390237697/img/uWXlnI6xbhfQ0IDp.jpg" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>playing with some subtle feedback for copying selected text out the terminal</title>
+      <link>https://x.com/almonk/status/2101298258706362515</link>
+      <guid isPermaLink="true">https://x.com/almonk/status/2101298258706362515</guid>
+      <pubDate>Sat, 19 Sep 2026 13:11:59 GMT</pubDate>
+      <author>@almonk</author>
+      <description><![CDATA[<p>playing with some subtle feedback for copying selected text out the terminal</p>]]></description>
+    </item>
+    <item>
       <title>@jaredpalmer we did it bud</title>
       <link>https://x.com/almonk/status/2101294277170962786</link>
       <guid isPermaLink="true">https://x.com/almonk/status/2101294277170962786</guid>
@@ -146,7 +170,7 @@
       <guid isPermaLink="true">https://x.com/almonk/status/2095134190631096428</guid>
       <pubDate>Wed, 02 Sep 2026 12:58:11 GMT</pubDate>
       <author>@almonk</author>
-      <description><![CDATA[<p>One of my favourite things about building @superlogical is that we all care, a disproportionate amount, about the little conveniences, performance gains and UI treats that most rational people just don’t.<br><br>I&apos;m currently working on our scrollback search UI. You basically have two</p>]]></description>
+      <description><![CDATA[<p>One of my favourite things about building @superlogical is that we all care, a disproportionate amount, about the little conveniences, performance gains and UI treats that most rational people just don’t.<br><br>I&apos;m currently working on our scrollback search UI. You basically have two</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2095133930185768966/img/z5RWxH7rU_yRstfx.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Nike spends $2M on a stadium shoot for a 10-second hero shot. 40-person crew. 3 days of permits.</title>

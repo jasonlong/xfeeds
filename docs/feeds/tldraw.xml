@@ -13,6 +13,22 @@
     </image>
     <ttl>120</ttl>
     <item>
+      <title>One from the archives: how our freehand ink algorithm works</title>
+      <link>https://x.com/tldraw/status/2101316166060761399</link>
+      <guid isPermaLink="true">https://x.com/tldraw/status/2101316166060761399</guid>
+      <pubDate>Sat, 19 Sep 2026 14:23:09 GMT</pubDate>
+      <author>@tldraw</author>
+      <description><![CDATA[<p>One from the archives: how our freehand ink algorithm works</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2101311987225427968/img/Unb5KzBoDf5c14NU.jpg" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>The original algo is open source (perfect-freehand) and used in apps like Excalidraw, Canva, and perhaps still somewhere</title>
+      <link>https://x.com/tldraw/status/2101316167843319925</link>
+      <guid isPermaLink="true">https://x.com/tldraw/status/2101316167843319925</guid>
+      <pubDate>Sat, 19 Sep 2026 14:23:09 GMT</pubDate>
+      <author>@tldraw</author>
+      <description><![CDATA[<p>The original algo is open source (perfect-freehand) and used in apps like Excalidraw, Canva, and perhaps still somewhere deep in Vercel&apos;s preview comments feature. You can play with it at https://perfect-freehand.com</p>]]></description>
+    </item>
+    <item>
       <title>tldraw, too much dopamine for @mattpocockuk</title>
       <link>https://x.com/tldraw/status/2101007873295696358</link>
       <guid isPermaLink="true">https://x.com/tldraw/status/2101007873295696358</guid>
@@ -26,7 +42,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2100989799578411264</guid>
       <pubDate>Fri, 18 Sep 2026 16:46:17 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>how we made tldraw flash</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2100986155105681409/img/VE-TAGCikwh5KBiq.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>how we made tldraw flash</p>]]></description>
     </item>
     <item>
       <title>We&apos;re thrilled to welcome @makingendless as a new customer. Endless is using the tldraw SDK infinite canvas to</title>
@@ -42,7 +58,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2100619730939781622</guid>
       <pubDate>Thu, 17 Sep 2026 16:15:46 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>a 74-second TL;DR on active noise cancelling in tldraw offline</p>]]></description>
+      <description><![CDATA[<p>a 74-second TL;DR on active noise cancelling in tldraw offline</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2100610937937960962/img/PqYE7yGY6udK1Rb2.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Media post</title>
@@ -98,7 +114,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2100234110341955781</guid>
       <pubDate>Wed, 16 Sep 2026 14:43:27 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>We’re thrilled to welcome Baidu App on board as our newest SDK customer!<br><br>Baidu App has integrated tldraw into its customer-facing platform to create AI short-form dramas. Script, storyboard, plan, and execute all in one collaborative canvas.<br><br>We look forward to seeing what</p>]]></description>
+      <description><![CDATA[<p>We’re thrilled to welcome Baidu App on board as our newest SDK customer!<br><br>Baidu App has integrated tldraw into its customer-facing platform to create AI short-form dramas. Script, storyboard, plan, and execute all in one collaborative canvas.<br><br>We look forward to seeing what</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2100233951340118016/img/O1kPlfBOPTfkfnIk.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>In https://tldraw.com, stacking shapes more consistently preserves the relative positioning of shapes connected with arrows.</title>
@@ -122,7 +138,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2099212558653870508</guid>
       <pubDate>Sun, 13 Sep 2026 19:04:10 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>In the next version of tldraw, locked shapes will be skipped when cycling through shapes with the tab key.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2099212519680430080/img/b34Kqhg_8-WH_T0w.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>In the next version of tldraw, locked shapes will be skipped when cycling through shapes with the tab key.</p>]]></description>
     </item>
     <item>
       <title>Legendary demo from @threepointone, who first described this idea to me back in 2024. I&apos;ve had designs for</title>
@@ -130,7 +146,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2099093618036298219</guid>
       <pubDate>Sun, 13 Sep 2026 11:11:32 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>Legendary demo from @threepointone, who first described this idea to me back in 2024. I&apos;ve had designs for &quot;make realtime&quot; just waiting for the new voice models to land, here we go</p>]]></description>
+      <description><![CDATA[<p>Legendary demo from @threepointone, who first described this idea to me back in 2024. I&apos;ve had designs for &quot;make realtime&quot; just waiting for the new voice models to land, here we go</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2098895514792075271/img/IOa0Z7tHPeMNL-x0.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>The game loop: communicate with a real time model through voice, annotation, and ad-hoc UI. Real time model</title>
@@ -795,22 +811,6 @@
       <pubDate>Sat, 29 Aug 2026 11:59:04 GMT</pubDate>
       <author>@tldraw</author>
       <description><![CDATA[<p>In the next version of tldraw, your screen&apos;s refresh rate no longer affects the friction of camera panning movements.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2093669746466340864/img/KPavfMJlsOdmPb0i.jpg" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>In the next version of tldraw, uploading multiple files will still succeed even if one of the files</title>
-      <link>https://x.com/tldraw/status/2093430865162633227</link>
-      <guid isPermaLink="true">https://x.com/tldraw/status/2093430865162633227</guid>
-      <pubDate>Fri, 28 Aug 2026 20:09:46 GMT</pubDate>
-      <author>@tldraw</author>
-      <description><![CDATA[<p>In the next version of tldraw, uploading multiple files will still succeed even if one of the files is invalid.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2093430844476325888/img/CeB1FiM8sFNQOh-u.jpg" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>tldraw offline!</title>
-      <link>https://x.com/tldraw/status/2093345403542331513</link>
-      <guid isPermaLink="true">https://x.com/tldraw/status/2093345403542331513</guid>
-      <pubDate>Fri, 28 Aug 2026 14:30:11 GMT</pubDate>
-      <author>@tldraw</author>
-      <description><![CDATA[<p>tldraw offline!</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2093329612545683456/img/lsFGDRKniUKDEZ9U.jpg" alt=""></p>]]></description>
     </item>
   </channel>
 </rss>

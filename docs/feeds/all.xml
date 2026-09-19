@@ -7,6 +7,54 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>Software should be fun. It should make you feel something, positive hopefully. Utilitarian software is the worst. The</title>
+      <link>https://x.com/mitchellh/status/2101320128667529496</link>
+      <guid isPermaLink="true">https://x.com/mitchellh/status/2101320128667529496</guid>
+      <pubDate>Sat, 19 Sep 2026 14:38:53 GMT</pubDate>
+      <author>@mitchellh</author>
+      <description><![CDATA[<p>Software should be fun. It should make you feel something, positive hopefully. Utilitarian software is the worst. The human experience is why life is worth living (even for something as teeny tiny as a terminal).</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2101298493390237697/img/uWXlnI6xbhfQ0IDp.jpg" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>One from the archives: how our freehand ink algorithm works</title>
+      <link>https://x.com/tldraw/status/2101316166060761399</link>
+      <guid isPermaLink="true">https://x.com/tldraw/status/2101316166060761399</guid>
+      <pubDate>Sat, 19 Sep 2026 14:23:09 GMT</pubDate>
+      <author>@tldraw</author>
+      <description><![CDATA[<p>One from the archives: how our freehand ink algorithm works</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2101311987225427968/img/Unb5KzBoDf5c14NU.jpg" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>The original algo is open source (perfect-freehand) and used in apps like Excalidraw, Canva, and perhaps still somewhere</title>
+      <link>https://x.com/tldraw/status/2101316167843319925</link>
+      <guid isPermaLink="true">https://x.com/tldraw/status/2101316167843319925</guid>
+      <pubDate>Sat, 19 Sep 2026 14:23:09 GMT</pubDate>
+      <author>@tldraw</author>
+      <description><![CDATA[<p>The original algo is open source (perfect-freehand) and used in apps like Excalidraw, Canva, and perhaps still somewhere deep in Vercel&apos;s preview comments feature. You can play with it at https://perfect-freehand.com</p>]]></description>
+    </item>
+    <item>
+      <title>Eventually we won’t need these kind of affordances anymore, but in the terminal, and particularly over traditional ssh,</title>
+      <link>https://x.com/almonk/status/2101307051087430097</link>
+      <guid isPermaLink="true">https://x.com/almonk/status/2101307051087430097</guid>
+      <pubDate>Sat, 19 Sep 2026 13:46:56 GMT</pubDate>
+      <author>@almonk</author>
+      <description><![CDATA[<p>Eventually we won’t need these kind of affordances anymore, but in the terminal, and particularly over traditional ssh, copy behaviour is so flaky that having the assurance that it’s working takes some of the guesswork out of it</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2101298108160262144/img/gUjExEwaz_iiN-7Q.jpg" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>importing your ghostty config to @superlogical is a moment to celebrate, right?</title>
+      <link>https://x.com/almonk/status/2101298597811679433</link>
+      <guid isPermaLink="true">https://x.com/almonk/status/2101298597811679433</guid>
+      <pubDate>Sat, 19 Sep 2026 13:13:20 GMT</pubDate>
+      <author>@almonk</author>
+      <description><![CDATA[<p>importing your ghostty config to @superlogical is a moment to celebrate, right?</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2101298493390237697/img/uWXlnI6xbhfQ0IDp.jpg" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>playing with some subtle feedback for copying selected text out the terminal</title>
+      <link>https://x.com/almonk/status/2101298258706362515</link>
+      <guid isPermaLink="true">https://x.com/almonk/status/2101298258706362515</guid>
+      <pubDate>Sat, 19 Sep 2026 13:11:59 GMT</pubDate>
+      <author>@almonk</author>
+      <description><![CDATA[<p>playing with some subtle feedback for copying selected text out the terminal</p>]]></description>
+    </item>
+    <item>
       <title>@jaredpalmer we did it bud</title>
       <link>https://x.com/almonk/status/2101294277170962786</link>
       <guid isPermaLink="true">https://x.com/almonk/status/2101294277170962786</guid>
@@ -84,7 +132,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2100989799578411264</guid>
       <pubDate>Fri, 18 Sep 2026 16:46:17 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>how we made tldraw flash</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2100986155105681409/img/VE-TAGCikwh5KBiq.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>how we made tldraw flash</p>]]></description>
     </item>
     <item>
       <title>We&apos;re thrilled to welcome @makingendless as a new customer. Endless is using the tldraw SDK infinite canvas to</title>
@@ -180,7 +228,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2100619730939781622</guid>
       <pubDate>Thu, 17 Sep 2026 16:15:46 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>a 74-second TL;DR on active noise cancelling in tldraw offline</p>]]></description>
+      <description><![CDATA[<p>a 74-second TL;DR on active noise cancelling in tldraw offline</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2100610937937960962/img/PqYE7yGY6udK1Rb2.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>The Wi‑Fi icon got a new animation in macOS 27.2 beta</title>
@@ -300,7 +348,7 @@
       <guid isPermaLink="true">https://x.com/mitchellh/status/2100275089359163441</guid>
       <pubDate>Wed, 16 Sep 2026 17:26:17 GMT</pubDate>
       <author>@mitchellh</author>
-      <description><![CDATA[<p>Designers, your job is safe from AI.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2100274218978217985/img/OeioR4BuqX_iewro.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Designers, your job is safe from AI.</p>]]></description>
     </item>
     <item>
       <title>Interesting</title>
@@ -372,7 +420,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2100234110341955781</guid>
       <pubDate>Wed, 16 Sep 2026 14:43:27 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>We’re thrilled to welcome Baidu App on board as our newest SDK customer!<br><br>Baidu App has integrated tldraw into its customer-facing platform to create AI short-form dramas. Script, storyboard, plan, and execute all in one collaborative canvas.<br><br>We look forward to seeing what</p>]]></description>
+      <description><![CDATA[<p>We’re thrilled to welcome Baidu App on board as our newest SDK customer!<br><br>Baidu App has integrated tldraw into its customer-facing platform to create AI short-form dramas. Script, storyboard, plan, and execute all in one collaborative canvas.<br><br>We look forward to seeing what</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2100233951340118016/img/O1kPlfBOPTfkfnIk.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>The most perfect font in the world</title>
@@ -460,7 +508,7 @@
       <guid isPermaLink="true">https://x.com/mitchellh/status/2099915915056074807</guid>
       <pubDate>Tue, 15 Sep 2026 17:39:03 GMT</pubDate>
       <author>@mitchellh</author>
-      <description><![CDATA[<p>After all, why shouldn&apos;t we [ab]use the CLI to recreate 2048 in the Superlogical multiplexer? Amazing work by a tester, not by me. The final boss will be getting DOOM running where every pixel is its own terminal. Software should be fun.</p>]]></description>
+      <description><![CDATA[<p>After all, why shouldn&apos;t we [ab]use the CLI to recreate 2048 in the Superlogical multiplexer? Amazing work by a tester, not by me. The final boss will be getting DOOM running where every pixel is its own terminal. Software should be fun.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2099915469293867009/img/bkOWe9FQkUnXaOob.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>In https://tldraw.com, stacking shapes more consistently preserves the relative positioning of shapes connected with arrows.</title>
@@ -532,7 +580,7 @@
       <guid isPermaLink="true">https://x.com/mitchellh/status/2099622049325232505</guid>
       <pubDate>Mon, 14 Sep 2026 22:11:20 GMT</pubDate>
       <author>@mitchellh</author>
-      <description><![CDATA[<p>New week new demo! Today I want to showcase the CLI to control the @superlogical multiplexer. The CLI is an extremely powerful tool for automation and hooking into other tools like editors, agentic coding tools, and more. And, it&apos;s super fun!<br><br>Everything you can do in the GUI,</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2099620779042480128/img/fCUSEzKBJdKiH8OG.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>New week new demo! Today I want to showcase the CLI to control the @superlogical multiplexer. The CLI is an extremely powerful tool for automation and hooking into other tools like editors, agentic coding tools, and more. And, it&apos;s super fun!<br><br>Everything you can do in the GUI,</p>]]></description>
     </item>
     <item>
       <title>We need this Siri drop animation on macOS</title>
@@ -660,7 +708,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2099212558653870508</guid>
       <pubDate>Sun, 13 Sep 2026 19:04:10 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>In the next version of tldraw, locked shapes will be skipped when cycling through shapes with the tab key.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2099212519680430080/img/b34Kqhg_8-WH_T0w.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>In the next version of tldraw, locked shapes will be skipped when cycling through shapes with the tab key.</p>]]></description>
     </item>
     <item>
       <title>PRObably some cool update this week on @zerocam_app iOS</title>
@@ -684,7 +732,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2099093618036298219</guid>
       <pubDate>Sun, 13 Sep 2026 11:11:32 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>Legendary demo from @threepointone, who first described this idea to me back in 2024. I&apos;ve had designs for &quot;make realtime&quot; just waiting for the new voice models to land, here we go</p>]]></description>
+      <description><![CDATA[<p>Legendary demo from @threepointone, who first described this idea to me back in 2024. I&apos;ve had designs for &quot;make realtime&quot; just waiting for the new voice models to land, here we go</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2098895514792075271/img/IOa0Z7tHPeMNL-x0.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>The game loop: communicate with a real time model through voice, annotation, and ad-hoc UI. Real time model</title>
@@ -1428,7 +1476,7 @@
       <guid isPermaLink="true">https://x.com/zerocam_app/status/2097590707498434930</guid>
       <pubDate>Wed, 09 Sep 2026 07:39:30 GMT</pubDate>
       <author>@zerocam_app</author>
-      <description><![CDATA[<p>Happy recording 📼</p>]]></description>
+      <description><![CDATA[<p>Happy recording 📼</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2097579687002198017/img/oKKSUitHV2iBF4JO.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Building for a future where more people realize drawing is a fundamental input type and also awesome and</title>
@@ -1557,54 +1605,6 @@
       <pubDate>Tue, 08 Sep 2026 11:40:39 GMT</pubDate>
       <author>@tldraw</author>
       <description><![CDATA[<p>get on the waitlist https://flash.tldraw.com/waitlist !</p>]]></description>
-    </item>
-    <item>
-      <title>dear seedance please turn my tldraw flash animation into a GTA6 trailer scene</title>
-      <link>https://x.com/tldraw/status/2097288889866052073</link>
-      <guid isPermaLink="true">https://x.com/tldraw/status/2097288889866052073</guid>
-      <pubDate>Tue, 08 Sep 2026 11:40:11 GMT</pubDate>
-      <author>@tldraw</author>
-      <description><![CDATA[<p>dear seedance please turn my tldraw flash animation into a GTA6 trailer scene</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2097288612287041536/img/VQE6cLDJXGUuIzZS.jpg" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>Split screen. Favorite feature.</title>
-      <link>https://x.com/shadcn/status/2097137031474286595</link>
-      <guid isPermaLink="true">https://x.com/shadcn/status/2097137031474286595</guid>
-      <pubDate>Tue, 08 Sep 2026 01:36:45 GMT</pubDate>
-      <author>@shadcn</author>
-      <description><![CDATA[<p>Split screen. Favorite feature.</p>]]></description>
-    </item>
-    <item>
-      <title>tldraw flash, a new tool we&apos;re building for making handmade animations, launches later this week. we&apos;ve just given</title>
-      <link>https://x.com/tldraw/status/2097082956061818962</link>
-      <guid isPermaLink="true">https://x.com/tldraw/status/2097082956061818962</guid>
-      <pubDate>Mon, 07 Sep 2026 22:01:53 GMT</pubDate>
-      <author>@tldraw</author>
-      <description><![CDATA[<p>tldraw flash, a new tool we&apos;re building for making handmade animations, launches later this week. we&apos;ve just given access to everyone on the waitlist</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2097082912869085184/img/tGaRpukBXRc8JJKs.jpg" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>get notified when we launch,</title>
-      <link>https://x.com/tldraw/status/2097082958637056350</link>
-      <guid isPermaLink="true">https://x.com/tldraw/status/2097082958637056350</guid>
-      <pubDate>Mon, 07 Sep 2026 22:01:53 GMT</pubDate>
-      <author>@tldraw</author>
-      <description><![CDATA[<p>get notified when we launch,</p>]]></description>
-    </item>
-    <item>
-      <title>In the next version of tldraw, newly created notes will be automatically panned into view.</title>
-      <link>https://x.com/tldraw/status/2097038238632591713</link>
-      <guid isPermaLink="true">https://x.com/tldraw/status/2097038238632591713</guid>
-      <pubDate>Mon, 07 Sep 2026 19:04:11 GMT</pubDate>
-      <author>@tldraw</author>
-      <description><![CDATA[<p>In the next version of tldraw, newly created notes will be automatically panned into view.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2097038195691249664/img/kp4VC9HXs9IxJyK2.jpg" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>In the next version of tldraw, the toolbar drag gesture spawns shapes only when the pointer leaves toolbar.</title>
-      <link>https://x.com/tldraw/status/2097015320502587652</link>
-      <guid isPermaLink="true">https://x.com/tldraw/status/2097015320502587652</guid>
-      <pubDate>Mon, 07 Sep 2026 17:33:07 GMT</pubDate>
-      <author>@tldraw</author>
-      <description><![CDATA[<p>In the next version of tldraw, the toolbar drag gesture spawns shapes only when the pointer leaves toolbar. This prevents accidental shape spawning, especially on mobile.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2097015268384112640/img/ePC8tbGFiOHLE1eJ.jpg" alt=""></p>]]></description>
     </item>
   </channel>
 </rss>
