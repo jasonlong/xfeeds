@@ -13,6 +13,14 @@
     </image>
     <ttl>120</ttl>
     <item>
+      <title>real tldraw</title>
+      <link>https://x.com/tldraw/status/2101339012195570077</link>
+      <guid isPermaLink="true">https://x.com/tldraw/status/2101339012195570077</guid>
+      <pubDate>Sat, 19 Sep 2026 15:53:56 GMT</pubDate>
+      <author>@tldraw</author>
+      <description><![CDATA[<p>real tldraw</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2101116629237248000/img/bflqHndYbgG_Axy0.jpg" alt=""></p>]]></description>
+    </item>
+    <item>
       <title>One from the archives: how our freehand ink algorithm works</title>
       <link>https://x.com/tldraw/status/2101316166060761399</link>
       <guid isPermaLink="true">https://x.com/tldraw/status/2101316166060761399</guid>
@@ -58,7 +66,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2100619730939781622</guid>
       <pubDate>Thu, 17 Sep 2026 16:15:46 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>a 74-second TL;DR on active noise cancelling in tldraw offline</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2100610937937960962/img/PqYE7yGY6udK1Rb2.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>a 74-second TL;DR on active noise cancelling in tldraw offline</p>]]></description>
     </item>
     <item>
       <title>Media post</title>
@@ -122,7 +130,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2099875994261991678</guid>
       <pubDate>Tue, 15 Sep 2026 15:00:25 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>In https://tldraw.com, stacking shapes more consistently preserves the relative positioning of shapes connected with arrows.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2099875950888718336/img/AWCLuGfwZoU_zlUh.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>In https://tldraw.com, stacking shapes more consistently preserves the relative positioning of shapes connected with arrows.</p>]]></description>
     </item>
     <item>
       <title>Join us at the tldraw offices in London tonight at 6pm for the tldraw flash launch party. We&apos;ll</title>
@@ -138,7 +146,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2099212558653870508</guid>
       <pubDate>Sun, 13 Sep 2026 19:04:10 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>In the next version of tldraw, locked shapes will be skipped when cycling through shapes with the tab key.</p>]]></description>
+      <description><![CDATA[<p>In the next version of tldraw, locked shapes will be skipped when cycling through shapes with the tab key.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2099212519680430080/img/b34Kqhg_8-WH_T0w.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Legendary demo from @threepointone, who first described this idea to me back in 2024. I&apos;ve had designs for</title>
@@ -803,14 +811,6 @@
       <pubDate>Sat, 29 Aug 2026 14:00:10 GMT</pubDate>
       <author>@tldraw</author>
       <description><![CDATA[<p>In the next version of tldraw, your screen&apos;s refresh rate no longer affects the speed of edge scrolling.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2093700222937706496/img/VSGdmye5BaGO54vW.jpg" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>In the next version of tldraw, your screen&apos;s refresh rate no longer affects the friction of camera panning</title>
-      <link>https://x.com/tldraw/status/2093669763348373558</link>
-      <guid isPermaLink="true">https://x.com/tldraw/status/2093669763348373558</guid>
-      <pubDate>Sat, 29 Aug 2026 11:59:04 GMT</pubDate>
-      <author>@tldraw</author>
-      <description><![CDATA[<p>In the next version of tldraw, your screen&apos;s refresh rate no longer affects the friction of camera panning movements.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2093669746466340864/img/KPavfMJlsOdmPb0i.jpg" alt=""></p>]]></description>
     </item>
   </channel>
 </rss>

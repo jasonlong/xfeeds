@@ -7,6 +7,14 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>real tldraw</title>
+      <link>https://x.com/tldraw/status/2101339012195570077</link>
+      <guid isPermaLink="true">https://x.com/tldraw/status/2101339012195570077</guid>
+      <pubDate>Sat, 19 Sep 2026 15:53:56 GMT</pubDate>
+      <author>@tldraw</author>
+      <description><![CDATA[<p>real tldraw</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2101116629237248000/img/bflqHndYbgG_Axy0.jpg" alt=""></p>]]></description>
+    </item>
+    <item>
       <title>Software should be fun. It should make you feel something, positive hopefully. Utilitarian software is the worst. The</title>
       <link>https://x.com/mitchellh/status/2101320128667529496</link>
       <guid isPermaLink="true">https://x.com/mitchellh/status/2101320128667529496</guid>
@@ -228,7 +236,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2100619730939781622</guid>
       <pubDate>Thu, 17 Sep 2026 16:15:46 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>a 74-second TL;DR on active noise cancelling in tldraw offline</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2100610937937960962/img/PqYE7yGY6udK1Rb2.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>a 74-second TL;DR on active noise cancelling in tldraw offline</p>]]></description>
     </item>
     <item>
       <title>The Wi‑Fi icon got a new animation in macOS 27.2 beta</title>
@@ -516,7 +524,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2099875994261991678</guid>
       <pubDate>Tue, 15 Sep 2026 15:00:25 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>In https://tldraw.com, stacking shapes more consistently preserves the relative positioning of shapes connected with arrows.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2099875950888718336/img/AWCLuGfwZoU_zlUh.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>In https://tldraw.com, stacking shapes more consistently preserves the relative positioning of shapes connected with arrows.</p>]]></description>
     </item>
     <item>
       <title>almost, but the entire loop is “design it”</title>
@@ -708,7 +716,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2099212558653870508</guid>
       <pubDate>Sun, 13 Sep 2026 19:04:10 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>In the next version of tldraw, locked shapes will be skipped when cycling through shapes with the tab key.</p>]]></description>
+      <description><![CDATA[<p>In the next version of tldraw, locked shapes will be skipped when cycling through shapes with the tab key.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2099212519680430080/img/b34Kqhg_8-WH_T0w.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>PRObably some cool update this week on @zerocam_app iOS</title>
@@ -1596,15 +1604,7 @@
       <guid isPermaLink="true">https://x.com/pidotdev/status/2097289933434024187</guid>
       <pubDate>Tue, 08 Sep 2026 11:44:20 GMT</pubDate>
       <author>@pidotdev</author>
-      <description><![CDATA[<p>Gpt-6-astra is @OpenAI’s latest model. Astra is said to be their most intelligent model so far, with frontier leading capabilities for computer use. <br><br>Have you tried it? What are your thoughts so far? If you haven’t, give it a try in Pi today!</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2097288218223734784/img/cjowWufG1UOAEBqe.jpg" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>get on the waitlist https://flash.tldraw.com/waitlist !</title>
-      <link>https://x.com/tldraw/status/2097289006056673491</link>
-      <guid isPermaLink="true">https://x.com/tldraw/status/2097289006056673491</guid>
-      <pubDate>Tue, 08 Sep 2026 11:40:39 GMT</pubDate>
-      <author>@tldraw</author>
-      <description><![CDATA[<p>get on the waitlist https://flash.tldraw.com/waitlist !</p>]]></description>
+      <description><![CDATA[<p>Gpt-6-astra is @OpenAI’s latest model. Astra is said to be their most intelligent model so far, with frontier leading capabilities for computer use. <br><br>Have you tried it? What are your thoughts so far? If you haven’t, give it a try in Pi today!</p>]]></description>
     </item>
   </channel>
 </rss>
