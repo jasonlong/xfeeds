@@ -13,6 +13,46 @@
     </image>
     <ttl>120</ttl>
     <item>
+      <title>Today&apos;s Sunday meditation ran into some unexpected hiccups and we accidentally published just a picture first. That was</title>
+      <link>https://x.com/pidotdev/status/2101672777623146889</link>
+      <guid isPermaLink="true">https://x.com/pidotdev/status/2101672777623146889</guid>
+      <pubDate>Sun, 20 Sep 2026 14:00:12 GMT</pubDate>
+      <author>@pidotdev</author>
+      <description><![CDATA[<p>Today&apos;s Sunday meditation ran into some unexpected hiccups and we accidentally published just a picture first. That was not intentional! :)</p>]]></description>
+    </item>
+    <item>
+      <title>The thread that was mentioned:</title>
+      <link>https://x.com/pidotdev/status/2101672603140129059</link>
+      <guid isPermaLink="true">https://x.com/pidotdev/status/2101672603140129059</guid>
+      <pubDate>Sun, 20 Sep 2026 13:59:30 GMT</pubDate>
+      <author>@pidotdev</author>
+      <description><![CDATA[<p>The thread that was mentioned:</p>]]></description>
+    </item>
+    <item>
+      <title>Good afternoon from Vienna People of Pi ☀️ Some slightly different Sunday meditations today in which @mitsuhiko talks</title>
+      <link>https://x.com/pidotdev/status/2101672600237646305</link>
+      <guid isPermaLink="true">https://x.com/pidotdev/status/2101672600237646305</guid>
+      <pubDate>Sun, 20 Sep 2026 13:59:29 GMT</pubDate>
+      <author>@pidotdev</author>
+      <description><![CDATA[<p>Good afternoon from Vienna People of Pi ☀️<br><br>Some slightly different Sunday meditations today in which @mitsuhiko talks about some shared frustrations with agentic software engineering.<br><br>Remember that you&apos;re not alone in finding it harder than it looks!</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2101672446218649600/img/4BhGSRCqWTEqtzir.jpg" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>We learned two things: 1) /bug is being used 2) and the most common cause of crashes right</title>
+      <link>https://x.com/pidotdev/status/2101596097902723224</link>
+      <guid isPermaLink="true">https://x.com/pidotdev/status/2101596097902723224</guid>
+      <pubDate>Sun, 20 Sep 2026 08:55:30 GMT</pubDate>
+      <author>@pidotdev</author>
+      <description><![CDATA[<p>We learned two things: 1) /bug is being used 2) and the most common cause of crashes right now is the &quot;pi-observational-memory&quot; extension which has a bug that triggers in 0.86.0. Just a little heads up. You should disable that extension until that is resolved upstream.</p>]]></description>
+    </item>
+    <item>
+      <title>Hello people of Pi. 0.86.0 is out now. It&apos;s a big one. - mid-conversation system messages - dynamic</title>
+      <link>https://x.com/pidotdev/status/2101452506203066631</link>
+      <guid isPermaLink="true">https://x.com/pidotdev/status/2101452506203066631</guid>
+      <pubDate>Sat, 19 Sep 2026 23:24:55 GMT</pubDate>
+      <author>@pidotdev</author>
+      <description><![CDATA[<p>Hello people of Pi. 0.86.0 is out now. It&apos;s a big one.<br><br>- mid-conversation system messages<br>- dynamic tools on supported models without losing the kv cache<br>- cache warming on anthropic<br>- faster -r/-c to resume<br>- lots of fixes<br>- /bug to report issues</p>]]></description>
+    </item>
+    <item>
       <title>&quot;Pi reaches the Pareto frontier on both benchmarks by providing just four tools: read, write, edit, and bash.</title>
       <link>https://x.com/pidotdev/status/2100935860413673605</link>
       <guid isPermaLink="true">https://x.com/pidotdev/status/2100935860413673605</guid>
@@ -42,7 +82,7 @@
       <guid isPermaLink="true">https://x.com/pidotdev/status/2099045420496486415</guid>
       <pubDate>Sun, 13 Sep 2026 08:00:01 GMT</pubDate>
       <author>@pidotdev</author>
-      <description><![CDATA[<p>Good morning from Vienna People of Pi🌞 Sunday meditations today from<br><br>@badlogicgames and @mitsuhiko <br><br>Among other things: <br>- agents that generate too much code poison their own  context (slippery slop)<br>- code matters wherever control matters<br>- unreadable code from Astra</p>]]></description>
+      <description><![CDATA[<p>Good morning from Vienna People of Pi🌞 Sunday meditations today from<br><br>@badlogicgames and @mitsuhiko <br><br>Among other things: <br>- agents that generate too much code poison their own  context (slippery slop)<br>- code matters wherever control matters<br>- unreadable code from Astra</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2098748958965215239/img/tJEBWqddFRnni15d.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Read “If code is solved, what now?: Measuring the sloppiness of code”</title>
@@ -82,7 +122,7 @@
       <guid isPermaLink="true">https://x.com/pidotdev/status/2097289933434024187</guid>
       <pubDate>Tue, 08 Sep 2026 11:44:20 GMT</pubDate>
       <author>@pidotdev</author>
-      <description><![CDATA[<p>Gpt-6-astra is @OpenAI’s latest model. Astra is said to be their most intelligent model so far, with frontier leading capabilities for computer use. <br><br>Have you tried it? What are your thoughts so far? If you haven’t, give it a try in Pi today!</p>]]></description>
+      <description><![CDATA[<p>Gpt-6-astra is @OpenAI’s latest model. Astra is said to be their most intelligent model so far, with frontier leading capabilities for computer use. <br><br>Have you tried it? What are your thoughts so far? If you haven’t, give it a try in Pi today!</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2097288218223734784/img/cjowWufG1UOAEBqe.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Pi lets you pass a project directory (cwd) to createAgentSession(), to help scope where tools should work. Tools</title>

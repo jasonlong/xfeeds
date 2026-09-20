@@ -7,6 +7,54 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>This is cool https://try.tldraw.com</title>
+      <link>https://x.com/tldraw/status/2101674426987090195</link>
+      <guid isPermaLink="true">https://x.com/tldraw/status/2101674426987090195</guid>
+      <pubDate>Sun, 20 Sep 2026 14:06:45 GMT</pubDate>
+      <author>@tldraw</author>
+      <description><![CDATA[<p>This is cool<br>https://try.tldraw.com</p>]]></description>
+    </item>
+    <item>
+      <title>Today&apos;s Sunday meditation ran into some unexpected hiccups and we accidentally published just a picture first. That was</title>
+      <link>https://x.com/pidotdev/status/2101672777623146889</link>
+      <guid isPermaLink="true">https://x.com/pidotdev/status/2101672777623146889</guid>
+      <pubDate>Sun, 20 Sep 2026 14:00:12 GMT</pubDate>
+      <author>@pidotdev</author>
+      <description><![CDATA[<p>Today&apos;s Sunday meditation ran into some unexpected hiccups and we accidentally published just a picture first. That was not intentional! :)</p>]]></description>
+    </item>
+    <item>
+      <title>The thread that was mentioned:</title>
+      <link>https://x.com/pidotdev/status/2101672603140129059</link>
+      <guid isPermaLink="true">https://x.com/pidotdev/status/2101672603140129059</guid>
+      <pubDate>Sun, 20 Sep 2026 13:59:30 GMT</pubDate>
+      <author>@pidotdev</author>
+      <description><![CDATA[<p>The thread that was mentioned:</p>]]></description>
+    </item>
+    <item>
+      <title>Good afternoon from Vienna People of Pi ☀️ Some slightly different Sunday meditations today in which @mitsuhiko talks</title>
+      <link>https://x.com/pidotdev/status/2101672600237646305</link>
+      <guid isPermaLink="true">https://x.com/pidotdev/status/2101672600237646305</guid>
+      <pubDate>Sun, 20 Sep 2026 13:59:29 GMT</pubDate>
+      <author>@pidotdev</author>
+      <description><![CDATA[<p>Good afternoon from Vienna People of Pi ☀️<br><br>Some slightly different Sunday meditations today in which @mitsuhiko talks about some shared frustrations with agentic software engineering.<br><br>Remember that you&apos;re not alone in finding it harder than it looks!</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2101672446218649600/img/4BhGSRCqWTEqtzir.jpg" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>We learned two things: 1) /bug is being used 2) and the most common cause of crashes right</title>
+      <link>https://x.com/pidotdev/status/2101596097902723224</link>
+      <guid isPermaLink="true">https://x.com/pidotdev/status/2101596097902723224</guid>
+      <pubDate>Sun, 20 Sep 2026 08:55:30 GMT</pubDate>
+      <author>@pidotdev</author>
+      <description><![CDATA[<p>We learned two things: 1) /bug is being used 2) and the most common cause of crashes right now is the &quot;pi-observational-memory&quot; extension which has a bug that triggers in 0.86.0. Just a little heads up. You should disable that extension until that is resolved upstream.</p>]]></description>
+    </item>
+    <item>
+      <title>Hello people of Pi. 0.86.0 is out now. It&apos;s a big one. - mid-conversation system messages - dynamic</title>
+      <link>https://x.com/pidotdev/status/2101452506203066631</link>
+      <guid isPermaLink="true">https://x.com/pidotdev/status/2101452506203066631</guid>
+      <pubDate>Sat, 19 Sep 2026 23:24:55 GMT</pubDate>
+      <author>@pidotdev</author>
+      <description><![CDATA[<p>Hello people of Pi. 0.86.0 is out now. It&apos;s a big one.<br><br>- mid-conversation system messages<br>- dynamic tools on supported models without losing the kv cache<br>- cache warming on anthropic<br>- faster -r/-c to resume<br>- lots of fixes<br>- /bug to report issues</p>]]></description>
+    </item>
+    <item>
       <title>real tldraw</title>
       <link>https://x.com/tldraw/status/2101339012195570077</link>
       <guid isPermaLink="true">https://x.com/tldraw/status/2101339012195570077</guid>
@@ -28,7 +76,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2101316166060761399</guid>
       <pubDate>Sat, 19 Sep 2026 14:23:09 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>One from the archives: how our freehand ink algorithm works</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2101311987225427968/img/Unb5KzBoDf5c14NU.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>One from the archives: how our freehand ink algorithm works</p>]]></description>
     </item>
     <item>
       <title>The original algo is open source (perfect-freehand) and used in apps like Excalidraw, Canva, and perhaps still somewhere</title>
@@ -140,7 +188,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2100989799578411264</guid>
       <pubDate>Fri, 18 Sep 2026 16:46:17 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>how we made tldraw flash</p>]]></description>
+      <description><![CDATA[<p>how we made tldraw flash</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2100986155105681409/img/VE-TAGCikwh5KBiq.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>We&apos;re thrilled to welcome @makingendless as a new customer. Endless is using the tldraw SDK infinite canvas to</title>
@@ -756,7 +804,7 @@
       <guid isPermaLink="true">https://x.com/pidotdev/status/2099045420496486415</guid>
       <pubDate>Sun, 13 Sep 2026 08:00:01 GMT</pubDate>
       <author>@pidotdev</author>
-      <description><![CDATA[<p>Good morning from Vienna People of Pi🌞 Sunday meditations today from<br><br>@badlogicgames and @mitsuhiko <br><br>Among other things: <br>- agents that generate too much code poison their own  context (slippery slop)<br>- code matters wherever control matters<br>- unreadable code from Astra</p>]]></description>
+      <description><![CDATA[<p>Good morning from Vienna People of Pi🌞 Sunday meditations today from<br><br>@badlogicgames and @mitsuhiko <br><br>Among other things: <br>- agents that generate too much code poison their own  context (slippery slop)<br>- code matters wherever control matters<br>- unreadable code from Astra</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2098748958965215239/img/tJEBWqddFRnni15d.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>I love this and really hope we can come together as an industry and make it happen.</title>
@@ -1284,7 +1332,7 @@
       <guid isPermaLink="true">https://x.com/shadcn/status/2097739763302162606</guid>
       <pubDate>Wed, 09 Sep 2026 17:31:48 GMT</pubDate>
       <author>@shadcn</author>
-      <description><![CDATA[<p>Let me know if the new iPhone goes like this.</p>]]></description>
+      <description><![CDATA[<p>Let me know if the new iPhone goes like this.</p><p><img src="https://pbs.twimg.com/tweet_video_thumb/HRyrGOzXIAAKyJv.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>iPhone 18 Pro bento</title>
@@ -1557,54 +1605,6 @@
       <pubDate>Tue, 08 Sep 2026 17:29:14 GMT</pubDate>
       <author>@tldraw</author>
       <description><![CDATA[<p>get notified when we launch:</p>]]></description>
-    </item>
-    <item>
-      <title>hey! my sign! 3 days until tldraw flash is released</title>
-      <link>https://x.com/tldraw/status/2097376466413441530</link>
-      <guid isPermaLink="true">https://x.com/tldraw/status/2097376466413441530</guid>
-      <pubDate>Tue, 08 Sep 2026 17:28:11 GMT</pubDate>
-      <author>@tldraw</author>
-      <description><![CDATA[<p>hey! my sign! <br><br>3 days until tldraw flash is released</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2097375462548762624/img/uwenY1OTjLZKwV0O.jpg" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>join the waitlist →</title>
-      <link>https://x.com/tldraw/status/2097330003763487185</link>
-      <guid isPermaLink="true">https://x.com/tldraw/status/2097330003763487185</guid>
-      <pubDate>Tue, 08 Sep 2026 14:23:34 GMT</pubDate>
-      <author>@tldraw</author>
-      <description><![CDATA[<p>join the waitlist →</p>]]></description>
-    </item>
-    <item>
-      <title>what you can do with tldraw flash</title>
-      <link>https://x.com/tldraw/status/2097330001334989060</link>
-      <guid isPermaLink="true">https://x.com/tldraw/status/2097330001334989060</guid>
-      <pubDate>Tue, 08 Sep 2026 14:23:33 GMT</pubDate>
-      <author>@tldraw</author>
-      <description><![CDATA[<p>what you can do with tldraw flash</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2097329530843353088/img/_ijOX_izHQQwUVHC.jpg" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>Submit your own tldraw flash animations to be featured that night!</title>
-      <link>https://x.com/tldraw/status/2097306333611471182</link>
-      <guid isPermaLink="true">https://x.com/tldraw/status/2097306333611471182</guid>
-      <pubDate>Tue, 08 Sep 2026 12:49:30 GMT</pubDate>
-      <author>@tldraw</author>
-      <description><![CDATA[<p>Submit your own tldraw flash animations to be featured that night!</p>]]></description>
-    </item>
-    <item>
-      <title>Come join us at the tldraw offices next Tuesday (Sept 15) at 6pm GMT for the tldraw flash</title>
-      <link>https://x.com/tldraw/status/2097306330348322993</link>
-      <guid isPermaLink="true">https://x.com/tldraw/status/2097306330348322993</guid>
-      <pubDate>Tue, 08 Sep 2026 12:49:29 GMT</pubDate>
-      <author>@tldraw</author>
-      <description><![CDATA[<p>Come join us at the tldraw offices next Tuesday (Sept 15) at 6pm GMT for the tldraw flash showcase. <br><br>Hear from the brains behind tldraw flash before seeing what people have made so far.</p>]]></description>
-    </item>
-    <item>
-      <title>Gpt-6-astra is @OpenAI’s latest model. Astra is said to be their most intelligent model so far, with frontier</title>
-      <link>https://x.com/pidotdev/status/2097289933434024187</link>
-      <guid isPermaLink="true">https://x.com/pidotdev/status/2097289933434024187</guid>
-      <pubDate>Tue, 08 Sep 2026 11:44:20 GMT</pubDate>
-      <author>@pidotdev</author>
-      <description><![CDATA[<p>Gpt-6-astra is @OpenAI’s latest model. Astra is said to be their most intelligent model so far, with frontier leading capabilities for computer use. <br><br>Have you tried it? What are your thoughts so far? If you haven’t, give it a try in Pi today!</p>]]></description>
     </item>
   </channel>
 </rss>
