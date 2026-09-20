@@ -13,6 +13,14 @@
     </image>
     <ttl>120</ttl>
     <item>
+      <title>When was the last time you felt like you truly learned something new about agentic engineering, that was</title>
+      <link>https://x.com/pidotdev/status/2101774570239750520</link>
+      <guid isPermaLink="true">https://x.com/pidotdev/status/2101774570239750520</guid>
+      <pubDate>Sun, 20 Sep 2026 20:44:41 GMT</pubDate>
+      <author>@pidotdev</author>
+      <description><![CDATA[<p>When was the last time you felt like you truly learned something new about agentic engineering, that was reproducible and that you still do? What was it?</p>]]></description>
+    </item>
+    <item>
       <title>Today&apos;s Sunday meditation ran into some unexpected hiccups and we accidentally published just a picture first. That was</title>
       <link>https://x.com/pidotdev/status/2101672777623146889</link>
       <guid isPermaLink="true">https://x.com/pidotdev/status/2101672777623146889</guid>
@@ -58,7 +66,7 @@
       <guid isPermaLink="true">https://x.com/pidotdev/status/2100935860413673605</guid>
       <pubDate>Fri, 18 Sep 2026 13:11:57 GMT</pubDate>
       <author>@pidotdev</author>
-      <description><![CDATA[<p>&quot;Pi reaches the Pareto frontier on both benchmarks by providing just four tools: read, write, edit, and bash. To understand how harness design affects spending, we examine costs across completed attempts, recorded turn counts, and initial context.&quot; <br><br>Sharing this analysis on the</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2100934729029619713/img/ApCS2YVnNA16T_zw.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>&quot;Pi reaches the Pareto frontier on both benchmarks by providing just four tools: read, write, edit, and bash. To understand how harness design affects spending, we examine costs across completed attempts, recorded turn counts, and initial context.&quot; <br><br>Sharing this analysis on the</p>]]></description>
     </item>
     <item>
       <title>Use Pi to build software that shows others how to use Pi to build software</title>
@@ -122,7 +130,7 @@
       <guid isPermaLink="true">https://x.com/pidotdev/status/2097289933434024187</guid>
       <pubDate>Tue, 08 Sep 2026 11:44:20 GMT</pubDate>
       <author>@pidotdev</author>
-      <description><![CDATA[<p>Gpt-6-astra is @OpenAI’s latest model. Astra is said to be their most intelligent model so far, with frontier leading capabilities for computer use. <br><br>Have you tried it? What are your thoughts so far? If you haven’t, give it a try in Pi today!</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2097288218223734784/img/cjowWufG1UOAEBqe.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Gpt-6-astra is @OpenAI’s latest model. Astra is said to be their most intelligent model so far, with frontier leading capabilities for computer use. <br><br>Have you tried it? What are your thoughts so far? If you haven’t, give it a try in Pi today!</p>]]></description>
     </item>
     <item>
       <title>Pi lets you pass a project directory (cwd) to createAgentSession(), to help scope where tools should work. Tools</title>
