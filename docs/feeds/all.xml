@@ -7,6 +7,14 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>iPhone Duo status bar animation in the Xcode Device Hub</title>
+      <link>https://x.com/avstorm/status/2102018842918576506</link>
+      <guid isPermaLink="true">https://x.com/avstorm/status/2102018842918576506</guid>
+      <pubDate>Mon, 21 Sep 2026 12:55:20 GMT</pubDate>
+      <author>@avstorm</author>
+      <description><![CDATA[<p>iPhone Duo status bar animation in the Xcode Device Hub</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2102018594598961152/img/YYGAHXHXaROCedUt.jpg" alt=""></p>]]></description>
+    </item>
+    <item>
       <title>Keep them coming</title>
       <link>https://x.com/zerocam_app/status/2101987134324588898</link>
       <guid isPermaLink="true">https://x.com/zerocam_app/status/2101987134324588898</guid>
@@ -380,7 +388,7 @@
       <guid isPermaLink="true">https://x.com/avstorm/status/2100316437713760763</guid>
       <pubDate>Wed, 16 Sep 2026 20:10:35 GMT</pubDate>
       <author>@avstorm</author>
-      <description><![CDATA[<p>The Search to Siri morphing is so good</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2100315844781703168/img/pEUvVhMuCL4Wi0ou.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>The Search to Siri morphing is so good</p>]]></description>
     </item>
     <item>
       <title>Love that the Nutrition icon is shaped like the Apple logo.</title>
@@ -388,7 +396,7 @@
       <guid isPermaLink="true">https://x.com/avstorm/status/2100307836383191548</guid>
       <pubDate>Wed, 16 Sep 2026 19:36:24 GMT</pubDate>
       <author>@avstorm</author>
-      <description><![CDATA[<p>Love that the Nutrition icon is shaped like the Apple logo.</p><p><img src="https://pbs.twimg.com/media/HSXJ0ANXoAEdnAc?format=png&amp;name=360x360" alt=""></p>]]></description>
+      <description><![CDATA[<p>Love that the Nutrition icon is shaped like the Apple logo.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2100306507455741952/img/smzwqrxhQ5wjoYkd.jpg" alt=""></p><p><img src="https://pbs.twimg.com/media/HSXJ0ANXoAEdnAc?format=png&amp;name=360x360" alt=""></p>]]></description>
     </item>
     <item>
       <title>Media post</title>
@@ -652,7 +660,7 @@
       <guid isPermaLink="true">https://x.com/avstorm/status/2099764487771341228</guid>
       <pubDate>Tue, 15 Sep 2026 07:37:20 GMT</pubDate>
       <author>@avstorm</author>
-      <description><![CDATA[<p>Love this little iCloud animation</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2099763622687670273/img/m8y2MJ_Roc5dkyw_.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Love this little iCloud animation</p>]]></description>
     </item>
     <item>
       <title>Introducing shadcn/lint. An agent-first linter for Tailwind design systems. You define what’s allowed. When an agent breaks a</title>
@@ -1597,14 +1605,6 @@
       <pubDate>Tue, 08 Sep 2026 22:17:10 GMT</pubDate>
       <author>@mitchellh</author>
       <description><![CDATA[<p>This is so fluid that I switch my theme every day depending on vibes. Today I&apos;m rocking Petrol Lagoon. We usually share what our daily fit is in Discord. 💅</p><p><img src="https://pbs.twimg.com/media/HRui0gubwAAglha?format=jpg&amp;name=small" alt=""></p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2097439162546704384/img/jrmPUgC2Bm7T5Cgj?format=jpg&amp;name=240x240" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>i think we&apos;re all really particular about our terminal environment. we&apos;re building the @superlogical clients to have beautiful</title>
-      <link>https://x.com/almonk/status/2097439320076403125</link>
-      <guid isPermaLink="true">https://x.com/almonk/status/2097439320076403125</guid>
-      <pubDate>Tue, 08 Sep 2026 21:37:57 GMT</pubDate>
-      <author>@almonk</author>
-      <description><![CDATA[<p>i think we&apos;re all really particular about our terminal environment. we&apos;re building the @superlogical clients to have beautiful defaults but also quite a few levels of customisation. <br><br>this ranges from full liquid glass embrace to totally solid system palettes, through to our 41</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2097439162546704384/img/jrmPUgC2Bm7T5Cgj.jpg" alt=""></p>]]></description>
     </item>
   </channel>
 </rss>

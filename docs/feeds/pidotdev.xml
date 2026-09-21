@@ -5,9 +5,9 @@
     <description>Recent X posts collected for @pidotdev</description>
     <link>https://x.com/pidotdev</link>
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/pidotdev.xml" rel="self" type="application/rss+xml"/>
-    <webfeeds:icon>https://pbs.twimg.com/profile_images/2099938418029477888/6PYlQf9p_200x200.jpg</webfeeds:icon>
+    <webfeeds:icon>https://pbs.twimg.com/profile_images/2102027529607360513/OJixnnCU_200x200.jpg</webfeeds:icon>
     <image>
-      <url>https://pbs.twimg.com/profile_images/2099938418029477888/6PYlQf9p_200x200.jpg</url>
+      <url>https://pbs.twimg.com/profile_images/2102027529607360513/OJixnnCU_200x200.jpg</url>
       <title>Pi / @pidotdev</title>
       <link>https://x.com/pidotdev</link>
     </image>
@@ -130,7 +130,7 @@
       <guid isPermaLink="true">https://x.com/pidotdev/status/2097289933434024187</guid>
       <pubDate>Tue, 08 Sep 2026 11:44:20 GMT</pubDate>
       <author>@pidotdev</author>
-      <description><![CDATA[<p>Gpt-6-astra is @OpenAI’s latest model. Astra is said to be their most intelligent model so far, with frontier leading capabilities for computer use. <br><br>Have you tried it? What are your thoughts so far? If you haven’t, give it a try in Pi today!</p>]]></description>
+      <description><![CDATA[<p>Gpt-6-astra is @OpenAI’s latest model. Astra is said to be their most intelligent model so far, with frontier leading capabilities for computer use. <br><br>Have you tried it? What are your thoughts so far? If you haven’t, give it a try in Pi today!</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2097288218223734784/img/cjowWufG1UOAEBqe.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Pi lets you pass a project directory (cwd) to createAgentSession(), to help scope where tools should work. Tools</title>
