@@ -7,6 +7,14 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>The iPhone Duo gets a new battery icon.</title>
+      <link>https://x.com/avstorm/status/2102038152315560170</link>
+      <guid isPermaLink="true">https://x.com/avstorm/status/2102038152315560170</guid>
+      <pubDate>Mon, 21 Sep 2026 14:12:04 GMT</pubDate>
+      <author>@avstorm</author>
+      <description><![CDATA[<p>The iPhone Duo gets a new battery icon.</p><p><img src="https://pbs.twimg.com/media/HSvvxHOXkAAJWMq?format=png&amp;name=small" alt=""></p>]]></description>
+    </item>
+    <item>
       <title>iPhone Duo status bar animation in the Xcode Device Hub</title>
       <link>https://x.com/avstorm/status/2102018842918576506</link>
       <guid isPermaLink="true">https://x.com/avstorm/status/2102018842918576506</guid>
@@ -1380,7 +1388,7 @@
       <guid isPermaLink="true">https://x.com/shadcn/status/2097739763302162606</guid>
       <pubDate>Wed, 09 Sep 2026 17:31:48 GMT</pubDate>
       <author>@shadcn</author>
-      <description><![CDATA[<p>Let me know if the new iPhone goes like this.</p>]]></description>
+      <description><![CDATA[<p>Let me know if the new iPhone goes like this.</p><p><img src="https://pbs.twimg.com/tweet_video_thumb/HRyrGOzXIAAKyJv.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>iPhone 18 Pro bento</title>
@@ -1597,14 +1605,6 @@
       <pubDate>Wed, 09 Sep 2026 05:02:19 GMT</pubDate>
       <author>@shadcn</author>
       <description><![CDATA[<p>I haven&apos;t tried Omarchy yet (waiting for M support) but man &quot;We&apos;ll fix everything&quot; what a line. I can absolutely get behind this.</p>]]></description>
-    </item>
-    <item>
-      <title>This is so fluid that I switch my theme every day depending on vibes. Today I&apos;m rocking Petrol</title>
-      <link>https://x.com/mitchellh/status/2097449191325028407</link>
-      <guid isPermaLink="true">https://x.com/mitchellh/status/2097449191325028407</guid>
-      <pubDate>Tue, 08 Sep 2026 22:17:10 GMT</pubDate>
-      <author>@mitchellh</author>
-      <description><![CDATA[<p>This is so fluid that I switch my theme every day depending on vibes. Today I&apos;m rocking Petrol Lagoon. We usually share what our daily fit is in Discord. 💅</p><p><img src="https://pbs.twimg.com/media/HRui0gubwAAglha?format=jpg&amp;name=small" alt=""></p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2097439162546704384/img/jrmPUgC2Bm7T5Cgj?format=jpg&amp;name=240x240" alt=""></p>]]></description>
     </item>
   </channel>
 </rss>
