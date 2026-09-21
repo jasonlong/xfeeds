@@ -7,6 +7,14 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>Media post</title>
+      <link>https://x.com/tldraw/status/2102138590490669229</link>
+      <guid isPermaLink="true">https://x.com/tldraw/status/2102138590490669229</guid>
+      <pubDate>Mon, 21 Sep 2026 20:51:10 GMT</pubDate>
+      <author>@tldraw</author>
+      <description><![CDATA[<p></p>]]></description>
+    </item>
+    <item>
       <title>macOS 27.2 beta 2 brings new volume and brightness HUDs</title>
       <link>https://x.com/avstorm/status/2102125356132016332</link>
       <guid isPermaLink="true">https://x.com/avstorm/status/2102125356132016332</guid>
@@ -580,7 +588,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2100234110341955781</guid>
       <pubDate>Wed, 16 Sep 2026 14:43:27 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>We’re thrilled to welcome Baidu App on board as our newest SDK customer!<br><br>Baidu App has integrated tldraw into its customer-facing platform to create AI short-form dramas. Script, storyboard, plan, and execute all in one collaborative canvas.<br><br>We look forward to seeing what</p>]]></description>
+      <description><![CDATA[<p>We’re thrilled to welcome Baidu App on board as our newest SDK customer!<br><br>Baidu App has integrated tldraw into its customer-facing platform to create AI short-form dramas. Script, storyboard, plan, and execute all in one collaborative canvas.<br><br>We look forward to seeing what</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2100233951340118016/img/O1kPlfBOPTfkfnIk.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>The most perfect font in the world</title>
@@ -1597,14 +1605,6 @@
       <pubDate>Wed, 09 Sep 2026 10:16:11 GMT</pubDate>
       <author>@almonk</author>
       <description><![CDATA[<p>I went to the Caligra studios yesterday. If you like computers and value thoughtful design, stop by and try out the c100 and their workbench os. Visions of a calmer, more productive way to compute.</p>]]></description>
-    </item>
-    <item>
-      <title>Doom pixel melt shader effect for when you kill the multiplexer server, why not.</title>
-      <link>https://x.com/almonk/status/2097612610166288713</link>
-      <guid isPermaLink="true">https://x.com/almonk/status/2097612610166288713</guid>
-      <pubDate>Wed, 09 Sep 2026 09:06:32 GMT</pubDate>
-      <author>@almonk</author>
-      <description><![CDATA[<p>Doom pixel melt shader effect for when you kill the multiplexer server, why not.</p>]]></description>
     </item>
   </channel>
 </rss>

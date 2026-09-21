@@ -13,6 +13,14 @@
     </image>
     <ttl>120</ttl>
     <item>
+      <title>Media post</title>
+      <link>https://x.com/tldraw/status/2102138590490669229</link>
+      <guid isPermaLink="true">https://x.com/tldraw/status/2102138590490669229</guid>
+      <pubDate>Mon, 21 Sep 2026 20:51:10 GMT</pubDate>
+      <author>@tldraw</author>
+      <description><![CDATA[<p></p>]]></description>
+    </item>
+    <item>
       <title>Welcome to tldraw sleep, a series of videos on topics we think are interesting. Tonight&apos;s episode is Other</title>
       <link>https://x.com/tldraw/status/2101808371896852966</link>
       <guid isPermaLink="true">https://x.com/tldraw/status/2101808371896852966</guid>
@@ -146,7 +154,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2100234110341955781</guid>
       <pubDate>Wed, 16 Sep 2026 14:43:27 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>We’re thrilled to welcome Baidu App on board as our newest SDK customer!<br><br>Baidu App has integrated tldraw into its customer-facing platform to create AI short-form dramas. Script, storyboard, plan, and execute all in one collaborative canvas.<br><br>We look forward to seeing what</p>]]></description>
+      <description><![CDATA[<p>We’re thrilled to welcome Baidu App on board as our newest SDK customer!<br><br>Baidu App has integrated tldraw into its customer-facing platform to create AI short-form dramas. Script, storyboard, plan, and execute all in one collaborative canvas.<br><br>We look forward to seeing what</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2100233951340118016/img/O1kPlfBOPTfkfnIk.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>In https://tldraw.com, stacking shapes more consistently preserves the relative positioning of shapes connected with arrows.</title>
@@ -803,14 +811,6 @@
       <pubDate>Mon, 31 Aug 2026 19:04:04 GMT</pubDate>
       <author>@tldraw</author>
       <description><![CDATA[<p>In case you missed it, our last release added the ability to hold ⌘ or Ctrl while using the drawing tool to hot-swap to the eraser.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2094501478211985408/img/q529v6uw7s8WHDED.jpg" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>In the next version of tldraw, the text and bookmark shapes created by pasting will also be selected.</title>
-      <link>https://x.com/tldraw/status/2094439085838590223</link>
-      <guid isPermaLink="true">https://x.com/tldraw/status/2094439085838590223</guid>
-      <pubDate>Mon, 31 Aug 2026 14:56:05 GMT</pubDate>
-      <author>@tldraw</author>
-      <description><![CDATA[<p>In the next version of tldraw, the text and bookmark shapes created by pasting will also be selected. This matches the select-on-paste behavior of other types of shapes.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2094439069686403073/img/AU3c62g-EpOHDVBm.jpg" alt=""></p>]]></description>
     </item>
   </channel>
 </rss>
