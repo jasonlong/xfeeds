@@ -13,6 +13,14 @@
     </image>
     <ttl>120</ttl>
     <item>
+      <title>We also pushed out a new release so that the library can use the latest models.</title>
+      <link>https://x.com/pidotdev/status/2102487317177114800</link>
+      <guid isPermaLink="true">https://x.com/pidotdev/status/2102487317177114800</guid>
+      <pubDate>Tue, 22 Sep 2026 19:56:53 GMT</pubDate>
+      <author>@pidotdev</author>
+      <description><![CDATA[<p>We also pushed out a new release so that the library can use the latest models.</p>]]></description>
+    </item>
+    <item>
       <title>New models (Opus 5.5, GPT-6-Sol and GPT-6-Luna) are live on Radius.</title>
       <link>https://x.com/pidotdev/status/2102477675835126210</link>
       <guid isPermaLink="true">https://x.com/pidotdev/status/2102477675835126210</guid>
@@ -26,7 +34,7 @@
       <guid isPermaLink="true">https://x.com/pidotdev/status/2102440073710969325</guid>
       <pubDate>Tue, 22 Sep 2026 16:49:09 GMT</pubDate>
       <author>@pidotdev</author>
-      <description><![CDATA[<p>Hello opus. If you want it in pi, wait or pi update --models</p><p><img src="https://pbs.twimg.com/media/HS1aPgYWMAAP9sw.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Hello opus. If you want it in pi, wait or pi update --models</p>]]></description>
     </item>
     <item>
       <title>People of Pi, what are some of the best agentic experiences you have built or seen people build</title>
@@ -66,7 +74,7 @@
       <guid isPermaLink="true">https://x.com/pidotdev/status/2101672600237646305</guid>
       <pubDate>Sun, 20 Sep 2026 13:59:29 GMT</pubDate>
       <author>@pidotdev</author>
-      <description><![CDATA[<p>Good afternoon from Vienna People of Pi ☀️<br><br>Some slightly different Sunday meditations today in which @mitsuhiko talks about some shared frustrations with agentic software engineering.<br><br>Remember that you&apos;re not alone in finding it harder than it looks!</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2101672446218649600/img/4BhGSRCqWTEqtzir.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Good afternoon from Vienna People of Pi ☀️<br><br>Some slightly different Sunday meditations today in which @mitsuhiko talks about some shared frustrations with agentic software engineering.<br><br>Remember that you&apos;re not alone in finding it harder than it looks!</p>]]></description>
     </item>
     <item>
       <title>We learned two things: 1) /bug is being used 2) and the most common cause of crashes right</title>
@@ -138,7 +146,7 @@
       <guid isPermaLink="true">https://x.com/pidotdev/status/2097648758888542527</guid>
       <pubDate>Wed, 09 Sep 2026 11:30:11 GMT</pubDate>
       <author>@pidotdev</author>
-      <description><![CDATA[<p>A cache miss happens when a model has to re-read (and re-charge you for) text it had already processed before. <br><br>This can be caused by: <br> - switching models<br> - idling past 5mins<br>- editing earlier threads<br><br>Pi can notify you when this happens and how much it costs!</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2097644899940110336/img/HPCalWpuhMl7UKcw.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>A cache miss happens when a model has to re-read (and re-charge you for) text it had already processed before. <br><br>This can be caused by: <br> - switching models<br> - idling past 5mins<br>- editing earlier threads<br><br>Pi can notify you when this happens and how much it costs!</p>]]></description>
     </item>
     <item>
       <title>Run /settings and set ‘cache miss notices’ to True. Follow the cache miss notice with the /sessions command</title>
