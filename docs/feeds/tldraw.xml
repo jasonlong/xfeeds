@@ -13,6 +13,14 @@
     </image>
     <ttl>120</ttl>
     <item>
+      <title>Holding Z to zoom sometimes flipped the toolbar to the wrong tool, or left it stuck on zoom.</title>
+      <link>https://x.com/tldraw/status/2102412397269139463</link>
+      <guid isPermaLink="true">https://x.com/tldraw/status/2102412397269139463</guid>
+      <pubDate>Tue, 22 Sep 2026 14:59:11 GMT</pubDate>
+      <author>@tldraw</author>
+      <description><![CDATA[<p>Holding Z to zoom sometimes flipped the toolbar to the wrong tool, or left it stuck on zoom. Now, it stays on the tool you picked.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2102412357305819136/img/zRqm1qx8001Oh5lP.jpg" alt=""></p>]]></description>
+    </item>
+    <item>
       <title>About giving an AI agent a way to actually show its thinking instead of just describing it, by</title>
       <link>https://x.com/tldraw/status/2102367584398246284</link>
       <guid isPermaLink="true">https://x.com/tldraw/status/2102367584398246284</guid>
@@ -58,7 +66,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2101808371896852966</guid>
       <pubDate>Sun, 20 Sep 2026 22:59:00 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>Welcome to tldraw sleep, a series of videos on topics we think are interesting. Tonight&apos;s episode is Other Ways to Go on Two Legs and is about alternative forms of bipedal locomotion.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2101754646716981248/img/WYPRu2eXLtMjL0_r.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Welcome to tldraw sleep, a series of videos on topics we think are interesting. Tonight&apos;s episode is Other Ways to Go on Two Legs and is about alternative forms of bipedal locomotion.</p>]]></description>
     </item>
     <item>
       <title>Are you still awake? Are you a large enterprise interested in building visual user interfaces for AI? Join</title>
@@ -130,7 +138,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2100619730939781622</guid>
       <pubDate>Thu, 17 Sep 2026 16:15:46 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>a 74-second TL;DR on active noise cancelling in tldraw offline</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2100610937937960962/img/PqYE7yGY6udK1Rb2.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>a 74-second TL;DR on active noise cancelling in tldraw offline</p>]]></description>
     </item>
     <item>
       <title>Media post</title>
@@ -803,14 +811,6 @@
       <pubDate>Wed, 02 Sep 2026 10:59:06 GMT</pubDate>
       <author>@tldraw</author>
       <description><![CDATA[<p>In case you missed it, our last release allowed geometric shapes to be flipped horizontally or vertically. Surprise your friends with a reverse checkbox.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2095104199961018369/img/bbSKHjTUtbbTAVzJ.jpg" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>Join the waitlist → https://flash.tldraw.com/waitlist</title>
-      <link>https://x.com/tldraw/status/2094862971164053606</link>
-      <guid isPermaLink="true">https://x.com/tldraw/status/2094862971164053606</guid>
-      <pubDate>Tue, 01 Sep 2026 19:00:27 GMT</pubDate>
-      <author>@tldraw</author>
-      <description><![CDATA[<p>Join the waitlist → https://flash.tldraw.com/waitlist</p>]]></description>
     </item>
   </channel>
 </rss>

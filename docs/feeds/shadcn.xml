@@ -13,6 +13,22 @@
     </image>
     <ttl>120</ttl>
     <item>
+      <title>Media post</title>
+      <link>https://x.com/shadcn/status/2102408619518030178</link>
+      <guid isPermaLink="true">https://x.com/shadcn/status/2102408619518030178</guid>
+      <pubDate>Tue, 22 Sep 2026 14:44:10 GMT</pubDate>
+      <author>@shadcn</author>
+      <description><![CDATA[<p></p>]]></description>
+    </item>
+    <item>
+      <title>shadcn/lint now supports Vue and Svelte.</title>
+      <link>https://x.com/shadcn/status/2102408442086556147</link>
+      <guid isPermaLink="true">https://x.com/shadcn/status/2102408442086556147</guid>
+      <pubDate>Tue, 22 Sep 2026 14:43:28 GMT</pubDate>
+      <author>@shadcn</author>
+      <description><![CDATA[<p>shadcn/lint now supports Vue and Svelte.</p><p><img src="https://pbs.twimg.com/media/HS1BSdJXIAAnIky?format=jpg&amp;name=small" alt=""></p>]]></description>
+    </item>
+    <item>
       <title>yes @typesafeai is built using shadcn/ui ⚡</title>
       <link>https://x.com/shadcn/status/2100600969536930130</link>
       <guid isPermaLink="true">https://x.com/shadcn/status/2100600969536930130</guid>
