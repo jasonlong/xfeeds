@@ -13,12 +13,20 @@
     </image>
     <ttl>120</ttl>
     <item>
+      <title>Media post</title>
+      <link>https://x.com/tldraw/status/2102430005250994348</link>
+      <guid isPermaLink="true">https://x.com/tldraw/status/2102430005250994348</guid>
+      <pubDate>Tue, 22 Sep 2026 16:09:09 GMT</pubDate>
+      <author>@tldraw</author>
+      <description><![CDATA[<p></p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2102429899394875392/img/NK5DomZYy6MxwQ4i.jpg" alt=""></p>]]></description>
+    </item>
+    <item>
       <title>Holding Z to zoom sometimes flipped the toolbar to the wrong tool, or left it stuck on zoom.</title>
       <link>https://x.com/tldraw/status/2102412397269139463</link>
       <guid isPermaLink="true">https://x.com/tldraw/status/2102412397269139463</guid>
       <pubDate>Tue, 22 Sep 2026 14:59:11 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>Holding Z to zoom sometimes flipped the toolbar to the wrong tool, or left it stuck on zoom. Now, it stays on the tool you picked.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2102412357305819136/img/zRqm1qx8001Oh5lP.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Holding Z to zoom sometimes flipped the toolbar to the wrong tool, or left it stuck on zoom. Now, it stays on the tool you picked.</p>]]></description>
     </item>
     <item>
       <title>About giving an AI agent a way to actually show its thinking instead of just describing it, by</title>
@@ -34,7 +42,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2102367572209643681</guid>
       <pubDate>Tue, 22 Sep 2026 12:01:03 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>We spend a lot of time building on the canvas. We write a lot about it, too. In the thread below, a few recent pieces from the archives on AI, agents, and spatial software:</p>]]></description>
+      <description><![CDATA[<p>We spend a lot of time building on the canvas. We write a lot about it, too. In the thread below, a few recent pieces from the archives on AI, agents, and spatial software:</p><p><img src="https://pbs.twimg.com/tweet_video_thumb/HS0cKNQaoAAPNn5.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Welcome to tldraw sleep, a series of videos on topics we think are interesting. Tonight&apos;s episode is The</title>
@@ -42,7 +50,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2102170759728595246</guid>
       <pubDate>Mon, 21 Sep 2026 22:59:00 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>Welcome to tldraw sleep, a series of videos on topics we think are interesting. Tonight&apos;s episode is The Cap on the Tundra and is about very large holes.</p>]]></description>
+      <description><![CDATA[<p>Welcome to tldraw sleep, a series of videos on topics we think are interesting. Tonight&apos;s episode is The Cap on the Tundra and is about very large holes.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2101756346940981248/img/c19tWhJrCF37xbX9.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Are you still awake? Are you a large enterprise interested in building visual user interfaces for AI? Join</title>
@@ -90,7 +98,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2101339012195570077</guid>
       <pubDate>Sat, 19 Sep 2026 15:53:56 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>real tldraw</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2101116629237248000/img/bflqHndYbgG_Axy0.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>real tldraw</p>]]></description>
     </item>
     <item>
       <title>One from the archives: how our freehand ink algorithm works</title>
@@ -122,7 +130,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2100989799578411264</guid>
       <pubDate>Fri, 18 Sep 2026 16:46:17 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>how we made tldraw flash</p>]]></description>
+      <description><![CDATA[<p>how we made tldraw flash</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2100986155105681409/img/VE-TAGCikwh5KBiq.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>We&apos;re thrilled to welcome @makingendless as a new customer. Endless is using the tldraw SDK infinite canvas to</title>
@@ -803,14 +811,6 @@
       <pubDate>Wed, 02 Sep 2026 13:56:04 GMT</pubDate>
       <author>@tldraw</author>
       <description><![CDATA[<p>We’re launching tldraw flash, a new way to animate hand‑drawn ideas on the infinite canvas.<br><br>Draw a shape, press record, then drag to perform the motion. Trim clips on the timeline, export, and remix.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2095148744996175872/img/wbXreCztQ9Z7I90r.jpg" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>In case you missed it, our last release allowed geometric shapes to be flipped horizontally or vertically. Surprise</title>
-      <link>https://x.com/tldraw/status/2095104221297390050</link>
-      <guid isPermaLink="true">https://x.com/tldraw/status/2095104221297390050</guid>
-      <pubDate>Wed, 02 Sep 2026 10:59:06 GMT</pubDate>
-      <author>@tldraw</author>
-      <description><![CDATA[<p>In case you missed it, our last release allowed geometric shapes to be flipped horizontally or vertically. Surprise your friends with a reverse checkbox.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2095104199961018369/img/bbSKHjTUtbbTAVzJ.jpg" alt=""></p>]]></description>
     </item>
   </channel>
 </rss>
