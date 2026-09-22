@@ -50,7 +50,7 @@
       <guid isPermaLink="true">https://x.com/pidotdev/status/2101672600237646305</guid>
       <pubDate>Sun, 20 Sep 2026 13:59:29 GMT</pubDate>
       <author>@pidotdev</author>
-      <description><![CDATA[<p>Good afternoon from Vienna People of Pi ☀️<br><br>Some slightly different Sunday meditations today in which @mitsuhiko talks about some shared frustrations with agentic software engineering.<br><br>Remember that you&apos;re not alone in finding it harder than it looks!</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2101672446218649600/img/4BhGSRCqWTEqtzir.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Good afternoon from Vienna People of Pi ☀️<br><br>Some slightly different Sunday meditations today in which @mitsuhiko talks about some shared frustrations with agentic software engineering.<br><br>Remember that you&apos;re not alone in finding it harder than it looks!</p>]]></description>
     </item>
     <item>
       <title>We learned two things: 1) /bug is being used 2) and the most common cause of crashes right</title>
@@ -74,7 +74,7 @@
       <guid isPermaLink="true">https://x.com/pidotdev/status/2100935860413673605</guid>
       <pubDate>Fri, 18 Sep 2026 13:11:57 GMT</pubDate>
       <author>@pidotdev</author>
-      <description><![CDATA[<p>&quot;Pi reaches the Pareto frontier on both benchmarks by providing just four tools: read, write, edit, and bash. To understand how harness design affects spending, we examine costs across completed attempts, recorded turn counts, and initial context.&quot; <br><br>Sharing this analysis on the</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2100934729029619713/img/ApCS2YVnNA16T_zw.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>&quot;Pi reaches the Pareto frontier on both benchmarks by providing just four tools: read, write, edit, and bash. To understand how harness design affects spending, we examine costs across completed attempts, recorded turn counts, and initial context.&quot; <br><br>Sharing this analysis on the</p>]]></description>
     </item>
     <item>
       <title>Use Pi to build software that shows others how to use Pi to build software</title>
@@ -114,7 +114,7 @@
       <guid isPermaLink="true">https://x.com/pidotdev/status/2098373491586425056</guid>
       <pubDate>Fri, 11 Sep 2026 11:30:00 GMT</pubDate>
       <author>@pidotdev</author>
-      <description><![CDATA[<p>When code is abundant quality becomes the differentiator, but what is good code?<br><br>New blog post from Earendil engineer @SebastianBaye on why quantifying the ‘sloppiness’ of code is difficult, which eval methods don’t work well, and what metrics matter. <br><br>Link to the post below</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2098362691223990282/img/3kbtZcC0pe9vE1uc.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>When code is abundant quality becomes the differentiator, but what is good code?<br><br>New blog post from Earendil engineer @SebastianBaye on why quantifying the ‘sloppiness’ of code is difficult, which eval methods don’t work well, and what metrics matter. <br><br>Link to the post below</p>]]></description>
     </item>
     <item>
       <title>A cache miss happens when a model has to re-read (and re-charge you for) text it had already</title>
@@ -122,7 +122,7 @@
       <guid isPermaLink="true">https://x.com/pidotdev/status/2097648758888542527</guid>
       <pubDate>Wed, 09 Sep 2026 11:30:11 GMT</pubDate>
       <author>@pidotdev</author>
-      <description><![CDATA[<p>A cache miss happens when a model has to re-read (and re-charge you for) text it had already processed before. <br><br>This can be caused by: <br> - switching models<br> - idling past 5mins<br>- editing earlier threads<br><br>Pi can notify you when this happens and how much it costs!</p>]]></description>
+      <description><![CDATA[<p>A cache miss happens when a model has to re-read (and re-charge you for) text it had already processed before. <br><br>This can be caused by: <br> - switching models<br> - idling past 5mins<br>- editing earlier threads<br><br>Pi can notify you when this happens and how much it costs!</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2097644899940110336/img/HPCalWpuhMl7UKcw.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Run /settings and set ‘cache miss notices’ to True. Follow the cache miss notice with the /sessions command</title>
@@ -138,7 +138,7 @@
       <guid isPermaLink="true">https://x.com/pidotdev/status/2097289933434024187</guid>
       <pubDate>Tue, 08 Sep 2026 11:44:20 GMT</pubDate>
       <author>@pidotdev</author>
-      <description><![CDATA[<p>Gpt-6-astra is @OpenAI’s latest model. Astra is said to be their most intelligent model so far, with frontier leading capabilities for computer use. <br><br>Have you tried it? What are your thoughts so far? If you haven’t, give it a try in Pi today!</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2097288218223734784/img/cjowWufG1UOAEBqe.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Gpt-6-astra is @OpenAI’s latest model. Astra is said to be their most intelligent model so far, with frontier leading capabilities for computer use. <br><br>Have you tried it? What are your thoughts so far? If you haven’t, give it a try in Pi today!</p>]]></description>
     </item>
     <item>
       <title>Pi lets you pass a project directory (cwd) to createAgentSession(), to help scope where tools should work. Tools</title>
