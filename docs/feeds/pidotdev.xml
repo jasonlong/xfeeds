@@ -13,6 +13,14 @@
     </image>
     <ttl>120</ttl>
     <item>
+      <title>Hello opus. If you want it in pi, wait or pi update --models</title>
+      <link>https://x.com/pidotdev/status/2102440073710969325</link>
+      <guid isPermaLink="true">https://x.com/pidotdev/status/2102440073710969325</guid>
+      <pubDate>Tue, 22 Sep 2026 16:49:09 GMT</pubDate>
+      <author>@pidotdev</author>
+      <description><![CDATA[<p>Hello opus. If you want it in pi, wait or pi update --models</p><p><img src="https://pbs.twimg.com/media/HS1aPgYWMAAP9sw.jpg" alt=""></p>]]></description>
+    </item>
+    <item>
       <title>People of Pi, what are some of the best agentic experiences you have built or seen people build</title>
       <link>https://x.com/pidotdev/status/2102382097612837234</link>
       <guid isPermaLink="true">https://x.com/pidotdev/status/2102382097612837234</guid>
@@ -98,7 +106,7 @@
       <guid isPermaLink="true">https://x.com/pidotdev/status/2099045420496486415</guid>
       <pubDate>Sun, 13 Sep 2026 08:00:01 GMT</pubDate>
       <author>@pidotdev</author>
-      <description><![CDATA[<p>Good morning from Vienna People of Pi🌞 Sunday meditations today from<br><br>@badlogicgames and @mitsuhiko <br><br>Among other things: <br>- agents that generate too much code poison their own  context (slippery slop)<br>- code matters wherever control matters<br>- unreadable code from Astra</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2098748958965215239/img/tJEBWqddFRnni15d.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Good morning from Vienna People of Pi🌞 Sunday meditations today from<br><br>@badlogicgames and @mitsuhiko <br><br>Among other things: <br>- agents that generate too much code poison their own  context (slippery slop)<br>- code matters wherever control matters<br>- unreadable code from Astra</p>]]></description>
     </item>
     <item>
       <title>Read “If code is solved, what now?: Measuring the sloppiness of code”</title>
@@ -114,7 +122,7 @@
       <guid isPermaLink="true">https://x.com/pidotdev/status/2098373491586425056</guid>
       <pubDate>Fri, 11 Sep 2026 11:30:00 GMT</pubDate>
       <author>@pidotdev</author>
-      <description><![CDATA[<p>When code is abundant quality becomes the differentiator, but what is good code?<br><br>New blog post from Earendil engineer @SebastianBaye on why quantifying the ‘sloppiness’ of code is difficult, which eval methods don’t work well, and what metrics matter. <br><br>Link to the post below</p>]]></description>
+      <description><![CDATA[<p>When code is abundant quality becomes the differentiator, but what is good code?<br><br>New blog post from Earendil engineer @SebastianBaye on why quantifying the ‘sloppiness’ of code is difficult, which eval methods don’t work well, and what metrics matter. <br><br>Link to the post below</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2098362691223990282/img/3kbtZcC0pe9vE1uc.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>A cache miss happens when a model has to re-read (and re-charge you for) text it had already</title>
