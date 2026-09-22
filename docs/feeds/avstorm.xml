@@ -13,6 +13,14 @@
     </image>
     <ttl>120</ttl>
     <item>
+      <title>Media post</title>
+      <link>https://x.com/avstorm/status/2102294155255046566</link>
+      <guid isPermaLink="true">https://x.com/avstorm/status/2102294155255046566</guid>
+      <pubDate>Tue, 22 Sep 2026 07:09:20 GMT</pubDate>
+      <author>@avstorm</author>
+      <description><![CDATA[<p></p>]]></description>
+    </item>
+    <item>
       <title>https://apple.com/newsroom/2026/09/apple-opens-apple-music-hall-a-state-of-the-art-live-music-venue-in-london/…</title>
       <link>https://x.com/avstorm/status/2102280757419155773</link>
       <guid isPermaLink="true">https://x.com/avstorm/status/2102280757419155773</guid>
@@ -803,14 +811,6 @@
       <pubDate>Mon, 17 Aug 2026 17:58:40 GMT</pubDate>
       <author>@avstorm</author>
       <description><![CDATA[<p>Apple has updated the traffic light buttons in macOS 27 Beta 6</p><p><img src="https://pbs.twimg.com/media/HP8UkoEXIAA_JOi?format=png&amp;name=small" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>macOS 27 beta 6 brings the new Preview app icon.</title>
-      <link>https://x.com/avstorm/status/2089408594496143606</link>
-      <guid isPermaLink="true">https://x.com/avstorm/status/2089408594496143606</guid>
-      <pubDate>Mon, 17 Aug 2026 17:46:42 GMT</pubDate>
-      <author>@avstorm</author>
-      <description><![CDATA[<p>macOS 27 beta 6 brings the new Preview app icon.</p><p><img src="https://pbs.twimg.com/media/HP8Rb76WYAAgO7y?format=jpg&amp;name=small" alt=""></p>]]></description>
     </item>
   </channel>
 </rss>
