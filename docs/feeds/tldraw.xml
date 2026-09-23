@@ -13,6 +13,14 @@
     </image>
     <ttl>120</ttl>
     <item>
+      <title>We’re pleased to welcome Canary on board as our latest customer! Canary uses tldraw’s infinite canvas SDK to</title>
+      <link>https://x.com/tldraw/status/2102789103809134937</link>
+      <guid isPermaLink="true">https://x.com/tldraw/status/2102789103809134937</guid>
+      <pubDate>Wed, 23 Sep 2026 15:56:04 GMT</pubDate>
+      <author>@tldraw</author>
+      <description><![CDATA[<p>We’re pleased to welcome Canary on board as our latest customer!<br><br>Canary uses tldraw’s infinite canvas SDK to create easy-to-read floor plans for rental listings. tldraw’s custom shapes allow users to model rooms as polygons, snap walls and fixtures to the 910mm Japanese</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2102789091243024384/img/gNT5bP7TUJ2owvA8.jpg" alt=""></p>]]></description>
+    </item>
+    <item>
       <title>Double-clicking a frame&apos;s edge to fit its content used to shift everything inside it. In the new version</title>
       <link>https://x.com/tldraw/status/2102714899558514723</link>
       <guid isPermaLink="true">https://x.com/tldraw/status/2102714899558514723</guid>
@@ -34,7 +42,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2102703700490035473</guid>
       <pubDate>Wed, 23 Sep 2026 10:16:43 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>btw this was only a few turns with a model to create! As usual the &quot;super good canvas&quot; is the hard part but that&apos;s done</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2102429899394875392/img/NK5DomZYy6MxwQ4i.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>btw this was only a few turns with a model to create! As usual the &quot;super good canvas&quot; is the hard part but that&apos;s done</p>]]></description>
     </item>
     <item>
       <title>the canvas keeps giving</title>
@@ -42,7 +50,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2102651633780064462</guid>
       <pubDate>Wed, 23 Sep 2026 06:49:49 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>the canvas keeps giving</p><p><img src="https://pbs.twimg.com/media/HS4d8ogX0AAkglq?format=jpg&amp;name=360x360" alt=""></p>]]></description>
+      <description><![CDATA[<p>the canvas keeps giving</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2102650991279476736/img/Yt3YCNICSJaZns-m.jpg" alt=""></p><p><img src="https://pbs.twimg.com/media/HS4d8ogX0AAkglq?format=jpg&amp;name=360x360" alt=""></p>]]></description>
     </item>
     <item>
       <title>Welcome to tldraw sleep, a series of videos on topics we think are interesting. Tonight&apos;s episode is The</title>
@@ -122,7 +130,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2101808371896852966</guid>
       <pubDate>Sun, 20 Sep 2026 22:59:00 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>Welcome to tldraw sleep, a series of videos on topics we think are interesting. Tonight&apos;s episode is Other Ways to Go on Two Legs and is about alternative forms of bipedal locomotion.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2101754646716981248/img/WYPRu2eXLtMjL0_r.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Welcome to tldraw sleep, a series of videos on topics we think are interesting. Tonight&apos;s episode is Other Ways to Go on Two Legs and is about alternative forms of bipedal locomotion.</p>]]></description>
     </item>
     <item>
       <title>Are you still awake? Are you a large enterprise interested in building visual user interfaces for AI? Join</title>
@@ -146,7 +154,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2101339012195570077</guid>
       <pubDate>Sat, 19 Sep 2026 15:53:56 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>real tldraw</p>]]></description>
+      <description><![CDATA[<p>real tldraw</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2101116629237248000/img/bflqHndYbgG_Axy0.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>One from the archives: how our freehand ink algorithm works</title>
@@ -803,14 +811,6 @@
       <pubDate>Thu, 03 Sep 2026 17:31:26 GMT</pubDate>
       <author>@tldraw</author>
       <description><![CDATA[<p>aura farming in tldraw flash</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2095564483209076736/img/nFU0KhcdgoNZ9w4h.jpg" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>In the latest release, pressing a keyboard shortcut that includes an arrow key will no longer move selected</title>
-      <link>https://x.com/tldraw/status/2095533031687889295</link>
-      <guid isPermaLink="true">https://x.com/tldraw/status/2095533031687889295</guid>
-      <pubDate>Thu, 03 Sep 2026 15:23:02 GMT</pubDate>
-      <author>@tldraw</author>
-      <description><![CDATA[<p>In the latest release, pressing a keyboard shortcut that includes an arrow key will no longer move selected objects by one pixel. For example, the Space + ➡️ shortcut (move the viewport over) would previously cause the ➡️ shortcut (move selected shapes right) to fire by mistake.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2095533006685667328/img/MZ2bWlLh5qzrnZRQ.jpg" alt=""></p>]]></description>
     </item>
   </channel>
 </rss>
