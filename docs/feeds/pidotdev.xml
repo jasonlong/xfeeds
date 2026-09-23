@@ -74,7 +74,7 @@
       <guid isPermaLink="true">https://x.com/pidotdev/status/2101672600237646305</guid>
       <pubDate>Sun, 20 Sep 2026 13:59:29 GMT</pubDate>
       <author>@pidotdev</author>
-      <description><![CDATA[<p>Good afternoon from Vienna People of Pi ☀️<br><br>Some slightly different Sunday meditations today in which @mitsuhiko talks about some shared frustrations with agentic software engineering.<br><br>Remember that you&apos;re not alone in finding it harder than it looks!</p>]]></description>
+      <description><![CDATA[<p>Good afternoon from Vienna People of Pi ☀️<br><br>Some slightly different Sunday meditations today in which @mitsuhiko talks about some shared frustrations with agentic software engineering.<br><br>Remember that you&apos;re not alone in finding it harder than it looks!</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2101672446218649600/img/4BhGSRCqWTEqtzir.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>We learned two things: 1) /bug is being used 2) and the most common cause of crashes right</title>
@@ -122,7 +122,7 @@
       <guid isPermaLink="true">https://x.com/pidotdev/status/2099045420496486415</guid>
       <pubDate>Sun, 13 Sep 2026 08:00:01 GMT</pubDate>
       <author>@pidotdev</author>
-      <description><![CDATA[<p>Good morning from Vienna People of Pi🌞 Sunday meditations today from<br><br>@badlogicgames and @mitsuhiko <br><br>Among other things: <br>- agents that generate too much code poison their own  context (slippery slop)<br>- code matters wherever control matters<br>- unreadable code from Astra</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2098748958965215239/img/tJEBWqddFRnni15d.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Good morning from Vienna People of Pi🌞 Sunday meditations today from<br><br>@badlogicgames and @mitsuhiko <br><br>Among other things: <br>- agents that generate too much code poison their own  context (slippery slop)<br>- code matters wherever control matters<br>- unreadable code from Astra</p>]]></description>
     </item>
     <item>
       <title>Read “If code is solved, what now?: Measuring the sloppiness of code”</title>
@@ -146,7 +146,7 @@
       <guid isPermaLink="true">https://x.com/pidotdev/status/2097648758888542527</guid>
       <pubDate>Wed, 09 Sep 2026 11:30:11 GMT</pubDate>
       <author>@pidotdev</author>
-      <description><![CDATA[<p>A cache miss happens when a model has to re-read (and re-charge you for) text it had already processed before. <br><br>This can be caused by: <br> - switching models<br> - idling past 5mins<br>- editing earlier threads<br><br>Pi can notify you when this happens and how much it costs!</p>]]></description>
+      <description><![CDATA[<p>A cache miss happens when a model has to re-read (and re-charge you for) text it had already processed before. <br><br>This can be caused by: <br> - switching models<br> - idling past 5mins<br>- editing earlier threads<br><br>Pi can notify you when this happens and how much it costs!</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2097644899940110336/img/HPCalWpuhMl7UKcw.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Run /settings and set ‘cache miss notices’ to True. Follow the cache miss notice with the /sessions command</title>
