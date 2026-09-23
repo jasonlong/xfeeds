@@ -7,6 +7,14 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>If you want to follow along with what our team is cooking up, do check out https://earendil.com/posts/ from</title>
+      <link>https://x.com/pidotdev/status/2102698134908362962</link>
+      <guid isPermaLink="true">https://x.com/pidotdev/status/2102698134908362962</guid>
+      <pubDate>Wed, 23 Sep 2026 09:54:36 GMT</pubDate>
+      <author>@pidotdev</author>
+      <description><![CDATA[<p>If you want to follow along with what our team is cooking up, do check out https://earendil.com/posts/ from time to time...</p>]]></description>
+    </item>
+    <item>
       <title>the canvas keeps giving</title>
       <link>https://x.com/tldraw/status/2102651633780064462</link>
       <guid isPermaLink="true">https://x.com/tldraw/status/2102651633780064462</guid>
@@ -572,7 +580,7 @@
       <guid isPermaLink="true">https://x.com/pidotdev/status/2100935860413673605</guid>
       <pubDate>Fri, 18 Sep 2026 13:11:57 GMT</pubDate>
       <author>@pidotdev</author>
-      <description><![CDATA[<p>&quot;Pi reaches the Pareto frontier on both benchmarks by providing just four tools: read, write, edit, and bash. To understand how harness design affects spending, we examine costs across completed attempts, recorded turn counts, and initial context.&quot; <br><br>Sharing this analysis on the</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2100934729029619713/img/ApCS2YVnNA16T_zw.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>&quot;Pi reaches the Pareto frontier on both benchmarks by providing just four tools: read, write, edit, and bash. To understand how harness design affects spending, we examine costs across completed attempts, recorded turn counts, and initial context.&quot; <br><br>Sharing this analysis on the</p>]]></description>
     </item>
     <item>
       <title>iPhone Pro header animations just hit different.</title>
@@ -1316,7 +1324,7 @@
       <guid isPermaLink="true">https://x.com/pidotdev/status/2098373491586425056</guid>
       <pubDate>Fri, 11 Sep 2026 11:30:00 GMT</pubDate>
       <author>@pidotdev</author>
-      <description><![CDATA[<p>When code is abundant quality becomes the differentiator, but what is good code?<br><br>New blog post from Earendil engineer @SebastianBaye on why quantifying the ‘sloppiness’ of code is difficult, which eval methods don’t work well, and what metrics matter. <br><br>Link to the post below</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2098362691223990282/img/3kbtZcC0pe9vE1uc.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>When code is abundant quality becomes the differentiator, but what is good code?<br><br>New blog post from Earendil engineer @SebastianBaye on why quantifying the ‘sloppiness’ of code is difficult, which eval methods don’t work well, and what metrics matter. <br><br>Link to the post below</p>]]></description>
     </item>
     <item>
       <title>You can now remix this in tldraw flash! https://flash.tldraw.com/f/flash-o1e47cl5ge9twqvb…</title>
@@ -1597,14 +1605,6 @@
       <pubDate>Thu, 10 Sep 2026 00:05:36 GMT</pubDate>
       <author>@tldraw</author>
       <description><![CDATA[<p>tomorrow</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2097838794095419396/img/93N6jVNyOQrMYsWc.jpg" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>Can&apos;t stop playing with the iPhone Duo folding slider</title>
-      <link>https://x.com/avstorm/status/2097801612064334203</link>
-      <guid isPermaLink="true">https://x.com/avstorm/status/2097801612064334203</guid>
-      <pubDate>Wed, 09 Sep 2026 21:37:34 GMT</pubDate>
-      <author>@avstorm</author>
-      <description><![CDATA[<p>Can&apos;t stop playing with the iPhone Duo folding slider</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2097800677439283210/img/rbGXpy_-6Jcv0F_V.jpg" alt=""></p>]]></description>
     </item>
   </channel>
 </rss>
