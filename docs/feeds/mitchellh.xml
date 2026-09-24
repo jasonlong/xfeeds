@@ -13,6 +13,14 @@
     </image>
     <ttl>120</ttl>
     <item>
+      <title>I’ve been building a new home office (plus other things of course) for 4 years and it’s finally</title>
+      <link>https://x.com/mitchellh/status/2103208767630520487</link>
+      <guid isPermaLink="true">https://x.com/mitchellh/status/2103208767630520487</guid>
+      <pubDate>Thu, 24 Sep 2026 19:43:40 GMT</pubDate>
+      <author>@mitchellh</author>
+      <description><![CDATA[<p>I’ve been building a new home office (plus other things of course) for 4 years and it’s finally almost complete! Missing lots of details still that’ll take a few more weeks, but truly can’t wait to work out of here every day.<br><br>The desk and coffee table are completely custom. The</p><p><img src="https://pbs.twimg.com/media/HTAZOj9aQAA3deo?format=jpg&amp;name=small" alt=""></p><p><img src="https://pbs.twimg.com/media/HTAZOj9aYAAAf1C?format=jpg&amp;name=small" alt=""></p>]]></description>
+    </item>
+    <item>
       <title>Software should be fun. It should make you feel something, positive hopefully. Utilitarian software is the worst. The</title>
       <link>https://x.com/mitchellh/status/2101320128667529496</link>
       <guid isPermaLink="true">https://x.com/mitchellh/status/2101320128667529496</guid>
@@ -34,7 +42,7 @@
       <guid isPermaLink="true">https://x.com/mitchellh/status/2100275089359163441</guid>
       <pubDate>Wed, 16 Sep 2026 17:26:17 GMT</pubDate>
       <author>@mitchellh</author>
-      <description><![CDATA[<p>Designers, your job is safe from AI.</p>]]></description>
+      <description><![CDATA[<p>Designers, your job is safe from AI.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2100274218978217985/img/OeioR4BuqX_iewro.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>The &quot;whiteboard defense:&quot; I should be able to pull you aside at any moment and ask you to</title>
@@ -50,7 +58,7 @@
       <guid isPermaLink="true">https://x.com/mitchellh/status/2099915915056074807</guid>
       <pubDate>Tue, 15 Sep 2026 17:39:03 GMT</pubDate>
       <author>@mitchellh</author>
-      <description><![CDATA[<p>After all, why shouldn&apos;t we [ab]use the CLI to recreate 2048 in the Superlogical multiplexer? Amazing work by a tester, not by me. The final boss will be getting DOOM running where every pixel is its own terminal. Software should be fun.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2099915469293867009/img/bkOWe9FQkUnXaOob.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>After all, why shouldn&apos;t we [ab]use the CLI to recreate 2048 in the Superlogical multiplexer? Amazing work by a tester, not by me. The final boss will be getting DOOM running where every pixel is its own terminal. Software should be fun.</p>]]></description>
     </item>
     <item>
       <title>New week new demo! Today I want to showcase the CLI to control the @superlogical multiplexer. The CLI</title>
@@ -58,7 +66,7 @@
       <guid isPermaLink="true">https://x.com/mitchellh/status/2099622049325232505</guid>
       <pubDate>Mon, 14 Sep 2026 22:11:20 GMT</pubDate>
       <author>@mitchellh</author>
-      <description><![CDATA[<p>New week new demo! Today I want to showcase the CLI to control the @superlogical multiplexer. The CLI is an extremely powerful tool for automation and hooking into other tools like editors, agentic coding tools, and more. And, it&apos;s super fun!<br><br>Everything you can do in the GUI,</p>]]></description>
+      <description><![CDATA[<p>New week new demo! Today I want to showcase the CLI to control the @superlogical multiplexer. The CLI is an extremely powerful tool for automation and hooking into other tools like editors, agentic coding tools, and more. And, it&apos;s super fun!<br><br>Everything you can do in the GUI,</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2099620779042480128/img/fCUSEzKBJdKiH8OG.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>I&apos;ve never had a case on any iPhone, I&apos;ve never cracked a screen or broken the phone. People</title>
@@ -90,7 +98,7 @@
       <guid isPermaLink="true">https://x.com/mitchellh/status/2097424868203758046</guid>
       <pubDate>Tue, 08 Sep 2026 20:40:31 GMT</pubDate>
       <author>@mitchellh</author>
-      <description><![CDATA[<p>A quick look into remote persistent sessions with Superlogical! Not just remote sessions, but some functionality like remote directory lists, too. Superlogical can actually be a full SSH replacement (I don&apos;t run SSH on my servers anymore), and I talk about that briefly, too.</p>]]></description>
+      <description><![CDATA[<p>A quick look into remote persistent sessions with Superlogical! Not just remote sessions, but some functionality like remote directory lists, too. Superlogical can actually be a full SSH replacement (I don&apos;t run SSH on my servers anymore), and I talk about that briefly, too.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2097423824325337088/img/6fxkvF8tDwoXqWRQ.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>We now have automated half-bounce analysis created by @infomiho! Paste an X post with a screen recording and</title>
@@ -122,7 +130,7 @@
       <guid isPermaLink="true">https://x.com/mitchellh/status/2095232081853039041</guid>
       <pubDate>Wed, 02 Sep 2026 19:27:10 GMT</pubDate>
       <author>@mitchellh</author>
-      <description><![CDATA[<p>A video explaining a handful of the tricks we use to optimize for memory within the Superlogical server: in-memory compression, moving file descriptors between event-driven and blocked threads dynamically, full terminal state binary snapshot/restore in microseconds, and more!</p>]]></description>
+      <description><![CDATA[<p>A video explaining a handful of the tricks we use to optimize for memory within the Superlogical server: in-memory compression, moving file descriptors between event-driven and blocked threads dynamically, full terminal state binary snapshot/restore in microseconds, and more!</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2095231696694312961/img/4X8RDN0dk4H5TQWS.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>The Superlogical server is built to run anywhere and everywhere and serve a level of scale (terminals+clients) unmatched</title>
