@@ -7,6 +7,54 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>Friends in NYC: Come visit us at the NY Art Book Fair this weekend, booth S4 (seen below).</title>
+      <link>https://x.com/AREdotNA/status/2103168161134879001</link>
+      <guid isPermaLink="true">https://x.com/AREdotNA/status/2103168161134879001</guid>
+      <pubDate>Thu, 24 Sep 2026 17:02:19 GMT</pubDate>
+      <author>@AREdotNA</author>
+      <description><![CDATA[<p>Friends in NYC:<br><br>Come visit us at the NY Art Book Fair this weekend, booth S4 (seen below). <br><br>We&apos;re aiming to have the most minimal booth in the fair, stop by and let us know how we&apos;re doing.</p><p><img src="https://pbs.twimg.com/media/HS_ztgCWoAAQ0AL?format=jpg&amp;name=small" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>Dia browser got a little brand update</title>
+      <link>https://x.com/avstorm/status/2103164399049474550</link>
+      <guid isPermaLink="true">https://x.com/avstorm/status/2103164399049474550</guid>
+      <pubDate>Thu, 24 Sep 2026 16:47:22 GMT</pubDate>
+      <author>@avstorm</author>
+      <description><![CDATA[<p>Dia browser got a little brand update</p><p><img src="https://pbs.twimg.com/media/HS_wvPqX0AA-yB-?format=jpg&amp;name=small" alt=""></p><p><img src="https://pbs.twimg.com/media/HS_wvo-XEAEYFCZ?format=jpg&amp;name=small" alt=""></p><p><img src="https://pbs.twimg.com/media/HS_wwo3XUAEBkV7?format=jpg&amp;name=small" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>exactly why we have an api! we might not ever implement this ourselves (for...reasons) but that doesn&apos;t mean</title>
+      <link>https://x.com/AREdotNA/status/2103161529965437039</link>
+      <guid isPermaLink="true">https://x.com/AREdotNA/status/2103161529965437039</guid>
+      <pubDate>Thu, 24 Sep 2026 16:35:58 GMT</pubDate>
+      <author>@AREdotNA</author>
+      <description><![CDATA[<p>exactly why we have an api! <br><br>we might not ever implement this ourselves (for...reasons) but that doesn&apos;t mean someone else can&apos;t!<br><br>let 1000 use cases bloom</p><p><img src="https://pbs.twimg.com/media/HS5_DnNbAAA0GpP?format=jpg&amp;name=small" alt=""></p><p><img src="https://pbs.twimg.com/media/HS5_FXAaYAAlWu3?format=jpg&amp;name=small" alt=""></p><p><img src="https://pbs.twimg.com/media/HS5_GtBaAAAAvpK?format=jpg&amp;name=small" alt=""></p><p><img src="https://pbs.twimg.com/media/HS5_OVHb0AAuseC?format=jpg&amp;name=small" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>Have you tried Opus 5.5 yet with Paper? We are hearing good things about similar quality with reduced</title>
+      <link>https://x.com/paper/status/2103157921974804773</link>
+      <guid isPermaLink="true">https://x.com/paper/status/2103157921974804773</guid>
+      <pubDate>Thu, 24 Sep 2026 16:21:38 GMT</pubDate>
+      <author>@paper</author>
+      <description><![CDATA[<p>Have you tried Opus 5.5 yet with Paper?<br><br>We are hearing good things about similar quality with reduced cost.<br><br>@harcourttt takes it for a spin in this video -- what&apos;s your take on the newest model from Anthropic?</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2103157525084594181/img/E3vEtBsUiQPySeYY.jpg" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>this is our favorite kind of improvement, the kind that one might never even notice (but is actually</title>
+      <link>https://x.com/AREdotNA/status/2103156508296949970</link>
+      <guid isPermaLink="true">https://x.com/AREdotNA/status/2103156508296949970</guid>
+      <pubDate>Thu, 24 Sep 2026 16:16:00 GMT</pubDate>
+      <author>@AREdotNA</author>
+      <description><![CDATA[<p>this is our favorite kind of improvement, the kind that one might never even notice (but is actually extremely luxurious)</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2103154335559344128/img/lqjPDnfV9H-9nW3q.jpg" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>niche, but amazing: the best implementation of scroll restoration we&apos;ve ever had has just deployed to the web</title>
+      <link>https://x.com/AREdotNA/status/2103155233270444340</link>
+      <guid isPermaLink="true">https://x.com/AREdotNA/status/2103155233270444340</guid>
+      <pubDate>Thu, 24 Sep 2026 16:10:57 GMT</pubDate>
+      <author>@AREdotNA</author>
+      <description><![CDATA[<p>niche, but amazing: the best implementation of scroll restoration we&apos;ve ever had has just deployed to the web app.<br><br>observe the deep rabbit hole traversal and subsequent backing out of, all with each channel&apos;s scroll position maintained...</p>]]></description>
+    </item>
+    <item>
       <title>Notes now centre exactly where you click inside a rotated frame, instead of landing off to the side.</title>
       <link>https://x.com/tldraw/status/2103152044878201237</link>
       <guid isPermaLink="true">https://x.com/tldraw/status/2103152044878201237</guid>
@@ -260,7 +308,7 @@
       <guid isPermaLink="true">https://x.com/paper/status/2102453372175687850</guid>
       <pubDate>Tue, 22 Sep 2026 17:42:00 GMT</pubDate>
       <author>@paper</author>
-      <description><![CDATA[<p>Proud to partner with Quiver to deliver the best possible SVG generation!<br><br>Check out the new Arrow 2.0 and Telos models, available today in Paper</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2102451911018622976/img/6hhqRovq_iA_cxVS.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Proud to partner with Quiver to deliver the best possible SVG generation!<br><br>Check out the new Arrow 2.0 and Telos models, available today in Paper</p>]]></description>
     </item>
     <item>
       <title>We just shipped Quiver 2.0 in @paper This is the best SVG generation possible, it&apos;s an incredible leap</title>
@@ -300,7 +348,7 @@
       <guid isPermaLink="true">https://x.com/avstorm/status/2102422628216852965</guid>
       <pubDate>Tue, 22 Sep 2026 15:39:50 GMT</pubDate>
       <author>@avstorm</author>
-      <description><![CDATA[<p>Behind the Design of the new Beats 360</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2102422405784158208/img/QCSpIG69Emot6pwV.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Behind the Design of the new Beats 360</p>]]></description>
     </item>
     <item>
       <title>Holding Z to zoom sometimes flipped the toolbar to the wrong tool, or left it stuck on zoom.</title>
@@ -348,7 +396,7 @@
       <guid isPermaLink="true">https://x.com/avstorm/status/2102373594756247738</guid>
       <pubDate>Tue, 22 Sep 2026 12:24:59 GMT</pubDate>
       <author>@avstorm</author>
-      <description><![CDATA[<p>Nice detail in the footer<br><br>https://mclaren.com/cars/gl_en/post/our-new-brand-world…</p>]]></description>
+      <description><![CDATA[<p>Nice detail in the footer<br><br>https://mclaren.com/cars/gl_en/post/our-new-brand-world…</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2102373405051740160/img/kEBSu0-yaZWIIMLh.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>McLaren got a rebrand</title>
@@ -732,7 +780,7 @@
       <guid isPermaLink="true">https://x.com/paper/status/2101054327054033021</guid>
       <pubDate>Fri, 18 Sep 2026 21:02:41 GMT</pubDate>
       <author>@paper</author>
-      <description><![CDATA[<p>Next level</p>]]></description>
+      <description><![CDATA[<p>Next level</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2101053669039071233/img/rtXQkuJgsE3tElfz.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Code to design in one tutorial video</title>
@@ -740,7 +788,7 @@
       <guid isPermaLink="true">https://x.com/paper/status/2101017666605789499</guid>
       <pubDate>Fri, 18 Sep 2026 18:37:01 GMT</pubDate>
       <author>@paper</author>
-      <description><![CDATA[<p>Code to design in one tutorial video</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2101009903909515264/img/x6_DLCZo2_XCOVMo.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Code to design in one tutorial video</p>]]></description>
     </item>
     <item>
       <title>Very common question: how do I get my codebase components onto the Paper canvas? New tutorial from Harcourt!</title>
@@ -860,7 +908,7 @@
       <guid isPermaLink="true">https://x.com/AREdotNA/status/2100628681534120128</guid>
       <pubDate>Thu, 17 Sep 2026 16:51:20 GMT</pubDate>
       <author>@AREdotNA</author>
-      <description><![CDATA[<p>++</p>]]></description>
+      <description><![CDATA[<p>++</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2100626119649284096/img/fxeodnivpe8BgU6i.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>a 74-second TL;DR on active noise cancelling in tldraw offline</title>
@@ -1557,54 +1605,6 @@
       <pubDate>Fri, 11 Sep 2026 11:57:07 GMT</pubDate>
       <author>@vladmoroz</author>
       <description><![CDATA[<p>Just added a little aid to copy a design out of Paper as PNG or as code</p><p><img src="https://pbs.twimg.com/media/HR7xlasbEAACVYl?format=png&amp;name=small" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>Read “If code is solved, what now?: Measuring the sloppiness of code”</title>
-      <link>https://x.com/pidotdev/status/2098373492362428683</link>
-      <guid isPermaLink="true">https://x.com/pidotdev/status/2098373492362428683</guid>
-      <pubDate>Fri, 11 Sep 2026 11:30:01 GMT</pubDate>
-      <author>@pidotdev</author>
-      <description><![CDATA[<p>Read “If code is solved, what now?: Measuring the sloppiness of code”</p>]]></description>
-    </item>
-    <item>
-      <title>When code is abundant quality becomes the differentiator, but what is good code? New blog post from Earendil</title>
-      <link>https://x.com/pidotdev/status/2098373491586425056</link>
-      <guid isPermaLink="true">https://x.com/pidotdev/status/2098373491586425056</guid>
-      <pubDate>Fri, 11 Sep 2026 11:30:00 GMT</pubDate>
-      <author>@pidotdev</author>
-      <description><![CDATA[<p>When code is abundant quality becomes the differentiator, but what is good code?<br><br>New blog post from Earendil engineer @SebastianBaye on why quantifying the ‘sloppiness’ of code is difficult, which eval methods don’t work well, and what metrics matter. <br><br>Link to the post below</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2098362691223990282/img/3kbtZcC0pe9vE1uc.jpg" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>You can now remix this in tldraw flash! https://flash.tldraw.com/f/flash-o1e47cl5ge9twqvb…</title>
-      <link>https://x.com/tldraw/status/2098371223629807740</link>
-      <guid isPermaLink="true">https://x.com/tldraw/status/2098371223629807740</guid>
-      <pubDate>Fri, 11 Sep 2026 11:21:00 GMT</pubDate>
-      <author>@tldraw</author>
-      <description><![CDATA[<p>You can now remix this in tldraw flash! https://flash.tldraw.com/f/flash-o1e47cl5ge9twqvb…</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2097983349138829312/img/0RdH6ygcd0uu3oqK.jpg" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>As of this week&apos;s release, holding the right shift key while pressing the arrow keys to nudge shapes</title>
-      <link>https://x.com/tldraw/status/2098366231405592796</link>
-      <guid isPermaLink="true">https://x.com/tldraw/status/2098366231405592796</guid>
-      <pubDate>Fri, 11 Sep 2026 11:01:09 GMT</pubDate>
-      <author>@tldraw</author>
-      <description><![CDATA[<p>As of this week&apos;s release, holding the right shift key while pressing the arrow keys to nudge shapes will do a &quot;big nudge&quot; in the same way as does holding the left shift key.<br><br>sorry, we&apos;re running out of bugs over here</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2098366193128370176/img/wQrHvw7I-xZ4Gwr7.jpg" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>Love that shot</title>
-      <link>https://x.com/avstorm/status/2098335802040144069</link>
-      <guid isPermaLink="true">https://x.com/avstorm/status/2098335802040144069</guid>
-      <pubDate>Fri, 11 Sep 2026 09:00:15 GMT</pubDate>
-      <author>@avstorm</author>
-      <description><![CDATA[<p>Love that shot</p><p><img src="https://pbs.twimg.com/media/HR7JOKQWMAUcGdF?format=jpg&amp;name=small" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>Great design starts from the inside out</title>
-      <link>https://x.com/avstorm/status/2098333842515939395</link>
-      <guid isPermaLink="true">https://x.com/avstorm/status/2098333842515939395</guid>
-      <pubDate>Fri, 11 Sep 2026 08:52:27 GMT</pubDate>
-      <author>@avstorm</author>
-      <description><![CDATA[<p>Great design starts from the inside out</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2098333154171863042/img/Y9yTkcHqbyp0KAd6.jpg" alt=""></p>]]></description>
     </item>
   </channel>
 </rss>
