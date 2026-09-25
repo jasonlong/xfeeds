@@ -7,6 +7,14 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>I love the idea of complementing the user&apos;s shell. Augmenting their experience rather than attempting to hijack it.</title>
+      <link>https://x.com/almonk/status/2103572918680645870</link>
+      <guid isPermaLink="true">https://x.com/almonk/status/2103572918680645870</guid>
+      <pubDate>Fri, 25 Sep 2026 19:50:40 GMT</pubDate>
+      <author>@almonk</author>
+      <description><![CDATA[<p>I love the idea of complementing the user&apos;s shell. Augmenting their experience rather than attempting to hijack it.<br><br>Our latest experiment allow you to insert a path to ✨anything, anywhere✨ with instant fuzzy matching as well as traditional path navigation. <br><br>As useful for your</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2103572772110606336/img/ESWnoc9jknwY6iox.jpg" alt=""></p>]]></description>
+    </item>
+    <item>
       <title>Media post</title>
       <link>https://x.com/tldraw/status/2103556878274089106</link>
       <guid isPermaLink="true">https://x.com/tldraw/status/2103556878274089106</guid>
@@ -460,7 +468,7 @@
       <guid isPermaLink="true">https://x.com/almonk/status/2102444573016699297</guid>
       <pubDate>Tue, 22 Sep 2026 17:07:02 GMT</pubDate>
       <author>@almonk</author>
-      <description><![CDATA[<p>spent some tokens bringing ski free to 2026</p>]]></description>
+      <description><![CDATA[<p>spent some tokens bringing ski free to 2026</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2102443748131323904/img/nmSmFXblbOsPd71y.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Hello opus. If you want it in pi, wait or pi update --models</title>
@@ -852,7 +860,7 @@
       <guid isPermaLink="true">https://x.com/almonk/status/2101307051087430097</guid>
       <pubDate>Sat, 19 Sep 2026 13:46:56 GMT</pubDate>
       <author>@almonk</author>
-      <description><![CDATA[<p>Eventually we won’t need these kind of affordances anymore, but in the terminal, and particularly over traditional ssh, copy behaviour is so flaky that having the assurance that it’s working takes some of the guesswork out of it</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2101298108160262144/img/gUjExEwaz_iiN-7Q.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Eventually we won’t need these kind of affordances anymore, but in the terminal, and particularly over traditional ssh, copy behaviour is so flaky that having the assurance that it’s working takes some of the guesswork out of it</p>]]></description>
     </item>
     <item>
       <title>importing your ghostty config to @superlogical is a moment to celebrate, right?</title>
@@ -860,7 +868,7 @@
       <guid isPermaLink="true">https://x.com/almonk/status/2101298597811679433</guid>
       <pubDate>Sat, 19 Sep 2026 13:13:20 GMT</pubDate>
       <author>@almonk</author>
-      <description><![CDATA[<p>importing your ghostty config to @superlogical is a moment to celebrate, right?</p>]]></description>
+      <description><![CDATA[<p>importing your ghostty config to @superlogical is a moment to celebrate, right?</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2101298493390237697/img/uWXlnI6xbhfQ0IDp.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>playing with some subtle feedback for copying selected text out the terminal</title>
@@ -884,7 +892,7 @@
       <guid isPermaLink="true">https://x.com/almonk/status/2101248354059510257</guid>
       <pubDate>Sat, 19 Sep 2026 09:53:41 GMT</pubDate>
       <author>@almonk</author>
-      <description><![CDATA[<p>Tried this out - it’s super impressive and absolutely covers ~90% of what I use photoshop for these days.</p>]]></description>
+      <description><![CDATA[<p>Tried this out - it’s super impressive and absolutely covers ~90% of what I use photoshop for these days.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2100944886430400512/img/QzxiKydHnmbNmWI-.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Much more, same price</title>
@@ -1412,7 +1420,7 @@
       <guid isPermaLink="true">https://x.com/almonk/status/2099629252710678875</guid>
       <pubDate>Mon, 14 Sep 2026 22:39:57 GMT</pubDate>
       <author>@almonk</author>
-      <description><![CDATA[<p>Anything you can do in the ui you can do in the cli (and actually more). I&apos;m using our cli every day to automate all sorts of stuff in our terminal multiplexer: creating environment workspaces, populating layouts, orchestrating multiple agents...</p>]]></description>
+      <description><![CDATA[<p>Anything you can do in the ui you can do in the cli (and actually more). I&apos;m using our cli every day to automate all sorts of stuff in our terminal multiplexer: creating environment workspaces, populating layouts, orchestrating multiple agents...</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2099620779042480128/img/fCUSEzKBJdKiH8OG.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>New week new demo! Today I want to showcase the CLI to control the @superlogical multiplexer. The CLI</title>
@@ -1597,14 +1605,6 @@
       <pubDate>Sat, 12 Sep 2026 16:32:14 GMT</pubDate>
       <author>@karpathy</author>
       <description><![CDATA[<p>I love this and really hope we can come together as an industry and make it happen.</p><p><img src="https://pbs.twimg.com/media/HSB1FkpboAAyGr5?format=png&amp;name=small" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>In the next version of tldraw, the &quot;Frame selection&quot; action will support wrapping a single shape in a</title>
-      <link>https://x.com/tldraw/status/2098773427830337548</link>
-      <guid isPermaLink="true">https://x.com/tldraw/status/2098773427830337548</guid>
-      <pubDate>Sat, 12 Sep 2026 13:59:13 GMT</pubDate>
-      <author>@tldraw</author>
-      <description><![CDATA[<p>In the next version of tldraw, the &quot;Frame selection&quot; action will support wrapping a single shape in a new frame. Previously, you could only use this operation with multiple shapes selected.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2098773376454234112/img/FkXHE7ISsNFhrx5R.jpg" alt=""></p>]]></description>
     </item>
   </channel>
 </rss>
