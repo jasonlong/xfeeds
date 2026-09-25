@@ -7,6 +7,14 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>due to a recent deploy, average response time went from 81ms to 68ms. have a great day everyone.</title>
+      <link>https://x.com/AREdotNA/status/2103505392185561463</link>
+      <guid isPermaLink="true">https://x.com/AREdotNA/status/2103505392185561463</guid>
+      <pubDate>Fri, 25 Sep 2026 15:22:21 GMT</pubDate>
+      <author>@AREdotNA</author>
+      <description><![CDATA[<p>due to a recent deploy, average response time went from 81ms to 68ms.<br><br>have a great day everyone.</p>]]></description>
+    </item>
+    <item>
       <title>macOS versions and codenames</title>
       <link>https://x.com/avstorm/status/2103493387949388210</link>
       <guid isPermaLink="true">https://x.com/avstorm/status/2103493387949388210</guid>
@@ -132,7 +140,7 @@
       <guid isPermaLink="true">https://x.com/AREdotNA/status/2103156508296949970</guid>
       <pubDate>Thu, 24 Sep 2026 16:16:00 GMT</pubDate>
       <author>@AREdotNA</author>
-      <description><![CDATA[<p>this is our favorite kind of improvement, the kind that one might never even notice (but is actually extremely luxurious)</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2103154335559344128/img/lqjPDnfV9H-9nW3q.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>this is our favorite kind of improvement, the kind that one might never even notice (but is actually extremely luxurious)</p>]]></description>
     </item>
     <item>
       <title>niche, but amazing: the best implementation of scroll restoration we&apos;ve ever had has just deployed to the web</title>
@@ -140,7 +148,7 @@
       <guid isPermaLink="true">https://x.com/AREdotNA/status/2103155233270444340</guid>
       <pubDate>Thu, 24 Sep 2026 16:10:57 GMT</pubDate>
       <author>@AREdotNA</author>
-      <description><![CDATA[<p>niche, but amazing: the best implementation of scroll restoration we&apos;ve ever had has just deployed to the web app.<br><br>observe the deep rabbit hole traversal and subsequent backing out of, all with each channel&apos;s scroll position maintained...</p>]]></description>
+      <description><![CDATA[<p>niche, but amazing: the best implementation of scroll restoration we&apos;ve ever had has just deployed to the web app.<br><br>observe the deep rabbit hole traversal and subsequent backing out of, all with each channel&apos;s scroll position maintained...</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2103154335559344128/img/lqjPDnfV9H-9nW3q.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Notes now centre exactly where you click inside a rotated frame, instead of landing off to the side.</title>
@@ -292,7 +300,7 @@
       <guid isPermaLink="true">https://x.com/avstorm/status/2102786617459298670</guid>
       <pubDate>Wed, 23 Sep 2026 15:46:12 GMT</pubDate>
       <author>@avstorm</author>
-      <description><![CDATA[<p>Behind the scenes of the Apple Games commercial</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2102786184560754688/img/1ojXeKyS5o2lchmW.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Behind the scenes of the Apple Games commercial</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2102786103111528448/img/GL6nvck5ALeXDNle.jpg" alt=""></p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2102786184560754688/img/1ojXeKyS5o2lchmW.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>new Earendil Pi extension, pi-voice, built by CJ Pais (creator of Handy) npm install -g @earendil-works/pi-voice https://npmjs.com/package/@earendil-works/pi-voice…</title>
@@ -436,7 +444,7 @@
       <guid isPermaLink="true">https://x.com/avstorm/status/2102422628216852965</guid>
       <pubDate>Tue, 22 Sep 2026 15:39:50 GMT</pubDate>
       <author>@avstorm</author>
-      <description><![CDATA[<p>Behind the Design of the new Beats 360</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2102422405784158208/img/QCSpIG69Emot6pwV.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Behind the Design of the new Beats 360</p>]]></description>
     </item>
     <item>
       <title>Holding Z to zoom sometimes flipped the toolbar to the wrong tool, or left it stuck on zoom.</title>
@@ -484,7 +492,7 @@
       <guid isPermaLink="true">https://x.com/avstorm/status/2102373594756247738</guid>
       <pubDate>Tue, 22 Sep 2026 12:24:59 GMT</pubDate>
       <author>@avstorm</author>
-      <description><![CDATA[<p>Nice detail in the footer<br><br>https://mclaren.com/cars/gl_en/post/our-new-brand-world…</p>]]></description>
+      <description><![CDATA[<p>Nice detail in the footer<br><br>https://mclaren.com/cars/gl_en/post/our-new-brand-world…</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2102373405051740160/img/kEBSu0-yaZWIIMLh.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>McLaren got a rebrand</title>
@@ -620,7 +628,7 @@
       <guid isPermaLink="true">https://x.com/avstorm/status/2102125356132016332</guid>
       <pubDate>Mon, 21 Sep 2026 19:58:35 GMT</pubDate>
       <author>@avstorm</author>
-      <description><![CDATA[<p>macOS 27.2 beta 2 brings new volume and brightness HUDs</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2102124802999730176/img/DJzUZf-QFWSUq432.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>macOS 27.2 beta 2 brings new volume and brightness HUDs</p>]]></description>
     </item>
     <item>
       <title>The dynamic Big Sur wallpaper is still one of Apple’s best. It never gets old.</title>
@@ -628,7 +636,7 @@
       <guid isPermaLink="true">https://x.com/avstorm/status/2102121088725434737</guid>
       <pubDate>Mon, 21 Sep 2026 19:41:37 GMT</pubDate>
       <author>@avstorm</author>
-      <description><![CDATA[<p>The dynamic Big Sur wallpaper is still one of Apple’s best. It never gets old.</p>]]></description>
+      <description><![CDATA[<p>The dynamic Big Sur wallpaper is still one of Apple’s best. It never gets old.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2102119983920627712/img/p4e0EzKJIcKnAyY1.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Do we have some iPhone 18 Pro users already? Both zerocam &amp; zerotake</title>
@@ -652,7 +660,7 @@
       <guid isPermaLink="true">https://x.com/avstorm/status/2102098222747398166</guid>
       <pubDate>Mon, 21 Sep 2026 18:10:46 GMT</pubDate>
       <author>@avstorm</author>
-      <description><![CDATA[<p>Search to Siri animation in macOS 27.2 beta 2</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2102098127100444672/img/r5LqqXDZSQLX1TYA.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Search to Siri animation in macOS 27.2 beta 2</p>]]></description>
     </item>
     <item>
       <title>Love the aperture &quot;o&quot; in the new iPhone 18 Pro lettering.</title>
@@ -812,7 +820,7 @@
       <guid isPermaLink="true">https://x.com/almonk/status/2101298597811679433</guid>
       <pubDate>Sat, 19 Sep 2026 13:13:20 GMT</pubDate>
       <author>@almonk</author>
-      <description><![CDATA[<p>importing your ghostty config to @superlogical is a moment to celebrate, right?</p>]]></description>
+      <description><![CDATA[<p>importing your ghostty config to @superlogical is a moment to celebrate, right?</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2101298493390237697/img/uWXlnI6xbhfQ0IDp.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>playing with some subtle feedback for copying selected text out the terminal</title>
@@ -820,7 +828,7 @@
       <guid isPermaLink="true">https://x.com/almonk/status/2101298258706362515</guid>
       <pubDate>Sat, 19 Sep 2026 13:11:59 GMT</pubDate>
       <author>@almonk</author>
-      <description><![CDATA[<p>playing with some subtle feedback for copying selected text out the terminal</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2101298108160262144/img/gUjExEwaz_iiN-7Q.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>playing with some subtle feedback for copying selected text out the terminal</p>]]></description>
     </item>
     <item>
       <title>@jaredpalmer we did it bud</title>
@@ -836,7 +844,7 @@
       <guid isPermaLink="true">https://x.com/almonk/status/2101248354059510257</guid>
       <pubDate>Sat, 19 Sep 2026 09:53:41 GMT</pubDate>
       <author>@almonk</author>
-      <description><![CDATA[<p>Tried this out - it’s super impressive and absolutely covers ~90% of what I use photoshop for these days.</p>]]></description>
+      <description><![CDATA[<p>Tried this out - it’s super impressive and absolutely covers ~90% of what I use photoshop for these days.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2100944886430400512/img/QzxiKydHnmbNmWI-.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Much more, same price</title>
@@ -1364,7 +1372,7 @@
       <guid isPermaLink="true">https://x.com/almonk/status/2099629252710678875</guid>
       <pubDate>Mon, 14 Sep 2026 22:39:57 GMT</pubDate>
       <author>@almonk</author>
-      <description><![CDATA[<p>Anything you can do in the ui you can do in the cli (and actually more). I&apos;m using our cli every day to automate all sorts of stuff in our terminal multiplexer: creating environment workspaces, populating layouts, orchestrating multiple agents...</p>]]></description>
+      <description><![CDATA[<p>Anything you can do in the ui you can do in the cli (and actually more). I&apos;m using our cli every day to automate all sorts of stuff in our terminal multiplexer: creating environment workspaces, populating layouts, orchestrating multiple agents...</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2099620779042480128/img/fCUSEzKBJdKiH8OG.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>New week new demo! Today I want to showcase the CLI to control the @superlogical multiplexer. The CLI</title>
@@ -1597,14 +1605,6 @@
       <pubDate>Fri, 11 Sep 2026 20:16:58 GMT</pubDate>
       <author>@zerocam_app</author>
       <description><![CDATA[<p>🐛 bug on Zerocam:<br><br>We recently migrated to company account in the App Store, so you may have issues to restore lifetime purchase.<br><br>We are working on it, sorry for the inconvenience 🙏</p>]]></description>
-    </item>
-    <item>
-      <title>And upset the delicate balance of compute between arrow inference and arrow research? I think not</title>
-      <link>https://x.com/tldraw/status/2098478397273866250</link>
-      <guid isPermaLink="true">https://x.com/tldraw/status/2098478397273866250</guid>
-      <pubDate>Fri, 11 Sep 2026 18:26:52 GMT</pubDate>
-      <author>@tldraw</author>
-      <description><![CDATA[<p>And upset the delicate balance of compute between arrow inference and arrow research? I think not</p>]]></description>
     </item>
   </channel>
 </rss>
