@@ -7,6 +7,14 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>We&apos;ve had this feature for less than 24 hours in our nightly releases and I already can&apos;t imagine</title>
+      <link>https://x.com/mitchellh/status/2103590567498457265</link>
+      <guid isPermaLink="true">https://x.com/mitchellh/status/2103590567498457265</guid>
+      <pubDate>Fri, 25 Sep 2026 21:00:48 GMT</pubDate>
+      <author>@mitchellh</author>
+      <description><![CDATA[<p>We&apos;ve had this feature for less than 24 hours in our nightly releases and I already can&apos;t imagine working without it.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2103572772110606336/img/ESWnoc9jknwY6iox.jpg" alt=""></p>]]></description>
+    </item>
+    <item>
       <title>I love the idea of complementing the user&apos;s shell. Augmenting their experience rather than attempting to hijack it.</title>
       <link>https://x.com/almonk/status/2103572918680645870</link>
       <guid isPermaLink="true">https://x.com/almonk/status/2103572918680645870</guid>
@@ -836,7 +844,7 @@
       <guid isPermaLink="true">https://x.com/mitchellh/status/2101320128667529496</guid>
       <pubDate>Sat, 19 Sep 2026 14:38:53 GMT</pubDate>
       <author>@mitchellh</author>
-      <description><![CDATA[<p>Software should be fun. It should make you feel something, positive hopefully. Utilitarian software is the worst. The human experience is why life is worth living (even for something as teeny tiny as a terminal).</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2101298493390237697/img/uWXlnI6xbhfQ0IDp.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Software should be fun. It should make you feel something, positive hopefully. Utilitarian software is the worst. The human experience is why life is worth living (even for something as teeny tiny as a terminal).</p>]]></description>
     </item>
     <item>
       <title>One from the archives: how our freehand ink algorithm works</title>
@@ -1348,7 +1356,7 @@
       <guid isPermaLink="true">https://x.com/mitchellh/status/2099915915056074807</guid>
       <pubDate>Tue, 15 Sep 2026 17:39:03 GMT</pubDate>
       <author>@mitchellh</author>
-      <description><![CDATA[<p>After all, why shouldn&apos;t we [ab]use the CLI to recreate 2048 in the Superlogical multiplexer? Amazing work by a tester, not by me. The final boss will be getting DOOM running where every pixel is its own terminal. Software should be fun.</p>]]></description>
+      <description><![CDATA[<p>After all, why shouldn&apos;t we [ab]use the CLI to recreate 2048 in the Superlogical multiplexer? Amazing work by a tester, not by me. The final boss will be getting DOOM running where every pixel is its own terminal. Software should be fun.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2099915469293867009/img/bkOWe9FQkUnXaOob.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Excited to show some behind-the-scenes of our work at Paper, come over!</title>
@@ -1428,7 +1436,7 @@
       <guid isPermaLink="true">https://x.com/mitchellh/status/2099622049325232505</guid>
       <pubDate>Mon, 14 Sep 2026 22:11:20 GMT</pubDate>
       <author>@mitchellh</author>
-      <description><![CDATA[<p>New week new demo! Today I want to showcase the CLI to control the @superlogical multiplexer. The CLI is an extremely powerful tool for automation and hooking into other tools like editors, agentic coding tools, and more. And, it&apos;s super fun!<br><br>Everything you can do in the GUI,</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2099620779042480128/img/fCUSEzKBJdKiH8OG.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>New week new demo! Today I want to showcase the CLI to control the @superlogical multiplexer. The CLI is an extremely powerful tool for automation and hooking into other tools like editors, agentic coding tools, and more. And, it&apos;s super fun!<br><br>Everything you can do in the GUI,</p>]]></description>
     </item>
     <item>
       <title>We need this Siri drop animation on macOS</title>
@@ -1597,14 +1605,6 @@
       <pubDate>Sun, 13 Sep 2026 08:00:01 GMT</pubDate>
       <author>@pidotdev</author>
       <description><![CDATA[<p>Good morning from Vienna People of Pi🌞 Sunday meditations today from<br><br>@badlogicgames and @mitsuhiko <br><br>Among other things: <br>- agents that generate too much code poison their own  context (slippery slop)<br>- code matters wherever control matters<br>- unreadable code from Astra</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2098748958965215239/img/tJEBWqddFRnni15d.jpg" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>I love this and really hope we can come together as an industry and make it happen.</title>
-      <link>https://x.com/karpathy/status/2098811935114551617</link>
-      <guid isPermaLink="true">https://x.com/karpathy/status/2098811935114551617</guid>
-      <pubDate>Sat, 12 Sep 2026 16:32:14 GMT</pubDate>
-      <author>@karpathy</author>
-      <description><![CDATA[<p>I love this and really hope we can come together as an industry and make it happen.</p><p><img src="https://pbs.twimg.com/media/HSB1FkpboAAyGr5?format=png&amp;name=small" alt=""></p>]]></description>
     </item>
   </channel>
 </rss>
