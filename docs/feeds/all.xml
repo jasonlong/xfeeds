@@ -7,6 +7,14 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>So good, that parallel lines 🤌</title>
+      <link>https://x.com/zerocam_app/status/2103827824436011254</link>
+      <guid isPermaLink="true">https://x.com/zerocam_app/status/2103827824436011254</guid>
+      <pubDate>Sat, 26 Sep 2026 12:43:35 GMT</pubDate>
+      <author>@zerocam_app</author>
+      <description><![CDATA[<p>So good, that parallel lines 🤌</p><p><img src="https://pbs.twimg.com/media/HTIu2CGWcAA3A41?format=jpg&amp;name=small" alt=""></p>]]></description>
+    </item>
+    <item>
       <title>No syntax highlighting, no line numbers, just living in the moment.</title>
       <link>https://x.com/almonk/status/2103788200594682308</link>
       <guid isPermaLink="true">https://x.com/almonk/status/2103788200594682308</guid>
@@ -1597,14 +1605,6 @@
       <pubDate>Mon, 14 Sep 2026 14:25:02 GMT</pubDate>
       <author>@avstorm</author>
       <description><![CDATA[<p>Apple’s Mickey Mouse pointers are kind of making a comeback in macOS 27</p><p><img src="https://pbs.twimg.com/media/HSLtGOTXAAAjDUC?format=png&amp;name=small" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>Launch day.</title>
-      <link>https://x.com/shadcn/status/2099502497400336714</link>
-      <guid isPermaLink="true">https://x.com/shadcn/status/2099502497400336714</guid>
-      <pubDate>Mon, 14 Sep 2026 14:16:16 GMT</pubDate>
-      <author>@shadcn</author>
-      <description><![CDATA[<p>Launch day.</p>]]></description>
     </item>
   </channel>
 </rss>
