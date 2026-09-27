@@ -7,6 +7,14 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>Hi people of Pi. Greetings from Vienna. Enjoy your weekend and spend some time with humans. And consistent</title>
+      <link>https://x.com/pidotdev/status/2104153144481447999</link>
+      <guid isPermaLink="true">https://x.com/pidotdev/status/2104153144481447999</guid>
+      <pubDate>Sun, 27 Sep 2026 10:16:17 GMT</pubDate>
+      <author>@pidotdev</author>
+      <description><![CDATA[<p>Hi people of Pi. Greetings from Vienna. Enjoy your weekend and spend some time with humans.<br><br>And consistent with that message, we&apos;re moving our Sunday videos to Monday.</p><p><img src="https://pbs.twimg.com/media/HTNzxY7WsAAhSXq?format=jpg&amp;name=small" alt=""></p>]]></description>
+    </item>
+    <item>
       <title>Welcome to tldraw sleep, a series of videos on topics we think are interesting. Tonight&apos;s episode is The</title>
       <link>https://x.com/tldraw/status/2103982698989572167</link>
       <guid isPermaLink="true">https://x.com/tldraw/status/2103982698989572167</guid>
@@ -604,7 +612,7 @@
       <guid isPermaLink="true">https://x.com/pidotdev/status/2102440073710969325</guid>
       <pubDate>Tue, 22 Sep 2026 16:49:09 GMT</pubDate>
       <author>@pidotdev</author>
-      <description><![CDATA[<p>Hello opus. If you want it in pi, wait or pi update --models</p><p><img src="https://pbs.twimg.com/media/HS1aPgYWMAAP9sw.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Hello opus. If you want it in pi, wait or pi update --models</p>]]></description>
     </item>
     <item>
       <title>Media post</title>
@@ -932,7 +940,7 @@
       <guid isPermaLink="true">https://x.com/pidotdev/status/2101672600237646305</guid>
       <pubDate>Sun, 20 Sep 2026 13:59:29 GMT</pubDate>
       <author>@pidotdev</author>
-      <description><![CDATA[<p>Good afternoon from Vienna People of Pi ☀️<br><br>Some slightly different Sunday meditations today in which @mitsuhiko talks about some shared frustrations with agentic software engineering.<br><br>Remember that you&apos;re not alone in finding it harder than it looks!</p>]]></description>
+      <description><![CDATA[<p>Good afternoon from Vienna People of Pi ☀️<br><br>Some slightly different Sunday meditations today in which @mitsuhiko talks about some shared frustrations with agentic software engineering.<br><br>Remember that you&apos;re not alone in finding it harder than it looks!</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2101672446218649600/img/4BhGSRCqWTEqtzir.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>We learned two things: 1) /bug is being used 2) and the most common cause of crashes right</title>
@@ -1108,7 +1116,7 @@
       <guid isPermaLink="true">https://x.com/pidotdev/status/2100935860413673605</guid>
       <pubDate>Fri, 18 Sep 2026 13:11:57 GMT</pubDate>
       <author>@pidotdev</author>
-      <description><![CDATA[<p>&quot;Pi reaches the Pareto frontier on both benchmarks by providing just four tools: read, write, edit, and bash. To understand how harness design affects spending, we examine costs across completed attempts, recorded turn counts, and initial context.&quot; <br><br>Sharing this analysis on the</p>]]></description>
+      <description><![CDATA[<p>&quot;Pi reaches the Pareto frontier on both benchmarks by providing just four tools: read, write, edit, and bash. To understand how harness design affects spending, we examine costs across completed attempts, recorded turn counts, and initial context.&quot; <br><br>Sharing this analysis on the</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2100934729029619713/img/ApCS2YVnNA16T_zw.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>iPhone Pro header animations just hit different.</title>
@@ -1556,7 +1564,7 @@
       <guid isPermaLink="true">https://x.com/mitchellh/status/2099622049325232505</guid>
       <pubDate>Mon, 14 Sep 2026 22:11:20 GMT</pubDate>
       <author>@mitchellh</author>
-      <description><![CDATA[<p>New week new demo! Today I want to showcase the CLI to control the @superlogical multiplexer. The CLI is an extremely powerful tool for automation and hooking into other tools like editors, agentic coding tools, and more. And, it&apos;s super fun!<br><br>Everything you can do in the GUI,</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2099620779042480128/img/fCUSEzKBJdKiH8OG.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>New week new demo! Today I want to showcase the CLI to control the @superlogical multiplexer. The CLI is an extremely powerful tool for automation and hooking into other tools like editors, agentic coding tools, and more. And, it&apos;s super fun!<br><br>Everything you can do in the GUI,</p>]]></description>
     </item>
     <item>
       <title>We need this Siri drop animation on macOS</title>
@@ -1597,14 +1605,6 @@
       <pubDate>Mon, 14 Sep 2026 16:25:30 GMT</pubDate>
       <author>@AREdotNA</author>
       <description><![CDATA[<p></p>]]></description>
-    </item>
-    <item>
-      <title>The most perfect font in the world</title>
-      <link>https://x.com/AREdotNA/status/2099535014744539543</link>
-      <guid isPermaLink="true">https://x.com/AREdotNA/status/2099535014744539543</guid>
-      <pubDate>Mon, 14 Sep 2026 16:25:29 GMT</pubDate>
-      <author>@AREdotNA</author>
-      <description><![CDATA[<p>The most perfect font in the world</p><p><img src="https://pbs.twimg.com/media/HSMLve8XAAEHblb?format=jpg&amp;name=small" alt=""></p>]]></description>
     </item>
   </channel>
 </rss>
