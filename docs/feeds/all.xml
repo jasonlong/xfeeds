@@ -7,6 +7,14 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>pi update --models</title>
+      <link>https://x.com/pidotdev/status/2104644933990875436</link>
+      <guid isPermaLink="true">https://x.com/pidotdev/status/2104644933990875436</guid>
+      <pubDate>Mon, 28 Sep 2026 18:50:29 GMT</pubDate>
+      <author>@pidotdev</author>
+      <description><![CDATA[<p>pi update --models</p><p><img src="https://pbs.twimg.com/media/HTUthyeWIAAInna.jpg" alt=""></p>]]></description>
+    </item>
+    <item>
       <title>sadly I&apos;ve created the ultimate design tool</title>
       <link>https://x.com/tldraw/status/2104630655271501951</link>
       <guid isPermaLink="true">https://x.com/tldraw/status/2104630655271501951</guid>
@@ -244,7 +252,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2103609103797125381</guid>
       <pubDate>Fri, 25 Sep 2026 22:14:28 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p></p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2103609048268460032/img/AqEqWF4OmGL-ALvl.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p></p>]]></description>
     </item>
     <item>
       <title>preparing to launch</title>
@@ -252,7 +260,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2103596537297387714</guid>
       <pubDate>Fri, 25 Sep 2026 21:24:32 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>preparing to launch</p>]]></description>
+      <description><![CDATA[<p>preparing to launch</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2103596479361196032/img/GT-GeXKiRcdMplti.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>We&apos;ve had this feature for less than 24 hours in our nightly releases and I already can&apos;t imagine</title>
@@ -300,7 +308,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2103533038495801747</guid>
       <pubDate>Fri, 25 Sep 2026 17:12:12 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p></p>]]></description>
+      <description><![CDATA[<p></p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2103532989304963073/img/LSLSFkFyMS1RMDnp.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>In the latest version of https://tldraw.com, lists stay put when you triple-click a bullet to select it.</title>
@@ -732,7 +740,7 @@
       <guid isPermaLink="true">https://x.com/pidotdev/status/2102440073710969325</guid>
       <pubDate>Tue, 22 Sep 2026 16:49:09 GMT</pubDate>
       <author>@pidotdev</author>
-      <description><![CDATA[<p>Hello opus. If you want it in pi, wait or pi update --models</p>]]></description>
+      <description><![CDATA[<p>Hello opus. If you want it in pi, wait or pi update --models</p><p><img src="https://pbs.twimg.com/media/HS1aPgYWMAAP9sw.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Media post</title>
@@ -1597,14 +1605,6 @@
       <pubDate>Tue, 15 Sep 2026 17:45:02 GMT</pubDate>
       <author>@shadcn</author>
       <description><![CDATA[<p>Why a rules file and not collocated with your components:<br><br>→ You can have one design system but different rules. Think a workspace with marketing site and a dashboard. You could allow `motion` classes on the marketing site but not the dashboard.<br><br>→ You can write rules for</p>]]></description>
-    </item>
-    <item>
-      <title>After all, why shouldn&apos;t we [ab]use the CLI to recreate 2048 in the Superlogical multiplexer? Amazing work by</title>
-      <link>https://x.com/mitchellh/status/2099915915056074807</link>
-      <guid isPermaLink="true">https://x.com/mitchellh/status/2099915915056074807</guid>
-      <pubDate>Tue, 15 Sep 2026 17:39:03 GMT</pubDate>
-      <author>@mitchellh</author>
-      <description><![CDATA[<p>After all, why shouldn&apos;t we [ab]use the CLI to recreate 2048 in the Superlogical multiplexer? Amazing work by a tester, not by me. The final boss will be getting DOOM running where every pixel is its own terminal. Software should be fun.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2099915469293867009/img/bkOWe9FQkUnXaOob.jpg" alt=""></p>]]></description>
     </item>
   </channel>
 </rss>
