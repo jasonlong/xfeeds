@@ -7,6 +7,14 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>Updated the chatbot-template to latest next, ai-sdk, shadcn/react, cn and some bug fixes. More soon.</title>
+      <link>https://x.com/shadcn/status/2104560334535086488</link>
+      <guid isPermaLink="true">https://x.com/shadcn/status/2104560334535086488</guid>
+      <pubDate>Mon, 28 Sep 2026 13:14:19 GMT</pubDate>
+      <author>@shadcn</author>
+      <description><![CDATA[<p>Updated the chatbot-template to latest next, ai-sdk, shadcn/react, cn and some bug fixes. More soon.</p>]]></description>
+    </item>
+    <item>
       <title>try it in all cities with youbike in taiwan docks, navigation, live turn-by-turn directions with voice</title>
       <link>https://x.com/ryolu_/status/2104546903807660224</link>
       <guid isPermaLink="true">https://x.com/ryolu_/status/2104546903807660224</guid>
@@ -28,7 +36,7 @@
       <guid isPermaLink="true">https://x.com/shadcn/status/2104546218689049022</guid>
       <pubDate>Mon, 28 Sep 2026 12:18:13 GMT</pubDate>
       <author>@shadcn</author>
-      <description><![CDATA[<p>We&apos;ve added dark mode support for drawings.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2089361286987468800/img/-voOR_BgBTDDc5_3.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>We&apos;ve added dark mode support for drawings.</p>]]></description>
     </item>
     <item>
       <title>Just got through an overhaul of international keyboard handling in @paper: Chinese, French, German, Spanish, and dozens of</title>
@@ -1597,14 +1605,6 @@
       <pubDate>Tue, 15 Sep 2026 15:00:25 GMT</pubDate>
       <author>@tldraw</author>
       <description><![CDATA[<p>In https://tldraw.com, stacking shapes more consistently preserves the relative positioning of shapes connected with arrows.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2099875950888718336/img/AWCLuGfwZoU_zlUh.jpg" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>almost, but the entire loop is “design it”</title>
-      <link>https://x.com/almonk/status/2099831933345689693</link>
-      <guid isPermaLink="true">https://x.com/almonk/status/2099831933345689693</guid>
-      <pubDate>Tue, 15 Sep 2026 12:05:20 GMT</pubDate>
-      <author>@almonk</author>
-      <description><![CDATA[<p>almost, but the entire loop is “design it”</p>]]></description>
     </item>
   </channel>
 </rss>
