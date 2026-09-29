@@ -7,6 +7,14 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>oh my god just put the tldraw in the app</title>
+      <link>https://x.com/tldraw/status/2104983011062104324</link>
+      <guid isPermaLink="true">https://x.com/tldraw/status/2104983011062104324</guid>
+      <pubDate>Tue, 29 Sep 2026 17:13:53 GMT</pubDate>
+      <author>@tldraw</author>
+      <description><![CDATA[<p>oh my god just put the tldraw in the app</p>]]></description>
+    </item>
+    <item>
       <title>Text you type on the canvas now reads more like typeset text on https://tldraw.com. Straight quotes curl, --</title>
       <link>https://x.com/tldraw/status/2104933773855113420</link>
       <guid isPermaLink="true">https://x.com/tldraw/status/2104933773855113420</guid>
@@ -1252,7 +1260,7 @@
       <guid isPermaLink="true">https://x.com/paper/status/2101054327054033021</guid>
       <pubDate>Fri, 18 Sep 2026 21:02:41 GMT</pubDate>
       <author>@paper</author>
-      <description><![CDATA[<p>Next level</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2101053669039071233/img/rtXQkuJgsE3tElfz.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Next level</p>]]></description>
     </item>
     <item>
       <title>Code to design in one tutorial video</title>
@@ -1260,7 +1268,7 @@
       <guid isPermaLink="true">https://x.com/paper/status/2101017666605789499</guid>
       <pubDate>Fri, 18 Sep 2026 18:37:01 GMT</pubDate>
       <author>@paper</author>
-      <description><![CDATA[<p>Code to design in one tutorial video</p>]]></description>
+      <description><![CDATA[<p>Code to design in one tutorial video</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2101009903909515264/img/x6_DLCZo2_XCOVMo.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Very common question: how do I get my codebase components onto the Paper canvas? New tutorial from Harcourt!</title>
@@ -1597,14 +1605,6 @@
       <pubDate>Wed, 16 Sep 2026 13:55:51 GMT</pubDate>
       <author>@AREdotNA</author>
       <description><![CDATA[<p>The most perfect font in the world</p><p><img src="https://pbs.twimg.com/media/HSV85odXAAATU8j?format=jpg&amp;name=small" alt=""></p><p><img src="https://pbs.twimg.com/media/HSMLve8XAAEHblb?format=jpg&amp;name=240x240" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>Sometimes you don&apos;t immediately see how clever an icon is.</title>
-      <link>https://x.com/avstorm/status/2100218395404784058</link>
-      <guid isPermaLink="true">https://x.com/avstorm/status/2100218395404784058</guid>
-      <pubDate>Wed, 16 Sep 2026 13:41:00 GMT</pubDate>
-      <author>@avstorm</author>
-      <description><![CDATA[<p>Sometimes you don&apos;t immediately see how clever an icon is.</p><p><img src="https://pbs.twimg.com/media/HSUX-QZXoAAQ5Ga?format=png&amp;name=small" alt=""></p>]]></description>
     </item>
   </channel>
 </rss>
