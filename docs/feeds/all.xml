@@ -7,6 +7,30 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>A pretty big change is that Pi now has MCP at the core. How is this even possible?</title>
+      <link>https://x.com/pidotdev/status/2104992471155696120</link>
+      <guid isPermaLink="true">https://x.com/pidotdev/status/2104992471155696120</guid>
+      <pubDate>Tue, 29 Sep 2026 17:51:28 GMT</pubDate>
+      <author>@pidotdev</author>
+      <description><![CDATA[<p>A pretty big change is that Pi now has MCP at the core. How is this even possible? What made us change our way?</p>]]></description>
+    </item>
+    <item>
+      <title>People of Pi: We’ve partnered with @OpenAI to integrate their new Sign in with ChatGPT experience. Pi users</title>
+      <link>https://x.com/pidotdev/status/2104987067138908539</link>
+      <guid isPermaLink="true">https://x.com/pidotdev/status/2104987067138908539</guid>
+      <pubDate>Tue, 29 Sep 2026 17:30:00 GMT</pubDate>
+      <author>@pidotdev</author>
+      <description><![CDATA[<p>People of Pi: We’ve partnered with @OpenAI to integrate their new Sign in with ChatGPT experience. Pi users can now access their OpenAI subscriptions and credits in Pi via one unified login flow.</p>]]></description>
+    </item>
+    <item>
+      <title>✔️</title>
+      <link>https://x.com/shadcn/status/2104986104575504478</link>
+      <guid isPermaLink="true">https://x.com/shadcn/status/2104986104575504478</guid>
+      <pubDate>Tue, 29 Sep 2026 17:26:10 GMT</pubDate>
+      <author>@shadcn</author>
+      <description><![CDATA[<p>✔️</p>]]></description>
+    </item>
+    <item>
       <title>oh my god just put the tldraw in the app</title>
       <link>https://x.com/tldraw/status/2104983011062104324</link>
       <guid isPermaLink="true">https://x.com/tldraw/status/2104983011062104324</guid>
@@ -84,7 +108,7 @@
       <guid isPermaLink="true">https://x.com/pidotdev/status/2104644933990875436</guid>
       <pubDate>Mon, 28 Sep 2026 18:50:29 GMT</pubDate>
       <author>@pidotdev</author>
-      <description><![CDATA[<p>pi update --models</p><p><img src="https://pbs.twimg.com/media/HTUthyeWIAAInna.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>pi update --models</p>]]></description>
     </item>
     <item>
       <title>sadly I&apos;ve created the ultimate design tool</title>
@@ -156,7 +180,7 @@
       <guid isPermaLink="true">https://x.com/pidotdev/status/2104510506627121451</guid>
       <pubDate>Mon, 28 Sep 2026 09:56:19 GMT</pubDate>
       <author>@pidotdev</author>
-      <description><![CDATA[<p>Welcome to our Monday Meditations. In which @badlogicgames and @mitsuhiko are talking about things that might or might not need to change in Pi given the changes in models.</p>]]></description>
+      <description><![CDATA[<p>Welcome to our Monday Meditations. In which @badlogicgames and @mitsuhiko are talking about things that might or might not need to change in Pi given the changes in models.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2104478098821447680/img/QiyKKxxOAQKMoRKH.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Liquid Glass on iOS and MacOS 27 is much better. Siri is better. Keyboard still not great for</title>
@@ -1581,30 +1605,6 @@
       <pubDate>Wed, 16 Sep 2026 15:17:06 GMT</pubDate>
       <author>@tldraw</author>
       <description><![CDATA[<p></p>]]></description>
-    </item>
-    <item>
-      <title>Use Pi to build software that shows others how to use Pi to build software</title>
-      <link>https://x.com/pidotdev/status/2100239508826394844</link>
-      <guid isPermaLink="true">https://x.com/pidotdev/status/2100239508826394844</guid>
-      <pubDate>Wed, 16 Sep 2026 15:04:54 GMT</pubDate>
-      <author>@pidotdev</author>
-      <description><![CDATA[<p>Use Pi to build software that shows others how to use Pi to build software</p>]]></description>
-    </item>
-    <item>
-      <title>We’re thrilled to welcome Baidu App on board as our newest SDK customer! Baidu App has integrated tldraw</title>
-      <link>https://x.com/tldraw/status/2100234110341955781</link>
-      <guid isPermaLink="true">https://x.com/tldraw/status/2100234110341955781</guid>
-      <pubDate>Wed, 16 Sep 2026 14:43:27 GMT</pubDate>
-      <author>@tldraw</author>
-      <description><![CDATA[<p>We’re thrilled to welcome Baidu App on board as our newest SDK customer!<br><br>Baidu App has integrated tldraw into its customer-facing platform to create AI short-form dramas. Script, storyboard, plan, and execute all in one collaborative canvas.<br><br>We look forward to seeing what</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2100233951340118016/img/O1kPlfBOPTfkfnIk.jpg" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>The most perfect font in the world</title>
-      <link>https://x.com/AREdotNA/status/2100222134312198489</link>
-      <guid isPermaLink="true">https://x.com/AREdotNA/status/2100222134312198489</guid>
-      <pubDate>Wed, 16 Sep 2026 13:55:51 GMT</pubDate>
-      <author>@AREdotNA</author>
-      <description><![CDATA[<p>The most perfect font in the world</p><p><img src="https://pbs.twimg.com/media/HSV85odXAAATU8j?format=jpg&amp;name=small" alt=""></p><p><img src="https://pbs.twimg.com/media/HSMLve8XAAEHblb?format=jpg&amp;name=240x240" alt=""></p>]]></description>
     </item>
   </channel>
 </rss>
