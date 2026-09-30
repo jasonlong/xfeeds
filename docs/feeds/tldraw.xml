@@ -13,6 +13,22 @@
     </image>
     <ttl>120</ttl>
     <item>
+      <title>This month we sent off our most expensive AI agent to find bugs and inconsistencies in the tldraw</title>
+      <link>https://x.com/tldraw/status/2105357270523724237</link>
+      <guid isPermaLink="true">https://x.com/tldraw/status/2105357270523724237</guid>
+      <pubDate>Wed, 30 Sep 2026 18:01:03 GMT</pubDate>
+      <author>@tldraw</author>
+      <description><![CDATA[<p>This month we sent off our most expensive AI agent to find bugs and inconsistencies in the tldraw SDK. We’ve spent the last month working through the findings, many of which were rare and special, some of which were even impossible to perform alone.</p>]]></description>
+    </item>
+    <item>
+      <title>Today we shipped tldraw SDK 5.5, a release all about reliability and small fixes. We’ve landed some new</title>
+      <link>https://x.com/tldraw/status/2105357258456813790</link>
+      <guid isPermaLink="true">https://x.com/tldraw/status/2105357258456813790</guid>
+      <pubDate>Wed, 30 Sep 2026 18:01:00 GMT</pubDate>
+      <author>@tldraw</author>
+      <description><![CDATA[<p>Today we shipped tldraw SDK 5.5, a release all about reliability and small fixes.<br><br>We’ve landed some new ways to work with text and shapes, including smart typography and selection wrapping in rich text, as well as better handling for pasting links. We’ve also fixed a long list</p>]]></description>
+    </item>
+    <item>
       <title>Try it here:</title>
       <link>https://x.com/tldraw/status/2105326639156744284</link>
       <guid isPermaLink="true">https://x.com/tldraw/status/2105326639156744284</guid>
@@ -82,7 +98,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2104933773855113420</guid>
       <pubDate>Tue, 29 Sep 2026 13:58:14 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>Text you type on the canvas now reads more like typeset text on https://tldraw.com. Straight quotes curl, -- becomes an em dash, and ... becomes an ellipsis. Select some text and press a bracket or quote to wrap it in one.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2104933720629411840/img/xNfXyJ8QMAxqHkPT.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Text you type on the canvas now reads more like typeset text on https://tldraw.com. Straight quotes curl, -- becomes an em dash, and ... becomes an ellipsis. Select some text and press a bracket or quote to wrap it in one.</p>]]></description>
     </item>
     <item>
       <title>Welcome to tldraw sleep, a series of videos on topics we think are interesting. Tonight&apos;s episode is about</title>
@@ -90,7 +106,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2104707475077529951</guid>
       <pubDate>Mon, 28 Sep 2026 22:59:00 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>Welcome to tldraw sleep, a series of videos on topics we think are interesting. Tonight&apos;s episode is about the Brooklyn Bridge.</p>]]></description>
+      <description><![CDATA[<p>Welcome to tldraw sleep, a series of videos on topics we think are interesting. Tonight&apos;s episode is about the Brooklyn Bridge.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2104327705206349824/img/Ca1wMEwBBu3WU_je.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>See the rest of the series here:</title>
@@ -795,22 +811,6 @@
       <pubDate>Thu, 10 Sep 2026 12:54:19 GMT</pubDate>
       <author>@tldraw</author>
       <description><![CDATA[<p>lmao</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2098030916811870208/img/vcjPPCKXaOSkDWxw.jpg" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>Join the waitlist →</title>
-      <link>https://x.com/tldraw/status/2098017985806135504</link>
-      <guid isPermaLink="true">https://x.com/tldraw/status/2098017985806135504</guid>
-      <pubDate>Thu, 10 Sep 2026 11:57:21 GMT</pubDate>
-      <author>@tldraw</author>
-      <description><![CDATA[<p>Join the waitlist →</p>]]></description>
-    </item>
-    <item>
-      <title>Audrey on building tldraw flash, tldraw&apos;s newest build with the tldraw SDK to turn handmade ideas into performed</title>
-      <link>https://x.com/tldraw/status/2098017973663666260</link>
-      <guid isPermaLink="true">https://x.com/tldraw/status/2098017973663666260</guid>
-      <pubDate>Thu, 10 Sep 2026 11:57:18 GMT</pubDate>
-      <author>@tldraw</author>
-      <description><![CDATA[<p>Audrey on building tldraw flash, tldraw&apos;s newest build with the tldraw SDK to turn handmade ideas into performed animations on the infinite canvas</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2098017899697053696/img/jFs-Z3NL_tTENXb3.jpg" alt=""></p>]]></description>
     </item>
   </channel>
 </rss>

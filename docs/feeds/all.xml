@@ -7,6 +7,22 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>This month we sent off our most expensive AI agent to find bugs and inconsistencies in the tldraw</title>
+      <link>https://x.com/tldraw/status/2105357270523724237</link>
+      <guid isPermaLink="true">https://x.com/tldraw/status/2105357270523724237</guid>
+      <pubDate>Wed, 30 Sep 2026 18:01:03 GMT</pubDate>
+      <author>@tldraw</author>
+      <description><![CDATA[<p>This month we sent off our most expensive AI agent to find bugs and inconsistencies in the tldraw SDK. We’ve spent the last month working through the findings, many of which were rare and special, some of which were even impossible to perform alone.</p>]]></description>
+    </item>
+    <item>
+      <title>Today we shipped tldraw SDK 5.5, a release all about reliability and small fixes. We’ve landed some new</title>
+      <link>https://x.com/tldraw/status/2105357258456813790</link>
+      <guid isPermaLink="true">https://x.com/tldraw/status/2105357258456813790</guid>
+      <pubDate>Wed, 30 Sep 2026 18:01:00 GMT</pubDate>
+      <author>@tldraw</author>
+      <description><![CDATA[<p>Today we shipped tldraw SDK 5.5, a release all about reliability and small fixes.<br><br>We’ve landed some new ways to work with text and shapes, including smart typography and selection wrapping in rich text, as well as better handling for pasting links. We’ve also fixed a long list</p>]]></description>
+    </item>
+    <item>
       <title>Apple has updated the Creator Studio app icons</title>
       <link>https://x.com/avstorm/status/2105346921552544028</link>
       <guid isPermaLink="true">https://x.com/avstorm/status/2105346921552544028</guid>
@@ -244,7 +260,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2104933773855113420</guid>
       <pubDate>Tue, 29 Sep 2026 13:58:14 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>Text you type on the canvas now reads more like typeset text on https://tldraw.com. Straight quotes curl, -- becomes an em dash, and ... becomes an ellipsis. Select some text and press a bracket or quote to wrap it in one.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2104933720629411840/img/xNfXyJ8QMAxqHkPT.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Text you type on the canvas now reads more like typeset text on https://tldraw.com. Straight quotes curl, -- becomes an em dash, and ... becomes an ellipsis. Select some text and press a bracket or quote to wrap it in one.</p>]]></description>
     </item>
     <item>
       <title>I wonder if you give an agent slow and unreliable WiFi if it’ll get as irrationally annoyed as</title>
@@ -284,7 +300,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2104707475077529951</guid>
       <pubDate>Mon, 28 Sep 2026 22:59:00 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>Welcome to tldraw sleep, a series of videos on topics we think are interesting. Tonight&apos;s episode is about the Brooklyn Bridge.</p>]]></description>
+      <description><![CDATA[<p>Welcome to tldraw sleep, a series of videos on topics we think are interesting. Tonight&apos;s episode is about the Brooklyn Bridge.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2104327705206349824/img/Ca1wMEwBBu3WU_je.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>See the rest of the series here:</title>
@@ -1589,22 +1605,6 @@
       <pubDate>Thu, 17 Sep 2026 18:52:14 GMT</pubDate>
       <author>@almonk</author>
       <description><![CDATA[<p>Have some fun stuff to share for fellow light mode terminal lovers: we call it Automatic Contrast Correction.<br><br>Users of light themes will have felt my pain. Developers have generally designed text interfaces for dark mode terminals.<br><br>There are many examples in the tui apps I use</p><p><img src="https://pbs.twimg.com/media/HScI8d0W4AAaIkn?format=jpg&amp;name=small" alt=""></p><p><img src="https://pbs.twimg.com/media/HScI9EmXoAEz8oB?format=jpg&amp;name=small" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>We’d love to see some @zerocam_app pics taken on this ☺️</title>
-      <link>https://x.com/zerocam_app/status/2100642836807077949</link>
-      <guid isPermaLink="true">https://x.com/zerocam_app/status/2100642836807077949</guid>
-      <pubDate>Thu, 17 Sep 2026 17:47:35 GMT</pubDate>
-      <author>@zerocam_app</author>
-      <description><![CDATA[<p>We’d love to see some @zerocam_app pics taken on this ☺️</p><p><img src="https://pbs.twimg.com/media/HSbRTaXWIAA3Cby?format=jpg&amp;name=small" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>Google’s new Noto 3D Emoji collection is live. https://googlefonts.github.io/noto-emoji-files/…</title>
-      <link>https://x.com/avstorm/status/2100636993579254163</link>
-      <guid isPermaLink="true">https://x.com/avstorm/status/2100636993579254163</guid>
-      <pubDate>Thu, 17 Sep 2026 17:24:21 GMT</pubDate>
-      <author>@avstorm</author>
-      <description><![CDATA[<p>Google’s new Noto 3D Emoji collection is live.<br><br>https://googlefonts.github.io/noto-emoji-files/…</p><p><img src="https://pbs.twimg.com/media/HSb1Et2XgAAuVER?format=jpg&amp;name=small" alt=""></p>]]></description>
     </item>
   </channel>
 </rss>
