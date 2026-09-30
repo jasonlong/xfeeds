@@ -7,6 +7,46 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>The models are getting really good at shadcn/ui. Not just knowing about it. They understand how it works:</title>
+      <link>https://x.com/shadcn/status/2105341340213002698</link>
+      <guid isPermaLink="true">https://x.com/shadcn/status/2105341340213002698</guid>
+      <pubDate>Wed, 30 Sep 2026 16:57:45 GMT</pubDate>
+      <author>@shadcn</author>
+      <description><![CDATA[<p>The models are getting really good at shadcn/ui. Not just knowing about it. They understand how it works: the open code format, the registry, the tokens, cli, presets. All of it.</p>]]></description>
+    </item>
+    <item>
+      <title>Big ships!</title>
+      <link>https://x.com/stephenhaney/status/2105332650529677637</link>
+      <guid isPermaLink="true">https://x.com/stephenhaney/status/2105332650529677637</guid>
+      <pubDate>Wed, 30 Sep 2026 16:23:13 GMT</pubDate>
+      <author>@stephenhaney</author>
+      <description><![CDATA[<p>Big ships!</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2105332062001774592/img/NO3mQn5P4SNdNVao.jpg" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>What&apos;s new in Paper? • Faster performance • Half the memory use • Opacity while using tokens •</title>
+      <link>https://x.com/paper/status/2105332225747435554</link>
+      <guid isPermaLink="true">https://x.com/paper/status/2105332225747435554</guid>
+      <pubDate>Wed, 30 Sep 2026 16:21:32 GMT</pubDate>
+      <author>@paper</author>
+      <description><![CDATA[<p>What&apos;s new in Paper?<br><br>• Faster performance<br>• Half the memory use<br>• Opacity while using tokens<br>• WebMCP in the browser<br>• Agents can gen images<br>• Upgraded shaders<br>• Way more<br><br>Check out @harcourttt&apos;s walkthrough!<br><br>What would you like to see next?</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2105332062001774592/img/NO3mQn5P4SNdNVao.jpg" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>Try it here:</title>
+      <link>https://x.com/tldraw/status/2105326639156744284</link>
+      <guid isPermaLink="true">https://x.com/tldraw/status/2105326639156744284</guid>
+      <pubDate>Wed, 30 Sep 2026 15:59:20 GMT</pubDate>
+      <author>@tldraw</author>
+      <description><![CDATA[<p>Try it here:</p>]]></description>
+    </item>
+    <item>
+      <title>You can now draw how your app works and get Codex to build it with the new tldraw</title>
+      <link>https://x.com/tldraw/status/2105326627198837180</link>
+      <guid isPermaLink="true">https://x.com/tldraw/status/2105326627198837180</guid>
+      <pubDate>Wed, 30 Sep 2026 15:59:17 GMT</pubDate>
+      <author>@tldraw</author>
+      <description><![CDATA[<p>You can now draw how your app works and get Codex to build it with the new tldraw plugin for ChatGPT. Redraw the logic, and the code gets updated to match. Ask for a change in chat, and it updates the diagram first so you can check the logic before any code changes. Here&apos;s a</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2105326560777814016/img/63lDPbakGaiWBoiu.jpg" alt=""></p>]]></description>
+    </item>
+    <item>
       <title>psa: copy the components. that’s what they’re built for. but please don’t copy the actual shadcn/ui website, docs,</title>
       <link>https://x.com/shadcn/status/2105255313196937240</link>
       <guid isPermaLink="true">https://x.com/shadcn/status/2105255313196937240</guid>
@@ -20,7 +60,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2105251630698672571</guid>
       <pubDate>Wed, 30 Sep 2026 11:01:17 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>When you select a single shape on https://tldraw.com, pasting a link now sets that shape&apos;s link instead of dropping a separate bookmark on the canvas.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2105251564323823617/img/1MJ1nmexakbrH-9k.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>When you select a single shape on https://tldraw.com, pasting a link now sets that shape&apos;s link instead of dropping a separate bookmark on the canvas.</p>]]></description>
     </item>
     <item>
       <title>works also for &apos;bot&apos;</title>
@@ -84,7 +124,7 @@
       <guid isPermaLink="true">https://x.com/stephenhaney/status/2105019553445245055</guid>
       <pubDate>Tue, 29 Sep 2026 19:39:05 GMT</pubDate>
       <author>@stephenhaney</author>
-      <description><![CDATA[<p>Ksenia’s work is incredible</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2105014611246247936/img/f6TyZS8wxlrSnWF6.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Ksenia’s work is incredible</p>]]></description>
     </item>
     <item>
       <title>Apple’s Final Cut Camera is getting a fresh new look and variable aperture support on iPhone 18 Pro.</title>
@@ -116,7 +156,7 @@
       <guid isPermaLink="true">https://x.com/stephenhaney/status/2105007065106419936</guid>
       <pubDate>Tue, 29 Sep 2026 18:49:28 GMT</pubDate>
       <author>@stephenhaney</author>
-      <description><![CDATA[<p>new! @paper&apos;s paper shader<br><br>goal: make the best paper filter for your designs<br><br>what&apos;s new?<br>fold lines, wrinkles, crumples, stripes, clipping, and five new patterns. plus image blends, better quality and faster performance<br><br>paper shaders: open source, always improving</p>]]></description>
+      <description><![CDATA[<p>new! @paper&apos;s paper shader<br><br>goal: make the best paper filter for your designs<br><br>what&apos;s new?<br>fold lines, wrinkles, crumples, stripes, clipping, and five new patterns. plus image blends, better quality and faster performance<br><br>paper shaders: open source, always improving</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2104999569469906944/img/MPttivaAIjkjVlyA.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Completely obsessed with the Dots</title>
@@ -180,7 +220,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2104933773855113420</guid>
       <pubDate>Tue, 29 Sep 2026 13:58:14 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>Text you type on the canvas now reads more like typeset text on https://tldraw.com. Straight quotes curl, -- becomes an em dash, and ... becomes an ellipsis. Select some text and press a bracket or quote to wrap it in one.</p>]]></description>
+      <description><![CDATA[<p>Text you type on the canvas now reads more like typeset text on https://tldraw.com. Straight quotes curl, -- becomes an em dash, and ... becomes an ellipsis. Select some text and press a bracket or quote to wrap it in one.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2104933720629411840/img/xNfXyJ8QMAxqHkPT.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>I wonder if you give an agent slow and unreliable WiFi if it’ll get as irrationally annoyed as</title>
@@ -220,7 +260,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2104707475077529951</guid>
       <pubDate>Mon, 28 Sep 2026 22:59:00 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>Welcome to tldraw sleep, a series of videos on topics we think are interesting. Tonight&apos;s episode is about the Brooklyn Bridge.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2104327705206349824/img/Ca1wMEwBBu3WU_je.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Welcome to tldraw sleep, a series of videos on topics we think are interesting. Tonight&apos;s episode is about the Brooklyn Bridge.</p>]]></description>
     </item>
     <item>
       <title>See the rest of the series here:</title>
@@ -252,7 +292,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2104630655271501951</guid>
       <pubDate>Mon, 28 Sep 2026 17:53:45 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>sadly I&apos;ve created the ultimate design tool</p>]]></description>
+      <description><![CDATA[<p>sadly I&apos;ve created the ultimate design tool</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2104630496390955008/img/IikZ3L-fHgeRdLkK.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Love the little peek inside</title>
@@ -292,7 +332,7 @@
       <guid isPermaLink="true">https://x.com/shadcn/status/2104546218689049022</guid>
       <pubDate>Mon, 28 Sep 2026 12:18:13 GMT</pubDate>
       <author>@shadcn</author>
-      <description><![CDATA[<p>We&apos;ve added dark mode support for drawings.</p>]]></description>
+      <description><![CDATA[<p>We&apos;ve added dark mode support for drawings.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2089361286987468800/img/-voOR_BgBTDDc5_3.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Just got through an overhaul of international keyboard handling in @paper: Chinese, French, German, Spanish, and dozens of</title>
@@ -348,7 +388,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2104330214830735534</guid>
       <pubDate>Sun, 27 Sep 2026 21:59:54 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>Welcome to tldraw sleep, a series of videos on topics we think are interesting. Tonight&apos;s episode is about the Roman practice of ruina montium, the wrecking of mountains in search of gold.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2104329699132428288/img/vjZ2IdufG_JWeB5o.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Welcome to tldraw sleep, a series of videos on topics we think are interesting. Tonight&apos;s episode is about the Roman practice of ruina montium, the wrecking of mountains in search of gold.</p>]]></description>
     </item>
     <item>
       <title>tldraw offline online confirmed</title>
@@ -380,7 +420,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2103982698989572167</guid>
       <pubDate>Sat, 26 Sep 2026 22:59:00 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>Welcome to tldraw sleep, a series of videos on topics we think are interesting. Tonight&apos;s episode is The Diary Kept in Salt Water and is about the microscopic machines that perform RNA replication.</p>]]></description>
+      <description><![CDATA[<p>Welcome to tldraw sleep, a series of videos on topics we think are interesting. Tonight&apos;s episode is The Diary Kept in Salt Water and is about the microscopic machines that perform RNA replication.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2101759756989759488/img/A_N3sMlg7iuH4BvH.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Are you still awake? Are you a large enterprise interested in building visual user interfaces for AI? Join</title>
@@ -468,7 +508,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2103620311342035279</guid>
       <pubDate>Fri, 25 Sep 2026 22:59:00 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>Welcome to tldraw sleep, a series of videos on topics we think are interesting. Tonight&apos;s episode is The Quiet Side of the Table and is about the hidden elements of luxury in fine dining.</p>]]></description>
+      <description><![CDATA[<p>Welcome to tldraw sleep, a series of videos on topics we think are interesting. Tonight&apos;s episode is The Quiet Side of the Table and is about the hidden elements of luxury in fine dining.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2101759085108445184/img/WHIPObcpGppq5Jrl.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Are you still awake? Are you a large enterprise interested in building visual user interfaces for AI? Join</title>
@@ -1436,7 +1476,7 @@
       <guid isPermaLink="true">https://x.com/stephenhaney/status/2101017520383852674</guid>
       <pubDate>Fri, 18 Sep 2026 18:36:26 GMT</pubDate>
       <author>@stephenhaney</author>
-      <description><![CDATA[<p>Very common question: how do I get my codebase components onto the Paper canvas? New tutorial from Harcourt!</p>]]></description>
+      <description><![CDATA[<p>Very common question: how do I get my codebase components onto the Paper canvas? New tutorial from Harcourt!</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2101009903909515264/img/x6_DLCZo2_XCOVMo.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Love seeing new uses for Paper</title>
@@ -1565,46 +1605,6 @@
       <pubDate>Thu, 17 Sep 2026 15:23:35 GMT</pubDate>
       <author>@avstorm</author>
       <description><![CDATA[<p>The Wi‑Fi icon got a new animation in macOS 27.2 beta</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2100605447652675585/img/qRlEMkhotLGQZo9J.jpg" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>Listen, all brat jokes aside, here&apos;s a hot tip that will make your life better: Areal Mono is</title>
-      <link>https://x.com/AREdotNA/status/2100605981663076470</link>
-      <guid isPermaLink="true">https://x.com/AREdotNA/status/2100605981663076470</guid>
-      <pubDate>Thu, 17 Sep 2026 15:21:08 GMT</pubDate>
-      <author>@AREdotNA</author>
-      <description><![CDATA[<p>Listen, all brat jokes aside, here&apos;s a hot tip that will make your life better: <br><br>Areal Mono is 100% the best font to use for code editors and terminals.</p><p><img src="https://pbs.twimg.com/media/HSbZwneWsAASXnv?format=jpg&amp;name=900x900" alt=""></p><p><img src="https://pbs.twimg.com/media/HSbZwnWWAAAh1Ix?format=jpg&amp;name=360x360" alt=""></p><p><img src="https://pbs.twimg.com/media/HSMLve8XAAEHblb?format=jpg&amp;name=240x240" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>yes @typesafeai is built using shadcn/ui ⚡</title>
-      <link>https://x.com/shadcn/status/2100600969536930130</link>
-      <guid isPermaLink="true">https://x.com/shadcn/status/2100600969536930130</guid>
-      <pubDate>Thu, 17 Sep 2026 15:01:13 GMT</pubDate>
-      <author>@shadcn</author>
-      <description><![CDATA[<p>yes @typesafeai is built using shadcn/ui ⚡</p>]]></description>
-    </item>
-    <item>
-      <title>Apple has updated the installer package icon in macOS 27.2 beta 1</title>
-      <link>https://x.com/avstorm/status/2100581791601983601</link>
-      <guid isPermaLink="true">https://x.com/avstorm/status/2100581791601983601</guid>
-      <pubDate>Thu, 17 Sep 2026 13:45:00 GMT</pubDate>
-      <author>@avstorm</author>
-      <description><![CDATA[<p>Apple has updated the installer package icon in macOS 27.2 beta 1</p><p><img src="https://pbs.twimg.com/media/HSbDKv-WYAA4GWy?format=jpg&amp;name=small" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>Media post</title>
-      <link>https://x.com/tldraw/status/2100550108781896035</link>
-      <guid isPermaLink="true">https://x.com/tldraw/status/2100550108781896035</guid>
-      <pubDate>Thu, 17 Sep 2026 11:39:06 GMT</pubDate>
-      <author>@tldraw</author>
-      <description><![CDATA[<p></p>]]></description>
-    </item>
-    <item>
-      <title>Thanks to everyone who came to celebrate the launch of tldraw flash with us. Looks like flash really</title>
-      <link>https://x.com/tldraw/status/2100550096375128557</link>
-      <guid isPermaLink="true">https://x.com/tldraw/status/2100550096375128557</guid>
-      <pubDate>Thu, 17 Sep 2026 11:39:03 GMT</pubDate>
-      <author>@tldraw</author>
-      <description><![CDATA[<p>Thanks to everyone who came to celebrate the launch of tldraw flash with us.<br><br>Looks like flash really did bring some joy back to tech.<br><br>Keep making good stuff with the canvas.</p><p><img src="https://pbs.twimg.com/media/HSanLFqasAEbFtw?format=jpg&amp;name=small" alt=""></p><p><img src="https://pbs.twimg.com/media/HSanLRoaAAAzGxM?format=jpg&amp;name=small" alt=""></p><p><img src="https://pbs.twimg.com/media/HSanLb-b0AADD2X?format=jpg&amp;name=360x360" alt=""></p><p><img src="https://pbs.twimg.com/media/HSanLmuawAEuGX4?format=jpg&amp;name=360x360" alt=""></p>]]></description>
     </item>
   </channel>
 </rss>
