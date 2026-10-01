@@ -7,6 +7,14 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>In https://tldraw.com, cropping an image inside a rotated frame or group used to move the crop along the</title>
+      <link>https://x.com/tldraw/status/2105675060652773503</link>
+      <guid isPermaLink="true">https://x.com/tldraw/status/2105675060652773503</guid>
+      <pubDate>Thu, 01 Oct 2026 15:03:50 GMT</pubDate>
+      <author>@tldraw</author>
+      <description><![CDATA[<p>In https://tldraw.com, cropping an image inside a rotated frame or group used to move the crop along the wrong axis. The handles and arrow-key nudges now follow the axis you see.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2105674994286247936/img/VwQwM16oAucWuRYE.jpg" alt=""></p>]]></description>
+    </item>
+    <item>
       <title>Papa, what&apos;s cookin&apos; in the kitchen?</title>
       <link>https://x.com/pidotdev/status/2105654526065754205</link>
       <guid isPermaLink="true">https://x.com/pidotdev/status/2105654526065754205</guid>
@@ -188,7 +196,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2105326627198837180</guid>
       <pubDate>Wed, 30 Sep 2026 15:59:17 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>You can now draw how your app works and get Codex to build it with the new tldraw plugin for ChatGPT. Redraw the logic, and the code gets updated to match. Ask for a change in chat, and it updates the diagram first so you can check the logic before any code changes. Here&apos;s a</p>]]></description>
+      <description><![CDATA[<p>You can now draw how your app works and get Codex to build it with the new tldraw plugin for ChatGPT. Redraw the logic, and the code gets updated to match. Ask for a change in chat, and it updates the diagram first so you can check the logic before any code changes. Here&apos;s a</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2105326560777814016/img/63lDPbakGaiWBoiu.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>psa: copy the components. that’s what they’re built for. but please don’t copy the actual shadcn/ui website, docs,</title>
@@ -444,7 +452,7 @@
       <guid isPermaLink="true">https://x.com/avstorm/status/2104570123713462374</guid>
       <pubDate>Mon, 28 Sep 2026 13:53:13 GMT</pubDate>
       <author>@avstorm</author>
-      <description><![CDATA[<p>Love the little peek inside</p>]]></description>
+      <description><![CDATA[<p>Love the little peek inside</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2104569719709741056/img/V3W9MIwrgiLeni9z.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Updated the chatbot-template to latest next, ai-sdk, shadcn/react, cn and some bug fixes. More soon.</title>
@@ -804,7 +812,7 @@
       <guid isPermaLink="true">https://x.com/avstorm/status/2103206039177044056</guid>
       <pubDate>Thu, 24 Sep 2026 19:32:50 GMT</pubDate>
       <author>@avstorm</author>
-      <description><![CDATA[<p>It doesn’t look like the new Apple Music logo is just for Apple Music Hall.</p><p><img src="https://pbs.twimg.com/media/HS_tnpVWkAAPy2t.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>It doesn’t look like the new Apple Music logo is just for Apple Music Hall.</p><p><img src="https://pbs.twimg.com/profile_images/2057104769358131200/0yTtidyv_normal.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>You can make scrapbook-style animations on tldraw flash</title>
@@ -1597,14 +1605,6 @@
       <pubDate>Fri, 18 Sep 2026 22:10:20 GMT</pubDate>
       <author>@almonk</author>
       <description><![CDATA[<p>Who’s going to be the first to make a jev-like Apple silicon model that can run on device instantly</p>]]></description>
-    </item>
-    <item>
-      <title>Next level</title>
-      <link>https://x.com/paper/status/2101054327054033021</link>
-      <guid isPermaLink="true">https://x.com/paper/status/2101054327054033021</guid>
-      <pubDate>Fri, 18 Sep 2026 21:02:41 GMT</pubDate>
-      <author>@paper</author>
-      <description><![CDATA[<p>Next level</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2101053669039071233/img/rtXQkuJgsE3tElfz.jpg" alt=""></p>]]></description>
     </item>
   </channel>
 </rss>
