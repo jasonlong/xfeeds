@@ -7,6 +7,14 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>Papa, what&apos;s cookin&apos; in the kitchen?</title>
+      <link>https://x.com/pidotdev/status/2105654526065754205</link>
+      <guid isPermaLink="true">https://x.com/pidotdev/status/2105654526065754205</guid>
+      <pubDate>Thu, 01 Oct 2026 13:42:14 GMT</pubDate>
+      <author>@pidotdev</author>
+      <description><![CDATA[<p>Papa, what&apos;s cookin&apos; in the kitchen?</p>]]></description>
+    </item>
+    <item>
       <title>No tech has embarrassed me in front of people more than Siri.</title>
       <link>https://x.com/shadcn/status/2105622549048734011</link>
       <guid isPermaLink="true">https://x.com/shadcn/status/2105622549048734011</guid>
@@ -436,7 +444,7 @@
       <guid isPermaLink="true">https://x.com/avstorm/status/2104570123713462374</guid>
       <pubDate>Mon, 28 Sep 2026 13:53:13 GMT</pubDate>
       <author>@avstorm</author>
-      <description><![CDATA[<p>Love the little peek inside</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2104569719709741056/img/V3W9MIwrgiLeni9z.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Love the little peek inside</p>]]></description>
     </item>
     <item>
       <title>Updated the chatbot-template to latest next, ai-sdk, shadcn/react, cn and some bug fixes. More soon.</title>
@@ -796,7 +804,7 @@
       <guid isPermaLink="true">https://x.com/avstorm/status/2103206039177044056</guid>
       <pubDate>Thu, 24 Sep 2026 19:32:50 GMT</pubDate>
       <author>@avstorm</author>
-      <description><![CDATA[<p>It doesn’t look like the new Apple Music logo is just for Apple Music Hall.</p><p><img src="https://pbs.twimg.com/profile_images/2057104769358131200/0yTtidyv_normal.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>It doesn’t look like the new Apple Music logo is just for Apple Music Hall.</p><p><img src="https://pbs.twimg.com/media/HS_tnpVWkAAPy2t.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>You can make scrapbook-style animations on tldraw flash</title>
@@ -1597,14 +1605,6 @@
       <pubDate>Fri, 18 Sep 2026 21:02:41 GMT</pubDate>
       <author>@paper</author>
       <description><![CDATA[<p>Next level</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2101053669039071233/img/rtXQkuJgsE3tElfz.jpg" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>Code to design in one tutorial video</title>
-      <link>https://x.com/paper/status/2101017666605789499</link>
-      <guid isPermaLink="true">https://x.com/paper/status/2101017666605789499</guid>
-      <pubDate>Fri, 18 Sep 2026 18:37:01 GMT</pubDate>
-      <author>@paper</author>
-      <description><![CDATA[<p>Code to design in one tutorial video</p>]]></description>
     </item>
   </channel>
 </rss>
