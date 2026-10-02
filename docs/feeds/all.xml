@@ -7,6 +7,14 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>This is like, the total opposite of what we should be doing with ai</title>
+      <link>https://x.com/almonk/status/2106050796144226324</link>
+      <guid isPermaLink="true">https://x.com/almonk/status/2106050796144226324</guid>
+      <pubDate>Fri, 02 Oct 2026 15:56:52 GMT</pubDate>
+      <author>@almonk</author>
+      <description><![CDATA[<p>This is like, the total opposite of what we should be doing with ai</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2105703934073683968/img/Eg64cvr-3yHbydSB.jpg" alt=""></p>]]></description>
+    </item>
+    <item>
       <title>Introducing Tldraw, the world&apos;s second model to pass the video Turing test.</title>
       <link>https://x.com/tldraw/status/2105980995937722687</link>
       <guid isPermaLink="true">https://x.com/tldraw/status/2105980995937722687</guid>
@@ -844,7 +852,7 @@
       <guid isPermaLink="true">https://x.com/almonk/status/2103572918680645870</guid>
       <pubDate>Fri, 25 Sep 2026 19:50:40 GMT</pubDate>
       <author>@almonk</author>
-      <description><![CDATA[<p>I love the idea of complementing the user&apos;s shell. Augmenting their experience rather than attempting to hijack it.<br><br>Our latest experiment allow you to insert a path to ✨anything, anywhere✨ with instant fuzzy matching as well as traditional path navigation. <br><br>As useful for your</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2103572772110606336/img/ESWnoc9jknwY6iox.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>I love the idea of complementing the user&apos;s shell. Augmenting their experience rather than attempting to hijack it.<br><br>Our latest experiment allow you to insert a path to ✨anything, anywhere✨ with instant fuzzy matching as well as traditional path navigation. <br><br>As useful for your</p>]]></description>
     </item>
     <item>
       <title>Media post</title>
@@ -1597,14 +1605,6 @@
       <pubDate>Sun, 20 Sep 2026 20:44:41 GMT</pubDate>
       <author>@pidotdev</author>
       <description><![CDATA[<p>When was the last time you felt like you truly learned something new about agentic engineering, that was reproducible and that you still do? What was it?</p>]]></description>
-    </item>
-    <item>
-      <title>Dynamic Dock size should be the default on every iPhone, not just the iPhone Duo.</title>
-      <link>https://x.com/avstorm/status/2101702215484211669</link>
-      <guid isPermaLink="true">https://x.com/avstorm/status/2101702215484211669</guid>
-      <pubDate>Sun, 20 Sep 2026 15:57:10 GMT</pubDate>
-      <author>@avstorm</author>
-      <description><![CDATA[<p>Dynamic Dock size should be the default on every iPhone, not just the iPhone Duo.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2101701131520880640/img/1WfzOVcpTt8wmHPk.jpg" alt=""></p>]]></description>
     </item>
   </channel>
 </rss>
