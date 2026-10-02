@@ -13,6 +13,22 @@
     </image>
     <ttl>120</ttl>
     <item>
+      <title>Introducing Tldraw, the world&apos;s second model to pass the video Turing test.</title>
+      <link>https://x.com/tldraw/status/2105980995937722687</link>
+      <guid isPermaLink="true">https://x.com/tldraw/status/2105980995937722687</guid>
+      <pubDate>Fri, 02 Oct 2026 11:19:31 GMT</pubDate>
+      <author>@tldraw</author>
+      <description><![CDATA[<p>Introducing Tldraw, the world&apos;s second model to pass the video Turing test.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2105980659776868352/img/LnBhBEeropcoowZl.jpg" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>A rotated arrow bound to a shape in https://tldraw.com now keeps its ends in place when you drag</title>
+      <link>https://x.com/tldraw/status/2105976394601910490</link>
+      <guid isPermaLink="true">https://x.com/tldraw/status/2105976394601910490</guid>
+      <pubDate>Fri, 02 Oct 2026 11:01:14 GMT</pubDate>
+      <author>@tldraw</author>
+      <description><![CDATA[<p>A rotated arrow bound to a shape in https://tldraw.com now keeps its ends in place when you drag or nudge it, instead of pulling them the wrong way.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2105976338129797120/img/LJLFgZutKy-1NbdL.jpg" alt=""></p>]]></description>
+    </item>
+    <item>
       <title>Update:</title>
       <link>https://x.com/tldraw/status/2105839427314409880</link>
       <guid isPermaLink="true">https://x.com/tldraw/status/2105839427314409880</guid>
@@ -74,7 +90,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2105719544891514890</guid>
       <pubDate>Thu, 01 Oct 2026 18:00:36 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>infinite playlists</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2105719522338738176/img/4WefwcpgDt8jaqqh.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>infinite playlists</p>]]></description>
     </item>
     <item>
       <title>Now in the ChatGPT plugin store →</title>
@@ -90,7 +106,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2105690247854272834</guid>
       <pubDate>Thu, 01 Oct 2026 16:04:11 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>&quot;Hey Codex, show me how you&apos;d fix this bug&quot;<br><br>The new tldraw plugin lets ChatGPT map a problem on the canvas and sketch a few fixes. Comment on the drawing to ask for changes and watch it update live. Here&apos;s Max trying it on one of our bugs:</p>]]></description>
+      <description><![CDATA[<p>&quot;Hey Codex, show me how you&apos;d fix this bug&quot;<br><br>The new tldraw plugin lets ChatGPT map a problem on the canvas and sketch a few fixes. Comment on the drawing to ask for changes and watch it update live. Here&apos;s Max trying it on one of our bugs:</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2105690206804529152/img/h3366TfajXEC525M.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>In https://tldraw.com, cropping an image inside a rotated frame or group used to move the crop along the</title>
@@ -98,7 +114,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2105675060652773503</guid>
       <pubDate>Thu, 01 Oct 2026 15:03:50 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>In https://tldraw.com, cropping an image inside a rotated frame or group used to move the crop along the wrong axis. The handles and arrow-key nudges now follow the axis you see.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2105674994286247936/img/VwQwM16oAucWuRYE.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>In https://tldraw.com, cropping an image inside a rotated frame or group used to move the crop along the wrong axis. The handles and arrow-key nudges now follow the axis you see.</p>]]></description>
     </item>
     <item>
       <title>Welcome to tldraw sleep, a series of videos on topics we think are interesting. Tonight&apos;s episode is about</title>
@@ -106,7 +122,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2105431495662018996</guid>
       <pubDate>Wed, 30 Sep 2026 22:56:00 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>Welcome to tldraw sleep, a series of videos on topics we think are interesting. Tonight&apos;s episode is about the domestication of horses.</p>]]></description>
+      <description><![CDATA[<p>Welcome to tldraw sleep, a series of videos on topics we think are interesting. Tonight&apos;s episode is about the domestication of horses.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2104332876527398912/img/F5_ZmeVuq1ALI7Rt.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>See the rest of the series here:</title>
@@ -795,22 +811,6 @@
       <pubDate>Fri, 11 Sep 2026 17:10:20 GMT</pubDate>
       <author>@tldraw</author>
       <description><![CDATA[<p>heya, this is Andy from tldraw. Here are 10 free bugs I found with @OpenAI&apos;s new chatgpt sketch feature. #3 will shock you<br><br>1. Vertical and horizontal lines look jagged when resizing them (1/10)</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2098459108009816064/img/LmnVu74a0IynkjGw.jpg" alt=""></p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2097983349138829312/img/0RdH6ygcd0uu3oqK?format=jpg&amp;name=240x240" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>Sign up →</title>
-      <link>https://x.com/tldraw/status/2098444748918866055</link>
-      <guid isPermaLink="true">https://x.com/tldraw/status/2098444748918866055</guid>
-      <pubDate>Fri, 11 Sep 2026 16:13:10 GMT</pubDate>
-      <author>@tldraw</author>
-      <description><![CDATA[<p>Sign up →</p>]]></description>
-    </item>
-    <item>
-      <title>Yesterday we launched tldraw flash, our newest build that brings handmade animations to the infinite canvas. Come celebrate</title>
-      <link>https://x.com/tldraw/status/2098444745571701061</link>
-      <guid isPermaLink="true">https://x.com/tldraw/status/2098444745571701061</guid>
-      <pubDate>Fri, 11 Sep 2026 16:13:09 GMT</pubDate>
-      <author>@tldraw</author>
-      <description><![CDATA[<p>Yesterday we launched tldraw flash, our newest build that brings handmade animations to the infinite canvas.<br><br>Come celebrate with us on Tuesday, 15 September, and meet the team who brought it to life 🎉</p><p><img src="https://pbs.twimg.com/media/HR8rO50bEAAy8aX?format=jpg&amp;name=small" alt=""></p>]]></description>
     </item>
   </channel>
 </rss>
