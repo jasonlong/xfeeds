@@ -7,6 +7,14 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>New York, where’s best for coffee &amp; working tomorrow morning</title>
+      <link>https://x.com/almonk/status/2105833285465051530</link>
+      <guid isPermaLink="true">https://x.com/almonk/status/2105833285465051530</guid>
+      <pubDate>Fri, 02 Oct 2026 01:32:34 GMT</pubDate>
+      <author>@almonk</author>
+      <description><![CDATA[<p>New York, where’s best for coffee &amp; working tomorrow morning</p>]]></description>
+    </item>
+    <item>
       <title>We&apos;ll be spending a lot more time trying to understand the outputs of language models. A few thoughts,</title>
       <link>https://x.com/karpathy/status/2105819303471976479</link>
       <guid isPermaLink="true">https://x.com/karpathy/status/2105819303471976479</guid>
@@ -540,7 +548,7 @@
       <guid isPermaLink="true">https://x.com/avstorm/status/2104570123713462374</guid>
       <pubDate>Mon, 28 Sep 2026 13:53:13 GMT</pubDate>
       <author>@avstorm</author>
-      <description><![CDATA[<p>Love the little peek inside</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2104569719709741056/img/V3W9MIwrgiLeni9z.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Love the little peek inside</p>]]></description>
     </item>
     <item>
       <title>Updated the chatbot-template to latest next, ai-sdk, shadcn/react, cn and some bug fixes. More soon.</title>
@@ -900,7 +908,7 @@
       <guid isPermaLink="true">https://x.com/avstorm/status/2103206039177044056</guid>
       <pubDate>Thu, 24 Sep 2026 19:32:50 GMT</pubDate>
       <author>@avstorm</author>
-      <description><![CDATA[<p>It doesn’t look like the new Apple Music logo is just for Apple Music Hall.</p><p><img src="https://pbs.twimg.com/profile_images/2057104769358131200/0yTtidyv_normal.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>It doesn’t look like the new Apple Music logo is just for Apple Music Hall.</p><p><img src="https://pbs.twimg.com/media/HS_tnpVWkAAPy2t.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>You can make scrapbook-style animations on tldraw flash</title>
@@ -1597,14 +1605,6 @@
       <pubDate>Sat, 19 Sep 2026 23:24:55 GMT</pubDate>
       <author>@pidotdev</author>
       <description><![CDATA[<p>Hello people of Pi. 0.86.0 is out now. It&apos;s a big one.<br><br>- mid-conversation system messages<br>- dynamic tools on supported models without losing the kv cache<br>- cache warming on anthropic<br>- faster -r/-c to resume<br>- lots of fixes<br>- /bug to report issues</p>]]></description>
-    </item>
-    <item>
-      <title>real tldraw</title>
-      <link>https://x.com/tldraw/status/2101339012195570077</link>
-      <guid isPermaLink="true">https://x.com/tldraw/status/2101339012195570077</guid>
-      <pubDate>Sat, 19 Sep 2026 15:53:56 GMT</pubDate>
-      <author>@tldraw</author>
-      <description><![CDATA[<p>real tldraw</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2101116629237248000/img/bflqHndYbgG_Axy0.jpg" alt=""></p>]]></description>
     </item>
   </channel>
 </rss>
