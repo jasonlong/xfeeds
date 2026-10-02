@@ -7,6 +7,14 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>We&apos;ll be spending a lot more time trying to understand the outputs of language models. A few thoughts,</title>
+      <link>https://x.com/karpathy/status/2105819303471976479</link>
+      <guid isPermaLink="true">https://x.com/karpathy/status/2105819303471976479</guid>
+      <pubDate>Fri, 02 Oct 2026 00:37:00 GMT</pubDate>
+      <author>@karpathy</author>
+      <description><![CDATA[<p>We&apos;ll be spending a lot more time trying to understand the outputs of language models. A few thoughts, tips &amp; tricks:<br><br>Writing. Something I&apos;ve had success with: Ask your LLM to explain something in ASD-STE100, it&apos;s a controlled language specification originally developed for</p><p><img src="https://pbs.twimg.com/media/HTlaHqgbwAAS1lv?format=png&amp;name=small" alt=""></p>]]></description>
+    </item>
+    <item>
       <title>Welcome to tldraw sleep, a series of videos on topics we think are interesting. Tonight&apos;s episode is Hands</title>
       <link>https://x.com/tldraw/status/2105794638456271041</link>
       <guid isPermaLink="true">https://x.com/tldraw/status/2105794638456271041</guid>
@@ -1597,14 +1605,6 @@
       <pubDate>Sat, 19 Sep 2026 15:53:56 GMT</pubDate>
       <author>@tldraw</author>
       <description><![CDATA[<p>real tldraw</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2101116629237248000/img/bflqHndYbgG_Axy0.jpg" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>Software should be fun. It should make you feel something, positive hopefully. Utilitarian software is the worst. The</title>
-      <link>https://x.com/mitchellh/status/2101320128667529496</link>
-      <guid isPermaLink="true">https://x.com/mitchellh/status/2101320128667529496</guid>
-      <pubDate>Sat, 19 Sep 2026 14:38:53 GMT</pubDate>
-      <author>@mitchellh</author>
-      <description><![CDATA[<p>Software should be fun. It should make you feel something, positive hopefully. Utilitarian software is the worst. The human experience is why life is worth living (even for something as teeny tiny as a terminal).</p>]]></description>
     </item>
   </channel>
 </rss>
