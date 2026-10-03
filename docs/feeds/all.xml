@@ -7,6 +7,22 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>Media post</title>
+      <link>https://x.com/ryolu_/status/2106343073127256507</link>
+      <guid isPermaLink="true">https://x.com/ryolu_/status/2106343073127256507</guid>
+      <pubDate>Sat, 03 Oct 2026 11:18:17 GMT</pubDate>
+      <author>@ryolu_</author>
+      <description><![CDATA[<p></p>]]></description>
+    </item>
+    <item>
+      <title>convergence to the mean when everyone looks at everyone else to decide what to make, we eventually stop</title>
+      <link>https://x.com/ryolu_/status/2106337039201505453</link>
+      <guid isPermaLink="true">https://x.com/ryolu_/status/2106337039201505453</guid>
+      <pubDate>Sat, 03 Oct 2026 10:54:18 GMT</pubDate>
+      <author>@ryolu_</author>
+      <description><![CDATA[<p>convergence to the mean<br><br>when everyone looks at everyone else to decide what to make, we eventually stop making anything of our own.<br><br>we copy what works. borrow the language, the aesthetic, the features. we call it learning from the market, following best practices, staying</p>]]></description>
+    </item>
+    <item>
       <title>Welcome to tldraw sleep, a series of videos on topics we think are interesting. Tonight&apos;s episode is about</title>
       <link>https://x.com/tldraw/status/2106158284847620449</link>
       <guid isPermaLink="true">https://x.com/tldraw/status/2106158284847620449</guid>
@@ -364,7 +380,7 @@
       <guid isPermaLink="true">https://x.com/reflectnotes/status/2105341653468774723</guid>
       <pubDate>Wed, 30 Sep 2026 16:59:00 GMT</pubDate>
       <author>@reflectnotes</author>
-      <description><![CDATA[<p>We built the notes app we always wished Apple Notes was.<br><br>Beautiful, connected by backlinks, instant to search, and every note is a plain Markdown file your AI agents can read.<br><br>Reflect Open is out of beta today. Open source, free on Mac, and on iPhone and iPad.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2104982548606562304/img/IJq32DJsLsNSDDvY.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>We built the notes app we always wished Apple Notes was.<br><br>Beautiful, connected by backlinks, instant to search, and every note is a plain Markdown file your AI agents can read.<br><br>Reflect Open is out of beta today. Open source, free on Mac, and on iPhone and iPad.</p>]]></description>
     </item>
     <item>
       <title>Your notes are ordinary Markdown files. No Reflect account. No Reflect cloud database. Open them in any editor</title>
@@ -1092,7 +1108,7 @@
       <guid isPermaLink="true">https://x.com/AREdotNA/status/2103156508296949970</guid>
       <pubDate>Thu, 24 Sep 2026 16:16:00 GMT</pubDate>
       <author>@AREdotNA</author>
-      <description><![CDATA[<p>this is our favorite kind of improvement, the kind that one might never even notice (but is actually extremely luxurious)</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2103154335559344128/img/lqjPDnfV9H-9nW3q.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>this is our favorite kind of improvement, the kind that one might never even notice (but is actually extremely luxurious)</p>]]></description>
     </item>
     <item>
       <title>niche, but amazing: the best implementation of scroll restoration we&apos;ve ever had has just deployed to the web</title>
@@ -1372,7 +1388,7 @@
       <guid isPermaLink="true">https://x.com/almonk/status/2102444573016699297</guid>
       <pubDate>Tue, 22 Sep 2026 17:07:02 GMT</pubDate>
       <author>@almonk</author>
-      <description><![CDATA[<p>spent some tokens bringing ski free to 2026</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2102443748131323904/img/nmSmFXblbOsPd71y.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>spent some tokens bringing ski free to 2026</p>]]></description>
     </item>
     <item>
       <title>Hello opus. If you want it in pi, wait or pi update --models</title>
@@ -1589,22 +1605,6 @@
       <pubDate>Mon, 21 Sep 2026 19:41:37 GMT</pubDate>
       <author>@avstorm</author>
       <description><![CDATA[<p>The dynamic Big Sur wallpaper is still one of Apple’s best. It never gets old.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2102119983920627712/img/p4e0EzKJIcKnAyY1.jpg" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>Do we have some iPhone 18 Pro users already? Both zerocam &amp; zerotake</title>
-      <link>https://x.com/zerocam_app/status/2102114742877966336</link>
-      <guid isPermaLink="true">https://x.com/zerocam_app/status/2102114742877966336</guid>
-      <pubDate>Mon, 21 Sep 2026 19:16:24 GMT</pubDate>
-      <author>@zerocam_app</author>
-      <description><![CDATA[<p>Do we have some iPhone 18 Pro users already? Both zerocam &amp; zerotake</p>]]></description>
-    </item>
-    <item>
-      <title>free coffee in NYC (it&apos;s good)</title>
-      <link>https://x.com/paper/status/2102104631111557401</link>
-      <guid isPermaLink="true">https://x.com/paper/status/2102104631111557401</guid>
-      <pubDate>Mon, 21 Sep 2026 18:36:13 GMT</pubDate>
-      <author>@paper</author>
-      <description><![CDATA[<p>free coffee in NYC (it&apos;s good)</p><p><img src="https://pbs.twimg.com/media/HSwchNvWUAAozu-?format=jpg&amp;name=small" alt=""></p>]]></description>
     </item>
   </channel>
 </rss>
