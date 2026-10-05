@@ -7,6 +7,14 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>Verification is “read the code” for agents.</title>
+      <link>https://x.com/shadcn/status/2107129039299244143</link>
+      <guid isPermaLink="true">https://x.com/shadcn/status/2107129039299244143</guid>
+      <pubDate>Mon, 05 Oct 2026 15:21:26 GMT</pubDate>
+      <author>@shadcn</author>
+      <description><![CDATA[<p>Verification is “read the code” for agents.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2107106516126044160/img/3ROIYvdWPrn9RSac.jpg" alt=""></p>]]></description>
+    </item>
+    <item>
       <title>Behind the design of Copilot’s new identity. https://microsoft.design/articles/more-than-a-mark/…</title>
       <link>https://x.com/avstorm/status/2107108325938635053</link>
       <guid isPermaLink="true">https://x.com/avstorm/status/2107108325938635053</guid>
@@ -916,7 +924,7 @@
       <guid isPermaLink="true">https://x.com/shadcn/status/2104546218689049022</guid>
       <pubDate>Mon, 28 Sep 2026 12:18:13 GMT</pubDate>
       <author>@shadcn</author>
-      <description><![CDATA[<p>We&apos;ve added dark mode support for drawings.</p>]]></description>
+      <description><![CDATA[<p>We&apos;ve added dark mode support for drawings.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2089361286987468800/img/-voOR_BgBTDDc5_3.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Just got through an overhaul of international keyboard handling in @paper: Chinese, French, German, Spanish, and dozens of</title>
@@ -1597,14 +1605,6 @@
       <pubDate>Tue, 22 Sep 2026 16:49:09 GMT</pubDate>
       <author>@pidotdev</author>
       <description><![CDATA[<p>Hello opus. If you want it in pi, wait or pi update --models</p><p><img src="https://pbs.twimg.com/media/HS1aPgYWMAAP9sw.jpg" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>Media post</title>
-      <link>https://x.com/tldraw/status/2102430005250994348</link>
-      <guid isPermaLink="true">https://x.com/tldraw/status/2102430005250994348</guid>
-      <pubDate>Tue, 22 Sep 2026 16:09:09 GMT</pubDate>
-      <author>@tldraw</author>
-      <description><![CDATA[<p></p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2102429899394875392/img/NK5DomZYy6MxwQ4i.jpg" alt=""></p>]]></description>
     </item>
   </channel>
 </rss>
