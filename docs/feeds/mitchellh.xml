@@ -13,6 +13,14 @@
     </image>
     <ttl>120</ttl>
     <item>
+      <title>Say hello to Rexie, our mascot for Rex! Superlogical public testing is beginning. We’re working through our mailing</title>
+      <link>https://x.com/mitchellh/status/2107150947701211199</link>
+      <guid isPermaLink="true">https://x.com/mitchellh/status/2107150947701211199</guid>
+      <pubDate>Mon, 05 Oct 2026 16:48:29 GMT</pubDate>
+      <author>@mitchellh</author>
+      <description><![CDATA[<p>Say hello to Rexie, our mascot for Rex! Superlogical public testing is beginning. We’re working through our mailing list in the order people signed up. Initial testing is limited to macOS but that’ll expand quickly. Welcome, new testers.</p>]]></description>
+    </item>
+    <item>
       <title>We&apos;ve had this feature for less than 24 hours in our nightly releases and I already can&apos;t imagine</title>
       <link>https://x.com/mitchellh/status/2103590567498457265</link>
       <guid isPermaLink="true">https://x.com/mitchellh/status/2103590567498457265</guid>
@@ -50,7 +58,7 @@
       <guid isPermaLink="true">https://x.com/mitchellh/status/2100275089359163441</guid>
       <pubDate>Wed, 16 Sep 2026 17:26:17 GMT</pubDate>
       <author>@mitchellh</author>
-      <description><![CDATA[<p>Designers, your job is safe from AI.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2100274218978217985/img/OeioR4BuqX_iewro.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Designers, your job is safe from AI.</p>]]></description>
     </item>
     <item>
       <title>The &quot;whiteboard defense:&quot; I should be able to pull you aside at any moment and ask you to</title>
@@ -66,7 +74,7 @@
       <guid isPermaLink="true">https://x.com/mitchellh/status/2099915915056074807</guid>
       <pubDate>Tue, 15 Sep 2026 17:39:03 GMT</pubDate>
       <author>@mitchellh</author>
-      <description><![CDATA[<p>After all, why shouldn&apos;t we [ab]use the CLI to recreate 2048 in the Superlogical multiplexer? Amazing work by a tester, not by me. The final boss will be getting DOOM running where every pixel is its own terminal. Software should be fun.</p>]]></description>
+      <description><![CDATA[<p>After all, why shouldn&apos;t we [ab]use the CLI to recreate 2048 in the Superlogical multiplexer? Amazing work by a tester, not by me. The final boss will be getting DOOM running where every pixel is its own terminal. Software should be fun.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2099915469293867009/img/bkOWe9FQkUnXaOob.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>New week new demo! Today I want to showcase the CLI to control the @superlogical multiplexer. The CLI</title>
@@ -74,7 +82,7 @@
       <guid isPermaLink="true">https://x.com/mitchellh/status/2099622049325232505</guid>
       <pubDate>Mon, 14 Sep 2026 22:11:20 GMT</pubDate>
       <author>@mitchellh</author>
-      <description><![CDATA[<p>New week new demo! Today I want to showcase the CLI to control the @superlogical multiplexer. The CLI is an extremely powerful tool for automation and hooking into other tools like editors, agentic coding tools, and more. And, it&apos;s super fun!<br><br>Everything you can do in the GUI,</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2099620779042480128/img/fCUSEzKBJdKiH8OG.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>New week new demo! Today I want to showcase the CLI to control the @superlogical multiplexer. The CLI is an extremely powerful tool for automation and hooking into other tools like editors, agentic coding tools, and more. And, it&apos;s super fun!<br><br>Everything you can do in the GUI,</p>]]></description>
     </item>
     <item>
       <title>I&apos;ve never had a case on any iPhone, I&apos;ve never cracked a screen or broken the phone. People</title>
@@ -106,7 +114,7 @@
       <guid isPermaLink="true">https://x.com/mitchellh/status/2097424868203758046</guid>
       <pubDate>Tue, 08 Sep 2026 20:40:31 GMT</pubDate>
       <author>@mitchellh</author>
-      <description><![CDATA[<p>A quick look into remote persistent sessions with Superlogical! Not just remote sessions, but some functionality like remote directory lists, too. Superlogical can actually be a full SSH replacement (I don&apos;t run SSH on my servers anymore), and I talk about that briefly, too.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2097423824325337088/img/6fxkvF8tDwoXqWRQ.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>A quick look into remote persistent sessions with Superlogical! Not just remote sessions, but some functionality like remote directory lists, too. Superlogical can actually be a full SSH replacement (I don&apos;t run SSH on my servers anymore), and I talk about that briefly, too.</p>]]></description>
     </item>
     <item>
       <title>We now have automated half-bounce analysis created by @infomiho! Paste an X post with a screen recording and</title>
