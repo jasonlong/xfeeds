@@ -7,6 +7,14 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>Behind the design of Copilot’s new identity. https://microsoft.design/articles/more-than-a-mark/…</title>
+      <link>https://x.com/avstorm/status/2107108325938635053</link>
+      <guid isPermaLink="true">https://x.com/avstorm/status/2107108325938635053</guid>
+      <pubDate>Mon, 05 Oct 2026 13:59:07 GMT</pubDate>
+      <author>@avstorm</author>
+      <description><![CDATA[<p>Behind the design of Copilot’s new identity.<br><br>https://microsoft.design/articles/more-than-a-mark/…</p><p><img src="https://pbs.twimg.com/media/HT3yzOPWYAA0JuV?format=jpg&amp;name=small" alt=""></p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2107107211130343424/img/evSFBMg9Nj7ZsFBz.jpg" alt=""></p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2107107232219385856/img/ncPebEV9dX6rg4pv.jpg" alt=""></p>]]></description>
+    </item>
+    <item>
       <title>Welcome to tldraw sleep, a series of videos on topics we think are interesting. Tonight&apos;s episode is about</title>
       <link>https://x.com/tldraw/status/2107062996094878198</link>
       <guid isPermaLink="true">https://x.com/tldraw/status/2107062996094878198</guid>
@@ -244,7 +252,7 @@
       <guid isPermaLink="true">https://x.com/avstorm/status/2106056245698330837</guid>
       <pubDate>Fri, 02 Oct 2026 16:18:32 GMT</pubDate>
       <author>@avstorm</author>
-      <description><![CDATA[<p>Apple&apos;s Genius Bar animation from 2004</p>]]></description>
+      <description><![CDATA[<p>Apple&apos;s Genius Bar animation from 2004</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2106055751919665152/img/dqDQzsayKrgkI0BX.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>This is like, the total opposite of what we should be doing with ai</title>
@@ -436,7 +444,7 @@
       <guid isPermaLink="true">https://x.com/pidotdev/status/2105543179206381925</guid>
       <pubDate>Thu, 01 Oct 2026 06:19:47 GMT</pubDate>
       <author>@pidotdev</author>
-      <description><![CDATA[<p>Thanks @dillon_mulroy</p>]]></description>
+      <description><![CDATA[<p>Thanks @dillon_mulroy</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2105453621408108544/img/HG51vDkBu0r0w9uB.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>shadcn/react was deployed to millions yesterday.</title>
@@ -876,7 +884,7 @@
       <guid isPermaLink="true">https://x.com/avstorm/status/2104570123713462374</guid>
       <pubDate>Mon, 28 Sep 2026 13:53:13 GMT</pubDate>
       <author>@avstorm</author>
-      <description><![CDATA[<p>Love the little peek inside</p>]]></description>
+      <description><![CDATA[<p>Love the little peek inside</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2104569719709741056/img/V3W9MIwrgiLeni9z.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Updated the chatbot-template to latest next, ai-sdk, shadcn/react, cn and some bug fixes. More soon.</title>
@@ -1460,7 +1468,7 @@
       <guid isPermaLink="true">https://x.com/avstorm/status/2102786617459298670</guid>
       <pubDate>Wed, 23 Sep 2026 15:46:12 GMT</pubDate>
       <author>@avstorm</author>
-      <description><![CDATA[<p>Behind the scenes of the Apple Games commercial</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2102786103111528448/img/GL6nvck5ALeXDNle.jpg" alt=""></p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2102786184560754688/img/1ojXeKyS5o2lchmW.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Behind the scenes of the Apple Games commercial</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2102786184560754688/img/1ojXeKyS5o2lchmW.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>new Earendil Pi extension, pi-voice, built by CJ Pais (creator of Handy) npm install -g @earendil-works/pi-voice https://npmjs.com/package/@earendil-works/pi-voice…</title>
@@ -1597,14 +1605,6 @@
       <pubDate>Tue, 22 Sep 2026 16:09:09 GMT</pubDate>
       <author>@tldraw</author>
       <description><![CDATA[<p></p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2102429899394875392/img/NK5DomZYy6MxwQ4i.jpg" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>Behind the Design of the new Beats 360</title>
-      <link>https://x.com/avstorm/status/2102422628216852965</link>
-      <guid isPermaLink="true">https://x.com/avstorm/status/2102422628216852965</guid>
-      <pubDate>Tue, 22 Sep 2026 15:39:50 GMT</pubDate>
-      <author>@avstorm</author>
-      <description><![CDATA[<p>Behind the Design of the new Beats 360</p>]]></description>
     </item>
   </channel>
 </rss>
