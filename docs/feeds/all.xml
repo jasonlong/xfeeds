@@ -7,6 +7,30 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>another pro-tip: view source is alive and well and still useful</title>
+      <link>https://x.com/AREdotNA/status/2107226082369749020</link>
+      <guid isPermaLink="true">https://x.com/AREdotNA/status/2107226082369749020</guid>
+      <pubDate>Mon, 05 Oct 2026 21:47:03 GMT</pubDate>
+      <author>@AREdotNA</author>
+      <description><![CDATA[<p>another pro-tip: view source is alive and well and still useful</p><p><img src="https://pbs.twimg.com/media/HT4vmaDWkAAmwGh?format=jpg&amp;name=small" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>Media post</title>
+      <link>https://x.com/avstorm/status/2107218031784956265</link>
+      <guid isPermaLink="true">https://x.com/avstorm/status/2107218031784956265</guid>
+      <pubDate>Mon, 05 Oct 2026 21:15:03 GMT</pubDate>
+      <author>@avstorm</author>
+      <description><![CDATA[<p></p><p><img src="https://pbs.twimg.com/media/HT5Xn2XWUAAhzp2?format=jpg&amp;name=small" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>Apple has updated the Finder SF Symbol in macOS 27.2 beta 3</title>
+      <link>https://x.com/avstorm/status/2107213019365400906</link>
+      <guid isPermaLink="true">https://x.com/avstorm/status/2107213019365400906</guid>
+      <pubDate>Mon, 05 Oct 2026 20:55:08 GMT</pubDate>
+      <author>@avstorm</author>
+      <description><![CDATA[<p>Apple has updated the Finder SF Symbol in macOS 27.2 beta 3</p><p><img src="https://pbs.twimg.com/media/HT5Sxy4W4AAxi1h?format=png&amp;name=small" alt=""></p>]]></description>
+    </item>
+    <item>
       <title>Media post</title>
       <link>https://x.com/avstorm/status/2107209974615273783</link>
       <guid isPermaLink="true">https://x.com/avstorm/status/2107209974615273783</guid>
@@ -556,7 +580,7 @@
       <guid isPermaLink="true">https://x.com/pidotdev/status/2105543179206381925</guid>
       <pubDate>Thu, 01 Oct 2026 06:19:47 GMT</pubDate>
       <author>@pidotdev</author>
-      <description><![CDATA[<p>Thanks @dillon_mulroy</p>]]></description>
+      <description><![CDATA[<p>Thanks @dillon_mulroy</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2105453621408108544/img/HG51vDkBu0r0w9uB.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>shadcn/react was deployed to millions yesterday.</title>
@@ -980,7 +1004,7 @@
       <guid isPermaLink="true">https://x.com/pidotdev/status/2104644933990875436</guid>
       <pubDate>Mon, 28 Sep 2026 18:50:29 GMT</pubDate>
       <author>@pidotdev</author>
-      <description><![CDATA[<p>pi update --models</p>]]></description>
+      <description><![CDATA[<p>pi update --models</p><p><img src="https://pbs.twimg.com/media/HTUthyeWIAAInna.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>sadly I&apos;ve created the ultimate design tool</title>
@@ -996,7 +1020,7 @@
       <guid isPermaLink="true">https://x.com/avstorm/status/2104570123713462374</guid>
       <pubDate>Mon, 28 Sep 2026 13:53:13 GMT</pubDate>
       <author>@avstorm</author>
-      <description><![CDATA[<p>Love the little peek inside</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2104569719709741056/img/V3W9MIwrgiLeni9z.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Love the little peek inside</p>]]></description>
     </item>
     <item>
       <title>Updated the chatbot-template to latest next, ai-sdk, shadcn/react, cn and some bug fixes. More soon.</title>
@@ -1052,7 +1076,7 @@
       <guid isPermaLink="true">https://x.com/pidotdev/status/2104510506627121451</guid>
       <pubDate>Mon, 28 Sep 2026 09:56:19 GMT</pubDate>
       <author>@pidotdev</author>
-      <description><![CDATA[<p>Welcome to our Monday Meditations. In which @badlogicgames and @mitsuhiko are talking about things that might or might not need to change in Pi given the changes in models.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2104478098821447680/img/QiyKKxxOAQKMoRKH.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Welcome to our Monday Meditations. In which @badlogicgames and @mitsuhiko are talking about things that might or might not need to change in Pi given the changes in models.</p>]]></description>
     </item>
     <item>
       <title>Liquid Glass on iOS and MacOS 27 is much better. Siri is better. Keyboard still not great for</title>
@@ -1356,7 +1380,7 @@
       <guid isPermaLink="true">https://x.com/avstorm/status/2103206039177044056</guid>
       <pubDate>Thu, 24 Sep 2026 19:32:50 GMT</pubDate>
       <author>@avstorm</author>
-      <description><![CDATA[<p>It doesn’t look like the new Apple Music logo is just for Apple Music Hall.</p><p><img src="https://pbs.twimg.com/profile_images/2057104769358131200/0yTtidyv_normal.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>It doesn’t look like the new Apple Music logo is just for Apple Music Hall.</p><p><img src="https://pbs.twimg.com/media/HS_tnpVWkAAPy2t.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>You can make scrapbook-style animations on tldraw flash</title>
@@ -1581,30 +1605,6 @@
       <pubDate>Wed, 23 Sep 2026 15:46:12 GMT</pubDate>
       <author>@avstorm</author>
       <description><![CDATA[<p>Behind the scenes of the Apple Games commercial</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2102786103111528448/img/GL6nvck5ALeXDNle.jpg" alt=""></p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2102786184560754688/img/1ojXeKyS5o2lchmW.jpg" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>new Earendil Pi extension, pi-voice, built by CJ Pais (creator of Handy) npm install -g @earendil-works/pi-voice https://npmjs.com/package/@earendil-works/pi-voice…</title>
-      <link>https://x.com/pidotdev/status/2102732320533012966</link>
-      <guid isPermaLink="true">https://x.com/pidotdev/status/2102732320533012966</guid>
-      <pubDate>Wed, 23 Sep 2026 12:10:26 GMT</pubDate>
-      <author>@pidotdev</author>
-      <description><![CDATA[<p>new Earendil Pi extension, pi-voice, built by CJ Pais (creator of Handy)<br><br>npm install -g @earendil-works/pi-voice<br><br>https://npmjs.com/package/@earendil-works/pi-voice…</p>]]></description>
-    </item>
-    <item>
-      <title>Double-clicking a frame&apos;s edge to fit its content used to shift everything inside it. In the new version</title>
-      <link>https://x.com/tldraw/status/2102714899558514723</link>
-      <guid isPermaLink="true">https://x.com/tldraw/status/2102714899558514723</guid>
-      <pubDate>Wed, 23 Sep 2026 11:01:13 GMT</pubDate>
-      <author>@tldraw</author>
-      <description><![CDATA[<p>Double-clicking a frame&apos;s edge to fit its content used to shift everything inside it. In the new version of https://tldraw.com, the frame moves to compensate, so shapes stay put.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2102714847347834880/img/asDqHX8X2kk4gMke.jpg" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>Nice detail in the Google Chrome menu</title>
-      <link>https://x.com/avstorm/status/2102706095169188350</link>
-      <guid isPermaLink="true">https://x.com/avstorm/status/2102706095169188350</guid>
-      <pubDate>Wed, 23 Sep 2026 10:26:14 GMT</pubDate>
-      <author>@avstorm</author>
-      <description><![CDATA[<p>Nice detail in the Google Chrome menu</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2102705795007737856/img/q3mvwA5b_hoeC6UY.jpg" alt=""></p>]]></description>
     </item>
   </channel>
 </rss>
