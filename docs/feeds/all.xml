@@ -7,6 +7,22 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>Media post</title>
+      <link>https://x.com/avstorm/status/2107209974615273783</link>
+      <guid isPermaLink="true">https://x.com/avstorm/status/2107209974615273783</guid>
+      <pubDate>Mon, 05 Oct 2026 20:43:02 GMT</pubDate>
+      <author>@avstorm</author>
+      <description><![CDATA[<p></p><p><img src="https://pbs.twimg.com/media/HT5QTS_XIAAQASD?format=jpg&amp;name=small" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>Interesting new symbols in macOS 27.2 beta 3</title>
+      <link>https://x.com/avstorm/status/2107198698451354029</link>
+      <guid isPermaLink="true">https://x.com/avstorm/status/2107198698451354029</guid>
+      <pubDate>Mon, 05 Oct 2026 19:58:14 GMT</pubDate>
+      <author>@avstorm</author>
+      <description><![CDATA[<p>Interesting new symbols in macOS 27.2 beta 3</p><p><img src="https://pbs.twimg.com/media/HT5FuCSXUAAsXCH?format=jpg&amp;name=small" alt=""></p>]]></description>
+    </item>
+    <item>
       <title>Apple has updated the Apple Music wordmark in macOS 27.2 beta 3. Spotted in the AppleMediaServicesUIDynamic, UnifiedMessagingKit, and</title>
       <link>https://x.com/avstorm/status/2107192942880338105</link>
       <guid isPermaLink="true">https://x.com/avstorm/status/2107192942880338105</guid>
@@ -540,7 +556,7 @@
       <guid isPermaLink="true">https://x.com/pidotdev/status/2105543179206381925</guid>
       <pubDate>Thu, 01 Oct 2026 06:19:47 GMT</pubDate>
       <author>@pidotdev</author>
-      <description><![CDATA[<p>Thanks @dillon_mulroy</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2105453621408108544/img/HG51vDkBu0r0w9uB.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Thanks @dillon_mulroy</p>]]></description>
     </item>
     <item>
       <title>shadcn/react was deployed to millions yesterday.</title>
@@ -964,7 +980,7 @@
       <guid isPermaLink="true">https://x.com/pidotdev/status/2104644933990875436</guid>
       <pubDate>Mon, 28 Sep 2026 18:50:29 GMT</pubDate>
       <author>@pidotdev</author>
-      <description><![CDATA[<p>pi update --models</p><p><img src="https://pbs.twimg.com/media/HTUthyeWIAAInna.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>pi update --models</p>]]></description>
     </item>
     <item>
       <title>sadly I&apos;ve created the ultimate design tool</title>
@@ -1036,7 +1052,7 @@
       <guid isPermaLink="true">https://x.com/pidotdev/status/2104510506627121451</guid>
       <pubDate>Mon, 28 Sep 2026 09:56:19 GMT</pubDate>
       <author>@pidotdev</author>
-      <description><![CDATA[<p>Welcome to our Monday Meditations. In which @badlogicgames and @mitsuhiko are talking about things that might or might not need to change in Pi given the changes in models.</p>]]></description>
+      <description><![CDATA[<p>Welcome to our Monday Meditations. In which @badlogicgames and @mitsuhiko are talking about things that might or might not need to change in Pi given the changes in models.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2104478098821447680/img/QiyKKxxOAQKMoRKH.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Liquid Glass on iOS and MacOS 27 is much better. Siri is better. Keyboard still not great for</title>
@@ -1589,22 +1605,6 @@
       <pubDate>Wed, 23 Sep 2026 10:26:14 GMT</pubDate>
       <author>@avstorm</author>
       <description><![CDATA[<p>Nice detail in the Google Chrome menu</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2102705795007737856/img/q3mvwA5b_hoeC6UY.jpg" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>imagination is the other hard part</title>
-      <link>https://x.com/tldraw/status/2102703704117760383</link>
-      <guid isPermaLink="true">https://x.com/tldraw/status/2102703704117760383</guid>
-      <pubDate>Wed, 23 Sep 2026 10:16:44 GMT</pubDate>
-      <author>@tldraw</author>
-      <description><![CDATA[<p>imagination is the other hard part</p>]]></description>
-    </item>
-    <item>
-      <title>btw this was only a few turns with a model to create! As usual the &quot;super good canvas&quot;</title>
-      <link>https://x.com/tldraw/status/2102703700490035473</link>
-      <guid isPermaLink="true">https://x.com/tldraw/status/2102703700490035473</guid>
-      <pubDate>Wed, 23 Sep 2026 10:16:43 GMT</pubDate>
-      <author>@tldraw</author>
-      <description><![CDATA[<p>btw this was only a few turns with a model to create! As usual the &quot;super good canvas&quot; is the hard part but that&apos;s done</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2102429899394875392/img/NK5DomZYy6MxwQ4i.jpg" alt=""></p>]]></description>
     </item>
   </channel>
 </rss>

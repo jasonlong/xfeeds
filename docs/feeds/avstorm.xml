@@ -13,6 +13,22 @@
     </image>
     <ttl>120</ttl>
     <item>
+      <title>Media post</title>
+      <link>https://x.com/avstorm/status/2107209974615273783</link>
+      <guid isPermaLink="true">https://x.com/avstorm/status/2107209974615273783</guid>
+      <pubDate>Mon, 05 Oct 2026 20:43:02 GMT</pubDate>
+      <author>@avstorm</author>
+      <description><![CDATA[<p></p><p><img src="https://pbs.twimg.com/media/HT5QTS_XIAAQASD?format=jpg&amp;name=small" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>Interesting new symbols in macOS 27.2 beta 3</title>
+      <link>https://x.com/avstorm/status/2107198698451354029</link>
+      <guid isPermaLink="true">https://x.com/avstorm/status/2107198698451354029</guid>
+      <pubDate>Mon, 05 Oct 2026 19:58:14 GMT</pubDate>
+      <author>@avstorm</author>
+      <description><![CDATA[<p>Interesting new symbols in macOS 27.2 beta 3</p><p><img src="https://pbs.twimg.com/media/HT5FuCSXUAAsXCH?format=jpg&amp;name=small" alt=""></p>]]></description>
+    </item>
+    <item>
       <title>Apple has updated the Apple Music wordmark in macOS 27.2 beta 3. Spotted in the AppleMediaServicesUIDynamic, UnifiedMessagingKit, and</title>
       <link>https://x.com/avstorm/status/2107192942880338105</link>
       <guid isPermaLink="true">https://x.com/avstorm/status/2107192942880338105</guid>
@@ -795,22 +811,6 @@
       <pubDate>Wed, 09 Sep 2026 08:13:00 GMT</pubDate>
       <author>@avstorm</author>
       <description><![CDATA[<p>Love this sublte folding in the Apple Event like animation.</p><p><img src="https://pbs.twimg.com/media/HRwqqy7WkAEJrHB?format=jpg&amp;name=small" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>Works for &quot;Apple Event&quot; and #AppleEvent</title>
-      <link>https://x.com/avstorm/status/2097596066434629684</link>
-      <guid isPermaLink="true">https://x.com/avstorm/status/2097596066434629684</guid>
-      <pubDate>Wed, 09 Sep 2026 08:00:48 GMT</pubDate>
-      <author>@avstorm</author>
-      <description><![CDATA[<p>Works for &quot;Apple Event&quot; and #AppleEvent</p>]]></description>
-    </item>
-    <item>
-      <title>The Apple Event like animation is live</title>
-      <link>https://x.com/avstorm/status/2097595938743165052</link>
-      <guid isPermaLink="true">https://x.com/avstorm/status/2097595938743165052</guid>
-      <pubDate>Wed, 09 Sep 2026 08:00:17 GMT</pubDate>
-      <author>@avstorm</author>
-      <description><![CDATA[<p>The Apple Event like animation is live</p><p><img src="https://pbs.twimg.com/media/HRwoHLKa8AAbjvs?format=jpg&amp;name=small" alt=""></p>]]></description>
     </item>
   </channel>
 </rss>
