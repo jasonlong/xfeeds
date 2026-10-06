@@ -7,6 +7,14 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>another fun easter egg in https://superlogical.com/rex/docs, copying code blocks plays the same shader driven animation we use in</title>
+      <link>https://x.com/almonk/status/2107549916855959976</link>
+      <guid isPermaLink="true">https://x.com/almonk/status/2107549916855959976</guid>
+      <pubDate>Tue, 06 Oct 2026 19:13:51 GMT</pubDate>
+      <author>@almonk</author>
+      <description><![CDATA[<p>another fun easter egg in https://superlogical.com/rex/docs, copying code blocks plays the same shader driven animation we use in the product when you copy text. once you use it, you kinda want it everywhere</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2107549852129230848/img/VLtLKhOCMVPvmCqG.jpg" alt=""></p>]]></description>
+    </item>
+    <item>
       <title>I used the browser view transition api for this little detail. Hard to imagine when we had to</title>
       <link>https://x.com/almonk/status/2107536032291864867</link>
       <guid isPermaLink="true">https://x.com/almonk/status/2107536032291864867</guid>
@@ -540,7 +548,7 @@
       <guid isPermaLink="true">https://x.com/avstorm/status/2106056245698330837</guid>
       <pubDate>Fri, 02 Oct 2026 16:18:32 GMT</pubDate>
       <author>@avstorm</author>
-      <description><![CDATA[<p>Apple&apos;s Genius Bar animation from 2004</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2106055751919665152/img/dqDQzsayKrgkI0BX.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Apple&apos;s Genius Bar animation from 2004</p>]]></description>
     </item>
     <item>
       <title>This is like, the total opposite of what we should be doing with ai</title>
@@ -1597,14 +1605,6 @@
       <pubDate>Thu, 24 Sep 2026 16:16:00 GMT</pubDate>
       <author>@AREdotNA</author>
       <description><![CDATA[<p>this is our favorite kind of improvement, the kind that one might never even notice (but is actually extremely luxurious)</p>]]></description>
-    </item>
-    <item>
-      <title>niche, but amazing: the best implementation of scroll restoration we&apos;ve ever had has just deployed to the web</title>
-      <link>https://x.com/AREdotNA/status/2103155233270444340</link>
-      <guid isPermaLink="true">https://x.com/AREdotNA/status/2103155233270444340</guid>
-      <pubDate>Thu, 24 Sep 2026 16:10:57 GMT</pubDate>
-      <author>@AREdotNA</author>
-      <description><![CDATA[<p>niche, but amazing: the best implementation of scroll restoration we&apos;ve ever had has just deployed to the web app.<br><br>observe the deep rabbit hole traversal and subsequent backing out of, all with each channel&apos;s scroll position maintained...</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2103154335559344128/img/lqjPDnfV9H-9nW3q.jpg" alt=""></p>]]></description>
     </item>
   </channel>
 </rss>
