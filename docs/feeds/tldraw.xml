@@ -13,6 +13,14 @@
     </image>
     <ttl>120</ttl>
     <item>
+      <title>oh damn</title>
+      <link>https://x.com/tldraw/status/2107589361428725766</link>
+      <guid isPermaLink="true">https://x.com/tldraw/status/2107589361428725766</guid>
+      <pubDate>Tue, 06 Oct 2026 21:50:35 GMT</pubDate>
+      <author>@tldraw</author>
+      <description><![CDATA[<p>oh damn</p><p><img src="https://pbs.twimg.com/ext_tw_video_thumb/1724908000475828225/pu/img/DkszCViSMl1D-_kj.jpg" alt=""></p>]]></description>
+    </item>
+    <item>
       <title>Agents are bad at &quot;this&quot;, &quot;here&quot; and &quot;over there&quot;. Comments help give them location-specific content on the canvas.</title>
       <link>https://x.com/tldraw/status/2107485533761048621</link>
       <guid isPermaLink="true">https://x.com/tldraw/status/2107485533761048621</guid>
@@ -26,7 +34,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2107062996094878198</guid>
       <pubDate>Mon, 05 Oct 2026 10:59:00 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>Welcome to tldraw sleep, a series of videos on topics we think are interesting. Tonight&apos;s episode is about underwater dinosaurs.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2104333603014348802/img/PrqJEeRoVeSFoXZl.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Welcome to tldraw sleep, a series of videos on topics we think are interesting. Tonight&apos;s episode is about underwater dinosaurs.</p>]]></description>
     </item>
     <item>
       <title>See the rest of the series here:</title>
@@ -42,7 +50,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2106700104891609307</guid>
       <pubDate>Sun, 04 Oct 2026 10:57:00 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>Welcome to tldraw sleep, a series of videos on topics we think are interesting. Tonight&apos;s episode is about ballistics.</p>]]></description>
+      <description><![CDATA[<p>Welcome to tldraw sleep, a series of videos on topics we think are interesting. Tonight&apos;s episode is about ballistics.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2104331704030646272/img/aZ42cYCbTor9EUl3.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>See the rest of the series here:</title>
@@ -58,7 +66,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2106158284847620449</guid>
       <pubDate>Fri, 02 Oct 2026 23:04:00 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>Welcome to tldraw sleep, a series of videos on topics we think are interesting. Tonight&apos;s episode is about random access memory (RAM) in computers.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2104331141301796865/img/EukgIDfrvp9V-FB1.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Welcome to tldraw sleep, a series of videos on topics we think are interesting. Tonight&apos;s episode is about random access memory (RAM) in computers.</p>]]></description>
     </item>
     <item>
       <title>See the rest of the series here:</title>
@@ -74,7 +82,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2106156271485542621</guid>
       <pubDate>Fri, 02 Oct 2026 22:56:00 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>Welcome to tldraw sleep, a series of videos on topics we think are interesting. Tonight&apos;s episode explores the question of why we look different from other animals.</p>]]></description>
+      <description><![CDATA[<p>Welcome to tldraw sleep, a series of videos on topics we think are interesting. Tonight&apos;s episode explores the question of why we look different from other animals.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2104330842835206144/img/7tjnMf_AGZiw9vsD.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>See the rest of the series here:</title>
@@ -803,14 +811,6 @@
       <pubDate>Wed, 16 Sep 2026 16:31:40 GMT</pubDate>
       <author>@tldraw</author>
       <description><![CDATA[<p>We also fixed a few things:<br><br>⌨️ Text no longer disappears while you&apos;re editing it<br><br>💨 The zoom tool no longer gets stuck when you hold Z<br><br>🖼️ Frame contents stay put when you double-click a frame&apos;s edge</p>]]></description>
-    </item>
-    <item>
-      <title>It’s Wednesday, which means we’ve landed the new version of https://tldraw.com. In this version: 🧜 Mermaid diagrams render</title>
-      <link>https://x.com/tldraw/status/2100261342816973275</link>
-      <guid isPermaLink="true">https://x.com/tldraw/status/2100261342816973275</guid>
-      <pubDate>Wed, 16 Sep 2026 16:31:39 GMT</pubDate>
-      <author>@tldraw</author>
-      <description><![CDATA[<p>It’s Wednesday, which means we’ve landed the new version of https://tldraw.com. In this version:<br><br>🧜 Mermaid diagrams render much more accurately — sequence diagrams, flowcharts, self-loops, and multi-line labels now match how Mermaid lays them out<br><br>🖼️ You can now wrap a</p>]]></description>
     </item>
   </channel>
 </rss>
