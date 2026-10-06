@@ -7,6 +7,22 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>Now also on Youtube:</title>
+      <link>https://x.com/pidotdev/status/2107388761956888891</link>
+      <guid isPermaLink="true">https://x.com/pidotdev/status/2107388761956888891</guid>
+      <pubDate>Tue, 06 Oct 2026 08:33:28 GMT</pubDate>
+      <author>@pidotdev</author>
+      <description><![CDATA[<p>Now also on Youtube:</p>]]></description>
+    </item>
+    <item>
+      <title>Now also on Youtube:</title>
+      <link>https://x.com/pidotdev/status/2107388698346066042</link>
+      <guid isPermaLink="true">https://x.com/pidotdev/status/2107388698346066042</guid>
+      <pubDate>Tue, 06 Oct 2026 08:33:13 GMT</pubDate>
+      <author>@pidotdev</author>
+      <description><![CDATA[<p>Now also on Youtube:</p>]]></description>
+    </item>
+    <item>
       <title>The Low Power Mode icon finally matches the standard battery icon in macOS 27.2 beta 3.</title>
       <link>https://x.com/avstorm/status/2107352256093802976</link>
       <guid isPermaLink="true">https://x.com/avstorm/status/2107352256093802976</guid>
@@ -204,7 +220,7 @@
       <guid isPermaLink="true">https://x.com/avstorm/status/2106980561260511243</guid>
       <pubDate>Mon, 05 Oct 2026 05:31:26 GMT</pubDate>
       <author>@avstorm</author>
-      <description><![CDATA[<p>Celebrating Steve Jobs</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2106977840998617088/img/dFgqZag1iZDP534t.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Celebrating Steve Jobs</p>]]></description>
     </item>
     <item>
       <title>So good you forgot to cancel trial 😉</title>
@@ -1036,7 +1052,7 @@
       <guid isPermaLink="true">https://x.com/avstorm/status/2104570123713462374</guid>
       <pubDate>Mon, 28 Sep 2026 13:53:13 GMT</pubDate>
       <author>@avstorm</author>
-      <description><![CDATA[<p>Love the little peek inside</p>]]></description>
+      <description><![CDATA[<p>Love the little peek inside</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2104569719709741056/img/V3W9MIwrgiLeni9z.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Updated the chatbot-template to latest next, ai-sdk, shadcn/react, cn and some bug fixes. More soon.</title>
@@ -1276,7 +1292,7 @@
       <guid isPermaLink="true">https://x.com/mitchellh/status/2103590567498457265</guid>
       <pubDate>Fri, 25 Sep 2026 21:00:48 GMT</pubDate>
       <author>@mitchellh</author>
-      <description><![CDATA[<p>We&apos;ve had this feature for less than 24 hours in our nightly releases and I already can&apos;t imagine working without it.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2103572772110606336/img/ESWnoc9jknwY6iox.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>We&apos;ve had this feature for less than 24 hours in our nightly releases and I already can&apos;t imagine working without it.</p>]]></description>
     </item>
     <item>
       <title>I love the idea of complementing the user&apos;s shell. Augmenting their experience rather than attempting to hijack it.</title>
@@ -1589,22 +1605,6 @@
       <pubDate>Wed, 23 Sep 2026 15:56:04 GMT</pubDate>
       <author>@tldraw</author>
       <description><![CDATA[<p>We’re pleased to welcome Canary on board as our latest customer!<br><br>Canary uses tldraw’s infinite canvas SDK to create easy-to-read floor plans for rental listings. tldraw’s custom shapes allow users to model rooms as polygons, snap walls and fixtures to the 910mm Japanese</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2102789091243024384/img/gNT5bP7TUJ2owvA8.jpg" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>We were thinking of adding webcam to zerotake</title>
-      <link>https://x.com/zerocam_app/status/2102787241445900365</link>
-      <guid isPermaLink="true">https://x.com/zerocam_app/status/2102787241445900365</guid>
-      <pubDate>Wed, 23 Sep 2026 15:48:40 GMT</pubDate>
-      <author>@zerocam_app</author>
-      <description><![CDATA[<p>We were thinking of adding webcam to zerotake</p>]]></description>
-    </item>
-    <item>
-      <title>Another happy customer :-) Thank you!</title>
-      <link>https://x.com/zerocam_app/status/2102786915607171114</link>
-      <guid isPermaLink="true">https://x.com/zerocam_app/status/2102786915607171114</guid>
-      <pubDate>Wed, 23 Sep 2026 15:47:23 GMT</pubDate>
-      <author>@zerocam_app</author>
-      <description><![CDATA[<p>Another happy customer :-) Thank you!</p><p><img src="https://pbs.twimg.com/media/HS1tQrkWQAAf3k3?format=jpg&amp;name=small" alt=""></p><p><img src="https://pbs.twimg.com/media/HS1tQrgXAAAKnSJ?format=jpg&amp;name=small" alt=""></p><p><img src="https://pbs.twimg.com/media/HS1tQrnXgAA6LYb?format=jpg&amp;name=360x360" alt=""></p><p><img src="https://pbs.twimg.com/media/HS1tQrlX0AAW3Vb?format=jpg&amp;name=360x360" alt=""></p>]]></description>
     </item>
   </channel>
 </rss>
