@@ -7,6 +7,14 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>The Low Power Mode icon finally matches the standard battery icon in macOS 27.2 beta 3.</title>
+      <link>https://x.com/avstorm/status/2107352256093802976</link>
+      <guid isPermaLink="true">https://x.com/avstorm/status/2107352256093802976</guid>
+      <pubDate>Tue, 06 Oct 2026 06:08:25 GMT</pubDate>
+      <author>@avstorm</author>
+      <description><![CDATA[<p>The Low Power Mode icon finally matches the standard battery icon in macOS 27.2 beta 3.</p><p><img src="https://pbs.twimg.com/media/HT7P3HcWoAAzzMs?format=png&amp;name=small" alt=""></p>]]></description>
+    </item>
+    <item>
       <title>remembering Steve i grew up with beige boxes. then i moved to Canada and saw the iMac G4.</title>
       <link>https://x.com/ryolu_/status/2107246891977335049</link>
       <guid isPermaLink="true">https://x.com/ryolu_/status/2107246891977335049</guid>
@@ -396,7 +404,7 @@
       <guid isPermaLink="true">https://x.com/avstorm/status/2106056245698330837</guid>
       <pubDate>Fri, 02 Oct 2026 16:18:32 GMT</pubDate>
       <author>@avstorm</author>
-      <description><![CDATA[<p>Apple&apos;s Genius Bar animation from 2004</p>]]></description>
+      <description><![CDATA[<p>Apple&apos;s Genius Bar animation from 2004</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2106055751919665152/img/dqDQzsayKrgkI0BX.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>This is like, the total opposite of what we should be doing with ai</title>
@@ -588,7 +596,7 @@
       <guid isPermaLink="true">https://x.com/pidotdev/status/2105543179206381925</guid>
       <pubDate>Thu, 01 Oct 2026 06:19:47 GMT</pubDate>
       <author>@pidotdev</author>
-      <description><![CDATA[<p>Thanks @dillon_mulroy</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2105453621408108544/img/HG51vDkBu0r0w9uB.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Thanks @dillon_mulroy</p>]]></description>
     </item>
     <item>
       <title>shadcn/react was deployed to millions yesterday.</title>
@@ -700,7 +708,7 @@
       <guid isPermaLink="true">https://x.com/reflectnotes/status/2105341653468774723</guid>
       <pubDate>Wed, 30 Sep 2026 16:59:00 GMT</pubDate>
       <author>@reflectnotes</author>
-      <description><![CDATA[<p>We built the notes app we always wished Apple Notes was.<br><br>Beautiful, connected by backlinks, instant to search, and every note is a plain Markdown file your AI agents can read.<br><br>Reflect Open is out of beta today. Open source, free on Mac, and on iPhone and iPad.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2104982548606562304/img/IJq32DJsLsNSDDvY.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>We built the notes app we always wished Apple Notes was.<br><br>Beautiful, connected by backlinks, instant to search, and every note is a plain Markdown file your AI agents can read.<br><br>Reflect Open is out of beta today. Open source, free on Mac, and on iPhone and iPad.</p>]]></description>
     </item>
     <item>
       <title>Your notes are ordinary Markdown files. No Reflect account. No Reflect cloud database. Open them in any editor</title>
@@ -1012,7 +1020,7 @@
       <guid isPermaLink="true">https://x.com/pidotdev/status/2104644933990875436</guid>
       <pubDate>Mon, 28 Sep 2026 18:50:29 GMT</pubDate>
       <author>@pidotdev</author>
-      <description><![CDATA[<p>pi update --models</p><p><img src="https://pbs.twimg.com/media/HTUthyeWIAAInna.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>pi update --models</p>]]></description>
     </item>
     <item>
       <title>sadly I&apos;ve created the ultimate design tool</title>
@@ -1084,7 +1092,7 @@
       <guid isPermaLink="true">https://x.com/pidotdev/status/2104510506627121451</guid>
       <pubDate>Mon, 28 Sep 2026 09:56:19 GMT</pubDate>
       <author>@pidotdev</author>
-      <description><![CDATA[<p>Welcome to our Monday Meditations. In which @badlogicgames and @mitsuhiko are talking about things that might or might not need to change in Pi given the changes in models.</p>]]></description>
+      <description><![CDATA[<p>Welcome to our Monday Meditations. In which @badlogicgames and @mitsuhiko are talking about things that might or might not need to change in Pi given the changes in models.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2104478098821447680/img/QiyKKxxOAQKMoRKH.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Liquid Glass on iOS and MacOS 27 is much better. Siri is better. Keyboard still not great for</title>
@@ -1268,7 +1276,7 @@
       <guid isPermaLink="true">https://x.com/mitchellh/status/2103590567498457265</guid>
       <pubDate>Fri, 25 Sep 2026 21:00:48 GMT</pubDate>
       <author>@mitchellh</author>
-      <description><![CDATA[<p>We&apos;ve had this feature for less than 24 hours in our nightly releases and I already can&apos;t imagine working without it.</p>]]></description>
+      <description><![CDATA[<p>We&apos;ve had this feature for less than 24 hours in our nightly releases and I already can&apos;t imagine working without it.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2103572772110606336/img/ESWnoc9jknwY6iox.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>I love the idea of complementing the user&apos;s shell. Augmenting their experience rather than attempting to hijack it.</title>
@@ -1597,14 +1605,6 @@
       <pubDate>Wed, 23 Sep 2026 15:47:23 GMT</pubDate>
       <author>@zerocam_app</author>
       <description><![CDATA[<p>Another happy customer :-) Thank you!</p><p><img src="https://pbs.twimg.com/media/HS1tQrkWQAAf3k3?format=jpg&amp;name=small" alt=""></p><p><img src="https://pbs.twimg.com/media/HS1tQrgXAAAKnSJ?format=jpg&amp;name=small" alt=""></p><p><img src="https://pbs.twimg.com/media/HS1tQrnXgAA6LYb?format=jpg&amp;name=360x360" alt=""></p><p><img src="https://pbs.twimg.com/media/HS1tQrlX0AAW3Vb?format=jpg&amp;name=360x360" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>Show us some old or non-pro iPhone FILM or VIVID footage!</title>
-      <link>https://x.com/zerocam_app/status/2102786687122424053</link>
-      <guid isPermaLink="true">https://x.com/zerocam_app/status/2102786687122424053</guid>
-      <pubDate>Wed, 23 Sep 2026 15:46:28 GMT</pubDate>
-      <author>@zerocam_app</author>
-      <description><![CDATA[<p>Show us some old or non-pro iPhone FILM or VIVID footage!</p>]]></description>
     </item>
   </channel>
 </rss>
