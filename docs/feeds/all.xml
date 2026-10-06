@@ -7,6 +7,22 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>We have implemented spec OSC7501 in Rex today so our testing group can build applications that support it.</title>
+      <link>https://x.com/almonk/status/2107582768066515172</link>
+      <guid isPermaLink="true">https://x.com/almonk/status/2107582768066515172</guid>
+      <pubDate>Tue, 06 Oct 2026 21:24:23 GMT</pubDate>
+      <author>@almonk</author>
+      <description><![CDATA[<p>We have implemented spec OSC7501 in Rex today so our testing group can build applications that support it. https://superlogical.com/rex/docs/build/program-status…</p>]]></description>
+    </item>
+    <item>
+      <title>I&apos;ve published a new, general-purpose terminal specification that gives any program a way to tell the terminal what</title>
+      <link>https://x.com/mitchellh/status/2107577887159386152</link>
+      <guid isPermaLink="true">https://x.com/mitchellh/status/2107577887159386152</guid>
+      <pubDate>Tue, 06 Oct 2026 21:04:59 GMT</pubDate>
+      <author>@mitchellh</author>
+      <description><![CDATA[<p>I&apos;ve published a new, general-purpose terminal specification that gives any program a way to tell the terminal what it&apos;s doing: idle, working, waiting, finished, or failed, and why. It is easy to implement on both sides. I&apos;ve written more about why: https://mitchellh.com/writing/program-status-osc7501…<br><br>The</p>]]></description>
+    </item>
+    <item>
       <title>another fun easter egg in https://superlogical.com/rex/docs, copying code blocks plays the same shader driven animation we use in</title>
       <link>https://x.com/almonk/status/2107549916855959976</link>
       <guid isPermaLink="true">https://x.com/almonk/status/2107549916855959976</guid>
@@ -20,7 +36,7 @@
       <guid isPermaLink="true">https://x.com/almonk/status/2107536032291864867</guid>
       <pubDate>Tue, 06 Oct 2026 18:18:40 GMT</pubDate>
       <author>@almonk</author>
-      <description><![CDATA[<p>I used the browser view transition api for this little detail. Hard to imagine when we had to live without this.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2107535978885730305/img/okKkILqTI-PMMLaF.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>I used the browser view transition api for this little detail. Hard to imagine when we had to live without this.</p>]]></description>
     </item>
     <item>
       <title>Released the new documentation site for Rex today. Lots more to come but v happy how this came</title>
@@ -548,7 +564,7 @@
       <guid isPermaLink="true">https://x.com/avstorm/status/2106056245698330837</guid>
       <pubDate>Fri, 02 Oct 2026 16:18:32 GMT</pubDate>
       <author>@avstorm</author>
-      <description><![CDATA[<p>Apple&apos;s Genius Bar animation from 2004</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2106055751919665152/img/dqDQzsayKrgkI0BX.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Apple&apos;s Genius Bar animation from 2004</p>]]></description>
     </item>
     <item>
       <title>This is like, the total opposite of what we should be doing with ai</title>
@@ -1589,22 +1605,6 @@
       <pubDate>Thu, 24 Sep 2026 16:35:58 GMT</pubDate>
       <author>@AREdotNA</author>
       <description><![CDATA[<p>exactly why we have an api! <br><br>we might not ever implement this ourselves (for...reasons) but that doesn&apos;t mean someone else can&apos;t!<br><br>let 1000 use cases bloom</p><p><img src="https://pbs.twimg.com/media/HS5_DnNbAAA0GpP?format=jpg&amp;name=small" alt=""></p><p><img src="https://pbs.twimg.com/media/HS5_FXAaYAAlWu3?format=jpg&amp;name=small" alt=""></p><p><img src="https://pbs.twimg.com/media/HS5_GtBaAAAAvpK?format=jpg&amp;name=small" alt=""></p><p><img src="https://pbs.twimg.com/media/HS5_OVHb0AAuseC?format=jpg&amp;name=small" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>Have you tried Opus 5.5 yet with Paper? We are hearing good things about similar quality with reduced</title>
-      <link>https://x.com/paper/status/2103157921974804773</link>
-      <guid isPermaLink="true">https://x.com/paper/status/2103157921974804773</guid>
-      <pubDate>Thu, 24 Sep 2026 16:21:38 GMT</pubDate>
-      <author>@paper</author>
-      <description><![CDATA[<p>Have you tried Opus 5.5 yet with Paper?<br><br>We are hearing good things about similar quality with reduced cost.<br><br>@harcourttt takes it for a spin in this video -- what&apos;s your take on the newest model from Anthropic?</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2103157525084594181/img/E3vEtBsUiQPySeYY.jpg" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>this is our favorite kind of improvement, the kind that one might never even notice (but is actually</title>
-      <link>https://x.com/AREdotNA/status/2103156508296949970</link>
-      <guid isPermaLink="true">https://x.com/AREdotNA/status/2103156508296949970</guid>
-      <pubDate>Thu, 24 Sep 2026 16:16:00 GMT</pubDate>
-      <author>@AREdotNA</author>
-      <description><![CDATA[<p>this is our favorite kind of improvement, the kind that one might never even notice (but is actually extremely luxurious)</p>]]></description>
     </item>
   </channel>
 </rss>

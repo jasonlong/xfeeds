@@ -13,6 +13,14 @@
     </image>
     <ttl>120</ttl>
     <item>
+      <title>I&apos;ve published a new, general-purpose terminal specification that gives any program a way to tell the terminal what</title>
+      <link>https://x.com/mitchellh/status/2107577887159386152</link>
+      <guid isPermaLink="true">https://x.com/mitchellh/status/2107577887159386152</guid>
+      <pubDate>Tue, 06 Oct 2026 21:04:59 GMT</pubDate>
+      <author>@mitchellh</author>
+      <description><![CDATA[<p>I&apos;ve published a new, general-purpose terminal specification that gives any program a way to tell the terminal what it&apos;s doing: idle, working, waiting, finished, or failed, and why. It is easy to implement on both sides. I&apos;ve written more about why: https://mitchellh.com/writing/program-status-osc7501…<br><br>The</p>]]></description>
+    </item>
+    <item>
       <title>The primary thing blocking the Ghostty 1.4 is translation review. We&apos;re planning to ship with broken translations if</title>
       <link>https://x.com/mitchellh/status/2107501057500991764</link>
       <guid isPermaLink="true">https://x.com/mitchellh/status/2107501057500991764</guid>
@@ -130,7 +138,7 @@
       <guid isPermaLink="true">https://x.com/mitchellh/status/2097424868203758046</guid>
       <pubDate>Tue, 08 Sep 2026 20:40:31 GMT</pubDate>
       <author>@mitchellh</author>
-      <description><![CDATA[<p>A quick look into remote persistent sessions with Superlogical! Not just remote sessions, but some functionality like remote directory lists, too. Superlogical can actually be a full SSH replacement (I don&apos;t run SSH on my servers anymore), and I talk about that briefly, too.</p>]]></description>
+      <description><![CDATA[<p>A quick look into remote persistent sessions with Superlogical! Not just remote sessions, but some functionality like remote directory lists, too. Superlogical can actually be a full SSH replacement (I don&apos;t run SSH on my servers anymore), and I talk about that briefly, too.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2097423824325337088/img/6fxkvF8tDwoXqWRQ.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>We now have automated half-bounce analysis created by @infomiho! Paste an X post with a screen recording and</title>
