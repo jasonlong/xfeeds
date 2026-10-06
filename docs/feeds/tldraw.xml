@@ -13,6 +13,14 @@
     </image>
     <ttl>120</ttl>
     <item>
+      <title>Agents are bad at &quot;this&quot;, &quot;here&quot; and &quot;over there&quot;. Comments help give them location-specific content on the canvas.</title>
+      <link>https://x.com/tldraw/status/2107485533761048621</link>
+      <guid isPermaLink="true">https://x.com/tldraw/status/2107485533761048621</guid>
+      <pubDate>Tue, 06 Oct 2026 14:58:01 GMT</pubDate>
+      <author>@tldraw</author>
+      <description><![CDATA[<p>Agents are bad at &quot;this&quot;, &quot;here&quot; and &quot;over there&quot;.<br><br>Comments help give them location-specific content on the canvas.<br><br>Tim, our Head of Product, explains why the chat box is the wrong interface for working with AI on a canvas, and how that led to him building a pirate game for his</p>]]></description>
+    </item>
+    <item>
       <title>Welcome to tldraw sleep, a series of videos on topics we think are interesting. Tonight&apos;s episode is about</title>
       <link>https://x.com/tldraw/status/2107062996094878198</link>
       <guid isPermaLink="true">https://x.com/tldraw/status/2107062996094878198</guid>
@@ -34,7 +42,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2106700104891609307</guid>
       <pubDate>Sun, 04 Oct 2026 10:57:00 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>Welcome to tldraw sleep, a series of videos on topics we think are interesting. Tonight&apos;s episode is about ballistics.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2104331704030646272/img/aZ42cYCbTor9EUl3.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Welcome to tldraw sleep, a series of videos on topics we think are interesting. Tonight&apos;s episode is about ballistics.</p>]]></description>
     </item>
     <item>
       <title>See the rest of the series here:</title>
@@ -50,7 +58,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2106158284847620449</guid>
       <pubDate>Fri, 02 Oct 2026 23:04:00 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>Welcome to tldraw sleep, a series of videos on topics we think are interesting. Tonight&apos;s episode is about random access memory (RAM) in computers.</p>]]></description>
+      <description><![CDATA[<p>Welcome to tldraw sleep, a series of videos on topics we think are interesting. Tonight&apos;s episode is about random access memory (RAM) in computers.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2104331141301796865/img/EukgIDfrvp9V-FB1.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>See the rest of the series here:</title>
@@ -66,7 +74,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2106156271485542621</guid>
       <pubDate>Fri, 02 Oct 2026 22:56:00 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>Welcome to tldraw sleep, a series of videos on topics we think are interesting. Tonight&apos;s episode explores the question of why we look different from other animals.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2104330842835206144/img/7tjnMf_AGZiw9vsD.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Welcome to tldraw sleep, a series of videos on topics we think are interesting. Tonight&apos;s episode explores the question of why we look different from other animals.</p>]]></description>
     </item>
     <item>
       <title>See the rest of the series here:</title>
@@ -90,7 +98,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2106066907891974239</guid>
       <pubDate>Fri, 02 Oct 2026 17:00:54 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>The spice must flow, and so must the pipeline. You can build collaborative QBRs in minutes with the tldraw @ChatGPT plugin.</p>]]></description>
+      <description><![CDATA[<p>The spice must flow, and so must the pipeline. You can build collaborative QBRs in minutes with the tldraw @ChatGPT plugin.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2106066875541274624/img/9omlsVqCl2uv8nGX.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Introducing Tldraw, the world&apos;s second model to pass the video Turing test.</title>
@@ -803,14 +811,6 @@
       <pubDate>Wed, 16 Sep 2026 16:31:39 GMT</pubDate>
       <author>@tldraw</author>
       <description><![CDATA[<p>It’s Wednesday, which means we’ve landed the new version of https://tldraw.com. In this version:<br><br>🧜 Mermaid diagrams render much more accurately — sequence diagrams, flowcharts, self-loops, and multi-line labels now match how Mermaid lays them out<br><br>🖼️ You can now wrap a</p>]]></description>
-    </item>
-    <item>
-      <title>Media post</title>
-      <link>https://x.com/tldraw/status/2100242581556764923</link>
-      <guid isPermaLink="true">https://x.com/tldraw/status/2100242581556764923</guid>
-      <pubDate>Wed, 16 Sep 2026 15:17:06 GMT</pubDate>
-      <author>@tldraw</author>
-      <description><![CDATA[<p></p>]]></description>
     </item>
   </channel>
 </rss>
