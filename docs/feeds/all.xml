@@ -7,6 +7,22 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>I haven&apos;t had a personal site for a while because it’s just impossible to compete with all the</title>
+      <link>https://x.com/vladmoroz/status/2107501201998684380</link>
+      <guid isPermaLink="true">https://x.com/vladmoroz/status/2107501201998684380</guid>
+      <pubDate>Tue, 06 Oct 2026 16:00:16 GMT</pubDate>
+      <author>@vladmoroz</author>
+      <description><![CDATA[<p>I haven&apos;t had a personal site for a while because it’s just impossible to compete with all the awesome portfolios out there.<br><br>However, I realized that I can just underdesign it and tell my story if I come up with a couple in-group dad jokes 🤭<br><br>https://vladmoroz.com</p>]]></description>
+    </item>
+    <item>
+      <title>The primary thing blocking the Ghostty 1.4 is translation review. We&apos;re planning to ship with broken translations if</title>
+      <link>https://x.com/mitchellh/status/2107501057500991764</link>
+      <guid isPermaLink="true">https://x.com/mitchellh/status/2107501057500991764</guid>
+      <pubDate>Tue, 06 Oct 2026 15:59:42 GMT</pubDate>
+      <author>@mitchellh</author>
+      <description><![CDATA[<p>The primary thing blocking the Ghostty 1.4 is translation review. We&apos;re planning to ship with broken translations if we can&apos;t get reviewers/translators quickly to help with the following: Catalan, Indonesian, Irish, Japanese. PRs here: https://github.com/ghostty-org/ghostty/pulls?q=is%3Apr+state%3Aopen+label%3Atranslations… and translation</p>]]></description>
+    </item>
+    <item>
       <title>Agents are bad at &quot;this&quot;, &quot;here&quot; and &quot;over there&quot;. Comments help give them location-specific content on the canvas.</title>
       <link>https://x.com/tldraw/status/2107485533761048621</link>
       <guid isPermaLink="true">https://x.com/tldraw/status/2107485533761048621</guid>
@@ -500,7 +516,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2105980995937722687</guid>
       <pubDate>Fri, 02 Oct 2026 11:19:31 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>Introducing Tldraw, the world&apos;s second model to pass the video Turing test.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2105980659776868352/img/LnBhBEeropcoowZl.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Introducing Tldraw, the world&apos;s second model to pass the video Turing test.</p>]]></description>
     </item>
     <item>
       <title>A rotated arrow bound to a shape in https://tldraw.com now keeps its ends in place when you drag</title>
@@ -508,7 +524,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2105976394601910490</guid>
       <pubDate>Fri, 02 Oct 2026 11:01:14 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>A rotated arrow bound to a shape in https://tldraw.com now keeps its ends in place when you drag or nudge it, instead of pulling them the wrong way.</p>]]></description>
+      <description><![CDATA[<p>A rotated arrow bound to a shape in https://tldraw.com now keeps its ends in place when you drag or nudge it, instead of pulling them the wrong way.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2105976338129797120/img/LJLFgZutKy-1NbdL.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Cool eval. Simply ask an LLM “Land or Water?” and give it a latitude and longitude coordinate as</title>
@@ -908,7 +924,7 @@
       <guid isPermaLink="true">https://x.com/vladmoroz/status/2105025387357200447</guid>
       <pubDate>Tue, 29 Sep 2026 20:02:16 GMT</pubDate>
       <author>@vladmoroz</author>
-      <description><![CDATA[<p>more details:</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2105014611246247936/img/f6TyZS8wxlrSnWF6.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>more details:</p>]]></description>
     </item>
     <item>
       <title>so delighted about our new paper effect, was incredible to watch @uuuuuulala build it</title>
@@ -1148,7 +1164,7 @@
       <guid isPermaLink="true">https://x.com/shadcn/status/2104546218689049022</guid>
       <pubDate>Mon, 28 Sep 2026 12:18:13 GMT</pubDate>
       <author>@shadcn</author>
-      <description><![CDATA[<p>We&apos;ve added dark mode support for drawings.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2089361286987468800/img/-voOR_BgBTDDc5_3.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>We&apos;ve added dark mode support for drawings.</p>]]></description>
     </item>
     <item>
       <title>Just got through an overhaul of international keyboard handling in @paper: Chinese, French, German, Spanish, and dozens of</title>
@@ -1356,7 +1372,7 @@
       <guid isPermaLink="true">https://x.com/mitchellh/status/2103590567498457265</guid>
       <pubDate>Fri, 25 Sep 2026 21:00:48 GMT</pubDate>
       <author>@mitchellh</author>
-      <description><![CDATA[<p>We&apos;ve had this feature for less than 24 hours in our nightly releases and I already can&apos;t imagine working without it.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2103572772110606336/img/ESWnoc9jknwY6iox.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>We&apos;ve had this feature for less than 24 hours in our nightly releases and I already can&apos;t imagine working without it.</p>]]></description>
     </item>
     <item>
       <title>I love the idea of complementing the user&apos;s shell. Augmenting their experience rather than attempting to hijack it.</title>
@@ -1589,22 +1605,6 @@
       <pubDate>Thu, 24 Sep 2026 13:02:44 GMT</pubDate>
       <author>@tldraw</author>
       <description><![CDATA[<p></p>]]></description>
-    </item>
-    <item>
-      <title>🔥</title>
-      <link>https://x.com/zerocam_app/status/2103068657299644822</link>
-      <guid isPermaLink="true">https://x.com/zerocam_app/status/2103068657299644822</guid>
-      <pubDate>Thu, 24 Sep 2026 10:26:55 GMT</pubDate>
-      <author>@zerocam_app</author>
-      <description><![CDATA[<p>🔥</p><p><img src="https://pbs.twimg.com/media/HS-A3pQWcAITL7U?format=jpg&amp;name=small" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>efficiency, productivity, speed we keep worshipping these words like they are what we live for ship faster merge</title>
-      <link>https://x.com/ryolu_/status/2102933485795369213</link>
-      <guid isPermaLink="true">https://x.com/ryolu_/status/2102933485795369213</guid>
-      <pubDate>Thu, 24 Sep 2026 01:29:48 GMT</pubDate>
-      <author>@ryolu_</author>
-      <description><![CDATA[<p>efficiency, productivity, speed<br><br>we keep worshipping these words like they are what we live for<br><br>ship faster<br>merge more<br>manage more agents<br>compress every loop<br>remove every pause<br>turn every hour into output<br><br>but what is the point of endless production if there is no time left to</p>]]></description>
     </item>
   </channel>
 </rss>
