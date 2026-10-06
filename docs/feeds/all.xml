@@ -7,6 +7,14 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>@chancethedev can you pleeease fix the bold font on https://radix-ui.com? I hope you are still around and doing</title>
+      <link>https://x.com/vladmoroz/status/2107462919286067369</link>
+      <guid isPermaLink="true">https://x.com/vladmoroz/status/2107462919286067369</guid>
+      <pubDate>Tue, 06 Oct 2026 13:28:09 GMT</pubDate>
+      <author>@vladmoroz</author>
+      <description><![CDATA[<p>@chancethedev can you pleeease fix the bold font on https://radix-ui.com? I hope you are still around and doing well dude.<br><br>Just set `--font-weight-bold: 500` or `font-synthesis: none` somewhere, it’s so painful to see the bit rot set in.</p>]]></description>
+    </item>
+    <item>
       <title>I really like the look of Golden Gate except for how the edge-to-edge sidebars don&apos;t have a border</title>
       <link>https://x.com/avstorm/status/2107440389489627144</link>
       <guid isPermaLink="true">https://x.com/avstorm/status/2107440389489627144</guid>
@@ -1132,7 +1140,7 @@
       <guid isPermaLink="true">https://x.com/shadcn/status/2104546218689049022</guid>
       <pubDate>Mon, 28 Sep 2026 12:18:13 GMT</pubDate>
       <author>@shadcn</author>
-      <description><![CDATA[<p>We&apos;ve added dark mode support for drawings.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2089361286987468800/img/-voOR_BgBTDDc5_3.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>We&apos;ve added dark mode support for drawings.</p>]]></description>
     </item>
     <item>
       <title>Just got through an overhaul of international keyboard handling in @paper: Chinese, French, German, Spanish, and dozens of</title>
@@ -1597,14 +1605,6 @@
       <pubDate>Wed, 23 Sep 2026 23:57:28 GMT</pubDate>
       <author>@almonk</author>
       <description><![CDATA[<p>Such a nice execution of a simple idea applied to a complex problem</p>]]></description>
-    </item>
-    <item>
-      <title>we&apos;re looking for Paper&apos;s first office in SF we want an open space we can reconfigure for events</title>
-      <link>https://x.com/stephenhaney/status/2102890691567513993</link>
-      <guid isPermaLink="true">https://x.com/stephenhaney/status/2102890691567513993</guid>
-      <pubDate>Wed, 23 Sep 2026 22:39:45 GMT</pubDate>
-      <author>@stephenhaney</author>
-      <description><![CDATA[<p>we&apos;re looking for Paper&apos;s first office in SF<br><br>we want an open space we can reconfigure for events and make a studio for videos<br><br>doesn&apos;t need many desks, we&apos;re still remote-first<br><br>walkable from the ferry and bart<br><br>anyone know of a good one?</p>]]></description>
     </item>
   </channel>
 </rss>
