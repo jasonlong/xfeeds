@@ -7,6 +7,22 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>The status of the program status specification I shared yesterday in alphabetical order: integrated in Amp, Factoryai, TUIOS,</title>
+      <link>https://x.com/mitchellh/status/2107894687587795079</link>
+      <guid isPermaLink="true">https://x.com/mitchellh/status/2107894687587795079</guid>
+      <pubDate>Wed, 07 Oct 2026 18:03:50 GMT</pubDate>
+      <author>@mitchellh</author>
+      <description><![CDATA[<p>The status of the program status specification I shared yesterday in alphabetical order: integrated in Amp, Factoryai, TUIOS, libghostty. Verbal support and in-progress PRs by Claude Code, cmux, Codex, Herdr, OpenCode, Pi. Requests in to many others. Not bad for 24 hours!</p>]]></description>
+    </item>
+    <item>
+      <title>today i broke our production build for about 3 minutes and shipped some new emoji to our discord.</title>
+      <link>https://x.com/almonk/status/2107888078509801795</link>
+      <guid isPermaLink="true">https://x.com/almonk/status/2107888078509801795</guid>
+      <pubDate>Wed, 07 Oct 2026 17:37:35 GMT</pubDate>
+      <author>@almonk</author>
+      <description><![CDATA[<p>today i broke our production build for about 3 minutes and shipped some new emoji to our discord. the duality of man.</p><p><img src="https://pbs.twimg.com/media/HUC5AsFXAAAd5MR?format=jpg&amp;name=small" alt=""></p>]]></description>
+    </item>
+    <item>
       <title>An uncomfortable truth for a lot of people is that a lot of the most successful people in</title>
       <link>https://x.com/mitchellh/status/2107879629361148035</link>
       <guid isPermaLink="true">https://x.com/mitchellh/status/2107879629361148035</guid>
@@ -100,7 +116,7 @@
       <guid isPermaLink="true">https://x.com/almonk/status/2107549916855959976</guid>
       <pubDate>Tue, 06 Oct 2026 19:13:51 GMT</pubDate>
       <author>@almonk</author>
-      <description><![CDATA[<p>another fun easter egg in https://superlogical.com/rex/docs, copying code blocks plays the same shader driven animation we use in the product when you copy text. once you use it, you kinda want it everywhere</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2107549852129230848/img/VLtLKhOCMVPvmCqG.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>another fun easter egg in https://superlogical.com/rex/docs, copying code blocks plays the same shader driven animation we use in the product when you copy text. once you use it, you kinda want it everywhere</p>]]></description>
     </item>
     <item>
       <title>I used the browser view transition api for this little detail. Hard to imagine when we had to</title>
@@ -108,7 +124,7 @@
       <guid isPermaLink="true">https://x.com/almonk/status/2107536032291864867</guid>
       <pubDate>Tue, 06 Oct 2026 18:18:40 GMT</pubDate>
       <author>@almonk</author>
-      <description><![CDATA[<p>I used the browser view transition api for this little detail. Hard to imagine when we had to live without this.</p>]]></description>
+      <description><![CDATA[<p>I used the browser view transition api for this little detail. Hard to imagine when we had to live without this.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2107535978885730305/img/okKkILqTI-PMMLaF.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Released the new documentation site for Rex today. Lots more to come but v happy how this came</title>
@@ -516,7 +532,7 @@
       <guid isPermaLink="true">https://x.com/agusegui/status/2106534492521279977</guid>
       <pubDate>Sat, 03 Oct 2026 23:58:55 GMT</pubDate>
       <author>@agusegui</author>
-      <description><![CDATA[<p>btw did you know you can leave comments on Paper and get agents to turn your stuff into motion code? <br><br>so you don&apos;t prompt to get a design, you design to get a better prompt :)</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2106533605501435904/img/e4tw1f1z92_zWGIH.jpg" alt=""></p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2106458445004050432/img/87kKvY49MqowUkVx?format=jpg&amp;name=120x120" alt=""></p>]]></description>
+      <description><![CDATA[<p>btw did you know you can leave comments on Paper and get agents to turn your stuff into motion code? <br><br>so you don&apos;t prompt to get a design, you design to get a better prompt :)</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2106458445004050432/img/87kKvY49MqowUkVx?format=jpg&amp;name=120x120" alt=""></p>]]></description>
     </item>
     <item>
       <title>Product design is never art. Brand design is only art.</title>
@@ -556,7 +572,7 @@
       <guid isPermaLink="true">https://x.com/agusegui/status/2106459249773547798</guid>
       <pubDate>Sat, 03 Oct 2026 18:59:55 GMT</pubDate>
       <author>@agusegui</author>
-      <description><![CDATA[<p>a timeless banger, very soon ✨</p>]]></description>
+      <description><![CDATA[<p>a timeless banger, very soon ✨</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2106458445004050432/img/87kKvY49MqowUkVx.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Media post</title>
@@ -636,7 +652,7 @@
       <guid isPermaLink="true">https://x.com/avstorm/status/2106056245698330837</guid>
       <pubDate>Fri, 02 Oct 2026 16:18:32 GMT</pubDate>
       <author>@avstorm</author>
-      <description><![CDATA[<p>Apple&apos;s Genius Bar animation from 2004</p>]]></description>
+      <description><![CDATA[<p>Apple&apos;s Genius Bar animation from 2004</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2106055751919665152/img/dqDQzsayKrgkI0BX.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>This is like, the total opposite of what we should be doing with ai</title>
@@ -1589,22 +1605,6 @@
       <pubDate>Thu, 24 Sep 2026 22:59:00 GMT</pubDate>
       <author>@tldraw</author>
       <description><![CDATA[<p>Are you still awake? Are you a large enterprise interested in building visual user interfaces for AI? Join companies such as Replit, Honeycomb, Google, and BlackRock by building with the tldraw SDK:</p>]]></description>
-    </item>
-    <item>
-      <title>yes, if you come visit you can also come see @kiransdm&apos;s https://Are.na Frame, in real life</title>
-      <link>https://x.com/AREdotNA/status/2103246762458873872</link>
-      <guid isPermaLink="true">https://x.com/AREdotNA/status/2103246762458873872</guid>
-      <pubDate>Thu, 24 Sep 2026 22:14:39 GMT</pubDate>
-      <author>@AREdotNA</author>
-      <description><![CDATA[<p>yes, if you come visit you can also come see @kiransdm&apos;s https://Are.na Frame, in real life</p>]]></description>
-    </item>
-    <item>
-      <title>build for fun https://offline.tldraw.com build for money https://tldraw.dev</title>
-      <link>https://x.com/tldraw/status/2103213303619264639</link>
-      <guid isPermaLink="true">https://x.com/tldraw/status/2103213303619264639</guid>
-      <pubDate>Thu, 24 Sep 2026 20:01:42 GMT</pubDate>
-      <author>@tldraw</author>
-      <description><![CDATA[<p>build for fun https://offline.tldraw.com<br><br>build for money https://tldraw.dev</p>]]></description>
     </item>
   </channel>
 </rss>

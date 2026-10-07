@@ -13,6 +13,14 @@
     </image>
     <ttl>120</ttl>
     <item>
+      <title>today i broke our production build for about 3 minutes and shipped some new emoji to our discord.</title>
+      <link>https://x.com/almonk/status/2107888078509801795</link>
+      <guid isPermaLink="true">https://x.com/almonk/status/2107888078509801795</guid>
+      <pubDate>Wed, 07 Oct 2026 17:37:35 GMT</pubDate>
+      <author>@almonk</author>
+      <description><![CDATA[<p>today i broke our production build for about 3 minutes and shipped some new emoji to our discord. the duality of man.</p><p><img src="https://pbs.twimg.com/media/HUC5AsFXAAAd5MR?format=jpg&amp;name=small" alt=""></p>]]></description>
+    </item>
+    <item>
       <title>oh good</title>
       <link>https://x.com/almonk/status/2107733167788466280</link>
       <guid isPermaLink="true">https://x.com/almonk/status/2107733167788466280</guid>
@@ -34,7 +42,7 @@
       <guid isPermaLink="true">https://x.com/almonk/status/2107549916855959976</guid>
       <pubDate>Tue, 06 Oct 2026 19:13:51 GMT</pubDate>
       <author>@almonk</author>
-      <description><![CDATA[<p>another fun easter egg in https://superlogical.com/rex/docs, copying code blocks plays the same shader driven animation we use in the product when you copy text. once you use it, you kinda want it everywhere</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2107549852129230848/img/VLtLKhOCMVPvmCqG.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>another fun easter egg in https://superlogical.com/rex/docs, copying code blocks plays the same shader driven animation we use in the product when you copy text. once you use it, you kinda want it everywhere</p>]]></description>
     </item>
     <item>
       <title>I used the browser view transition api for this little detail. Hard to imagine when we had to</title>
@@ -42,7 +50,7 @@
       <guid isPermaLink="true">https://x.com/almonk/status/2107536032291864867</guid>
       <pubDate>Tue, 06 Oct 2026 18:18:40 GMT</pubDate>
       <author>@almonk</author>
-      <description><![CDATA[<p>I used the browser view transition api for this little detail. Hard to imagine when we had to live without this.</p>]]></description>
+      <description><![CDATA[<p>I used the browser view transition api for this little detail. Hard to imagine when we had to live without this.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2107535978885730305/img/okKkILqTI-PMMLaF.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Released the new documentation site for Rex today. Lots more to come but v happy how this came</title>
