@@ -7,6 +7,14 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>Been working hard on Rex server scalability. In short: we were able to run 10,000 active terminals simultaneously</title>
+      <link>https://x.com/mitchellh/status/2107921488020127962</link>
+      <guid isPermaLink="true">https://x.com/mitchellh/status/2107921488020127962</guid>
+      <pubDate>Wed, 07 Oct 2026 19:50:20 GMT</pubDate>
+      <author>@mitchellh</author>
+      <description><![CDATA[<p>Been working hard on Rex server scalability. In short: we were able to run 10,000 active terminals simultaneously with 3.8 GB memory usage while maintaining responsiveness. We didn&apos;t try more yet, we want to improve some numbers before going bigger, but the goal is 100,000.<br><br>This</p><p><img src="https://pbs.twimg.com/media/HUDUXDVbUAALbMx?format=jpg&amp;name=small" alt=""></p><p><img src="https://pbs.twimg.com/media/HUDUXDWbsAAr0AS?format=jpg&amp;name=small" alt=""></p>]]></description>
+    </item>
+    <item>
       <title>we launched 🔥 I just want to know how it felt for you views are good, but I</title>
       <link>https://x.com/agusegui/status/2107913752234627441</link>
       <guid isPermaLink="true">https://x.com/agusegui/status/2107913752234627441</guid>
@@ -60,7 +68,7 @@
       <guid isPermaLink="true">https://x.com/mitchellh/status/2107879629361148035</guid>
       <pubDate>Wed, 07 Oct 2026 17:04:00 GMT</pubDate>
       <author>@mitchellh</author>
-      <description><![CDATA[<p>An uncomfortable truth for a lot of people is that a lot of the most successful people in any industry are wicked smart. We apply stereotypes based on the loudest people, but its not representative of norms. Most are crazy smart and got to where they are because of it.<br><br>I grew up</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2107561480195637248/img/IIVNM3oIgK8bnZxU.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>An uncomfortable truth for a lot of people is that a lot of the most successful people in any industry are wicked smart. We apply stereotypes based on the loudest people, but its not representative of norms. Most are crazy smart and got to where they are because of it.<br><br>I grew up</p>]]></description>
     </item>
     <item>
       <title>welcome everyone</title>
@@ -1300,7 +1308,7 @@
       <guid isPermaLink="true">https://x.com/pidotdev/status/2104644933990875436</guid>
       <pubDate>Mon, 28 Sep 2026 18:50:29 GMT</pubDate>
       <author>@pidotdev</author>
-      <description><![CDATA[<p>pi update --models</p>]]></description>
+      <description><![CDATA[<p>pi update --models</p><p><img src="https://pbs.twimg.com/media/HTUthyeWIAAInna.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>sadly I&apos;ve created the ultimate design tool</title>
@@ -1372,7 +1380,7 @@
       <guid isPermaLink="true">https://x.com/pidotdev/status/2104510506627121451</guid>
       <pubDate>Mon, 28 Sep 2026 09:56:19 GMT</pubDate>
       <author>@pidotdev</author>
-      <description><![CDATA[<p>Welcome to our Monday Meditations. In which @badlogicgames and @mitsuhiko are talking about things that might or might not need to change in Pi given the changes in models.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2104478098821447680/img/QiyKKxxOAQKMoRKH.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Welcome to our Monday Meditations. In which @badlogicgames and @mitsuhiko are talking about things that might or might not need to change in Pi given the changes in models.</p>]]></description>
     </item>
     <item>
       <title>Liquid Glass on iOS and MacOS 27 is much better. Siri is better. Keyboard still not great for</title>
@@ -1597,14 +1605,6 @@
       <pubDate>Fri, 25 Sep 2026 17:12:12 GMT</pubDate>
       <author>@tldraw</author>
       <description><![CDATA[<p></p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2103532989304963073/img/LSLSFkFyMS1RMDnp.jpg" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>In the latest version of https://tldraw.com, lists stay put when you triple-click a bullet to select it.</title>
-      <link>https://x.com/tldraw/status/2103515915564564619</link>
-      <guid isPermaLink="true">https://x.com/tldraw/status/2103515915564564619</guid>
-      <pubDate>Fri, 25 Sep 2026 16:04:10 GMT</pubDate>
-      <author>@tldraw</author>
-      <description><![CDATA[<p>In the latest version of https://tldraw.com, lists stay put when you triple-click a bullet to select it.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2103515877153062913/img/1ok-S9eNU-_tqoRQ.jpg" alt=""></p>]]></description>
     </item>
   </channel>
 </rss>
