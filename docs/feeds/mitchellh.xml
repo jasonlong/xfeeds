@@ -13,6 +13,14 @@
     </image>
     <ttl>120</ttl>
     <item>
+      <title>I just called Chungus (my OpenAI Dot) on the phone while picking up mexican food and asked it</title>
+      <link>https://x.com/mitchellh/status/2107907073992450112</link>
+      <guid isPermaLink="true">https://x.com/mitchellh/status/2107907073992450112</guid>
+      <pubDate>Wed, 07 Oct 2026 18:53:04 GMT</pubDate>
+      <author>@mitchellh</author>
+      <description><![CDATA[<p>I just called Chungus (my OpenAI Dot) on the phone while picking up mexican food and asked it to transfer some Rex benchmarks from last night on my Mac Studio to my MacBook Pro via Tailscale and I just got to my desk and there they are. What a fucking time to be alive.</p>]]></description>
+    </item>
+    <item>
       <title>The status of the program status specification I shared yesterday in alphabetical order: integrated in Amp, Factoryai, TUIOS,</title>
       <link>https://x.com/mitchellh/status/2107894687587795079</link>
       <guid isPermaLink="true">https://x.com/mitchellh/status/2107894687587795079</guid>
@@ -154,7 +162,7 @@
       <guid isPermaLink="true">https://x.com/mitchellh/status/2097424868203758046</guid>
       <pubDate>Tue, 08 Sep 2026 20:40:31 GMT</pubDate>
       <author>@mitchellh</author>
-      <description><![CDATA[<p>A quick look into remote persistent sessions with Superlogical! Not just remote sessions, but some functionality like remote directory lists, too. Superlogical can actually be a full SSH replacement (I don&apos;t run SSH on my servers anymore), and I talk about that briefly, too.</p>]]></description>
+      <description><![CDATA[<p>A quick look into remote persistent sessions with Superlogical! Not just remote sessions, but some functionality like remote directory lists, too. Superlogical can actually be a full SSH replacement (I don&apos;t run SSH on my servers anymore), and I talk about that briefly, too.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2097423824325337088/img/6fxkvF8tDwoXqWRQ.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>We now have automated half-bounce analysis created by @infomiho! Paste an X post with a screen recording and</title>
