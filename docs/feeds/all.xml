@@ -7,6 +7,22 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>We’ve made it. I just talked to someone who has no idea what shadcn/ui is. Their app is</title>
+      <link>https://x.com/shadcn/status/2107750590742757427</link>
+      <guid isPermaLink="true">https://x.com/shadcn/status/2107750590742757427</guid>
+      <pubDate>Wed, 07 Oct 2026 08:31:15 GMT</pubDate>
+      <author>@shadcn</author>
+      <description><![CDATA[<p>We’ve made it. I just talked to someone who has no idea what shadcn/ui is. Their app is built with shadcn/ui.</p>]]></description>
+    </item>
+    <item>
+      <title>oh good</title>
+      <link>https://x.com/almonk/status/2107733167788466280</link>
+      <guid isPermaLink="true">https://x.com/almonk/status/2107733167788466280</guid>
+      <pubDate>Wed, 07 Oct 2026 07:22:01 GMT</pubDate>
+      <author>@almonk</author>
+      <description><![CDATA[<p>oh good</p><p><img src="https://pbs.twimg.com/media/HUAsI7OXYAAi2qR?format=png&amp;name=small" alt=""></p>]]></description>
+    </item>
+    <item>
       <title>oh damn</title>
       <link>https://x.com/tldraw/status/2107589361428725766</link>
       <guid isPermaLink="true">https://x.com/tldraw/status/2107589361428725766</guid>
@@ -324,7 +340,7 @@
       <guid isPermaLink="true">https://x.com/shadcn/status/2107129039299244143</guid>
       <pubDate>Mon, 05 Oct 2026 15:21:26 GMT</pubDate>
       <author>@shadcn</author>
-      <description><![CDATA[<p>Verification is “read the code” for agents.</p>]]></description>
+      <description><![CDATA[<p>Verification is “read the code” for agents.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2107106516126044160/img/3ROIYvdWPrn9RSac.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Behind the design of Copilot’s new identity. https://microsoft.design/articles/more-than-a-mark/…</title>
@@ -580,7 +596,7 @@
       <guid isPermaLink="true">https://x.com/almonk/status/2106050796144226324</guid>
       <pubDate>Fri, 02 Oct 2026 15:56:52 GMT</pubDate>
       <author>@almonk</author>
-      <description><![CDATA[<p>This is like, the total opposite of what we should be doing with ai</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2105703934073683968/img/Eg64cvr-3yHbydSB.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>This is like, the total opposite of what we should be doing with ai</p>]]></description>
     </item>
     <item>
       <title>Introducing Tldraw, the world&apos;s second model to pass the video Turing test.</title>
@@ -1589,22 +1605,6 @@
       <pubDate>Thu, 24 Sep 2026 17:44:51 GMT</pubDate>
       <author>@almonk</author>
       <description><![CDATA[<p>cooking some nice ui today</p><p><img src="https://pbs.twimg.com/media/HS_9_SsW8AAj2Kb?format=png&amp;name=small" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>Friends in NYC: Come visit us at the NY Art Book Fair this weekend, booth S4 (seen below).</title>
-      <link>https://x.com/AREdotNA/status/2103168161134879001</link>
-      <guid isPermaLink="true">https://x.com/AREdotNA/status/2103168161134879001</guid>
-      <pubDate>Thu, 24 Sep 2026 17:02:19 GMT</pubDate>
-      <author>@AREdotNA</author>
-      <description><![CDATA[<p>Friends in NYC:<br><br>Come visit us at the NY Art Book Fair this weekend, booth S4 (seen below). <br><br>We&apos;re aiming to have the most minimal booth in the fair, stop by and let us know how we&apos;re doing.</p><p><img src="https://pbs.twimg.com/media/HS_ztgCWoAAQ0AL?format=jpg&amp;name=small" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>Dia browser got a little brand update</title>
-      <link>https://x.com/avstorm/status/2103164399049474550</link>
-      <guid isPermaLink="true">https://x.com/avstorm/status/2103164399049474550</guid>
-      <pubDate>Thu, 24 Sep 2026 16:47:22 GMT</pubDate>
-      <author>@avstorm</author>
-      <description><![CDATA[<p>Dia browser got a little brand update</p><p><img src="https://pbs.twimg.com/media/HS_wvPqX0AA-yB-?format=jpg&amp;name=small" alt=""></p><p><img src="https://pbs.twimg.com/media/HS_wvo-XEAEYFCZ?format=jpg&amp;name=small" alt=""></p><p><img src="https://pbs.twimg.com/media/HS_wwo3XUAEBkV7?format=jpg&amp;name=small" alt=""></p>]]></description>
     </item>
   </channel>
 </rss>
