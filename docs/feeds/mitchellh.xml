@@ -13,6 +13,14 @@
     </image>
     <ttl>120</ttl>
     <item>
+      <title>Claude Code v2.1.295 supports OSC 7501 (program status). Incredible speed @AnthropicAI supporting this protocol which will help hundreds</title>
+      <link>https://x.com/mitchellh/status/2108296550405619967</link>
+      <guid isPermaLink="true">https://x.com/mitchellh/status/2108296550405619967</guid>
+      <pubDate>Thu, 08 Oct 2026 20:40:42 GMT</pubDate>
+      <author>@mitchellh</author>
+      <description><![CDATA[<p>Claude Code v2.1.295 supports OSC 7501 (program status). Incredible speed @AnthropicAI supporting this protocol which will help hundreds or thousands of downstream applications! They had access to Rex and verified through Rex it works. 🥰</p>]]></description>
+    </item>
+    <item>
       <title>Been working hard on Rex server scalability. In short: we were able to run 10,000 active terminals simultaneously</title>
       <link>https://x.com/mitchellh/status/2107921488020127962</link>
       <guid isPermaLink="true">https://x.com/mitchellh/status/2107921488020127962</guid>

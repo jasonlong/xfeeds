@@ -7,6 +7,22 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>48 hours to Claude Code support. ty @AnthropicAI</title>
+      <link>https://x.com/almonk/status/2108303705883992208</link>
+      <guid isPermaLink="true">https://x.com/almonk/status/2108303705883992208</guid>
+      <pubDate>Thu, 08 Oct 2026 21:09:08 GMT</pubDate>
+      <author>@almonk</author>
+      <description><![CDATA[<p>48 hours to Claude Code support. ty @AnthropicAI</p><p><img src="https://pbs.twimg.com/media/HUIy8NWWYAAqisU?format=jpg&amp;name=small" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>Claude Code v2.1.295 supports OSC 7501 (program status). Incredible speed @AnthropicAI supporting this protocol which will help hundreds</title>
+      <link>https://x.com/mitchellh/status/2108296550405619967</link>
+      <guid isPermaLink="true">https://x.com/mitchellh/status/2108296550405619967</guid>
+      <pubDate>Thu, 08 Oct 2026 20:40:42 GMT</pubDate>
+      <author>@mitchellh</author>
+      <description><![CDATA[<p>Claude Code v2.1.295 supports OSC 7501 (program status). Incredible speed @AnthropicAI supporting this protocol which will help hundreds or thousands of downstream applications! They had access to Rex and verified through Rex it works. 🥰</p>]]></description>
+    </item>
+    <item>
       <title>epic thread about the Paper Mono launch</title>
       <link>https://x.com/vladmoroz/status/2108268215818162663</link>
       <guid isPermaLink="true">https://x.com/vladmoroz/status/2108268215818162663</guid>
@@ -292,7 +308,7 @@
       <guid isPermaLink="true">https://x.com/almonk/status/2107536032291864867</guid>
       <pubDate>Tue, 06 Oct 2026 18:18:40 GMT</pubDate>
       <author>@almonk</author>
-      <description><![CDATA[<p>I used the browser view transition api for this little detail. Hard to imagine when we had to live without this.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2107535978885730305/img/okKkILqTI-PMMLaF.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>I used the browser view transition api for this little detail. Hard to imagine when we had to live without this.</p>]]></description>
     </item>
     <item>
       <title>Released the new documentation site for Rex today. Lots more to come but v happy how this came</title>
@@ -620,7 +636,7 @@
       <guid isPermaLink="true">https://x.com/avstorm/status/2106980561260511243</guid>
       <pubDate>Mon, 05 Oct 2026 05:31:26 GMT</pubDate>
       <author>@avstorm</author>
-      <description><![CDATA[<p>Celebrating Steve Jobs</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2106977840998617088/img/dFgqZag1iZDP534t.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Celebrating Steve Jobs</p>]]></description>
     </item>
     <item>
       <title>So good you forgot to cancel trial 😉</title>
@@ -828,7 +844,7 @@
       <guid isPermaLink="true">https://x.com/almonk/status/2106050796144226324</guid>
       <pubDate>Fri, 02 Oct 2026 15:56:52 GMT</pubDate>
       <author>@almonk</author>
-      <description><![CDATA[<p>This is like, the total opposite of what we should be doing with ai</p>]]></description>
+      <description><![CDATA[<p>This is like, the total opposite of what we should be doing with ai</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2105703934073683968/img/Eg64cvr-3yHbydSB.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Introducing Tldraw, the world&apos;s second model to pass the video Turing test.</title>
@@ -1589,22 +1605,6 @@
       <pubDate>Sat, 26 Sep 2026 22:29:39 GMT</pubDate>
       <author>@almonk</author>
       <description><![CDATA[<p>At the very least align the traffic lights with the back / forward arrows</p><p><img src="https://pbs.twimg.com/media/HTKe9xwbgAE5d0l?format=png&amp;name=small" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>opus 5.5 shreds (sound on)</title>
-      <link>https://x.com/tldraw/status/2103939064978116952</link>
-      <guid isPermaLink="true">https://x.com/tldraw/status/2103939064978116952</guid>
-      <pubDate>Sat, 26 Sep 2026 20:05:37 GMT</pubDate>
-      <author>@tldraw</author>
-      <description><![CDATA[<p>opus 5.5 shreds (sound on)</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2103938303217037312/img/GeI7HhC2yz39YmO1.jpg" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>_posts worst motion graphics you’ve ever seen_ &gt; Opus 5.5 is insane!</title>
-      <link>https://x.com/almonk/status/2103907772911804464</link>
-      <guid isPermaLink="true">https://x.com/almonk/status/2103907772911804464</guid>
-      <pubDate>Sat, 26 Sep 2026 18:01:16 GMT</pubDate>
-      <author>@almonk</author>
-      <description><![CDATA[<p>_posts worst motion graphics you’ve ever seen_<br>&gt; Opus 5.5 is insane!</p>]]></description>
     </item>
   </channel>
 </rss>
