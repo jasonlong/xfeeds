@@ -13,6 +13,14 @@
     </image>
     <ttl>120</ttl>
     <item>
+      <title>If you store a comment pin as x/y, it drifts off the shape the moment someone resizes it.</title>
+      <link>https://x.com/tldraw/status/2108225407812305166</link>
+      <guid isPermaLink="true">https://x.com/tldraw/status/2108225407812305166</guid>
+      <pubDate>Thu, 08 Oct 2026 15:58:00 GMT</pubDate>
+      <author>@tldraw</author>
+      <description><![CDATA[<p>If you store a comment pin as x/y, it drifts off the shape the moment someone resizes it.<br><br>We store them as &quot;70% across, 20% down&quot; instead.<br><br>Jess breaks down the small decisions that went into building our comments function:</p>]]></description>
+    </item>
+    <item>
       <title>DMs open. Let know</title>
       <link>https://x.com/tldraw/status/2107912545613054207</link>
       <guid isPermaLink="true">https://x.com/tldraw/status/2107912545613054207</guid>
@@ -58,7 +66,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2107062996094878198</guid>
       <pubDate>Mon, 05 Oct 2026 10:59:00 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>Welcome to tldraw sleep, a series of videos on topics we think are interesting. Tonight&apos;s episode is about underwater dinosaurs.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2104333603014348802/img/PrqJEeRoVeSFoXZl.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Welcome to tldraw sleep, a series of videos on topics we think are interesting. Tonight&apos;s episode is about underwater dinosaurs.</p>]]></description>
     </item>
     <item>
       <title>See the rest of the series here:</title>
@@ -74,7 +82,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2106700104891609307</guid>
       <pubDate>Sun, 04 Oct 2026 10:57:00 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>Welcome to tldraw sleep, a series of videos on topics we think are interesting. Tonight&apos;s episode is about ballistics.</p>]]></description>
+      <description><![CDATA[<p>Welcome to tldraw sleep, a series of videos on topics we think are interesting. Tonight&apos;s episode is about ballistics.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2104331704030646272/img/aZ42cYCbTor9EUl3.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>See the rest of the series here:</title>
@@ -803,14 +811,6 @@
       <pubDate>Thu, 17 Sep 2026 16:15:46 GMT</pubDate>
       <author>@tldraw</author>
       <description><![CDATA[<p>a 74-second TL;DR on active noise cancelling in tldraw offline</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2100610937937960962/img/PqYE7yGY6udK1Rb2.jpg" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>Media post</title>
-      <link>https://x.com/tldraw/status/2100550108781896035</link>
-      <guid isPermaLink="true">https://x.com/tldraw/status/2100550108781896035</guid>
-      <pubDate>Thu, 17 Sep 2026 11:39:06 GMT</pubDate>
-      <author>@tldraw</author>
-      <description><![CDATA[<p></p>]]></description>
     </item>
   </channel>
 </rss>
