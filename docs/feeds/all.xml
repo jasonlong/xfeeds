@@ -7,6 +7,14 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>450 is such a good font weight.</title>
+      <link>https://x.com/shadcn/status/2108163629891887544</link>
+      <guid isPermaLink="true">https://x.com/shadcn/status/2108163629891887544</guid>
+      <pubDate>Thu, 08 Oct 2026 11:52:31 GMT</pubDate>
+      <author>@shadcn</author>
+      <description><![CDATA[<p>450 is such a good font weight.</p>]]></description>
+    </item>
+    <item>
       <title>🐐</title>
       <link>https://x.com/paper/status/2108071846390444470</link>
       <guid isPermaLink="true">https://x.com/paper/status/2108071846390444470</guid>
@@ -84,7 +92,7 @@
       <guid isPermaLink="true">https://x.com/mitchellh/status/2107879629361148035</guid>
       <pubDate>Wed, 07 Oct 2026 17:04:00 GMT</pubDate>
       <author>@mitchellh</author>
-      <description><![CDATA[<p>An uncomfortable truth for a lot of people is that a lot of the most successful people in any industry are wicked smart. We apply stereotypes based on the loudest people, but its not representative of norms. Most are crazy smart and got to where they are because of it.<br><br>I grew up</p>]]></description>
+      <description><![CDATA[<p>An uncomfortable truth for a lot of people is that a lot of the most successful people in any industry are wicked smart. We apply stereotypes based on the loudest people, but its not representative of norms. Most are crazy smart and got to where they are because of it.<br><br>I grew up</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2107561480195637248/img/IIVNM3oIgK8bnZxU.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>welcome everyone</title>
@@ -900,7 +908,7 @@
       <guid isPermaLink="true">https://x.com/pidotdev/status/2105543179206381925</guid>
       <pubDate>Thu, 01 Oct 2026 06:19:47 GMT</pubDate>
       <author>@pidotdev</author>
-      <description><![CDATA[<p>Thanks @dillon_mulroy</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2105453621408108544/img/HG51vDkBu0r0w9uB.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Thanks @dillon_mulroy</p>]]></description>
     </item>
     <item>
       <title>shadcn/react was deployed to millions yesterday.</title>
@@ -1012,7 +1020,7 @@
       <guid isPermaLink="true">https://x.com/reflectnotes/status/2105341653468774723</guid>
       <pubDate>Wed, 30 Sep 2026 16:59:00 GMT</pubDate>
       <author>@reflectnotes</author>
-      <description><![CDATA[<p>We built the notes app we always wished Apple Notes was.<br><br>Beautiful, connected by backlinks, instant to search, and every note is a plain Markdown file your AI agents can read.<br><br>Reflect Open is out of beta today. Open source, free on Mac, and on iPhone and iPad.</p>]]></description>
+      <description><![CDATA[<p>We built the notes app we always wished Apple Notes was.<br><br>Beautiful, connected by backlinks, instant to search, and every note is a plain Markdown file your AI agents can read.<br><br>Reflect Open is out of beta today. Open source, free on Mac, and on iPhone and iPad.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2104982548606562304/img/IJq32DJsLsNSDDvY.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Your notes are ordinary Markdown files. No Reflect account. No Reflect cloud database. Open them in any editor</title>
@@ -1324,7 +1332,7 @@
       <guid isPermaLink="true">https://x.com/pidotdev/status/2104644933990875436</guid>
       <pubDate>Mon, 28 Sep 2026 18:50:29 GMT</pubDate>
       <author>@pidotdev</author>
-      <description><![CDATA[<p>pi update --models</p><p><img src="https://pbs.twimg.com/media/HTUthyeWIAAInna.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>pi update --models</p>]]></description>
     </item>
     <item>
       <title>sadly I&apos;ve created the ultimate design tool</title>
@@ -1396,7 +1404,7 @@
       <guid isPermaLink="true">https://x.com/pidotdev/status/2104510506627121451</guid>
       <pubDate>Mon, 28 Sep 2026 09:56:19 GMT</pubDate>
       <author>@pidotdev</author>
-      <description><![CDATA[<p>Welcome to our Monday Meditations. In which @badlogicgames and @mitsuhiko are talking about things that might or might not need to change in Pi given the changes in models.</p>]]></description>
+      <description><![CDATA[<p>Welcome to our Monday Meditations. In which @badlogicgames and @mitsuhiko are talking about things that might or might not need to change in Pi given the changes in models.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2104478098821447680/img/QiyKKxxOAQKMoRKH.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Liquid Glass on iOS and MacOS 27 is much better. Siri is better. Keyboard still not great for</title>
@@ -1597,14 +1605,6 @@
       <pubDate>Fri, 25 Sep 2026 18:46:56 GMT</pubDate>
       <author>@tldraw</author>
       <description><![CDATA[<p></p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2103554855470092288/img/DXFitLfMHCaI2v0C.jpg" alt=""></p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2103556489587621888/img/nZabK4l-iACAvNNu.jpg" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>We&apos;ve been thinking a lot lately about how design and software inspire each other. We built flash using</title>
-      <link>https://x.com/tldraw/status/2103535939515797865</link>
-      <guid isPermaLink="true">https://x.com/tldraw/status/2103535939515797865</guid>
-      <pubDate>Fri, 25 Sep 2026 17:23:44 GMT</pubDate>
-      <author>@tldraw</author>
-      <description><![CDATA[<p>We&apos;ve been thinking a lot lately about how design and software inspire each other. We built flash using multidisciplinary techniques, drawing from game design to fine art. Read about it here:</p>]]></description>
     </item>
   </channel>
 </rss>
