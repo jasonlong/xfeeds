@@ -7,6 +7,14 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>Whenever I talk about my kids sleep there&apos;s always so many people who think that I&apos;m lying and</title>
+      <link>https://x.com/mitchellh/status/2108639119907881423</link>
+      <guid isPermaLink="true">https://x.com/mitchellh/status/2108639119907881423</guid>
+      <pubDate>Fri, 09 Oct 2026 19:21:57 GMT</pubDate>
+      <author>@mitchellh</author>
+      <description><![CDATA[<p>Whenever I talk about my kids sleep there&apos;s always so many people who think that I&apos;m lying and never see my kids or have a nanny at night or something so I don&apos;t know. I present my 3yo&apos;s sleep data from Sept. The 5 month old is still feral but to be expected for a bit longer.</p><p><img src="https://pbs.twimg.com/media/HUNjaqSacAAsVIX?format=jpg&amp;name=small" alt=""></p>]]></description>
+    </item>
+    <item>
       <title>Paper is now INSIDE @capydotai Create Paper files from your Capy prompts, even when your laptop is closed</title>
       <link>https://x.com/paper/status/2108628920946098267</link>
       <guid isPermaLink="true">https://x.com/paper/status/2108628920946098267</guid>
@@ -252,7 +260,7 @@
       <guid isPermaLink="true">https://x.com/avstorm/status/2108172166319476809</guid>
       <pubDate>Thu, 08 Oct 2026 12:26:27 GMT</pubDate>
       <author>@avstorm</author>
-      <description><![CDATA[<p>Microsoft has introduced Michelangelus, a serif typeface inspired by Michelangelo.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2108170922343424002/img/51dje_kSpKR04_Nu.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Microsoft has introduced Michelangelus, a serif typeface inspired by Michelangelo.</p>]]></description>
     </item>
     <item>
       <title>450 is such a good font weight.</title>
@@ -748,7 +756,7 @@
       <guid isPermaLink="true">https://x.com/pidotdev/status/2107033061905104941</guid>
       <pubDate>Mon, 05 Oct 2026 09:00:03 GMT</pubDate>
       <author>@pidotdev</author>
-      <description><![CDATA[<p>Welcome to our Monday Meditations! 🌞<br><br>Today @badlogicgames and @mitsuhiko are talking why we built Pi Durable, a harness build around a small task-based workflow engine so long-running, multiplayer agents can suspend and resume anywhere. Also: why not Temporal or Effect.ts.</p>]]></description>
+      <description><![CDATA[<p>Welcome to our Monday Meditations! 🌞<br><br>Today @badlogicgames and @mitsuhiko are talking why we built Pi Durable, a harness build around a small task-based workflow engine so long-running, multiplayer agents can suspend and resume anywhere. Also: why not Temporal or Effect.ts.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2107019854444105728/img/hlKfie18CIO3kM-P.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Apple should bring back the half-mast favicon every October 5 to honor Steve Jobs.</title>
@@ -948,7 +956,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2106066907891974239</guid>
       <pubDate>Fri, 02 Oct 2026 17:00:54 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>The spice must flow, and so must the pipeline. You can build collaborative QBRs in minutes with the tldraw @ChatGPT plugin.</p>]]></description>
+      <description><![CDATA[<p>The spice must flow, and so must the pipeline. You can build collaborative QBRs in minutes with the tldraw @ChatGPT plugin.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2106066875541274624/img/9omlsVqCl2uv8nGX.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>AI helps me fail faster.</title>
@@ -1156,7 +1164,7 @@
       <guid isPermaLink="true">https://x.com/pidotdev/status/2105543179206381925</guid>
       <pubDate>Thu, 01 Oct 2026 06:19:47 GMT</pubDate>
       <author>@pidotdev</author>
-      <description><![CDATA[<p>Thanks @dillon_mulroy</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2105453621408108544/img/HG51vDkBu0r0w9uB.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Thanks @dillon_mulroy</p>]]></description>
     </item>
     <item>
       <title>shadcn/react was deployed to millions yesterday.</title>
@@ -1580,7 +1588,7 @@
       <guid isPermaLink="true">https://x.com/pidotdev/status/2104644933990875436</guid>
       <pubDate>Mon, 28 Sep 2026 18:50:29 GMT</pubDate>
       <author>@pidotdev</author>
-      <description><![CDATA[<p>pi update --models</p><p><img src="https://pbs.twimg.com/media/HTUthyeWIAAInna.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>pi update --models</p>]]></description>
     </item>
     <item>
       <title>sadly I&apos;ve created the ultimate design tool</title>
@@ -1597,14 +1605,6 @@
       <pubDate>Mon, 28 Sep 2026 13:53:13 GMT</pubDate>
       <author>@avstorm</author>
       <description><![CDATA[<p>Love the little peek inside</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2104569719709741056/img/V3W9MIwrgiLeni9z.jpg" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>Updated the chatbot-template to latest next, ai-sdk, shadcn/react, cn and some bug fixes. More soon.</title>
-      <link>https://x.com/shadcn/status/2104560334535086488</link>
-      <guid isPermaLink="true">https://x.com/shadcn/status/2104560334535086488</guid>
-      <pubDate>Mon, 28 Sep 2026 13:14:19 GMT</pubDate>
-      <author>@shadcn</author>
-      <description><![CDATA[<p>Updated the chatbot-template to latest next, ai-sdk, shadcn/react, cn and some bug fixes. More soon.</p>]]></description>
     </item>
   </channel>
 </rss>
