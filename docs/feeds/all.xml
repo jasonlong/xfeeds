@@ -7,6 +7,14 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>First build of the Rex iOS app is now submitted for review. We plan on expanding testing to</title>
+      <link>https://x.com/mitchellh/status/2109710988383752299</link>
+      <guid isPermaLink="true">https://x.com/mitchellh/status/2109710988383752299</guid>
+      <pubDate>Mon, 12 Oct 2026 18:21:10 GMT</pubDate>
+      <author>@mitchellh</author>
+      <description><![CDATA[<p>First build of the Rex iOS app is now submitted for review. We plan on expanding testing to also include iOS as soon as we get through Apple&apos;s review. We&apos;re still polishing and will share demos soon. Employees have been using the iOS app for months now. <br><br>Like all our clients,</p><p><img src="https://pbs.twimg.com/media/HUcx_TwaYAAKm2r?format=jpg&amp;name=small" alt=""></p>]]></description>
+    </item>
+    <item>
       <title>Google has introduced Fitbit Edge</title>
       <link>https://x.com/avstorm/status/2109685237584412818</link>
       <guid isPermaLink="true">https://x.com/avstorm/status/2109685237584412818</guid>
@@ -596,7 +604,7 @@
       <guid isPermaLink="true">https://x.com/mitchellh/status/2107879629361148035</guid>
       <pubDate>Wed, 07 Oct 2026 17:04:00 GMT</pubDate>
       <author>@mitchellh</author>
-      <description><![CDATA[<p>An uncomfortable truth for a lot of people is that a lot of the most successful people in any industry are wicked smart. We apply stereotypes based on the loudest people, but its not representative of norms. Most are crazy smart and got to where they are because of it.<br><br>I grew up</p>]]></description>
+      <description><![CDATA[<p>An uncomfortable truth for a lot of people is that a lot of the most successful people in any industry are wicked smart. We apply stereotypes based on the loudest people, but its not representative of norms. Most are crazy smart and got to where they are because of it.<br><br>I grew up</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2107561480195637248/img/IIVNM3oIgK8bnZxU.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>welcome everyone</title>
@@ -660,7 +668,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2107589361428725766</guid>
       <pubDate>Tue, 06 Oct 2026 21:50:35 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>oh damn</p>]]></description>
+      <description><![CDATA[<p>oh damn</p><p><img src="https://pbs.twimg.com/ext_tw_video_thumb/1724908000475828225/pu/img/DkszCViSMl1D-_kj.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>We have implemented spec OSC7501 in Rex today so our testing group can build applications that support it.</title>
@@ -988,7 +996,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2107062996094878198</guid>
       <pubDate>Mon, 05 Oct 2026 10:59:00 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>Welcome to tldraw sleep, a series of videos on topics we think are interesting. Tonight&apos;s episode is about underwater dinosaurs.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2104333603014348802/img/PrqJEeRoVeSFoXZl.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Welcome to tldraw sleep, a series of videos on topics we think are interesting. Tonight&apos;s episode is about underwater dinosaurs.</p>]]></description>
     </item>
     <item>
       <title>See the rest of the series here:</title>
@@ -1068,7 +1076,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2106700104891609307</guid>
       <pubDate>Sun, 04 Oct 2026 10:57:00 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>Welcome to tldraw sleep, a series of videos on topics we think are interesting. Tonight&apos;s episode is about ballistics.</p>]]></description>
+      <description><![CDATA[<p>Welcome to tldraw sleep, a series of videos on topics we think are interesting. Tonight&apos;s episode is about ballistics.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2104331704030646272/img/aZ42cYCbTor9EUl3.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>See the rest of the series here:</title>
@@ -1180,7 +1188,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2106156271485542621</guid>
       <pubDate>Fri, 02 Oct 2026 22:56:00 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>Welcome to tldraw sleep, a series of videos on topics we think are interesting. Tonight&apos;s episode explores the question of why we look different from other animals.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2104330842835206144/img/7tjnMf_AGZiw9vsD.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Welcome to tldraw sleep, a series of videos on topics we think are interesting. Tonight&apos;s episode explores the question of why we look different from other animals.</p>]]></description>
     </item>
     <item>
       <title>See the rest of the series here:</title>
@@ -1597,14 +1605,6 @@
       <pubDate>Wed, 30 Sep 2026 11:01:17 GMT</pubDate>
       <author>@tldraw</author>
       <description><![CDATA[<p>When you select a single shape on https://tldraw.com, pasting a link now sets that shape&apos;s link instead of dropping a separate bookmark on the canvas.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2105251564323823617/img/1MJ1nmexakbrH-9k.jpg" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>works also for &apos;bot&apos;</title>
-      <link>https://x.com/avstorm/status/2105178558012240079</link>
-      <guid isPermaLink="true">https://x.com/avstorm/status/2105178558012240079</guid>
-      <pubDate>Wed, 30 Sep 2026 06:10:55 GMT</pubDate>
-      <author>@avstorm</author>
-      <description><![CDATA[<p>works also for &apos;bot&apos;</p>]]></description>
     </item>
   </channel>
 </rss>
