@@ -13,6 +13,14 @@
     </image>
     <ttl>120</ttl>
     <item>
+      <title>Coding agents generally are built for a chat log. Working with them on a canvas is a different</title>
+      <link>https://x.com/tldraw/status/2109675971154686320</link>
+      <guid isPermaLink="true">https://x.com/tldraw/status/2109675971154686320</guid>
+      <pubDate>Mon, 12 Oct 2026 16:02:02 GMT</pubDate>
+      <author>@tldraw</author>
+      <description><![CDATA[<p>Coding agents generally are built for a chat log. Working with them on a canvas is a different problem: they need to see what’s there, where it is, and what’s off-screen.<br><br>@max__drake wrote up how we’ve been building the harness that gives them that context:</p>]]></description>
+    </item>
+    <item>
       <title>Everyone at tldraw builds internal tools, even the non-technical employees. In the process, Spencer, our US sales lead,</title>
       <link>https://x.com/tldraw/status/2108588590448132270</link>
       <guid isPermaLink="true">https://x.com/tldraw/status/2108588590448132270</guid>
@@ -66,7 +74,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2107589361428725766</guid>
       <pubDate>Tue, 06 Oct 2026 21:50:35 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>oh damn</p>]]></description>
+      <description><![CDATA[<p>oh damn</p><p><img src="https://pbs.twimg.com/ext_tw_video_thumb/1724908000475828225/pu/img/DkszCViSMl1D-_kj.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Agents are bad at &quot;this&quot;, &quot;here&quot; and &quot;over there&quot;. Comments help give them location-specific content on the canvas.</title>
@@ -82,7 +90,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2107062996094878198</guid>
       <pubDate>Mon, 05 Oct 2026 10:59:00 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>Welcome to tldraw sleep, a series of videos on topics we think are interesting. Tonight&apos;s episode is about underwater dinosaurs.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2104333603014348802/img/PrqJEeRoVeSFoXZl.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Welcome to tldraw sleep, a series of videos on topics we think are interesting. Tonight&apos;s episode is about underwater dinosaurs.</p>]]></description>
     </item>
     <item>
       <title>See the rest of the series here:</title>
@@ -98,7 +106,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2106700104891609307</guid>
       <pubDate>Sun, 04 Oct 2026 10:57:00 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>Welcome to tldraw sleep, a series of videos on topics we think are interesting. Tonight&apos;s episode is about ballistics.</p>]]></description>
+      <description><![CDATA[<p>Welcome to tldraw sleep, a series of videos on topics we think are interesting. Tonight&apos;s episode is about ballistics.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2104331704030646272/img/aZ42cYCbTor9EUl3.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>See the rest of the series here:</title>
@@ -130,7 +138,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2106156271485542621</guid>
       <pubDate>Fri, 02 Oct 2026 22:56:00 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>Welcome to tldraw sleep, a series of videos on topics we think are interesting. Tonight&apos;s episode explores the question of why we look different from other animals.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2104330842835206144/img/7tjnMf_AGZiw9vsD.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Welcome to tldraw sleep, a series of videos on topics we think are interesting. Tonight&apos;s episode explores the question of why we look different from other animals.</p>]]></description>
     </item>
     <item>
       <title>See the rest of the series here:</title>
@@ -154,7 +162,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2106066907891974239</guid>
       <pubDate>Fri, 02 Oct 2026 17:00:54 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>The spice must flow, and so must the pipeline. You can build collaborative QBRs in minutes with the tldraw @ChatGPT plugin.</p>]]></description>
+      <description><![CDATA[<p>The spice must flow, and so must the pipeline. You can build collaborative QBRs in minutes with the tldraw @ChatGPT plugin.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2106066875541274624/img/9omlsVqCl2uv8nGX.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Introducing Tldraw, the world&apos;s second model to pass the video Turing test.</title>
@@ -803,14 +811,6 @@
       <pubDate>Fri, 18 Sep 2026 17:58:06 GMT</pubDate>
       <author>@tldraw</author>
       <description><![CDATA[<p>tldraw, too much dopamine for @mattpocockuk</p>]]></description>
-    </item>
-    <item>
-      <title>how we made tldraw flash</title>
-      <link>https://x.com/tldraw/status/2100989799578411264</link>
-      <guid isPermaLink="true">https://x.com/tldraw/status/2100989799578411264</guid>
-      <pubDate>Fri, 18 Sep 2026 16:46:17 GMT</pubDate>
-      <author>@tldraw</author>
-      <description><![CDATA[<p>how we made tldraw flash</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2100986155105681409/img/VE-TAGCikwh5KBiq.jpg" alt=""></p>]]></description>
     </item>
   </channel>
 </rss>
