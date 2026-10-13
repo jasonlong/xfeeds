@@ -7,6 +7,30 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>Media post</title>
+      <link>https://x.com/tldraw/status/2110045020921246132</link>
+      <guid isPermaLink="true">https://x.com/tldraw/status/2110045020921246132</guid>
+      <pubDate>Tue, 13 Oct 2026 16:28:30 GMT</pubDate>
+      <author>@tldraw</author>
+      <description><![CDATA[<p></p>]]></description>
+    </item>
+    <item>
+      <title>Apple HomeView comes with these apps</title>
+      <link>https://x.com/avstorm/status/2110039410175586326</link>
+      <guid isPermaLink="true">https://x.com/avstorm/status/2110039410175586326</guid>
+      <pubDate>Tue, 13 Oct 2026 16:06:12 GMT</pubDate>
+      <author>@avstorm</author>
+      <description><![CDATA[<p>Apple HomeView comes with these apps</p><p><img src="https://pbs.twimg.com/media/HUhdjYVWgAEg93X?format=jpg&amp;name=small" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>OSC7501 adoption updates: Kitty implements and displays in the tab title. Grok Build shipped support and Codex merged.</title>
+      <link>https://x.com/mitchellh/status/2110036172768674034</link>
+      <guid isPermaLink="true">https://x.com/mitchellh/status/2110036172768674034</guid>
+      <pubDate>Tue, 13 Oct 2026 15:53:20 GMT</pubDate>
+      <author>@mitchellh</author>
+      <description><![CDATA[<p>OSC7501 adoption updates: Kitty implements and displays in the tab title. Grok Build shipped support and Codex merged. In less than a week I think we&apos;re nearly at a place where the entire industry can drop their heuristics and get deterministic status updates.</p>]]></description>
+    </item>
+    <item>
       <title>There is an updated Apple Store app icon on the HomeView page</title>
       <link>https://x.com/avstorm/status/2110031581935022121</link>
       <guid isPermaLink="true">https://x.com/avstorm/status/2110031581935022121</guid>
@@ -324,7 +348,7 @@
       <guid isPermaLink="true">https://x.com/avstorm/status/2109185169928360347</guid>
       <pubDate>Sun, 11 Oct 2026 07:31:45 GMT</pubDate>
       <author>@avstorm</author>
-      <description><![CDATA[<p>Fun fact: Apple updated its logo guidelines in early 2017, yet the og:image is still stuck in the past.</p><p><img src="https://pbs.twimg.com/media/HUVToF0WQAAGsMS?format=jpg&amp;name=small" alt=""></p>]]></description>
+      <description><![CDATA[<p>Fun fact: Apple updated its logo guidelines in early 2017, yet the og:image is still stuck in the past.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2109183935150166016/img/lB1789Z8HqIvVuQH.jpg" alt=""></p><p><img src="https://pbs.twimg.com/media/HUVToF0WQAAGsMS?format=jpg&amp;name=360x360" alt=""></p>]]></description>
     </item>
     <item>
       <title>Abstractions</title>
@@ -428,7 +452,7 @@
       <guid isPermaLink="true">https://x.com/paper/status/2108607620722704461</guid>
       <pubDate>Fri, 09 Oct 2026 17:16:47 GMT</pubDate>
       <author>@paper</author>
-      <description><![CDATA[<p>Honored to see this Oliver remix 💗</p>]]></description>
+      <description><![CDATA[<p>Honored to see this Oliver remix 💗</p><p><img src="https://pbs.twimg.com/tweet_video_thumb/HUM8eN7WUAEAeKb.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>seeing Paper Mono in use is already the best compliment, but this?! 🥹</title>
@@ -1581,30 +1605,6 @@
       <pubDate>Thu, 01 Oct 2026 02:18:23 GMT</pubDate>
       <author>@stephenhaney</author>
       <description><![CDATA[<p>designed with Paper!</p><p><img src="https://pbs.twimg.com/media/HTgWF0kbQAAfjOf?format=jpg&amp;name=small" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>poured with love and designed on Paper</title>
-      <link>https://x.com/agusegui/status/2105479308210741594</link>
-      <guid isPermaLink="true">https://x.com/agusegui/status/2105479308210741594</guid>
-      <pubDate>Thu, 01 Oct 2026 02:05:59 GMT</pubDate>
-      <author>@agusegui</author>
-      <description><![CDATA[<p>poured with love and designed on Paper</p><p><img src="https://pbs.twimg.com/media/HTgWF0kbQAAfjOf?format=jpg&amp;name=small" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>Welcome to tldraw sleep, a series of videos on topics we think are interesting. Tonight&apos;s episode is about</title>
-      <link>https://x.com/tldraw/status/2105431495662018996</link>
-      <guid isPermaLink="true">https://x.com/tldraw/status/2105431495662018996</guid>
-      <pubDate>Wed, 30 Sep 2026 22:56:00 GMT</pubDate>
-      <author>@tldraw</author>
-      <description><![CDATA[<p>Welcome to tldraw sleep, a series of videos on topics we think are interesting. Tonight&apos;s episode is about the domestication of horses.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2104332876527398912/img/F5_ZmeVuq1ALI7Rt.jpg" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>See the rest of the series here:</title>
-      <link>https://x.com/tldraw/status/2105431496400289933</link>
-      <guid isPermaLink="true">https://x.com/tldraw/status/2105431496400289933</guid>
-      <pubDate>Wed, 30 Sep 2026 22:56:00 GMT</pubDate>
-      <author>@tldraw</author>
-      <description><![CDATA[<p>See the rest of the series here:</p>]]></description>
     </item>
   </channel>
 </rss>

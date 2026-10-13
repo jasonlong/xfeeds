@@ -13,6 +13,14 @@
     </image>
     <ttl>120</ttl>
     <item>
+      <title>OSC7501 adoption updates: Kitty implements and displays in the tab title. Grok Build shipped support and Codex merged.</title>
+      <link>https://x.com/mitchellh/status/2110036172768674034</link>
+      <guid isPermaLink="true">https://x.com/mitchellh/status/2110036172768674034</guid>
+      <pubDate>Tue, 13 Oct 2026 15:53:20 GMT</pubDate>
+      <author>@mitchellh</author>
+      <description><![CDATA[<p>OSC7501 adoption updates: Kitty implements and displays in the tab title. Grok Build shipped support and Codex merged. In less than a week I think we&apos;re nearly at a place where the entire industry can drop their heuristics and get deterministic status updates.</p>]]></description>
+    </item>
+    <item>
       <title>First build of the Rex iOS app is now submitted for review. We plan on expanding testing to</title>
       <link>https://x.com/mitchellh/status/2109710988383752299</link>
       <guid isPermaLink="true">https://x.com/mitchellh/status/2109710988383752299</guid>
