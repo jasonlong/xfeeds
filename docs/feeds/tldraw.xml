@@ -13,6 +13,14 @@
     </image>
     <ttl>120</ttl>
     <item>
+      <title>crazy thread</title>
+      <link>https://x.com/tldraw/status/2110129946010268125</link>
+      <guid isPermaLink="true">https://x.com/tldraw/status/2110129946010268125</guid>
+      <pubDate>Tue, 13 Oct 2026 22:05:58 GMT</pubDate>
+      <author>@tldraw</author>
+      <description><![CDATA[<p>crazy thread</p><p><img src="https://pbs.twimg.com/media/HUgmo3oWMAAKLKv?format=jpg&amp;name=small" alt=""></p>]]></description>
+    </item>
+    <item>
       <title>Get it here: https://chatgpt.com/plugins/plugin_asdk_app_6ab242dbeb5c8191ba5277534ef0c570?open_in_app…</title>
       <link>https://x.com/tldraw/status/2110058131640504486</link>
       <guid isPermaLink="true">https://x.com/tldraw/status/2110058131640504486</guid>
@@ -26,7 +34,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2110058113865044037</guid>
       <pubDate>Tue, 13 Oct 2026 17:20:31 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>You can now run embeds inside the new tldraw plugin for @ChatGPT. Here&apos;s Astra rendering an ESP32 pet cat app, with her behaviour drawn as a statechart underneath, so it can be checked before it&apos;s flashed.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2110058083565404160/img/9dbM6IXR4Lsu2JJG.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>You can now run embeds inside the new tldraw plugin for @ChatGPT. Here&apos;s Astra rendering an ESP32 pet cat app, with her behaviour drawn as a statechart underneath, so it can be checked before it&apos;s flashed.</p>]]></description>
     </item>
     <item>
       <title>Media post</title>
@@ -58,7 +66,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2109962899661959538</guid>
       <pubDate>Tue, 13 Oct 2026 11:02:11 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>If you clicked away from a comment you were still writing on https://tldraw.com, the box used to jump to wherever you clicked. It now closes, drops you back on select, and keeps your draft for later.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2109962856762621952/img/GsPNO4N1n9vkrnbW.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>If you clicked away from a comment you were still writing on https://tldraw.com, the box used to jump to wherever you clicked. It now closes, drops you back on select, and keeps your draft for later.</p>]]></description>
     </item>
     <item>
       <title>Coding agents generally are built for a chat log. Working with them on a canvas is a different</title>
@@ -122,7 +130,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2107589361428725766</guid>
       <pubDate>Tue, 06 Oct 2026 21:50:35 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>oh damn</p><p><img src="https://pbs.twimg.com/ext_tw_video_thumb/1724908000475828225/pu/img/DkszCViSMl1D-_kj.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>oh damn</p>]]></description>
     </item>
     <item>
       <title>Agents are bad at &quot;this&quot;, &quot;here&quot; and &quot;over there&quot;. Comments help give them location-specific content on the canvas.</title>
@@ -138,7 +146,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2107062996094878198</guid>
       <pubDate>Mon, 05 Oct 2026 10:59:00 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>Welcome to tldraw sleep, a series of videos on topics we think are interesting. Tonight&apos;s episode is about underwater dinosaurs.</p>]]></description>
+      <description><![CDATA[<p>Welcome to tldraw sleep, a series of videos on topics we think are interesting. Tonight&apos;s episode is about underwater dinosaurs.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2104333603014348802/img/PrqJEeRoVeSFoXZl.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>See the rest of the series here:</title>
@@ -803,14 +811,6 @@
       <pubDate>Mon, 21 Sep 2026 20:51:10 GMT</pubDate>
       <author>@tldraw</author>
       <description><![CDATA[<p></p>]]></description>
-    </item>
-    <item>
-      <title>Welcome to tldraw sleep, a series of videos on topics we think are interesting. Tonight&apos;s episode is Other</title>
-      <link>https://x.com/tldraw/status/2101808371896852966</link>
-      <guid isPermaLink="true">https://x.com/tldraw/status/2101808371896852966</guid>
-      <pubDate>Sun, 20 Sep 2026 22:59:00 GMT</pubDate>
-      <author>@tldraw</author>
-      <description><![CDATA[<p>Welcome to tldraw sleep, a series of videos on topics we think are interesting. Tonight&apos;s episode is Other Ways to Go on Two Legs and is about alternative forms of bipedal locomotion.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2101754646716981248/img/WYPRu2eXLtMjL0_r.jpg" alt=""></p>]]></description>
     </item>
   </channel>
 </rss>
