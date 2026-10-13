@@ -7,6 +7,54 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>Run Pi locally on RTX Spark with llama.cpp:</title>
+      <link>https://x.com/pidotdev/status/2110064621008683143</link>
+      <guid isPermaLink="true">https://x.com/pidotdev/status/2110064621008683143</guid>
+      <pubDate>Tue, 13 Oct 2026 17:46:23 GMT</pubDate>
+      <author>@pidotdev</author>
+      <description><![CDATA[<p>Run Pi locally on RTX Spark with llama.cpp:</p>]]></description>
+    </item>
+    <item>
+      <title>It&apos;s an exciting day for local AI builders. You can now use local models in Pi on your</title>
+      <link>https://x.com/pidotdev/status/2110064527173620001</link>
+      <guid isPermaLink="true">https://x.com/pidotdev/status/2110064527173620001</guid>
+      <pubDate>Tue, 13 Oct 2026 17:46:01 GMT</pubDate>
+      <author>@pidotdev</author>
+      <description><![CDATA[<p>It&apos;s an exciting day for local AI builders. You can now use local models in Pi on your RTX Spark laptop.<br><br>We’ve worked with @NVIDIARTXSpark on a guide to getting set up with llama.cpp and NVIDIA’s optimized recipes.<br><br>Here’s how to get started ↓</p>]]></description>
+    </item>
+    <item>
+      <title>Get it here: https://chatgpt.com/plugins/plugin_asdk_app_6ab242dbeb5c8191ba5277534ef0c570?open_in_app…</title>
+      <link>https://x.com/tldraw/status/2110058131640504486</link>
+      <guid isPermaLink="true">https://x.com/tldraw/status/2110058131640504486</guid>
+      <pubDate>Tue, 13 Oct 2026 17:20:36 GMT</pubDate>
+      <author>@tldraw</author>
+      <description><![CDATA[<p>Get it here: https://chatgpt.com/plugins/plugin_asdk_app_6ab242dbeb5c8191ba5277534ef0c570?open_in_app…</p><p><img src="https://pbs.twimg.com/media/HUhusCNbwAAcfpe?format=jpg&amp;name=small" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>You can now run embeds inside the new tldraw plugin for @ChatGPT. Here&apos;s Astra rendering an ESP32 pet</title>
+      <link>https://x.com/tldraw/status/2110058113865044037</link>
+      <guid isPermaLink="true">https://x.com/tldraw/status/2110058113865044037</guid>
+      <pubDate>Tue, 13 Oct 2026 17:20:31 GMT</pubDate>
+      <author>@tldraw</author>
+      <description><![CDATA[<p>You can now run embeds inside the new tldraw plugin for @ChatGPT. Here&apos;s Astra rendering an ESP32 pet cat app, with her behaviour drawn as a statechart underneath, so it can be checked before it&apos;s flashed.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2110058083565404160/img/9dbM6IXR4Lsu2JJG.jpg" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>Yes. I work on multiple projects using multiple harnesses. And Copper is how I keep track.</title>
+      <link>https://x.com/shadcn/status/2110053067013963864</link>
+      <guid isPermaLink="true">https://x.com/shadcn/status/2110053067013963864</guid>
+      <pubDate>Tue, 13 Oct 2026 17:00:28 GMT</pubDate>
+      <author>@shadcn</author>
+      <description><![CDATA[<p>Yes. I work on multiple projects using multiple harnesses. And Copper is how I keep track.</p><p><img src="https://pbs.twimg.com/media/HUhBQj9bEAA4mD9?format=jpg&amp;name=small" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>☕️</title>
+      <link>https://x.com/paper/status/2110051338466083048</link>
+      <guid isPermaLink="true">https://x.com/paper/status/2110051338466083048</guid>
+      <pubDate>Tue, 13 Oct 2026 16:53:36 GMT</pubDate>
+      <author>@paper</author>
+      <description><![CDATA[<p>☕️</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2109629427252367360/img/5YtQsOKfqr6BSnle.jpg" alt=""></p>]]></description>
+    </item>
+    <item>
       <title>Media post</title>
       <link>https://x.com/tldraw/status/2110045020921246132</link>
       <guid isPermaLink="true">https://x.com/tldraw/status/2110045020921246132</guid>
@@ -108,7 +156,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2109962899661959538</guid>
       <pubDate>Tue, 13 Oct 2026 11:02:11 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>If you clicked away from a comment you were still writing on https://tldraw.com, the box used to jump to wherever you clicked. It now closes, drops you back on select, and keeps your draft for later.</p>]]></description>
+      <description><![CDATA[<p>If you clicked away from a comment you were still writing on https://tldraw.com, the box used to jump to wherever you clicked. It now closes, drops you back on select, and keeps your draft for later.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2109962856762621952/img/GsPNO4N1n9vkrnbW.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>We&apos;ve had this update UI in for weeks, but I still smile when I see it. We invited</title>
@@ -140,7 +188,7 @@
       <guid isPermaLink="true">https://x.com/paper/status/2109848339747615021</guid>
       <pubDate>Tue, 13 Oct 2026 03:26:57 GMT</pubDate>
       <author>@paper</author>
-      <description><![CDATA[<p>cool use case</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2109832976242446337/img/TSm0QfmWQI1ClBbY.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>cool use case</p>]]></description>
     </item>
     <item>
       <title>Media post</title>
@@ -236,7 +284,7 @@
       <guid isPermaLink="true">https://x.com/pidotdev/status/2109588438215462962</guid>
       <pubDate>Mon, 12 Oct 2026 10:14:12 GMT</pubDate>
       <author>@pidotdev</author>
-      <description><![CDATA[<p>Welcome to our Monday Meditations! 🌞<br><br>@badlogicgames and @mitsuhiko are chatting about self modifying software and harnesses.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2109588018319216641/img/QuGdTAvqVEyek3tY.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Welcome to our Monday Meditations! 🌞<br><br>@badlogicgames and @mitsuhiko are chatting about self modifying software and harnesses.</p>]]></description>
     </item>
     <item>
       <title>syncs to your ryOS Account Dictionary 👉 https://os.ryo.lu/dictionary Fitness 👉 https://os.ryo.lu/fitness</title>
@@ -388,7 +436,7 @@
       <guid isPermaLink="true">https://x.com/paper/status/2108729862987137383</guid>
       <pubDate>Sat, 10 Oct 2026 01:22:32 GMT</pubDate>
       <author>@paper</author>
-      <description><![CDATA[<p>Paper is a visual interface to your agent. What will you create?</p>]]></description>
+      <description><![CDATA[<p>Paper is a visual interface to your agent. What will you create?</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2108625398254755841/img/Zm3wS-N8munSSFfM.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>You can just do things</title>
@@ -452,7 +500,7 @@
       <guid isPermaLink="true">https://x.com/paper/status/2108607620722704461</guid>
       <pubDate>Fri, 09 Oct 2026 17:16:47 GMT</pubDate>
       <author>@paper</author>
-      <description><![CDATA[<p>Honored to see this Oliver remix 💗</p><p><img src="https://pbs.twimg.com/tweet_video_thumb/HUM8eN7WUAEAeKb.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Honored to see this Oliver remix 💗</p>]]></description>
     </item>
     <item>
       <title>seeing Paper Mono in use is already the best compliment, but this?! 🥹</title>
@@ -684,7 +732,7 @@
       <guid isPermaLink="true">https://x.com/paper/status/2108071846390444470</guid>
       <pubDate>Thu, 08 Oct 2026 05:47:48 GMT</pubDate>
       <author>@paper</author>
-      <description><![CDATA[<p>🐐</p><p><img src="https://pbs.twimg.com/profile_images/1940127093242691584/KnF2g33Z_normal.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>🐐</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2107870023494635520/img/l7cpOuH5va3VRrd4.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>btw the @paper file is also free and open source did you get it? 🤩 official prints coming</title>
@@ -820,7 +868,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2107589361428725766</guid>
       <pubDate>Tue, 06 Oct 2026 21:50:35 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>oh damn</p>]]></description>
+      <description><![CDATA[<p>oh damn</p><p><img src="https://pbs.twimg.com/ext_tw_video_thumb/1724908000475828225/pu/img/DkszCViSMl1D-_kj.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>We have implemented spec OSC7501 in Rex today so our testing group can build applications that support it.</title>
@@ -1132,7 +1180,7 @@
       <guid isPermaLink="true">https://x.com/shadcn/status/2107129039299244143</guid>
       <pubDate>Mon, 05 Oct 2026 15:21:26 GMT</pubDate>
       <author>@shadcn</author>
-      <description><![CDATA[<p>Verification is “read the code” for agents.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2107106516126044160/img/3ROIYvdWPrn9RSac.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Verification is “read the code” for agents.</p>]]></description>
     </item>
     <item>
       <title>Behind the design of Copilot’s new identity. https://microsoft.design/articles/more-than-a-mark/…</title>
@@ -1148,7 +1196,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2107062996094878198</guid>
       <pubDate>Mon, 05 Oct 2026 10:59:00 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>Welcome to tldraw sleep, a series of videos on topics we think are interesting. Tonight&apos;s episode is about underwater dinosaurs.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2104333603014348802/img/PrqJEeRoVeSFoXZl.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Welcome to tldraw sleep, a series of videos on topics we think are interesting. Tonight&apos;s episode is about underwater dinosaurs.</p>]]></description>
     </item>
     <item>
       <title>See the rest of the series here:</title>
@@ -1164,7 +1212,7 @@
       <guid isPermaLink="true">https://x.com/pidotdev/status/2107033061905104941</guid>
       <pubDate>Mon, 05 Oct 2026 09:00:03 GMT</pubDate>
       <author>@pidotdev</author>
-      <description><![CDATA[<p>Welcome to our Monday Meditations! 🌞<br><br>Today @badlogicgames and @mitsuhiko are talking why we built Pi Durable, a harness build around a small task-based workflow engine so long-running, multiplayer agents can suspend and resume anywhere. Also: why not Temporal or Effect.ts.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2107019854444105728/img/hlKfie18CIO3kM-P.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Welcome to our Monday Meditations! 🌞<br><br>Today @badlogicgames and @mitsuhiko are talking why we built Pi Durable, a harness build around a small task-based workflow engine so long-running, multiplayer agents can suspend and resume anywhere. Also: why not Temporal or Effect.ts.</p>]]></description>
     </item>
     <item>
       <title>Apple should bring back the half-mast favicon every October 5 to honor Steve Jobs.</title>
@@ -1228,7 +1276,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2106700104891609307</guid>
       <pubDate>Sun, 04 Oct 2026 10:57:00 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>Welcome to tldraw sleep, a series of videos on topics we think are interesting. Tonight&apos;s episode is about ballistics.</p>]]></description>
+      <description><![CDATA[<p>Welcome to tldraw sleep, a series of videos on topics we think are interesting. Tonight&apos;s episode is about ballistics.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2104331704030646272/img/aZ42cYCbTor9EUl3.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>See the rest of the series here:</title>
@@ -1557,54 +1605,6 @@
       <pubDate>Thu, 01 Oct 2026 11:35:10 GMT</pubDate>
       <author>@shadcn</author>
       <description><![CDATA[<p>No tech has embarrassed me in front of people more than Siri.</p>]]></description>
-    </item>
-    <item>
-      <title>The ChatGPT app got a new app icon option</title>
-      <link>https://x.com/avstorm/status/2105561905809228194</link>
-      <guid isPermaLink="true">https://x.com/avstorm/status/2105561905809228194</guid>
-      <pubDate>Thu, 01 Oct 2026 07:34:12 GMT</pubDate>
-      <author>@avstorm</author>
-      <description><![CDATA[<p>The ChatGPT app got a new app icon option</p><p><img src="https://pbs.twimg.com/media/HTh0ruwWAAADPdY?format=jpg&amp;name=small" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>Thanks @dillon_mulroy</title>
-      <link>https://x.com/pidotdev/status/2105543179206381925</link>
-      <guid isPermaLink="true">https://x.com/pidotdev/status/2105543179206381925</guid>
-      <pubDate>Thu, 01 Oct 2026 06:19:47 GMT</pubDate>
-      <author>@pidotdev</author>
-      <description><![CDATA[<p>Thanks @dillon_mulroy</p>]]></description>
-    </item>
-    <item>
-      <title>shadcn/react was deployed to millions yesterday.</title>
-      <link>https://x.com/shadcn/status/2105522245791817757</link>
-      <guid isPermaLink="true">https://x.com/shadcn/status/2105522245791817757</guid>
-      <pubDate>Thu, 01 Oct 2026 04:56:36 GMT</pubDate>
-      <author>@shadcn</author>
-      <description><![CDATA[<p>shadcn/react was deployed to millions yesterday.</p>]]></description>
-    </item>
-    <item>
-      <title>Testing out Pi&apos;s new support MCP in @paper looks to be working great (and fast too)</title>
-      <link>https://x.com/stephenhaney/status/2105514746300772708</link>
-      <guid isPermaLink="true">https://x.com/stephenhaney/status/2105514746300772708</guid>
-      <pubDate>Thu, 01 Oct 2026 04:26:48 GMT</pubDate>
-      <author>@stephenhaney</author>
-      <description><![CDATA[<p>Testing out Pi&apos;s new support MCP in @paper<br><br>looks to be working great (and fast too)</p><p><img src="https://pbs.twimg.com/media/HThKCl2aoAAk1L-?format=jpg&amp;name=small" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>Paper × Vercel</title>
-      <link>https://x.com/paper/status/2105487269415227508</link>
-      <guid isPermaLink="true">https://x.com/paper/status/2105487269415227508</guid>
-      <pubDate>Thu, 01 Oct 2026 02:37:37 GMT</pubDate>
-      <author>@paper</author>
-      <description><![CDATA[<p>Paper × Vercel</p><p><img src="https://pbs.twimg.com/media/HTgWF0kbQAAfjOf?format=jpg&amp;name=small" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>designed with Paper!</title>
-      <link>https://x.com/stephenhaney/status/2105482426344714683</link>
-      <guid isPermaLink="true">https://x.com/stephenhaney/status/2105482426344714683</guid>
-      <pubDate>Thu, 01 Oct 2026 02:18:23 GMT</pubDate>
-      <author>@stephenhaney</author>
-      <description><![CDATA[<p>designed with Paper!</p><p><img src="https://pbs.twimg.com/media/HTgWF0kbQAAfjOf?format=jpg&amp;name=small" alt=""></p>]]></description>
     </item>
   </channel>
 </rss>

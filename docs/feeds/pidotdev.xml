@@ -13,6 +13,22 @@
     </image>
     <ttl>120</ttl>
     <item>
+      <title>Run Pi locally on RTX Spark with llama.cpp:</title>
+      <link>https://x.com/pidotdev/status/2110064621008683143</link>
+      <guid isPermaLink="true">https://x.com/pidotdev/status/2110064621008683143</guid>
+      <pubDate>Tue, 13 Oct 2026 17:46:23 GMT</pubDate>
+      <author>@pidotdev</author>
+      <description><![CDATA[<p>Run Pi locally on RTX Spark with llama.cpp:</p>]]></description>
+    </item>
+    <item>
+      <title>It&apos;s an exciting day for local AI builders. You can now use local models in Pi on your</title>
+      <link>https://x.com/pidotdev/status/2110064527173620001</link>
+      <guid isPermaLink="true">https://x.com/pidotdev/status/2110064527173620001</guid>
+      <pubDate>Tue, 13 Oct 2026 17:46:01 GMT</pubDate>
+      <author>@pidotdev</author>
+      <description><![CDATA[<p>It&apos;s an exciting day for local AI builders. You can now use local models in Pi on your RTX Spark laptop.<br><br>We’ve worked with @NVIDIARTXSpark on a guide to getting set up with llama.cpp and NVIDIA’s optimized recipes.<br><br>Here’s how to get started ↓</p>]]></description>
+    </item>
+    <item>
       <title>Also on YouTube</title>
       <link>https://x.com/pidotdev/status/2109588938193359358</link>
       <guid isPermaLink="true">https://x.com/pidotdev/status/2109588938193359358</guid>
@@ -26,7 +42,7 @@
       <guid isPermaLink="true">https://x.com/pidotdev/status/2109588438215462962</guid>
       <pubDate>Mon, 12 Oct 2026 10:14:12 GMT</pubDate>
       <author>@pidotdev</author>
-      <description><![CDATA[<p>Welcome to our Monday Meditations! 🌞<br><br>@badlogicgames and @mitsuhiko are chatting about self modifying software and harnesses.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2109588018319216641/img/QuGdTAvqVEyek3tY.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Welcome to our Monday Meditations! 🌞<br><br>@badlogicgames and @mitsuhiko are chatting about self modifying software and harnesses.</p>]]></description>
     </item>
     <item>
       <title>🙏🏽@henriquebastos this is what we’re working hard to get right for everyone</title>
@@ -82,7 +98,7 @@
       <guid isPermaLink="true">https://x.com/pidotdev/status/2107033061905104941</guid>
       <pubDate>Mon, 05 Oct 2026 09:00:03 GMT</pubDate>
       <author>@pidotdev</author>
-      <description><![CDATA[<p>Welcome to our Monday Meditations! 🌞<br><br>Today @badlogicgames and @mitsuhiko are talking why we built Pi Durable, a harness build around a small task-based workflow engine so long-running, multiplayer agents can suspend and resume anywhere. Also: why not Temporal or Effect.ts.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2107019854444105728/img/hlKfie18CIO3kM-P.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Welcome to our Monday Meditations! 🌞<br><br>Today @badlogicgames and @mitsuhiko are talking why we built Pi Durable, a harness build around a small task-based workflow engine so long-running, multiplayer agents can suspend and resume anywhere. Also: why not Temporal or Effect.ts.</p>]]></description>
     </item>
     <item>
       <title>People of Pi: We&apos;ve shipped Pi 1.0 with Pi Durable. Go make them yours.</title>
@@ -106,7 +122,7 @@
       <guid isPermaLink="true">https://x.com/pidotdev/status/2105543179206381925</guid>
       <pubDate>Thu, 01 Oct 2026 06:19:47 GMT</pubDate>
       <author>@pidotdev</author>
-      <description><![CDATA[<p>Thanks @dillon_mulroy</p>]]></description>
+      <description><![CDATA[<p>Thanks @dillon_mulroy</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2105453621408108544/img/HG51vDkBu0r0w9uB.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>A pretty big change is that Pi now has MCP at the core. How is this even possible?</title>
