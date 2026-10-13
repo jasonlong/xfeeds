@@ -7,6 +7,14 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>hey @grok what should I use to build my canvas ui app</title>
+      <link>https://x.com/tldraw/status/2109986893236687285</link>
+      <guid isPermaLink="true">https://x.com/tldraw/status/2109986893236687285</guid>
+      <pubDate>Tue, 13 Oct 2026 12:37:31 GMT</pubDate>
+      <author>@tldraw</author>
+      <description><![CDATA[<p>hey @grok what should I use to build my canvas ui app</p>]]></description>
+    </item>
+    <item>
       <title>who&apos;s building HumanOK job board?</title>
       <link>https://x.com/shadcn/status/2109971274290409940</link>
       <guid isPermaLink="true">https://x.com/shadcn/status/2109971274290409940</guid>
@@ -516,7 +524,7 @@
       <guid isPermaLink="true">https://x.com/agusegui/status/2108251509830140401</guid>
       <pubDate>Thu, 08 Oct 2026 17:41:44 GMT</pubDate>
       <author>@agusegui</author>
-      <description><![CDATA[<p>want to see how the whole Paper Mono launch video was made?<br><br>everything is code but I didn&apos;t touch any of it <br><br>here we go 🔥</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2108229775743471616/img/2qKpd7QN2JLKamog.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>want to see how the whole Paper Mono launch video was made?<br><br>everything is code but I didn&apos;t touch any of it <br><br>here we go 🔥</p>]]></description>
     </item>
     <item>
       <title>the stack? just the web! · motion is not AE, it&apos;s react with @Remotion in localhost · the</title>
@@ -1596,15 +1604,7 @@
       <guid isPermaLink="true">https://x.com/reflectnotes/status/2105341653468774723</guid>
       <pubDate>Wed, 30 Sep 2026 16:59:00 GMT</pubDate>
       <author>@reflectnotes</author>
-      <description><![CDATA[<p>We built the notes app we always wished Apple Notes was.<br><br>Beautiful, connected by backlinks, instant to search, and every note is a plain Markdown file your AI agents can read.<br><br>Reflect Open is out of beta today. Open source, free on Mac, and on iPhone and iPad.</p>]]></description>
-    </item>
-    <item>
-      <title>Your notes are ordinary Markdown files. No Reflect account. No Reflect cloud database. Open them in any editor</title>
-      <link>https://x.com/reflectnotes/status/2105341653959475547</link>
-      <guid isPermaLink="true">https://x.com/reflectnotes/status/2105341653959475547</guid>
-      <pubDate>Wed, 30 Sep 2026 16:59:00 GMT</pubDate>
-      <author>@reflectnotes</author>
-      <description><![CDATA[<p>Your notes are ordinary Markdown files.<br><br>No Reflect account. No Reflect cloud database. Open them in any editor and back them up however you like.<br><br>They&apos;ll outlive any app, including ours.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2104982694455074816/img/cqoJ12m4twH0nQYL.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>We built the notes app we always wished Apple Notes was.<br><br>Beautiful, connected by backlinks, instant to search, and every note is a plain Markdown file your AI agents can read.<br><br>Reflect Open is out of beta today. Open source, free on Mac, and on iPhone and iPad.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2104982548606562304/img/IJq32DJsLsNSDDvY.jpg" alt=""></p>]]></description>
     </item>
   </channel>
 </rss>

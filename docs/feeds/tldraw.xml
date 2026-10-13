@@ -13,6 +13,14 @@
     </image>
     <ttl>120</ttl>
     <item>
+      <title>hey @grok what should I use to build my canvas ui app</title>
+      <link>https://x.com/tldraw/status/2109986893236687285</link>
+      <guid isPermaLink="true">https://x.com/tldraw/status/2109986893236687285</guid>
+      <pubDate>Tue, 13 Oct 2026 12:37:31 GMT</pubDate>
+      <author>@tldraw</author>
+      <description><![CDATA[<p>hey @grok what should I use to build my canvas ui app</p>]]></description>
+    </item>
+    <item>
       <title>If you clicked away from a comment you were still writing on https://tldraw.com, the box used to jump</title>
       <link>https://x.com/tldraw/status/2109962899661959538</link>
       <guid isPermaLink="true">https://x.com/tldraw/status/2109962899661959538</guid>
@@ -803,14 +811,6 @@
       <pubDate>Sat, 19 Sep 2026 14:23:09 GMT</pubDate>
       <author>@tldraw</author>
       <description><![CDATA[<p>One from the archives: how our freehand ink algorithm works</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2101311987225427968/img/Unb5KzBoDf5c14NU.jpg" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>The original algo is open source (perfect-freehand) and used in apps like Excalidraw, Canva, and perhaps still somewhere</title>
-      <link>https://x.com/tldraw/status/2101316167843319925</link>
-      <guid isPermaLink="true">https://x.com/tldraw/status/2101316167843319925</guid>
-      <pubDate>Sat, 19 Sep 2026 14:23:09 GMT</pubDate>
-      <author>@tldraw</author>
-      <description><![CDATA[<p>The original algo is open source (perfect-freehand) and used in apps like Excalidraw, Canva, and perhaps still somewhere deep in Vercel&apos;s preview comments feature. You can play with it at https://perfect-freehand.com</p>]]></description>
     </item>
   </channel>
 </rss>
