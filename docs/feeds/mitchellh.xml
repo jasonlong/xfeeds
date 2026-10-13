@@ -13,6 +13,14 @@
     </image>
     <ttl>120</ttl>
     <item>
+      <title>Its amazing seeing so many different pieces of software copying the visual style of Superlogical (at highly varying</title>
+      <link>https://x.com/mitchellh/status/2110125009922662824</link>
+      <guid isPermaLink="true">https://x.com/mitchellh/status/2110125009922662824</guid>
+      <pubDate>Tue, 13 Oct 2026 21:46:21 GMT</pubDate>
+      <author>@mitchellh</author>
+      <description><![CDATA[<p>Its amazing seeing so many different pieces of software copying the visual style of Superlogical (at highly varying degrees of quality lol). It&apos;s a really good sign we&apos;re directionally doing the right thing, since generally speaking only really good patterns get copied widely.</p>]]></description>
+    </item>
+    <item>
       <title>OSC7501 adoption updates: Kitty implements and displays in the tab title. Grok Build shipped support and Codex merged.</title>
       <link>https://x.com/mitchellh/status/2110036172768674034</link>
       <guid isPermaLink="true">https://x.com/mitchellh/status/2110036172768674034</guid>
@@ -34,7 +42,7 @@
       <guid isPermaLink="true">https://x.com/mitchellh/status/2109279616519241920</guid>
       <pubDate>Sun, 11 Oct 2026 13:47:03 GMT</pubDate>
       <author>@mitchellh</author>
-      <description><![CDATA[<p>Powered by OSC7501! The implementation seems obvious, but @almonk went into the dungeon for weeks toiling over TINY details around when exactly to show different UI states and it feels amazing. <br><br>Everyone at Superlogical all agreed we&apos;ve never used any activity inbox in any</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2109261490838544384/img/7S3muRxeg-hcsOPI.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Powered by OSC7501! The implementation seems obvious, but @almonk went into the dungeon for weeks toiling over TINY details around when exactly to show different UI states and it feels amazing. <br><br>Everyone at Superlogical all agreed we&apos;ve never used any activity inbox in any</p>]]></description>
     </item>
     <item>
       <title>Whenever I talk about my kids sleep there&apos;s always so many people who think that I&apos;m lying and</title>
@@ -146,7 +154,7 @@
       <guid isPermaLink="true">https://x.com/mitchellh/status/2101320128667529496</guid>
       <pubDate>Sat, 19 Sep 2026 14:38:53 GMT</pubDate>
       <author>@mitchellh</author>
-      <description><![CDATA[<p>Software should be fun. It should make you feel something, positive hopefully. Utilitarian software is the worst. The human experience is why life is worth living (even for something as teeny tiny as a terminal).</p>]]></description>
+      <description><![CDATA[<p>Software should be fun. It should make you feel something, positive hopefully. Utilitarian software is the worst. The human experience is why life is worth living (even for something as teeny tiny as a terminal).</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2101298493390237697/img/uWXlnI6xbhfQ0IDp.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Terminal programs bias to dark modes and explicit colors are hostile to light modes and themes. We now</title>
