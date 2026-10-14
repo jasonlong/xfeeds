@@ -7,6 +7,22 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>HomeView zen watch face idea</title>
+      <link>https://x.com/avstorm/status/2110415795348017331</link>
+      <guid isPermaLink="true">https://x.com/avstorm/status/2110415795348017331</guid>
+      <pubDate>Wed, 14 Oct 2026 17:01:49 GMT</pubDate>
+      <author>@avstorm</author>
+      <description><![CDATA[<p>HomeView zen watch face idea</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2110415567718952960/img/v0n1-zH2r1wN4knm.jpg" alt=""></p><p><img src="https://pbs.twimg.com/media/HUmz3UtWoAEwo-T?format=png&amp;name=small" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>I just published Trace, a new component for agent activity. It&apos;s one abstraction for reasoning, tool calls, queues,</title>
+      <link>https://x.com/shadcn/status/2110410655165779985</link>
+      <guid isPermaLink="true">https://x.com/shadcn/status/2110410655165779985</guid>
+      <pubDate>Wed, 14 Oct 2026 16:41:24 GMT</pubDate>
+      <author>@shadcn</author>
+      <description><![CDATA[<p>I just published Trace, a new component for agent activity. It&apos;s one abstraction for reasoning, tool calls, queues, chain of thought, subagents...etc<br><br>Also in this release: Code Block and AI Elements.<br><br>https://ui.shadcn.com/docs/changelog/2026-10-ai-elements…</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2110410297529753600/img/tP8L9vBubLGBz-1w.jpg" alt=""></p>]]></description>
+    </item>
+    <item>
       <title>Claude Code&apos;s &quot;Pin as chapter&quot; is brilliant.</title>
       <link>https://x.com/shadcn/status/2110404331086176470</link>
       <guid isPermaLink="true">https://x.com/shadcn/status/2110404331086176470</guid>
@@ -364,7 +380,7 @@
       <guid isPermaLink="true">https://x.com/avstorm/status/2109595552514007238</guid>
       <pubDate>Mon, 12 Oct 2026 10:42:28 GMT</pubDate>
       <author>@avstorm</author>
-      <description><![CDATA[<p>Create your rangoli wallpaper<br><br>https://apple.com/in/create-your-rangoli/…</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2109595230039138304/img/ftcO0HVLWDlXg0pa.jpg" alt=""></p><p><img src="https://pbs.twimg.com/media/HUbJtFsWQAAc5Bo?format=jpg&amp;name=360x360" alt=""></p>]]></description>
+      <description><![CDATA[<p>Create your rangoli wallpaper<br><br>https://apple.com/in/create-your-rangoli/…</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2109595230039138304/img/ftcO0HVLWDlXg0pa.jpg" alt=""></p><p><img src="https://pbs.twimg.com/media/HUbJtFsWQAAc5Bo?format=jpg&amp;name=small" alt=""></p>]]></description>
     </item>
     <item>
       <title>Apple&apos;s Divali 2026 logo</title>
@@ -372,7 +388,7 @@
       <guid isPermaLink="true">https://x.com/avstorm/status/2109595010660196383</guid>
       <pubDate>Mon, 12 Oct 2026 10:40:19 GMT</pubDate>
       <author>@avstorm</author>
-      <description><![CDATA[<p>Apple&apos;s Divali 2026 logo</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2109593237966954496/img/R-vUA7klOT8vcr3S.jpg" alt=""></p><p><img src="https://pbs.twimg.com/media/HUbJOB5WMAALJkD?format=jpg&amp;name=360x360" alt=""></p>]]></description>
+      <description><![CDATA[<p>Apple&apos;s Divali 2026 logo</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2109593237966954496/img/R-vUA7klOT8vcr3S.jpg" alt=""></p><p><img src="https://pbs.twimg.com/media/HUbJOB5WMAALJkD?format=jpg&amp;name=small" alt=""></p>]]></description>
     </item>
     <item>
       <title>the best designers are the best writers. the best writers are the best designers.</title>
@@ -396,7 +412,7 @@
       <guid isPermaLink="true">https://x.com/pidotdev/status/2109588438215462962</guid>
       <pubDate>Mon, 12 Oct 2026 10:14:12 GMT</pubDate>
       <author>@pidotdev</author>
-      <description><![CDATA[<p>Welcome to our Monday Meditations! 🌞<br><br>@badlogicgames and @mitsuhiko are chatting about self modifying software and harnesses.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2109588018319216641/img/QuGdTAvqVEyek3tY.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Welcome to our Monday Meditations! 🌞<br><br>@badlogicgames and @mitsuhiko are chatting about self modifying software and harnesses.</p>]]></description>
     </item>
     <item>
       <title>syncs to your ryOS Account Dictionary 👉 https://os.ryo.lu/dictionary Fitness 👉 https://os.ryo.lu/fitness</title>
@@ -476,7 +492,7 @@
       <guid isPermaLink="true">https://x.com/almonk/status/2109262000165437943</guid>
       <pubDate>Sun, 11 Oct 2026 12:37:03 GMT</pubDate>
       <author>@almonk</author>
-      <description><![CDATA[<p>New for Rex testers. 👁️ Activity Mode shows you active and idling processes and agents for quick context switching, and some extra metadata.<br><br>We&apos;re working our way slowly through the waitlist. Our priority is building quality software, so we&apos;re admitting testers in batches of 50</p>]]></description>
+      <description><![CDATA[<p>New for Rex testers. 👁️ Activity Mode shows you active and idling processes and agents for quick context switching, and some extra metadata.<br><br>We&apos;re working our way slowly through the waitlist. Our priority is building quality software, so we&apos;re admitting testers in batches of 50</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2109261490838544384/img/7S3muRxeg-hcsOPI.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Why does this look better than Liquid Glass</title>
@@ -540,7 +556,7 @@
       <guid isPermaLink="true">https://x.com/shadcn/status/2108804948750393689</guid>
       <pubDate>Sat, 10 Oct 2026 06:20:54 GMT</pubDate>
       <author>@shadcn</author>
-      <description><![CDATA[<p>Most of what I do in Claude Code now are in Projects.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2108616285760499712/img/ESduThxQJik4m9hs.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Most of what I do in Claude Code now are in Projects.</p><p><img src="https://pbs.twimg.com/profile_images/2044472418815893504/xf14RxM8_normal.png" alt=""></p>]]></description>
     </item>
     <item>
       <title>Paper is a visual interface to your agent. What will you create?</title>
@@ -612,7 +628,7 @@
       <guid isPermaLink="true">https://x.com/paper/status/2108607620722704461</guid>
       <pubDate>Fri, 09 Oct 2026 17:16:47 GMT</pubDate>
       <author>@paper</author>
-      <description><![CDATA[<p>Honored to see this Oliver remix 💗</p><p><img src="https://pbs.twimg.com/tweet_video_thumb/HUM8eN7WUAEAeKb.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Honored to see this Oliver remix 💗</p>]]></description>
     </item>
     <item>
       <title>seeing Paper Mono in use is already the best compliment, but this?! 🥹</title>
@@ -668,7 +684,7 @@
       <guid isPermaLink="true">https://x.com/shadcn/status/2108574564586332615</guid>
       <pubDate>Fri, 09 Oct 2026 15:05:26 GMT</pubDate>
       <author>@shadcn</author>
-      <description><![CDATA[<p>Alright, I&apos;ve made the shadcn/ui skills really good at 𝙳𝙴𝚂𝙸𝙶𝙽.𝚖𝚍.<br><br>Ask for a design system and it picks a preset, then builds everything: colors, tokens, type scale, elevation, styles the primitives and blocks.<br><br>Start with a solid foundation and build something unique.</p>]]></description>
+      <description><![CDATA[<p>Alright, I&apos;ve made the shadcn/ui skills really good at 𝙳𝙴𝚂𝙸𝙶𝙽.𝚖𝚍.<br><br>Ask for a design system and it picks a preset, then builds everything: colors, tokens, type scale, elevation, styles the primitives and blocks.<br><br>Start with a solid foundation and build something unique.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2108574065321512961/img/xMEdbpAf1J-zJ11s.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Help Earendil and Max build and open source a contrast algorithm.</title>
@@ -1589,22 +1605,6 @@
       <pubDate>Fri, 02 Oct 2026 01:56:30 GMT</pubDate>
       <author>@tldraw</author>
       <description><![CDATA[<p>After careful consideration, we have decided to unblock<br>@pidotdev. You can now use the pi harness with tldraw. 🕊️</p>]]></description>
-    </item>
-    <item>
-      <title>The easiest way is through tldraw offline (https://offline.tldraw.com). Download the free app, install it, and select Install agent</title>
-      <link>https://x.com/tldraw/status/2105839310973067541</link>
-      <guid isPermaLink="true">https://x.com/tldraw/status/2105839310973067541</guid>
-      <pubDate>Fri, 02 Oct 2026 01:56:30 GMT</pubDate>
-      <author>@tldraw</author>
-      <description><![CDATA[<p>The easiest way is through tldraw offline (https://offline.tldraw.com). Download the free app, install it, and select Install agent skills. Begin a new pi session and ask it to tldraw something for you.</p>]]></description>
-    </item>
-    <item>
-      <title>New York, where’s best for coffee &amp; working tomorrow morning</title>
-      <link>https://x.com/almonk/status/2105833285465051530</link>
-      <guid isPermaLink="true">https://x.com/almonk/status/2105833285465051530</guid>
-      <pubDate>Fri, 02 Oct 2026 01:32:34 GMT</pubDate>
-      <author>@almonk</author>
-      <description><![CDATA[<p>New York, where’s best for coffee &amp; working tomorrow morning</p>]]></description>
     </item>
   </channel>
 </rss>
