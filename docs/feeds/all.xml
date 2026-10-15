@@ -7,6 +7,14 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>Last week we invited 250 people to the Rex beta. This week we invited around 2,000 and we</title>
+      <link>https://x.com/mitchellh/status/2110828346598936753</link>
+      <guid isPermaLink="true">https://x.com/mitchellh/status/2110828346598936753</guid>
+      <pubDate>Thu, 15 Oct 2026 20:21:09 GMT</pubDate>
+      <author>@mitchellh</author>
+      <description><![CDATA[<p>Last week we invited 250 people to the Rex beta. This week we invited around 2,000 and we just started another 1,000 person wave (in order of the newsletter signup). There is still almost 50,000 people waiting. As we continue to prove stability, wave size will increase. Soon!</p>]]></description>
+    </item>
+    <item>
       <title>Mobbin started from tldraw’s canvas and added custom shapes and logic to fit how its content and ML</title>
       <link>https://x.com/tldraw/status/2110783586928599342</link>
       <guid isPermaLink="true">https://x.com/tldraw/status/2110783586928599342</guid>
@@ -620,7 +628,7 @@
       <guid isPermaLink="true">https://x.com/mitchellh/status/2109279616519241920</guid>
       <pubDate>Sun, 11 Oct 2026 13:47:03 GMT</pubDate>
       <author>@mitchellh</author>
-      <description><![CDATA[<p>Powered by OSC7501! The implementation seems obvious, but @almonk went into the dungeon for weeks toiling over TINY details around when exactly to show different UI states and it feels amazing. <br><br>Everyone at Superlogical all agreed we&apos;ve never used any activity inbox in any</p>]]></description>
+      <description><![CDATA[<p>Powered by OSC7501! The implementation seems obvious, but @almonk went into the dungeon for weeks toiling over TINY details around when exactly to show different UI states and it feels amazing. <br><br>Everyone at Superlogical all agreed we&apos;ve never used any activity inbox in any</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2109261490838544384/img/7S3muRxeg-hcsOPI.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>New for Rex testers. 👁️ Activity Mode shows you active and idling processes and agents for quick context</title>
@@ -1597,14 +1605,6 @@
       <pubDate>Sat, 03 Oct 2026 23:08:00 GMT</pubDate>
       <author>@agusegui</author>
       <description><![CDATA[<p>and I love the good old @brijanp, who comes to this shitty place, drops a few bangers he probably made in an old version of Photoshop, pisses off everyone with his design takes, and then disappears for a few months, probably to cook something</p>]]></description>
-    </item>
-    <item>
-      <title>ha, this whole thread is such a beautiful concept man, I love the internet, I love Twitter, I</title>
-      <link>https://x.com/agusegui/status/2106519705129197951</link>
-      <guid isPermaLink="true">https://x.com/agusegui/status/2106519705129197951</guid>
-      <pubDate>Sat, 03 Oct 2026 23:00:09 GMT</pubDate>
-      <author>@agusegui</author>
-      <description><![CDATA[<p>ha, this whole thread is such a beautiful concept<br><br>man, I love the internet, I love Twitter, I love design, whatever it fucking means</p>]]></description>
     </item>
   </channel>
 </rss>
