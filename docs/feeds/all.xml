@@ -7,6 +7,14 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>Updated the chatbot-template to use the new Trace component. If you want to see how to use it</title>
+      <link>https://x.com/shadcn/status/2110641850126135315</link>
+      <guid isPermaLink="true">https://x.com/shadcn/status/2110641850126135315</guid>
+      <pubDate>Thu, 15 Oct 2026 08:00:05 GMT</pubDate>
+      <author>@shadcn</author>
+      <description><![CDATA[<p>Updated the chatbot-template to use the new Trace component. If you want to see how to use it with @aisdk  how to wire questionnaire etc, check the repo.<br><br>https://github.com/shadcn-ui/chatbot-template…</p><p><img src="https://pbs.twimg.com/media/HUqBcouXAAAGPka?format=png&amp;name=small" alt=""></p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2110410297529753600/img/tP8L9vBubLGBz-1w?format=jpg&amp;name=240x240" alt=""></p>]]></description>
+    </item>
+    <item>
       <title>welcome to the team @adilrc 🫡</title>
       <link>https://x.com/almonk/status/2110496661650960692</link>
       <guid isPermaLink="true">https://x.com/almonk/status/2110496661650960692</guid>
@@ -68,7 +76,7 @@
       <guid isPermaLink="true">https://x.com/shadcn/status/2110410655165779985</guid>
       <pubDate>Wed, 14 Oct 2026 16:41:24 GMT</pubDate>
       <author>@shadcn</author>
-      <description><![CDATA[<p>I just published Trace, a new component for agent activity. It&apos;s one abstraction for reasoning, tool calls, queues, chain of thought, subagents...etc<br><br>Also in this release: Code Block and AI Elements.<br><br>https://ui.shadcn.com/docs/changelog/2026-10-ai-elements…</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2110410297529753600/img/tP8L9vBubLGBz-1w.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>I just published Trace, a new component for agent activity. It&apos;s one abstraction for reasoning, tool calls, queues, chain of thought, subagents...etc<br><br>Also in this release: Code Block and AI Elements.<br><br>https://ui.shadcn.com/docs/changelog/2026-10-ai-elements…</p>]]></description>
     </item>
     <item>
       <title>Claude Code&apos;s &quot;Pin as chapter&quot; is brilliant.</title>
@@ -500,7 +508,7 @@
       <guid isPermaLink="true">https://x.com/shadcn/status/2109325053968208333</guid>
       <pubDate>Sun, 11 Oct 2026 16:47:36 GMT</pubDate>
       <author>@shadcn</author>
-      <description><![CDATA[<p>You can now color tag items in Copper.<br><br>https://shadcn.com/copper</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2082518119344459776/img/MqXnyHAYOzdtpP98?format=jpg&amp;name=240x240" alt=""></p>]]></description>
+      <description><![CDATA[<p>You can now color tag items in Copper.<br><br>https://shadcn.com/copper</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2109324742087913472/img/hPYI_gBDh0M69GpF.jpg" alt=""></p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2082518119344459776/img/MqXnyHAYOzdtpP98?format=jpg&amp;name=240x240" alt=""></p>]]></description>
     </item>
     <item>
       <title>There will come a time when how code is written won&apos;t matter. But for now, I still care</title>
@@ -604,7 +612,7 @@
       <guid isPermaLink="true">https://x.com/shadcn/status/2108804948750393689</guid>
       <pubDate>Sat, 10 Oct 2026 06:20:54 GMT</pubDate>
       <author>@shadcn</author>
-      <description><![CDATA[<p>Most of what I do in Claude Code now are in Projects.</p><p><img src="https://pbs.twimg.com/profile_images/2044472418815893504/xf14RxM8_normal.png" alt=""></p>]]></description>
+      <description><![CDATA[<p>Most of what I do in Claude Code now are in Projects.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2108616285760499712/img/ESduThxQJik4m9hs.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Paper is a visual interface to your agent. What will you create?</title>
@@ -676,7 +684,7 @@
       <guid isPermaLink="true">https://x.com/paper/status/2108607620722704461</guid>
       <pubDate>Fri, 09 Oct 2026 17:16:47 GMT</pubDate>
       <author>@paper</author>
-      <description><![CDATA[<p>Honored to see this Oliver remix 💗</p><p><img src="https://pbs.twimg.com/tweet_video_thumb/HUM8eN7WUAEAeKb.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Honored to see this Oliver remix 💗</p>]]></description>
     </item>
     <item>
       <title>seeing Paper Mono in use is already the best compliment, but this?! 🥹</title>
@@ -1597,14 +1605,6 @@
       <pubDate>Fri, 02 Oct 2026 16:59:57 GMT</pubDate>
       <author>@shadcn</author>
       <description><![CDATA[<p>AI helps me fail faster.</p>]]></description>
-    </item>
-    <item>
-      <title>Apple&apos;s Genius Bar animation from 2004</title>
-      <link>https://x.com/avstorm/status/2106056245698330837</link>
-      <guid isPermaLink="true">https://x.com/avstorm/status/2106056245698330837</guid>
-      <pubDate>Fri, 02 Oct 2026 16:18:32 GMT</pubDate>
-      <author>@avstorm</author>
-      <description><![CDATA[<p>Apple&apos;s Genius Bar animation from 2004</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2106055751919665152/img/dqDQzsayKrgkI0BX.jpg" alt=""></p>]]></description>
     </item>
   </channel>
 </rss>
