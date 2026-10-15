@@ -13,6 +13,22 @@
     </image>
     <ttl>120</ttl>
     <item>
+      <title>Mobbin started from tldraw’s canvas and added custom shapes and logic to fit how its content and ML</title>
+      <link>https://x.com/tldraw/status/2110783586928599342</link>
+      <guid isPermaLink="true">https://x.com/tldraw/status/2110783586928599342</guid>
+      <pubDate>Thu, 15 Oct 2026 17:23:18 GMT</pubDate>
+      <author>@tldraw</author>
+      <description><![CDATA[<p>Mobbin started from tldraw’s canvas and added custom shapes and logic to fit how its content and ML teams work.<br><br>Here’s how three engineers shipped two internal tools in less than three months: https://tldraw.dev/blog/mobbin</p><p><img src="https://pbs.twimg.com/media/HUsCfIaboAAS9xr?format=jpg&amp;name=small" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>Teams at @Mobbin, the UI design reference library, use tldraw’s infinite canvas SDK to curate thousands of design</title>
+      <link>https://x.com/tldraw/status/2110783571623543048</link>
+      <guid isPermaLink="true">https://x.com/tldraw/status/2110783571623543048</guid>
+      <pubDate>Thu, 15 Oct 2026 17:23:14 GMT</pubDate>
+      <author>@tldraw</author>
+      <description><![CDATA[<p>Teams at @Mobbin, the UI design reference library, use tldraw’s infinite canvas SDK to curate thousands of design references, annotate UI elements, and benchmark ML models.</p><p><img src="https://pbs.twimg.com/media/HUsCeOeaUAAh3bp?format=jpg&amp;name=small" alt=""></p>]]></description>
+    </item>
+    <item>
       <title>Every record in tldraw has an empty object for your data. Anything you put there persists, syncs, survives</title>
       <link>https://x.com/tldraw/status/2110430688629686666</link>
       <guid isPermaLink="true">https://x.com/tldraw/status/2110430688629686666</guid>
@@ -26,7 +42,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2110400802598842613</guid>
       <pubDate>Wed, 14 Oct 2026 16:02:15 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>Right-click anywhere on the canvas on https://tldraw.com and choose &apos;comment&apos; to start one where you are. Right-click a shape and the comment pins to it, no tool switching first.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2110400744453222400/img/yQkomggIPyT16Xj0.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Right-click anywhere on the canvas on https://tldraw.com and choose &apos;comment&apos; to start one where you are. Right-click a shape and the comment pins to it, no tool switching first.</p>]]></description>
     </item>
     <item>
       <title>crazy thread</title>
@@ -50,7 +66,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2110058113865044037</guid>
       <pubDate>Tue, 13 Oct 2026 17:20:31 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>You can now run embeds inside the new tldraw plugin for @ChatGPT. Here&apos;s Astra rendering an ESP32 pet cat app, with her behaviour drawn as a statechart underneath, so it can be checked before it&apos;s flashed.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2110058083565404160/img/9dbM6IXR4Lsu2JJG.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>You can now run embeds inside the new tldraw plugin for @ChatGPT. Here&apos;s Astra rendering an ESP32 pet cat app, with her behaviour drawn as a statechart underneath, so it can be checked before it&apos;s flashed.</p>]]></description>
     </item>
     <item>
       <title>Media post</title>
@@ -82,7 +98,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2109962899661959538</guid>
       <pubDate>Tue, 13 Oct 2026 11:02:11 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>If you clicked away from a comment you were still writing on https://tldraw.com, the box used to jump to wherever you clicked. It now closes, drops you back on select, and keeps your draft for later.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2109962856762621952/img/GsPNO4N1n9vkrnbW.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>If you clicked away from a comment you were still writing on https://tldraw.com, the box used to jump to wherever you clicked. It now closes, drops you back on select, and keeps your draft for later.</p>]]></description>
     </item>
     <item>
       <title>Coding agents generally are built for a chat log. Working with them on a canvas is a different</title>
@@ -795,22 +811,6 @@
       <pubDate>Tue, 22 Sep 2026 12:01:06 GMT</pubDate>
       <author>@tldraw</author>
       <description><![CDATA[<p>About giving an AI agent a way to actually show its thinking instead of just describing it, by Steve Ruiz.</p>]]></description>
-    </item>
-    <item>
-      <title>We spend a lot of time building on the canvas. We write a lot about it, too. In</title>
-      <link>https://x.com/tldraw/status/2102367572209643681</link>
-      <guid isPermaLink="true">https://x.com/tldraw/status/2102367572209643681</guid>
-      <pubDate>Tue, 22 Sep 2026 12:01:03 GMT</pubDate>
-      <author>@tldraw</author>
-      <description><![CDATA[<p>We spend a lot of time building on the canvas. We write a lot about it, too. In the thread below, a few recent pieces from the archives on AI, agents, and spatial software:</p>]]></description>
-    </item>
-    <item>
-      <title>Welcome to tldraw sleep, a series of videos on topics we think are interesting. Tonight&apos;s episode is The</title>
-      <link>https://x.com/tldraw/status/2102170759728595246</link>
-      <guid isPermaLink="true">https://x.com/tldraw/status/2102170759728595246</guid>
-      <pubDate>Mon, 21 Sep 2026 22:59:00 GMT</pubDate>
-      <author>@tldraw</author>
-      <description><![CDATA[<p>Welcome to tldraw sleep, a series of videos on topics we think are interesting. Tonight&apos;s episode is The Cap on the Tundra and is about very large holes.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2101756346940981248/img/c19tWhJrCF37xbX9.jpg" alt=""></p>]]></description>
     </item>
   </channel>
 </rss>

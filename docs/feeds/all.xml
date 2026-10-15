@@ -7,6 +7,30 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>Mobbin started from tldraw’s canvas and added custom shapes and logic to fit how its content and ML</title>
+      <link>https://x.com/tldraw/status/2110783586928599342</link>
+      <guid isPermaLink="true">https://x.com/tldraw/status/2110783586928599342</guid>
+      <pubDate>Thu, 15 Oct 2026 17:23:18 GMT</pubDate>
+      <author>@tldraw</author>
+      <description><![CDATA[<p>Mobbin started from tldraw’s canvas and added custom shapes and logic to fit how its content and ML teams work.<br><br>Here’s how three engineers shipped two internal tools in less than three months: https://tldraw.dev/blog/mobbin</p><p><img src="https://pbs.twimg.com/media/HUsCfIaboAAS9xr?format=jpg&amp;name=small" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>Teams at @Mobbin, the UI design reference library, use tldraw’s infinite canvas SDK to curate thousands of design</title>
+      <link>https://x.com/tldraw/status/2110783571623543048</link>
+      <guid isPermaLink="true">https://x.com/tldraw/status/2110783571623543048</guid>
+      <pubDate>Thu, 15 Oct 2026 17:23:14 GMT</pubDate>
+      <author>@tldraw</author>
+      <description><![CDATA[<p>Teams at @Mobbin, the UI design reference library, use tldraw’s infinite canvas SDK to curate thousands of design references, annotate UI elements, and benchmark ML models.</p><p><img src="https://pbs.twimg.com/media/HUsCeOeaUAAh3bp?format=jpg&amp;name=small" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>Rex testers receiving their invites today</title>
+      <link>https://x.com/almonk/status/2110776906719338651</link>
+      <guid isPermaLink="true">https://x.com/almonk/status/2110776906719338651</guid>
+      <pubDate>Thu, 15 Oct 2026 16:56:45 GMT</pubDate>
+      <author>@almonk</author>
+      <description><![CDATA[<p>Rex testers receiving their invites today</p><p><img src="https://pbs.twimg.com/media/HUr8Z1tXcAA3q0g?format=jpg&amp;name=small" alt=""></p>]]></description>
+    </item>
+    <item>
       <title>Rex beta testers are figuring it out. 😍 You can also do stuff like &quot;rerun the benchmarks I</title>
       <link>https://x.com/mitchellh/status/2110767244506767795</link>
       <guid isPermaLink="true">https://x.com/mitchellh/status/2110767244506767795</guid>
@@ -148,7 +172,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2110400802598842613</guid>
       <pubDate>Wed, 14 Oct 2026 16:02:15 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>Right-click anywhere on the canvas on https://tldraw.com and choose &apos;comment&apos; to start one where you are. Right-click a shape and the comment pins to it, no tool switching first.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2110400744453222400/img/yQkomggIPyT16Xj0.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Right-click anywhere on the canvas on https://tldraw.com and choose &apos;comment&apos; to start one where you are. Right-click a shape and the comment pins to it, no tool switching first.</p>]]></description>
     </item>
     <item>
       <title>Love this smooth watch face transitions</title>
@@ -164,7 +188,7 @@
       <guid isPermaLink="true">https://x.com/almonk/status/2110307972907991389</guid>
       <pubDate>Wed, 14 Oct 2026 09:53:23 GMT</pubDate>
       <author>@almonk</author>
-      <description><![CDATA[<p>Insane work from my boy</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2109616536189018112/img/mb5WUWz78SPd4RVT.jpg" alt=""></p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2109616623032102912/img/w6XgKPor0ccSPxf0.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Insane work from my boy</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2109616623032102912/img/w6XgKPor0ccSPxf0.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>What&apos;s new in macOS 27.2 beta 4</title>
@@ -276,7 +300,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2110058113865044037</guid>
       <pubDate>Tue, 13 Oct 2026 17:20:31 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>You can now run embeds inside the new tldraw plugin for @ChatGPT. Here&apos;s Astra rendering an ESP32 pet cat app, with her behaviour drawn as a statechart underneath, so it can be checked before it&apos;s flashed.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2110058083565404160/img/9dbM6IXR4Lsu2JJG.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>You can now run embeds inside the new tldraw plugin for @ChatGPT. Here&apos;s Astra rendering an ESP32 pet cat app, with her behaviour drawn as a statechart underneath, so it can be checked before it&apos;s flashed.</p>]]></description>
     </item>
     <item>
       <title>Yes. I work on multiple projects using multiple harnesses. And Copper is how I keep track.</title>
@@ -396,7 +420,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2109962899661959538</guid>
       <pubDate>Tue, 13 Oct 2026 11:02:11 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>If you clicked away from a comment you were still writing on https://tldraw.com, the box used to jump to wherever you clicked. It now closes, drops you back on select, and keeps your draft for later.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2109962856762621952/img/GsPNO4N1n9vkrnbW.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>If you clicked away from a comment you were still writing on https://tldraw.com, the box used to jump to wherever you clicked. It now closes, drops you back on select, and keeps your draft for later.</p>]]></description>
     </item>
     <item>
       <title>We&apos;ve had this update UI in for weeks, but I still smile when I see it. We invited</title>
@@ -404,7 +428,7 @@
       <guid isPermaLink="true">https://x.com/almonk/status/2109936272160780329</guid>
       <pubDate>Tue, 13 Oct 2026 09:16:22 GMT</pubDate>
       <author>@almonk</author>
-      <description><![CDATA[<p>We&apos;ve had this update UI in for weeks, but I still smile when I see it.<br><br>We invited 350 new testers to Rex yesterday, more than the entire previous week.</p>]]></description>
+      <description><![CDATA[<p>We&apos;ve had this update UI in for weeks, but I still smile when I see it.<br><br>We invited 350 new testers to Rex yesterday, more than the entire previous week.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2109936059056349184/img/6DS9AZBmLKTKRuZx.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>More model reviews like this please.</title>
@@ -1581,30 +1605,6 @@
       <pubDate>Sat, 03 Oct 2026 23:00:09 GMT</pubDate>
       <author>@agusegui</author>
       <description><![CDATA[<p>ha, this whole thread is such a beautiful concept<br><br>man, I love the internet, I love Twitter, I love design, whatever it fucking means</p>]]></description>
-    </item>
-    <item>
-      <title>a timeless banger, very soon ✨</title>
-      <link>https://x.com/agusegui/status/2106459249773547798</link>
-      <guid isPermaLink="true">https://x.com/agusegui/status/2106459249773547798</guid>
-      <pubDate>Sat, 03 Oct 2026 18:59:55 GMT</pubDate>
-      <author>@agusegui</author>
-      <description><![CDATA[<p>a timeless banger, very soon ✨</p>]]></description>
-    </item>
-    <item>
-      <title>Media post</title>
-      <link>https://x.com/ryolu_/status/2106343073127256507</link>
-      <guid isPermaLink="true">https://x.com/ryolu_/status/2106343073127256507</guid>
-      <pubDate>Sat, 03 Oct 2026 11:18:17 GMT</pubDate>
-      <author>@ryolu_</author>
-      <description><![CDATA[<p></p>]]></description>
-    </item>
-    <item>
-      <title>convergence to the mean when everyone looks at everyone else to decide what to make, we eventually stop</title>
-      <link>https://x.com/ryolu_/status/2106337039201505453</link>
-      <guid isPermaLink="true">https://x.com/ryolu_/status/2106337039201505453</guid>
-      <pubDate>Sat, 03 Oct 2026 10:54:18 GMT</pubDate>
-      <author>@ryolu_</author>
-      <description><![CDATA[<p>convergence to the mean<br><br>when everyone looks at everyone else to decide what to make, we eventually stop making anything of our own.<br><br>we copy what works. borrow the language, the aesthetic, the features. we call it learning from the market, following best practices, staying</p>]]></description>
     </item>
   </channel>
 </rss>
