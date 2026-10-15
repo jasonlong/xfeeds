@@ -7,6 +7,14 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>Rex is a programmable terminal, controllable and observable by agents _and_ humans. We just shipped to testers our</title>
+      <link>https://x.com/almonk/status/2110854465008144480</link>
+      <guid isPermaLink="true">https://x.com/almonk/status/2110854465008144480</guid>
+      <pubDate>Thu, 15 Oct 2026 22:04:56 GMT</pubDate>
+      <author>@almonk</author>
+      <description><![CDATA[<p>Rex is a programmable terminal, controllable and observable by agents _and_ humans. We just shipped to testers our native skill framework for your agents to give them Rex superpowers. https://superlogical.com/rex/docs/automate/agent-skill…</p><p><img src="https://pbs.twimg.com/media/HUrUw5hWEAASvi8?format=jpg&amp;name=small" alt=""></p>]]></description>
+    </item>
+    <item>
       <title>Last week we invited 250 people to the Rex beta. This week we invited around 2,000 and we</title>
       <link>https://x.com/mitchellh/status/2110828346598936753</link>
       <guid isPermaLink="true">https://x.com/mitchellh/status/2110828346598936753</guid>
@@ -436,7 +444,7 @@
       <guid isPermaLink="true">https://x.com/almonk/status/2109936272160780329</guid>
       <pubDate>Tue, 13 Oct 2026 09:16:22 GMT</pubDate>
       <author>@almonk</author>
-      <description><![CDATA[<p>We&apos;ve had this update UI in for weeks, but I still smile when I see it.<br><br>We invited 350 new testers to Rex yesterday, more than the entire previous week.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2109936059056349184/img/6DS9AZBmLKTKRuZx.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>We&apos;ve had this update UI in for weeks, but I still smile when I see it.<br><br>We invited 350 new testers to Rex yesterday, more than the entire previous week.</p>]]></description>
     </item>
     <item>
       <title>More model reviews like this please.</title>
@@ -508,7 +516,7 @@
       <guid isPermaLink="true">https://x.com/almonk/status/2109675591687438583</guid>
       <pubDate>Mon, 12 Oct 2026 16:00:31 GMT</pubDate>
       <author>@almonk</author>
-      <description><![CDATA[<p>Crushing it</p>]]></description>
+      <description><![CDATA[<p>Crushing it</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2109668983544705024/img/T4ilTgoT7Ve8NTvT.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>The iCloud Developer Beta login was a gem</title>
@@ -1124,7 +1132,7 @@
       <guid isPermaLink="true">https://x.com/shadcn/status/2107750590742757427</guid>
       <pubDate>Wed, 07 Oct 2026 08:31:15 GMT</pubDate>
       <author>@shadcn</author>
-      <description><![CDATA[<p>We’ve made it. I just talked to someone who has no idea what shadcn/ui is. Their app is built with shadcn/ui.</p>]]></description>
+      <description><![CDATA[<p>We’ve made it. I just talked to someone who has no idea what shadcn/ui is. Their app is built with shadcn/ui.</p><p><img src="https://pbs.twimg.com/tweet_video_thumb/HUA7_RjWkAA_d8g.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>oh good</title>
@@ -1597,14 +1605,6 @@
       <pubDate>Sat, 03 Oct 2026 23:52:22 GMT</pubDate>
       <author>@almonk</author>
       <description><![CDATA[<p>If @OpenAI don’t call their multiplayer features “Connect The Dots” idk what we’re even doing here</p>]]></description>
-    </item>
-    <item>
-      <title>and I love the good old @brijanp, who comes to this shitty place, drops a few bangers he</title>
-      <link>https://x.com/agusegui/status/2106521681586184673</link>
-      <guid isPermaLink="true">https://x.com/agusegui/status/2106521681586184673</guid>
-      <pubDate>Sat, 03 Oct 2026 23:08:00 GMT</pubDate>
-      <author>@agusegui</author>
-      <description><![CDATA[<p>and I love the good old @brijanp, who comes to this shitty place, drops a few bangers he probably made in an old version of Photoshop, pisses off everyone with his design takes, and then disappears for a few months, probably to cook something</p>]]></description>
     </item>
   </channel>
 </rss>
