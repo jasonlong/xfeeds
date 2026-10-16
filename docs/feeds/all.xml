@@ -7,6 +7,14 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>Claude just gave me a sus answer. Asked it to go check. It came back, apologized for getting</title>
+      <link>https://x.com/shadcn/status/2111209312718630997</link>
+      <guid isPermaLink="true">https://x.com/shadcn/status/2111209312718630997</guid>
+      <pubDate>Fri, 16 Oct 2026 21:34:59 GMT</pubDate>
+      <author>@shadcn</author>
+      <description><![CDATA[<p>Claude just gave me a sus answer. Asked it to go check. It came back, apologized for getting it wrong, then went back to its previous answer, struck through the incorrect paragraph, and added an [Edit: ...]<br>First time seeing this. Any other harnesses do this? retroactive edits?</p>]]></description>
+    </item>
+    <item>
       <title>Another 1000 invited today btw.</title>
       <link>https://x.com/mitchellh/status/2111201279624228896</link>
       <guid isPermaLink="true">https://x.com/mitchellh/status/2111201279624228896</guid>
@@ -876,7 +884,7 @@
       <guid isPermaLink="true">https://x.com/paper/status/2108607620722704461</guid>
       <pubDate>Fri, 09 Oct 2026 17:16:47 GMT</pubDate>
       <author>@paper</author>
-      <description><![CDATA[<p>Honored to see this Oliver remix 💗</p><p><img src="https://pbs.twimg.com/tweet_video_thumb/HUM8eN7WUAEAeKb.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Honored to see this Oliver remix 💗</p>]]></description>
     </item>
     <item>
       <title>seeing Paper Mono in use is already the best compliment, but this?! 🥹</title>
@@ -1597,14 +1605,6 @@
       <pubDate>Mon, 05 Oct 2026 08:20:31 GMT</pubDate>
       <author>@avstorm</author>
       <description><![CDATA[<p>Apple should bring back the half-mast favicon every October 5 to honor Steve Jobs.</p><p><img src="https://pbs.twimg.com/media/HT2mPZGWAAAcqFG?format=jpg&amp;name=small" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>Celebrating Steve Jobs</title>
-      <link>https://x.com/avstorm/status/2106980561260511243</link>
-      <guid isPermaLink="true">https://x.com/avstorm/status/2106980561260511243</guid>
-      <pubDate>Mon, 05 Oct 2026 05:31:26 GMT</pubDate>
-      <author>@avstorm</author>
-      <description><![CDATA[<p>Celebrating Steve Jobs</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2106977840998617088/img/dFgqZag1iZDP534t.jpg" alt=""></p>]]></description>
     </item>
   </channel>
 </rss>
