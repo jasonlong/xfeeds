@@ -13,6 +13,22 @@
     </image>
     <ttl>120</ttl>
     <item>
+      <title>Codex extended the wireframes, proposed visual references, compared iterations, and kept refining the idea until we had something</title>
+      <link>https://x.com/tldraw/status/2111156395341144291</link>
+      <guid isPermaLink="true">https://x.com/tldraw/status/2111156395341144291</guid>
+      <pubDate>Fri, 16 Oct 2026 18:04:42 GMT</pubDate>
+      <author>@tldraw</author>
+      <description><![CDATA[<p>Codex extended the wireframes, proposed visual references, compared iterations, and kept refining the idea until we had something we could actually play in a simulator.<br><br>Curious what everyone else is using the tldraw plugin for. Get it here: https://chatgpt.com/plugins/plugin_asdk_app_6ab242dbeb5c8191ba5277534ef0c570?open_in_app…</p><p><img src="https://pbs.twimg.com/media/HUxVjXibsAARM1X?format=jpg&amp;name=small" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>With the new tldraw plugin for @OpenAI, you can work with Codex on a live, multiplayer infinite canvas.</title>
+      <link>https://x.com/tldraw/status/2111156375862824971</link>
+      <guid isPermaLink="true">https://x.com/tldraw/status/2111156375862824971</guid>
+      <pubDate>Fri, 16 Oct 2026 18:04:38 GMT</pubDate>
+      <author>@tldraw</author>
+      <description><![CDATA[<p>With the new tldraw plugin for @OpenAI, you can work with Codex on a live, multiplayer infinite canvas.<br><br>Here, we started with a wireframe sketch for a mobile Frisbee game, added context and questions via comments on the board, and worked with Codex directly on the canvas.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2111156225497030656/img/aI-R1CT4EebqdV-q.jpg" alt=""></p>]]></description>
+    </item>
+    <item>
       <title>Mobbin started from tldraw’s canvas and added custom shapes and logic to fit how its content and ML</title>
       <link>https://x.com/tldraw/status/2110783586928599342</link>
       <guid isPermaLink="true">https://x.com/tldraw/status/2110783586928599342</guid>
@@ -66,7 +82,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2110058113865044037</guid>
       <pubDate>Tue, 13 Oct 2026 17:20:31 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>You can now run embeds inside the new tldraw plugin for @ChatGPT. Here&apos;s Astra rendering an ESP32 pet cat app, with her behaviour drawn as a statechart underneath, so it can be checked before it&apos;s flashed.</p>]]></description>
+      <description><![CDATA[<p>You can now run embeds inside the new tldraw plugin for @ChatGPT. Here&apos;s Astra rendering an ESP32 pet cat app, with her behaviour drawn as a statechart underneath, so it can be checked before it&apos;s flashed.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2110058083565404160/img/9dbM6IXR4Lsu2JJG.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Media post</title>
@@ -98,7 +114,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2109962899661959538</guid>
       <pubDate>Tue, 13 Oct 2026 11:02:11 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>If you clicked away from a comment you were still writing on https://tldraw.com, the box used to jump to wherever you clicked. It now closes, drops you back on select, and keeps your draft for later.</p>]]></description>
+      <description><![CDATA[<p>If you clicked away from a comment you were still writing on https://tldraw.com, the box used to jump to wherever you clicked. It now closes, drops you back on select, and keeps your draft for later.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2109962856762621952/img/GsPNO4N1n9vkrnbW.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Coding agents generally are built for a chat log. Working with them on a canvas is a different</title>
@@ -795,22 +811,6 @@
       <pubDate>Tue, 22 Sep 2026 16:09:09 GMT</pubDate>
       <author>@tldraw</author>
       <description><![CDATA[<p></p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2102429899394875392/img/NK5DomZYy6MxwQ4i.jpg" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>Holding Z to zoom sometimes flipped the toolbar to the wrong tool, or left it stuck on zoom.</title>
-      <link>https://x.com/tldraw/status/2102412397269139463</link>
-      <guid isPermaLink="true">https://x.com/tldraw/status/2102412397269139463</guid>
-      <pubDate>Tue, 22 Sep 2026 14:59:11 GMT</pubDate>
-      <author>@tldraw</author>
-      <description><![CDATA[<p>Holding Z to zoom sometimes flipped the toolbar to the wrong tool, or left it stuck on zoom. Now, it stays on the tool you picked.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2102412357305819136/img/zRqm1qx8001Oh5lP.jpg" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>About giving an AI agent a way to actually show its thinking instead of just describing it, by</title>
-      <link>https://x.com/tldraw/status/2102367584398246284</link>
-      <guid isPermaLink="true">https://x.com/tldraw/status/2102367584398246284</guid>
-      <pubDate>Tue, 22 Sep 2026 12:01:06 GMT</pubDate>
-      <author>@tldraw</author>
-      <description><![CDATA[<p>About giving an AI agent a way to actually show its thinking instead of just describing it, by Steve Ruiz.</p>]]></description>
     </item>
   </channel>
 </rss>
