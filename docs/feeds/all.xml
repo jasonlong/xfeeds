@@ -7,6 +7,22 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>Check out the sample repo for full details</title>
+      <link>https://x.com/pidotdev/status/2111100520513626383</link>
+      <guid isPermaLink="true">https://x.com/pidotdev/status/2111100520513626383</guid>
+      <pubDate>Fri, 16 Oct 2026 14:22:41 GMT</pubDate>
+      <author>@pidotdev</author>
+      <description><![CDATA[<p>Check out the sample repo for full details</p>]]></description>
+    </item>
+    <item>
+      <title>For your weekend reading: Build with Pi Durable on Cloudflare, a walkthrough of how to create a multiplayer</title>
+      <link>https://x.com/pidotdev/status/2111100406612861105</link>
+      <guid isPermaLink="true">https://x.com/pidotdev/status/2111100406612861105</guid>
+      <pubDate>Fri, 16 Oct 2026 14:22:13 GMT</pubDate>
+      <author>@pidotdev</author>
+      <description><![CDATA[<p>For your weekend reading: Build with Pi Durable on Cloudflare, a walkthrough of how to create a multiplayer chat agent, including subagents, on Durable Objects.</p>]]></description>
+    </item>
+    <item>
       <title>AI is going to eat through our dependencies. We&apos;ll be using fewer and fewer external code/system. You will</title>
       <link>https://x.com/shadcn/status/2111075909318873228</link>
       <guid isPermaLink="true">https://x.com/shadcn/status/2111075909318873228</guid>
@@ -588,7 +604,7 @@
       <guid isPermaLink="true">https://x.com/pidotdev/status/2109588438215462962</guid>
       <pubDate>Mon, 12 Oct 2026 10:14:12 GMT</pubDate>
       <author>@pidotdev</author>
-      <description><![CDATA[<p>Welcome to our Monday Meditations! 🌞<br><br>@badlogicgames and @mitsuhiko are chatting about self modifying software and harnesses.</p>]]></description>
+      <description><![CDATA[<p>Welcome to our Monday Meditations! 🌞<br><br>@badlogicgames and @mitsuhiko are chatting about self modifying software and harnesses.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2109588018319216641/img/QuGdTAvqVEyek3tY.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>syncs to your ryOS Account Dictionary 👉 https://os.ryo.lu/dictionary Fitness 👉 https://os.ryo.lu/fitness</title>
@@ -804,7 +820,7 @@
       <guid isPermaLink="true">https://x.com/paper/status/2108607620722704461</guid>
       <pubDate>Fri, 09 Oct 2026 17:16:47 GMT</pubDate>
       <author>@paper</author>
-      <description><![CDATA[<p>Honored to see this Oliver remix 💗</p><p><img src="https://pbs.twimg.com/tweet_video_thumb/HUM8eN7WUAEAeKb.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Honored to see this Oliver remix 💗</p>]]></description>
     </item>
     <item>
       <title>seeing Paper Mono in use is already the best compliment, but this?! 🥹</title>
@@ -1516,7 +1532,7 @@
       <guid isPermaLink="true">https://x.com/pidotdev/status/2107033061905104941</guid>
       <pubDate>Mon, 05 Oct 2026 09:00:03 GMT</pubDate>
       <author>@pidotdev</author>
-      <description><![CDATA[<p>Welcome to our Monday Meditations! 🌞<br><br>Today @badlogicgames and @mitsuhiko are talking why we built Pi Durable, a harness build around a small task-based workflow engine so long-running, multiplayer agents can suspend and resume anywhere. Also: why not Temporal or Effect.ts.</p>]]></description>
+      <description><![CDATA[<p>Welcome to our Monday Meditations! 🌞<br><br>Today @badlogicgames and @mitsuhiko are talking why we built Pi Durable, a harness build around a small task-based workflow engine so long-running, multiplayer agents can suspend and resume anywhere. Also: why not Temporal or Effect.ts.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2107019854444105728/img/hlKfie18CIO3kM-P.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Apple should bring back the half-mast favicon every October 5 to honor Steve Jobs.</title>
@@ -1589,22 +1605,6 @@
       <pubDate>Sun, 04 Oct 2026 10:57:00 GMT</pubDate>
       <author>@tldraw</author>
       <description><![CDATA[<p>See the rest of the series here:</p>]]></description>
-    </item>
-    <item>
-      <title>Agu never ceases to amaze me</title>
-      <link>https://x.com/stephenhaney/status/2106548362778730962</link>
-      <guid isPermaLink="true">https://x.com/stephenhaney/status/2106548362778730962</guid>
-      <pubDate>Sun, 04 Oct 2026 00:54:02 GMT</pubDate>
-      <author>@stephenhaney</author>
-      <description><![CDATA[<p>Agu never ceases to amaze me</p>]]></description>
-    </item>
-    <item>
-      <title>Wait, what?</title>
-      <link>https://x.com/stephenhaney/status/2106548250237132801</link>
-      <guid isPermaLink="true">https://x.com/stephenhaney/status/2106548250237132801</guid>
-      <pubDate>Sun, 04 Oct 2026 00:53:35 GMT</pubDate>
-      <author>@stephenhaney</author>
-      <description><![CDATA[<p>Wait, what?</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2106533605501435904/img/e4tw1f1z92_zWGIH.jpg" alt=""></p>]]></description>
     </item>
   </channel>
 </rss>
