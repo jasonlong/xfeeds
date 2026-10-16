@@ -13,6 +13,14 @@
     </image>
     <ttl>120</ttl>
     <item>
+      <title>AI is going to eat through our dependencies. We&apos;ll be using fewer and fewer external code/system. You will</title>
+      <link>https://x.com/shadcn/status/2111075909318873228</link>
+      <guid isPermaLink="true">https://x.com/shadcn/status/2111075909318873228</guid>
+      <pubDate>Fri, 16 Oct 2026 12:44:53 GMT</pubDate>
+      <author>@shadcn</author>
+      <description><![CDATA[<p>AI is going to eat through our dependencies. We&apos;ll be using fewer and fewer external code/system. You will want an internal &quot;open code&quot; registry not buried inside node_modules. Agents pull from your registry and reshape it. on demand.<br><br>Less code reuse. More knowledge reuse.</p>]]></description>
+    </item>
+    <item>
       <title>Browse and discover GitHub registries.</title>
       <link>https://x.com/shadcn/status/2111003691020906976</link>
       <guid isPermaLink="true">https://x.com/shadcn/status/2111003691020906976</guid>
@@ -50,7 +58,7 @@
       <guid isPermaLink="true">https://x.com/shadcn/status/2110410655165779985</guid>
       <pubDate>Wed, 14 Oct 2026 16:41:24 GMT</pubDate>
       <author>@shadcn</author>
-      <description><![CDATA[<p>I just published Trace, a new component for agent activity. It&apos;s one abstraction for reasoning, tool calls, queues, chain of thought, subagents...etc<br><br>Also in this release: Code Block and AI Elements.<br><br>https://ui.shadcn.com/docs/changelog/2026-10-ai-elements…</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2110410297529753600/img/tP8L9vBubLGBz-1w.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>I just published Trace, a new component for agent activity. It&apos;s one abstraction for reasoning, tool calls, queues, chain of thought, subagents...etc<br><br>Also in this release: Code Block and AI Elements.<br><br>https://ui.shadcn.com/docs/changelog/2026-10-ai-elements…</p>]]></description>
     </item>
     <item>
       <title>Claude Code&apos;s &quot;Pin as chapter&quot; is brilliant.</title>

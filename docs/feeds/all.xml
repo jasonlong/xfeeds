@@ -7,6 +7,14 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>AI is going to eat through our dependencies. We&apos;ll be using fewer and fewer external code/system. You will</title>
+      <link>https://x.com/shadcn/status/2111075909318873228</link>
+      <guid isPermaLink="true">https://x.com/shadcn/status/2111075909318873228</guid>
+      <pubDate>Fri, 16 Oct 2026 12:44:53 GMT</pubDate>
+      <author>@shadcn</author>
+      <description><![CDATA[<p>AI is going to eat through our dependencies. We&apos;ll be using fewer and fewer external code/system. You will want an internal &quot;open code&quot; registry not buried inside node_modules. Agents pull from your registry and reshape it. on demand.<br><br>Less code reuse. More knowledge reuse.</p>]]></description>
+    </item>
+    <item>
       <title>Browse and discover GitHub registries.</title>
       <link>https://x.com/shadcn/status/2111003691020906976</link>
       <guid isPermaLink="true">https://x.com/shadcn/status/2111003691020906976</guid>
@@ -188,7 +196,7 @@
       <guid isPermaLink="true">https://x.com/shadcn/status/2110410655165779985</guid>
       <pubDate>Wed, 14 Oct 2026 16:41:24 GMT</pubDate>
       <author>@shadcn</author>
-      <description><![CDATA[<p>I just published Trace, a new component for agent activity. It&apos;s one abstraction for reasoning, tool calls, queues, chain of thought, subagents...etc<br><br>Also in this release: Code Block and AI Elements.<br><br>https://ui.shadcn.com/docs/changelog/2026-10-ai-elements…</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2110410297529753600/img/tP8L9vBubLGBz-1w.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>I just published Trace, a new component for agent activity. It&apos;s one abstraction for reasoning, tool calls, queues, chain of thought, subagents...etc<br><br>Also in this release: Code Block and AI Elements.<br><br>https://ui.shadcn.com/docs/changelog/2026-10-ai-elements…</p>]]></description>
     </item>
     <item>
       <title>Claude Code&apos;s &quot;Pin as chapter&quot; is brilliant.</title>
@@ -428,7 +436,7 @@
       <guid isPermaLink="true">https://x.com/avstorm/status/2109997052616667144</guid>
       <pubDate>Tue, 13 Oct 2026 13:17:53 GMT</pubDate>
       <author>@avstorm</author>
-      <description><![CDATA[<p>Apple has introduced HomeView<br><br>https://apple.com/apple-homeview/</p>]]></description>
+      <description><![CDATA[<p>Apple has introduced HomeView<br><br>https://apple.com/apple-homeview/</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2109995371959066624/img/jri8m_VoXZT2vGcJ.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>hey @grok what should I use to build my canvas ui app</title>
@@ -500,7 +508,7 @@
       <guid isPermaLink="true">https://x.com/avstorm/status/2109730155010892240</guid>
       <pubDate>Mon, 12 Oct 2026 19:37:20 GMT</pubDate>
       <author>@avstorm</author>
-      <description><![CDATA[<p>Apple has updated the &quot;Switch to Safari&quot; page</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2109730046571143168/img/epP9uTNTaLF9PouD.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Apple has updated the &quot;Switch to Safari&quot; page</p>]]></description>
     </item>
     <item>
       <title>First build of the Rex iOS app is now submitted for review. We plan on expanding testing to</title>
@@ -548,7 +556,7 @@
       <guid isPermaLink="true">https://x.com/avstorm/status/2109595552514007238</guid>
       <pubDate>Mon, 12 Oct 2026 10:42:28 GMT</pubDate>
       <author>@avstorm</author>
-      <description><![CDATA[<p>Create your rangoli wallpaper<br><br>https://apple.com/in/create-your-rangoli/…</p><p><img src="https://pbs.twimg.com/media/HUbJtFsWQAAc5Bo?format=jpg&amp;name=small" alt=""></p>]]></description>
+      <description><![CDATA[<p>Create your rangoli wallpaper<br><br>https://apple.com/in/create-your-rangoli/…</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2109595230039138304/img/ftcO0HVLWDlXg0pa.jpg" alt=""></p><p><img src="https://pbs.twimg.com/media/HUbJtFsWQAAc5Bo?format=jpg&amp;name=small" alt=""></p>]]></description>
     </item>
     <item>
       <title>Apple&apos;s Divali 2026 logo</title>
@@ -692,7 +700,7 @@
       <guid isPermaLink="true">https://x.com/avstorm/status/2109185169928360347</guid>
       <pubDate>Sun, 11 Oct 2026 07:31:45 GMT</pubDate>
       <author>@avstorm</author>
-      <description><![CDATA[<p>Fun fact: Apple updated its logo guidelines in early 2017, yet the og:image is still stuck in the past.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2109183935150166016/img/lB1789Z8HqIvVuQH.jpg" alt=""></p><p><img src="https://pbs.twimg.com/media/HUVToF0WQAAGsMS?format=jpg&amp;name=small" alt=""></p>]]></description>
+      <description><![CDATA[<p>Fun fact: Apple updated its logo guidelines in early 2017, yet the og:image is still stuck in the past.</p><p><img src="https://pbs.twimg.com/media/HUVToF0WQAAGsMS?format=jpg&amp;name=small" alt=""></p>]]></description>
     </item>
     <item>
       <title>Abstractions</title>
@@ -1012,7 +1020,7 @@
       <guid isPermaLink="true">https://x.com/avstorm/status/2108172166319476809</guid>
       <pubDate>Thu, 08 Oct 2026 12:26:27 GMT</pubDate>
       <author>@avstorm</author>
-      <description><![CDATA[<p>Microsoft has introduced Michelangelus, a serif typeface inspired by Michelangelo.</p>]]></description>
+      <description><![CDATA[<p>Microsoft has introduced Michelangelus, a serif typeface inspired by Michelangelo.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2108170922343424002/img/51dje_kSpKR04_Nu.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>450 is such a good font weight.</title>
@@ -1597,14 +1605,6 @@
       <pubDate>Sun, 04 Oct 2026 00:53:35 GMT</pubDate>
       <author>@stephenhaney</author>
       <description><![CDATA[<p>Wait, what?</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2106533605501435904/img/e4tw1f1z92_zWGIH.jpg" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>btw did you know you can leave comments on Paper and get agents to turn your stuff into</title>
-      <link>https://x.com/agusegui/status/2106534492521279977</link>
-      <guid isPermaLink="true">https://x.com/agusegui/status/2106534492521279977</guid>
-      <pubDate>Sat, 03 Oct 2026 23:58:55 GMT</pubDate>
-      <author>@agusegui</author>
-      <description><![CDATA[<p>btw did you know you can leave comments on Paper and get agents to turn your stuff into motion code? <br><br>so you don&apos;t prompt to get a design, you design to get a better prompt :)</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2106458445004050432/img/87kKvY49MqowUkVx?format=jpg&amp;name=120x120" alt=""></p>]]></description>
     </item>
   </channel>
 </rss>
