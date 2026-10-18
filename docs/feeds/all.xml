@@ -7,6 +7,22 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>Five years ago today, Apple dropped one of its best Apple Event intros ever.</title>
+      <link>https://x.com/avstorm/status/2111827088730943601</link>
+      <guid isPermaLink="true">https://x.com/avstorm/status/2111827088730943601</guid>
+      <pubDate>Sun, 18 Oct 2026 14:29:48 GMT</pubDate>
+      <author>@avstorm</author>
+      <description><![CDATA[<p>Five years ago today, Apple dropped one of its best Apple Event intros ever.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2111826383739432960/img/OepRaiEPpulVNIFj.jpg" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>Hackable software is so fun</title>
+      <link>https://x.com/almonk/status/2111527965641286140</link>
+      <guid isPermaLink="true">https://x.com/almonk/status/2111527965641286140</guid>
+      <pubDate>Sat, 17 Oct 2026 18:41:11 GMT</pubDate>
+      <author>@almonk</author>
+      <description><![CDATA[<p>Hackable software is so fun</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2111518735274008577/img/1Ah2KawsKhwCkDjU.jpg" alt=""></p>]]></description>
+    </item>
+    <item>
       <title>🫶</title>
       <link>https://x.com/zerocam_app/status/2111517276675379640</link>
       <guid isPermaLink="true">https://x.com/zerocam_app/status/2111517276675379640</guid>
@@ -52,7 +68,7 @@
       <guid isPermaLink="true">https://x.com/ryolu_/status/2111312957439086777</guid>
       <pubDate>Sat, 17 Oct 2026 04:26:50 GMT</pubDate>
       <author>@ryolu_</author>
-      <description><![CDATA[<p>feelings<br><br>light piercing through the blinds<br>birdsongs by the window<br>coffee grounds, blooming<br><br>slow walk in the cypress forest<br>long breath, cold air<br>fuzzy raindrops tap on the skin<br>catching the waves<br>endless ocean, salt on the lips<br><br>train window, mountains sliding by<br>holding</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2111312938300833792/img/WH0pXvZwC61t9Ylw.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>feelings<br><br>light piercing through the blinds<br>birdsongs by the window<br>coffee grounds, blooming<br><br>slow walk in the cypress forest<br>long breath, cold air<br>fuzzy raindrops tap on the skin<br>catching the waves<br>endless ocean, salt on the lips<br><br>train window, mountains sliding by<br>holding</p>]]></description>
     </item>
     <item>
       <title>Claude just gave me a sus answer. Asked it to go check. It came back, apologized for getting</title>
@@ -92,7 +108,7 @@
       <guid isPermaLink="true">https://x.com/almonk/status/2111151330467406148</guid>
       <pubDate>Fri, 16 Oct 2026 17:44:35 GMT</pubDate>
       <author>@almonk</author>
-      <description><![CDATA[<p>unbelievably great timing for us to release this</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2111151247860391937/img/bPh697zur5LGgjC2.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>unbelievably great timing for us to release this</p>]]></description>
     </item>
     <item>
       <title>I genuinely hate the marketing trend right now of companies making AI generated videos with their branding/people in</title>
@@ -156,7 +172,7 @@
       <guid isPermaLink="true">https://x.com/avstorm/status/2110999434112692677</guid>
       <pubDate>Fri, 16 Oct 2026 07:41:00 GMT</pubDate>
       <author>@avstorm</author>
-      <description><![CDATA[<p>12 years ago today, Apple released OS X Yosemite.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2110967526133731329/img/xCRVp4XiqWFdomnO.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>12 years ago today, Apple released OS X Yosemite.</p>]]></description>
     </item>
     <item>
       <title>Rex is a programmable terminal, controllable and observable by agents _and_ humans. We just shipped to testers our</title>
@@ -316,7 +332,7 @@
       <guid isPermaLink="true">https://x.com/avstorm/status/2110415795348017331</guid>
       <pubDate>Wed, 14 Oct 2026 17:01:49 GMT</pubDate>
       <author>@avstorm</author>
-      <description><![CDATA[<p>HomeView zen watch face idea</p><p><img src="https://pbs.twimg.com/media/HUmz3UtWoAEwo-T?format=png&amp;name=small" alt=""></p>]]></description>
+      <description><![CDATA[<p>HomeView zen watch face idea</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2110415567718952960/img/v0n1-zH2r1wN4knm.jpg" alt=""></p><p><img src="https://pbs.twimg.com/media/HUmz3UtWoAEwo-T?format=png&amp;name=small" alt=""></p>]]></description>
     </item>
     <item>
       <title>I just published Trace, a new component for agent activity. It&apos;s one abstraction for reasoning, tool calls, queues,</title>
@@ -324,7 +340,7 @@
       <guid isPermaLink="true">https://x.com/shadcn/status/2110410655165779985</guid>
       <pubDate>Wed, 14 Oct 2026 16:41:24 GMT</pubDate>
       <author>@shadcn</author>
-      <description><![CDATA[<p>I just published Trace, a new component for agent activity. It&apos;s one abstraction for reasoning, tool calls, queues, chain of thought, subagents...etc<br><br>Also in this release: Code Block and AI Elements.<br><br>https://ui.shadcn.com/docs/changelog/2026-10-ai-elements…</p>]]></description>
+      <description><![CDATA[<p>I just published Trace, a new component for agent activity. It&apos;s one abstraction for reasoning, tool calls, queues, chain of thought, subagents...etc<br><br>Also in this release: Code Block and AI Elements.<br><br>https://ui.shadcn.com/docs/changelog/2026-10-ai-elements…</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2110410297529753600/img/tP8L9vBubLGBz-1w.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Claude Code&apos;s &quot;Pin as chapter&quot; is brilliant.</title>
@@ -356,7 +372,7 @@
       <guid isPermaLink="true">https://x.com/almonk/status/2110307972907991389</guid>
       <pubDate>Wed, 14 Oct 2026 09:53:23 GMT</pubDate>
       <author>@almonk</author>
-      <description><![CDATA[<p>Insane work from my boy</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2109616623032102912/img/w6XgKPor0ccSPxf0.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Insane work from my boy</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2109616536189018112/img/mb5WUWz78SPd4RVT.jpg" alt=""></p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2109616623032102912/img/w6XgKPor0ccSPxf0.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>What&apos;s new in macOS 27.2 beta 4</title>
@@ -588,7 +604,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2109962899661959538</guid>
       <pubDate>Tue, 13 Oct 2026 11:02:11 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>If you clicked away from a comment you were still writing on https://tldraw.com, the box used to jump to wherever you clicked. It now closes, drops you back on select, and keeps your draft for later.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2109962856762621952/img/GsPNO4N1n9vkrnbW.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>If you clicked away from a comment you were still writing on https://tldraw.com, the box used to jump to wherever you clicked. It now closes, drops you back on select, and keeps your draft for later.</p>]]></description>
     </item>
     <item>
       <title>We&apos;ve had this update UI in for weeks, but I still smile when I see it. We invited</title>
@@ -636,7 +652,7 @@
       <guid isPermaLink="true">https://x.com/avstorm/status/2109730155010892240</guid>
       <pubDate>Mon, 12 Oct 2026 19:37:20 GMT</pubDate>
       <author>@avstorm</author>
-      <description><![CDATA[<p>Apple has updated the &quot;Switch to Safari&quot; page</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2109730046571143168/img/epP9uTNTaLF9PouD.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Apple has updated the &quot;Switch to Safari&quot; page</p>]]></description>
     </item>
     <item>
       <title>First build of the Rex iOS app is now submitted for review. We plan on expanding testing to</title>
@@ -652,7 +668,7 @@
       <guid isPermaLink="true">https://x.com/avstorm/status/2109685237584412818</guid>
       <pubDate>Mon, 12 Oct 2026 16:38:51 GMT</pubDate>
       <author>@avstorm</author>
-      <description><![CDATA[<p>Google has introduced Fitbit Edge</p>]]></description>
+      <description><![CDATA[<p>Google has introduced Fitbit Edge</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2109684704018378752/img/igdGvTShElyd3gVY.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Coding agents generally are built for a chat log. Working with them on a canvas is a different</title>
@@ -668,7 +684,7 @@
       <guid isPermaLink="true">https://x.com/almonk/status/2109675591687438583</guid>
       <pubDate>Mon, 12 Oct 2026 16:00:31 GMT</pubDate>
       <author>@almonk</author>
-      <description><![CDATA[<p>Crushing it</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2109668983544705024/img/T4ilTgoT7Ve8NTvT.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Crushing it</p>]]></description>
     </item>
     <item>
       <title>The iCloud Developer Beta login was a gem</title>
@@ -732,7 +748,7 @@
       <guid isPermaLink="true">https://x.com/ryolu_/status/2109568690358555064</guid>
       <pubDate>Mon, 12 Oct 2026 08:55:44 GMT</pubDate>
       <author>@ryolu_</author>
-      <description><![CDATA[<p>new on ryOS: Dictionary + Fitness<br><br>learn new words, pronunciation, 漢字. plan workouts, track body and food with AI.<br><br>made with @bot @cursor_ai</p>]]></description>
+      <description><![CDATA[<p>new on ryOS: Dictionary + Fitness<br><br>learn new words, pronunciation, 漢字. plan workouts, track body and food with AI.<br><br>made with @bot @cursor_ai</p><p><img src="https://pbs.twimg.com/media/HUaxgINbgAAKdHq.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Dusting off this tweet from April because this gap in shared understanding of LLM capability is *widening*. It&apos;s</title>
@@ -796,7 +812,7 @@
       <guid isPermaLink="true">https://x.com/almonk/status/2109262000165437943</guid>
       <pubDate>Sun, 11 Oct 2026 12:37:03 GMT</pubDate>
       <author>@almonk</author>
-      <description><![CDATA[<p>New for Rex testers. 👁️ Activity Mode shows you active and idling processes and agents for quick context switching, and some extra metadata.<br><br>We&apos;re working our way slowly through the waitlist. Our priority is building quality software, so we&apos;re admitting testers in batches of 50</p>]]></description>
+      <description><![CDATA[<p>New for Rex testers. 👁️ Activity Mode shows you active and idling processes and agents for quick context switching, and some extra metadata.<br><br>We&apos;re working our way slowly through the waitlist. Our priority is building quality software, so we&apos;re admitting testers in batches of 50</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2109261490838544384/img/7S3muRxeg-hcsOPI.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Why does this look better than Liquid Glass</title>
@@ -1589,22 +1605,6 @@
       <pubDate>Mon, 05 Oct 2026 16:33:36 GMT</pubDate>
       <author>@zerocam_app</author>
       <description><![CDATA[<p>Thank you! 🫶</p>]]></description>
-    </item>
-    <item>
-      <title>add ryOS Subtitles to Chrome https://chromewebstore.google.com/detail/ryos-subtitles/cfalkhjenjdgbdlakhbmlcikcpifhkbm?authuser=0&amp;hl=en…</title>
-      <link>https://x.com/ryolu_/status/2107146721591726323</link>
-      <guid isPermaLink="true">https://x.com/ryolu_/status/2107146721591726323</guid>
-      <pubDate>Mon, 05 Oct 2026 16:31:41 GMT</pubDate>
-      <author>@ryolu_</author>
-      <description><![CDATA[<p>add ryOS Subtitles to Chrome<br>https://chromewebstore.google.com/detail/ryos-subtitles/cfalkhjenjdgbdlakhbmlcikcpifhkbm?authuser=0&amp;hl=en…</p>]]></description>
-    </item>
-    <item>
-      <title>made a lil thing for language learners: watch Netflix with subtitles in any two languages, plus pronunciation guides</title>
-      <link>https://x.com/ryolu_/status/2107146629338042853</link>
-      <guid isPermaLink="true">https://x.com/ryolu_/status/2107146629338042853</guid>
-      <pubDate>Mon, 05 Oct 2026 16:31:19 GMT</pubDate>
-      <author>@ryolu_</author>
-      <description><![CDATA[<p>made a lil thing for language learners:<br>watch Netflix with subtitles in any two languages, plus pronunciation guides for Japanese, Chinese, and Korean. customizable styles, hand-picked defaults.<br>enjoy 🍿</p>]]></description>
     </item>
   </channel>
 </rss>
