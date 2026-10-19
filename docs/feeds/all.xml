@@ -7,6 +7,14 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>The latest Rex preview release includes a very important subsystem I&apos;ve been working on for weeks to enable</title>
+      <link>https://x.com/mitchellh/status/2112286460309364845</link>
+      <guid isPermaLink="true">https://x.com/mitchellh/status/2112286460309364845</guid>
+      <pubDate>Mon, 19 Oct 2026 20:55:11 GMT</pubDate>
+      <author>@mitchellh</author>
+      <description><![CDATA[<p>The latest Rex preview release includes a very important subsystem I&apos;ve been working on for weeks to enable full forwards+backwards API compatibility with clients and servers. This was gating the Linux test program and massively opening up the Mac test program. <br><br>We just invited</p>]]></description>
+    </item>
+    <item>
       <title>Today&apos;s Monday Meditations is a photo of a rock sculpture someone at Earendil built in Austria</title>
       <link>https://x.com/pidotdev/status/2112259257060188471</link>
       <guid isPermaLink="true">https://x.com/pidotdev/status/2112259257060188471</guid>
@@ -268,7 +276,7 @@
       <guid isPermaLink="true">https://x.com/mitchellh/status/2110767244506767795</guid>
       <pubDate>Thu, 15 Oct 2026 16:18:21 GMT</pubDate>
       <author>@mitchellh</author>
-      <description><![CDATA[<p>Rex beta testers are figuring it out. 😍 You can also do stuff like &quot;rerun the benchmarks I did last night on my Mac Studio, but run them on Jack&apos;s Mac instead, then bring both results to my local Mac to compare.&quot; And it does what you&apos;d expect. <br><br>We actually aren&apos;t running evals</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2110740503108988929/img/dvGJje5t3gSbAkmv.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Rex beta testers are figuring it out. 😍 You can also do stuff like &quot;rerun the benchmarks I did last night on my Mac Studio, but run them on Jack&apos;s Mac instead, then bring both results to my local Mac to compare.&quot; And it does what you&apos;d expect. <br><br>We actually aren&apos;t running evals</p>]]></description>
     </item>
     <item>
       <title>Shot on zerotake ;-)</title>
@@ -420,7 +428,7 @@
       <guid isPermaLink="true">https://x.com/almonk/status/2110307972907991389</guid>
       <pubDate>Wed, 14 Oct 2026 09:53:23 GMT</pubDate>
       <author>@almonk</author>
-      <description><![CDATA[<p>Insane work from my boy</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2109616623032102912/img/w6XgKPor0ccSPxf0.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Insane work from my boy</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2109616536189018112/img/mb5WUWz78SPd4RVT.jpg" alt=""></p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2109616623032102912/img/w6XgKPor0ccSPxf0.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>What&apos;s new in macOS 27.2 beta 4</title>
@@ -852,7 +860,7 @@
       <guid isPermaLink="true">https://x.com/mitchellh/status/2109279616519241920</guid>
       <pubDate>Sun, 11 Oct 2026 13:47:03 GMT</pubDate>
       <author>@mitchellh</author>
-      <description><![CDATA[<p>Powered by OSC7501! The implementation seems obvious, but @almonk went into the dungeon for weeks toiling over TINY details around when exactly to show different UI states and it feels amazing. <br><br>Everyone at Superlogical all agreed we&apos;ve never used any activity inbox in any</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2109261490838544384/img/7S3muRxeg-hcsOPI.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Powered by OSC7501! The implementation seems obvious, but @almonk went into the dungeon for weeks toiling over TINY details around when exactly to show different UI states and it feels amazing. <br><br>Everyone at Superlogical all agreed we&apos;ve never used any activity inbox in any</p>]]></description>
     </item>
     <item>
       <title>New for Rex testers. 👁️ Activity Mode shows you active and idling processes and agents for quick context</title>
@@ -1597,14 +1605,6 @@
       <pubDate>Mon, 05 Oct 2026 19:25:07 GMT</pubDate>
       <author>@mitchellh</author>
       <description><![CDATA[<p>I&apos;m glad people are liking our little mascot, Rexie! I&apos;m proud to say that Rexie, along with all our beautiful deck icons were all drawn by human artists. And I think you can feel that in the way they look and feel compared to other software. True artistry at work.</p><p><img src="https://pbs.twimg.com/media/HT499EMbsAA-gOq?format=jpg&amp;name=small" alt=""></p><p><img src="https://pbs.twimg.com/media/HT4-YgHakAARuhk?format=jpg&amp;name=4096x4096" alt=""></p><p><img src="https://pbs.twimg.com/media/HT4-axJacAABqz2?format=png&amp;name=small" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>Apple has added new iPhone Duo device icons in macOS 27.2 beta 3</title>
-      <link>https://x.com/avstorm/status/2107184336244199895</link>
-      <guid isPermaLink="true">https://x.com/avstorm/status/2107184336244199895</guid>
-      <pubDate>Mon, 05 Oct 2026 19:01:10 GMT</pubDate>
-      <author>@avstorm</author>
-      <description><![CDATA[<p>Apple has added new iPhone Duo device icons in macOS 27.2 beta 3</p><p><img src="https://pbs.twimg.com/media/HT44pAuWIAQ01QL?format=jpg&amp;name=small" alt=""></p>]]></description>
     </item>
   </channel>
 </rss>
