@@ -7,6 +7,30 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>hello SF 🫶 first things first</title>
+      <link>https://x.com/agusegui/status/2112025935629414493</link>
+      <guid isPermaLink="true">https://x.com/agusegui/status/2112025935629414493</guid>
+      <pubDate>Mon, 19 Oct 2026 03:39:57 GMT</pubDate>
+      <author>@agusegui</author>
+      <description><![CDATA[<p>hello SF 🫶 first things first</p><p><img src="https://pbs.twimg.com/media/HU9sX1TWsAAsWSX?format=jpg&amp;name=small" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>Naruto &gt; Attack on Titan</title>
+      <link>https://x.com/shadcn/status/2111910683789177260</link>
+      <guid isPermaLink="true">https://x.com/shadcn/status/2111910683789177260</guid>
+      <pubDate>Sun, 18 Oct 2026 20:01:59 GMT</pubDate>
+      <author>@shadcn</author>
+      <description><![CDATA[<p>Naruto &gt; Attack on Titan</p><p><img src="https://pbs.twimg.com/media/HU5LeWbbYAARqaB?format=jpg&amp;name=small" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>70-&gt;80 was a slog, tysm new follows</title>
+      <link>https://x.com/tldraw/status/2111890041874051515</link>
+      <guid isPermaLink="true">https://x.com/tldraw/status/2111890041874051515</guid>
+      <pubDate>Sun, 18 Oct 2026 18:39:57 GMT</pubDate>
+      <author>@tldraw</author>
+      <description><![CDATA[<p>70-&gt;80 was a slog, tysm new follows</p><p><img src="https://pbs.twimg.com/media/HU7wzOMXQAAfLAh?format=jpg&amp;name=small" alt=""></p>]]></description>
+    </item>
+    <item>
       <title>Five years ago today, Apple dropped one of its best Apple Event intros ever.</title>
       <link>https://x.com/avstorm/status/2111827088730943601</link>
       <guid isPermaLink="true">https://x.com/avstorm/status/2111827088730943601</guid>
@@ -164,7 +188,7 @@
       <guid isPermaLink="true">https://x.com/shadcn/status/2111003691020906976</guid>
       <pubDate>Fri, 16 Oct 2026 07:57:55 GMT</pubDate>
       <author>@shadcn</author>
-      <description><![CDATA[<p>Browse and discover GitHub registries.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2110987900191961088/img/WNp9_Au6BbjksbLx.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Browse and discover GitHub registries.</p>]]></description>
     </item>
     <item>
       <title>12 years ago today, Apple released OS X Yosemite.</title>
@@ -340,7 +364,7 @@
       <guid isPermaLink="true">https://x.com/shadcn/status/2110410655165779985</guid>
       <pubDate>Wed, 14 Oct 2026 16:41:24 GMT</pubDate>
       <author>@shadcn</author>
-      <description><![CDATA[<p>I just published Trace, a new component for agent activity. It&apos;s one abstraction for reasoning, tool calls, queues, chain of thought, subagents...etc<br><br>Also in this release: Code Block and AI Elements.<br><br>https://ui.shadcn.com/docs/changelog/2026-10-ai-elements…</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2110410297529753600/img/tP8L9vBubLGBz-1w.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>I just published Trace, a new component for agent activity. It&apos;s one abstraction for reasoning, tool calls, queues, chain of thought, subagents...etc<br><br>Also in this release: Code Block and AI Elements.<br><br>https://ui.shadcn.com/docs/changelog/2026-10-ai-elements…</p>]]></description>
     </item>
     <item>
       <title>Claude Code&apos;s &quot;Pin as chapter&quot; is brilliant.</title>
@@ -372,7 +396,7 @@
       <guid isPermaLink="true">https://x.com/almonk/status/2110307972907991389</guid>
       <pubDate>Wed, 14 Oct 2026 09:53:23 GMT</pubDate>
       <author>@almonk</author>
-      <description><![CDATA[<p>Insane work from my boy</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2109616623032102912/img/w6XgKPor0ccSPxf0.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Insane work from my boy</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2109616536189018112/img/mb5WUWz78SPd4RVT.jpg" alt=""></p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2109616623032102912/img/w6XgKPor0ccSPxf0.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>What&apos;s new in macOS 27.2 beta 4</title>
@@ -484,7 +508,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2110058113865044037</guid>
       <pubDate>Tue, 13 Oct 2026 17:20:31 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>You can now run embeds inside the new tldraw plugin for @ChatGPT. Here&apos;s Astra rendering an ESP32 pet cat app, with her behaviour drawn as a statechart underneath, so it can be checked before it&apos;s flashed.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2110058083565404160/img/9dbM6IXR4Lsu2JJG.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>You can now run embeds inside the new tldraw plugin for @ChatGPT. Here&apos;s Astra rendering an ESP32 pet cat app, with her behaviour drawn as a statechart underneath, so it can be checked before it&apos;s flashed.</p>]]></description>
     </item>
     <item>
       <title>Yes. I work on multiple projects using multiple harnesses. And Copper is how I keep track.</title>
@@ -604,7 +628,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2109962899661959538</guid>
       <pubDate>Tue, 13 Oct 2026 11:02:11 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>If you clicked away from a comment you were still writing on https://tldraw.com, the box used to jump to wherever you clicked. It now closes, drops you back on select, and keeps your draft for later.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2109962856762621952/img/GsPNO4N1n9vkrnbW.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>If you clicked away from a comment you were still writing on https://tldraw.com, the box used to jump to wherever you clicked. It now closes, drops you back on select, and keeps your draft for later.</p>]]></description>
     </item>
     <item>
       <title>We&apos;ve had this update UI in for weeks, but I still smile when I see it. We invited</title>
@@ -772,7 +796,7 @@
       <guid isPermaLink="true">https://x.com/shadcn/status/2109325053968208333</guid>
       <pubDate>Sun, 11 Oct 2026 16:47:36 GMT</pubDate>
       <author>@shadcn</author>
-      <description><![CDATA[<p>You can now color tag items in Copper.<br><br>https://shadcn.com/copper</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2109324742087913472/img/hPYI_gBDh0M69GpF.jpg" alt=""></p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2082518119344459776/img/MqXnyHAYOzdtpP98?format=jpg&amp;name=240x240" alt=""></p>]]></description>
+      <description><![CDATA[<p>You can now color tag items in Copper.<br><br>https://shadcn.com/copper</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2082518119344459776/img/MqXnyHAYOzdtpP98?format=jpg&amp;name=240x240" alt=""></p>]]></description>
     </item>
     <item>
       <title>There will come a time when how code is written won&apos;t matter. But for now, I still care</title>
@@ -964,7 +988,7 @@
       <guid isPermaLink="true">https://x.com/agusegui/status/2108601732368666944</guid>
       <pubDate>Fri, 09 Oct 2026 16:53:23 GMT</pubDate>
       <author>@agusegui</author>
-      <description><![CDATA[<p>damn, my graphic design dream didn’t just come to life, it’s evolving! <br><br>please look at these pieces of art Oliver just brought to us 🔥 pink is the new orange, babe<br><br>designed with @paper of course :)</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2108600554016452608/img/DG_FwzZyQwYDTGad.jpg" alt=""></p><p><img src="https://pbs.twimg.com/tweet_video_thumb/HUM8eN7WUAEAeKb?format=jpg&amp;name=120x120" alt=""></p>]]></description>
+      <description><![CDATA[<p>damn, my graphic design dream didn’t just come to life, it’s evolving! <br><br>please look at these pieces of art Oliver just brought to us 🔥 pink is the new orange, babe<br><br>designed with @paper of course :)</p><p><img src="https://pbs.twimg.com/tweet_video_thumb/HUM8eN7WUAEAeKb?format=jpg&amp;name=120x120" alt=""></p>]]></description>
     </item>
     <item>
       <title>Should we start working in pink to the Paper brand? 🩵💕</title>
@@ -1204,7 +1228,7 @@
       <guid isPermaLink="true">https://x.com/agusegui/status/2107913752234627441</guid>
       <pubDate>Wed, 07 Oct 2026 19:19:36 GMT</pubDate>
       <author>@agusegui</author>
-      <description><![CDATA[<p>we launched 🔥 <br><br>I just want to know how it felt for you<br><br>views are good, but I care more about smiles and design work shipped with Paper Mono<br><br>watch with nice subwoofers, lose yourself in it - enjoy the web I always wanted<br><br>this is how much I love design ❤️</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2107859124889276416/img/YaycAcvNW5ziVYb9.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>we launched 🔥 <br><br>I just want to know how it felt for you<br><br>views are good, but I care more about smiles and design work shipped with Paper Mono<br><br>watch with nice subwoofers, lose yourself in it - enjoy the web I always wanted<br><br>this is how much I love design ❤️</p>]]></description>
     </item>
     <item>
       <title>DMs open. Let know</title>
@@ -1581,30 +1605,6 @@
       <pubDate>Mon, 05 Oct 2026 17:21:00 GMT</pubDate>
       <author>@stephenhaney</author>
       <description><![CDATA[<p>global server connections for Paper makes art as timezones come in and out of the sun</p><p><img src="https://pbs.twimg.com/media/HT4huIwbQAAhM0M?format=jpg&amp;name=small" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>We like Rex, our new terminal multiplexer, so much that we wanted to share it with you. We’re</title>
-      <link>https://x.com/almonk/status/2107151717284409636</link>
-      <guid isPermaLink="true">https://x.com/almonk/status/2107151717284409636</guid>
-      <pubDate>Mon, 05 Oct 2026 16:51:33 GMT</pubDate>
-      <author>@almonk</author>
-      <description><![CDATA[<p>We like Rex, our new terminal multiplexer, so much that we wanted to share it with you. We’re admitting testers from our waitlist starting today.</p>]]></description>
-    </item>
-    <item>
-      <title>Say hello to Rexie, our mascot for Rex! Superlogical public testing is beginning. We’re working through our mailing</title>
-      <link>https://x.com/mitchellh/status/2107150947701211199</link>
-      <guid isPermaLink="true">https://x.com/mitchellh/status/2107150947701211199</guid>
-      <pubDate>Mon, 05 Oct 2026 16:48:29 GMT</pubDate>
-      <author>@mitchellh</author>
-      <description><![CDATA[<p>Say hello to Rexie, our mascot for Rex! Superlogical public testing is beginning. We’re working through our mailing list in the order people signed up. Initial testing is limited to macOS but that’ll expand quickly. Welcome, new testers.</p>]]></description>
-    </item>
-    <item>
-      <title>Thank you! 🫶</title>
-      <link>https://x.com/zerocam_app/status/2107147202325795027</link>
-      <guid isPermaLink="true">https://x.com/zerocam_app/status/2107147202325795027</guid>
-      <pubDate>Mon, 05 Oct 2026 16:33:36 GMT</pubDate>
-      <author>@zerocam_app</author>
-      <description><![CDATA[<p>Thank you! 🫶</p>]]></description>
     </item>
   </channel>
 </rss>
