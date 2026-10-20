@@ -13,12 +13,28 @@
     </image>
     <ttl>120</ttl>
     <item>
+      <title>preview</title>
+      <link>https://x.com/tldraw/status/2112539680503927246</link>
+      <guid isPermaLink="true">https://x.com/tldraw/status/2112539680503927246</guid>
+      <pubDate>Tue, 20 Oct 2026 13:41:23 GMT</pubDate>
+      <author>@tldraw</author>
+      <description><![CDATA[<p>preview</p>]]></description>
+    </item>
+    <item>
+      <title>Media post</title>
+      <link>https://x.com/tldraw/status/2112539677119177074</link>
+      <guid isPermaLink="true">https://x.com/tldraw/status/2112539677119177074</guid>
+      <pubDate>Tue, 20 Oct 2026 13:41:22 GMT</pubDate>
+      <author>@tldraw</author>
+      <description><![CDATA[<p></p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2112539614401449984/img/fi1lpPmVyERcuYY7.jpg" alt=""></p>]]></description>
+    </item>
+    <item>
       <title>Media post</title>
       <link>https://x.com/tldraw/status/2112485341571797320</link>
       <guid isPermaLink="true">https://x.com/tldraw/status/2112485341571797320</guid>
       <pubDate>Tue, 20 Oct 2026 10:05:28 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p></p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2112485233668861952/img/y3LQHpSUaNV_37Tc.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p></p>]]></description>
     </item>
     <item>
       <title>early experience at</title>
@@ -50,7 +66,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2111156375862824971</guid>
       <pubDate>Fri, 16 Oct 2026 18:04:38 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>With the new tldraw plugin for @OpenAI, you can work with Codex on a live, multiplayer infinite canvas.<br><br>Here, we started with a wireframe sketch for a mobile Frisbee game, added context and questions via comments on the board, and worked with Codex directly on the canvas.</p>]]></description>
+      <description><![CDATA[<p>With the new tldraw plugin for @OpenAI, you can work with Codex on a live, multiplayer infinite canvas.<br><br>Here, we started with a wireframe sketch for a mobile Frisbee game, added context and questions via comments on the board, and worked with Codex directly on the canvas.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2111156225497030656/img/aI-R1CT4EebqdV-q.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Mobbin started from tldraw’s canvas and added custom shapes and logic to fit how its content and ML</title>
@@ -106,7 +122,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2110058113865044037</guid>
       <pubDate>Tue, 13 Oct 2026 17:20:31 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>You can now run embeds inside the new tldraw plugin for @ChatGPT. Here&apos;s Astra rendering an ESP32 pet cat app, with her behaviour drawn as a statechart underneath, so it can be checked before it&apos;s flashed.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2110058083565404160/img/9dbM6IXR4Lsu2JJG.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>You can now run embeds inside the new tldraw plugin for @ChatGPT. Here&apos;s Astra rendering an ESP32 pet cat app, with her behaviour drawn as a statechart underneath, so it can be checked before it&apos;s flashed.</p>]]></description>
     </item>
     <item>
       <title>Media post</title>
@@ -795,22 +811,6 @@
       <pubDate>Wed, 23 Sep 2026 10:16:44 GMT</pubDate>
       <author>@tldraw</author>
       <description><![CDATA[<p>imagination is the other hard part</p>]]></description>
-    </item>
-    <item>
-      <title>btw this was only a few turns with a model to create! As usual the &quot;super good canvas&quot;</title>
-      <link>https://x.com/tldraw/status/2102703700490035473</link>
-      <guid isPermaLink="true">https://x.com/tldraw/status/2102703700490035473</guid>
-      <pubDate>Wed, 23 Sep 2026 10:16:43 GMT</pubDate>
-      <author>@tldraw</author>
-      <description><![CDATA[<p>btw this was only a few turns with a model to create! As usual the &quot;super good canvas&quot; is the hard part but that&apos;s done</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2102429899394875392/img/NK5DomZYy6MxwQ4i.jpg" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>the canvas keeps giving</title>
-      <link>https://x.com/tldraw/status/2102651633780064462</link>
-      <guid isPermaLink="true">https://x.com/tldraw/status/2102651633780064462</guid>
-      <pubDate>Wed, 23 Sep 2026 06:49:49 GMT</pubDate>
-      <author>@tldraw</author>
-      <description><![CDATA[<p>the canvas keeps giving</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2102650991279476736/img/Yt3YCNICSJaZns-m.jpg" alt=""></p><p><img src="https://pbs.twimg.com/media/HS4d8ogX0AAkglq?format=jpg&amp;name=360x360" alt=""></p>]]></description>
     </item>
   </channel>
 </rss>

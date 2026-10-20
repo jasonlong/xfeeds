@@ -7,6 +7,38 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>preview</title>
+      <link>https://x.com/tldraw/status/2112539680503927246</link>
+      <guid isPermaLink="true">https://x.com/tldraw/status/2112539680503927246</guid>
+      <pubDate>Tue, 20 Oct 2026 13:41:23 GMT</pubDate>
+      <author>@tldraw</author>
+      <description><![CDATA[<p>preview</p>]]></description>
+    </item>
+    <item>
+      <title>Media post</title>
+      <link>https://x.com/tldraw/status/2112539677119177074</link>
+      <guid isPermaLink="true">https://x.com/tldraw/status/2112539677119177074</guid>
+      <pubDate>Tue, 20 Oct 2026 13:41:22 GMT</pubDate>
+      <author>@tldraw</author>
+      <description><![CDATA[<p></p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2112539614401449984/img/fi1lpPmVyERcuYY7.jpg" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>My prompt vs My agent’s output</title>
+      <link>https://x.com/almonk/status/2112537390682394906</link>
+      <guid isPermaLink="true">https://x.com/almonk/status/2112537390682394906</guid>
+      <pubDate>Tue, 20 Oct 2026 13:32:17 GMT</pubDate>
+      <author>@almonk</author>
+      <description><![CDATA[<p>My prompt <br>vs<br>My agent’s output</p><p><img src="https://pbs.twimg.com/media/HVE9jzFWYAEAprZ?format=jpg&amp;name=small" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>Apple&apos;s Magic Mouse turns 17 today</title>
+      <link>https://x.com/avstorm/status/2112537243214860682</link>
+      <guid isPermaLink="true">https://x.com/avstorm/status/2112537243214860682</guid>
+      <pubDate>Tue, 20 Oct 2026 13:31:42 GMT</pubDate>
+      <author>@avstorm</author>
+      <description><![CDATA[<p>Apple&apos;s Magic Mouse turns 17 today</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2112536945251225601/img/E9a7fuFhlzNXPoJy.jpg" alt=""></p>]]></description>
+    </item>
+    <item>
       <title>Apple Pay launched 12 years ago today.</title>
       <link>https://x.com/avstorm/status/2112506959681265689</link>
       <guid isPermaLink="true">https://x.com/avstorm/status/2112506959681265689</guid>
@@ -20,7 +52,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2112485341571797320</guid>
       <pubDate>Tue, 20 Oct 2026 10:05:28 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p></p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2112485233668861952/img/y3LQHpSUaNV_37Tc.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p></p>]]></description>
     </item>
     <item>
       <title>early experience at</title>
@@ -76,7 +108,7 @@
       <guid isPermaLink="true">https://x.com/avstorm/status/2112231701338595573</guid>
       <pubDate>Mon, 19 Oct 2026 17:17:35 GMT</pubDate>
       <author>@avstorm</author>
-      <description><![CDATA[<p>Archive of all Apple Event invites<br><br>https://appleinvites.com</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2112231510900178944/img/1s3rpkDaUlorbaHK.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Archive of all Apple Event invites<br><br>https://appleinvites.com</p>]]></description>
     </item>
     <item>
       <title>hello SF 🫶 first things first</title>
@@ -108,7 +140,7 @@
       <guid isPermaLink="true">https://x.com/avstorm/status/2111827088730943601</guid>
       <pubDate>Sun, 18 Oct 2026 14:29:48 GMT</pubDate>
       <author>@avstorm</author>
-      <description><![CDATA[<p>Five years ago today, Apple dropped one of its best Apple Event intros ever.</p>]]></description>
+      <description><![CDATA[<p>Five years ago today, Apple dropped one of its best Apple Event intros ever.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2111826383739432960/img/OepRaiEPpulVNIFj.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Hackable software is so fun</title>
@@ -116,7 +148,7 @@
       <guid isPermaLink="true">https://x.com/almonk/status/2111527965641286140</guid>
       <pubDate>Sat, 17 Oct 2026 18:41:11 GMT</pubDate>
       <author>@almonk</author>
-      <description><![CDATA[<p>Hackable software is so fun</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2111518735274008577/img/1Ah2KawsKhwCkDjU.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Hackable software is so fun</p>]]></description>
     </item>
     <item>
       <title>🫶</title>
@@ -196,7 +228,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2111156375862824971</guid>
       <pubDate>Fri, 16 Oct 2026 18:04:38 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>With the new tldraw plugin for @OpenAI, you can work with Codex on a live, multiplayer infinite canvas.<br><br>Here, we started with a wireframe sketch for a mobile Frisbee game, added context and questions via comments on the board, and worked with Codex directly on the canvas.</p>]]></description>
+      <description><![CDATA[<p>With the new tldraw plugin for @OpenAI, you can work with Codex on a live, multiplayer infinite canvas.<br><br>Here, we started with a wireframe sketch for a mobile Frisbee game, added context and questions via comments on the board, and worked with Codex directly on the canvas.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2111156225497030656/img/aI-R1CT4EebqdV-q.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>unbelievably great timing for us to release this</title>
@@ -204,7 +236,7 @@
       <guid isPermaLink="true">https://x.com/almonk/status/2111151330467406148</guid>
       <pubDate>Fri, 16 Oct 2026 17:44:35 GMT</pubDate>
       <author>@almonk</author>
-      <description><![CDATA[<p>unbelievably great timing for us to release this</p>]]></description>
+      <description><![CDATA[<p>unbelievably great timing for us to release this</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2111151247860391937/img/bPh697zur5LGgjC2.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>I genuinely hate the marketing trend right now of companies making AI generated videos with their branding/people in</title>
@@ -468,7 +500,7 @@
       <guid isPermaLink="true">https://x.com/almonk/status/2110307972907991389</guid>
       <pubDate>Wed, 14 Oct 2026 09:53:23 GMT</pubDate>
       <author>@almonk</author>
-      <description><![CDATA[<p>Insane work from my boy</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2109616536189018112/img/mb5WUWz78SPd4RVT.jpg" alt=""></p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2109616623032102912/img/w6XgKPor0ccSPxf0.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Insane work from my boy</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2109616623032102912/img/w6XgKPor0ccSPxf0.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>What&apos;s new in macOS 27.2 beta 4</title>
@@ -580,7 +612,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2110058113865044037</guid>
       <pubDate>Tue, 13 Oct 2026 17:20:31 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>You can now run embeds inside the new tldraw plugin for @ChatGPT. Here&apos;s Astra rendering an ESP32 pet cat app, with her behaviour drawn as a statechart underneath, so it can be checked before it&apos;s flashed.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2110058083565404160/img/9dbM6IXR4Lsu2JJG.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>You can now run embeds inside the new tldraw plugin for @ChatGPT. Here&apos;s Astra rendering an ESP32 pet cat app, with her behaviour drawn as a statechart underneath, so it can be checked before it&apos;s flashed.</p>]]></description>
     </item>
     <item>
       <title>Yes. I work on multiple projects using multiple harnesses. And Copper is how I keep track.</title>
@@ -708,7 +740,7 @@
       <guid isPermaLink="true">https://x.com/almonk/status/2109936272160780329</guid>
       <pubDate>Tue, 13 Oct 2026 09:16:22 GMT</pubDate>
       <author>@almonk</author>
-      <description><![CDATA[<p>We&apos;ve had this update UI in for weeks, but I still smile when I see it.<br><br>We invited 350 new testers to Rex yesterday, more than the entire previous week.</p>]]></description>
+      <description><![CDATA[<p>We&apos;ve had this update UI in for weeks, but I still smile when I see it.<br><br>We invited 350 new testers to Rex yesterday, more than the entire previous week.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2109936059056349184/img/6DS9AZBmLKTKRuZx.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>More model reviews like this please.</title>
@@ -908,7 +940,7 @@
       <guid isPermaLink="true">https://x.com/almonk/status/2109262000165437943</guid>
       <pubDate>Sun, 11 Oct 2026 12:37:03 GMT</pubDate>
       <author>@almonk</author>
-      <description><![CDATA[<p>New for Rex testers. 👁️ Activity Mode shows you active and idling processes and agents for quick context switching, and some extra metadata.<br><br>We&apos;re working our way slowly through the waitlist. Our priority is building quality software, so we&apos;re admitting testers in batches of 50</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2109261490838544384/img/7S3muRxeg-hcsOPI.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>New for Rex testers. 👁️ Activity Mode shows you active and idling processes and agents for quick context switching, and some extra metadata.<br><br>We&apos;re working our way slowly through the waitlist. Our priority is building quality software, so we&apos;re admitting testers in batches of 50</p>]]></description>
     </item>
     <item>
       <title>Why does this look better than Liquid Glass</title>
@@ -1573,38 +1605,6 @@
       <pubDate>Tue, 06 Oct 2026 08:33:13 GMT</pubDate>
       <author>@pidotdev</author>
       <description><![CDATA[<p>Now also on Youtube:</p>]]></description>
-    </item>
-    <item>
-      <title>The Low Power Mode icon finally matches the standard battery icon in macOS 27.2 beta 3.</title>
-      <link>https://x.com/avstorm/status/2107352256093802976</link>
-      <guid isPermaLink="true">https://x.com/avstorm/status/2107352256093802976</guid>
-      <pubDate>Tue, 06 Oct 2026 06:08:25 GMT</pubDate>
-      <author>@avstorm</author>
-      <description><![CDATA[<p>The Low Power Mode icon finally matches the standard battery icon in macOS 27.2 beta 3.</p><p><img src="https://pbs.twimg.com/media/HT7P3HcWoAAzzMs?format=png&amp;name=small" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>remembering Steve i grew up with beige boxes. then i moved to Canada and saw the iMac G4.</title>
-      <link>https://x.com/ryolu_/status/2107246891977335049</link>
-      <guid isPermaLink="true">https://x.com/ryolu_/status/2107246891977335049</guid>
-      <pubDate>Mon, 05 Oct 2026 23:09:44 GMT</pubDate>
-      <author>@ryolu_</author>
-      <description><![CDATA[<p>remembering Steve<br><br>i grew up with beige boxes. then i moved to Canada and saw the iMac G4.<br><br>how can computers be so beautiful?<br><br>i couldn’t afford a Mac, so i made my PC look like one. changed the icons, the fonts, the windows. learned to make those shiny, lickable buttons. that’s</p><p><img src="https://pbs.twimg.com/media/HT5x37HaUAAJ_A6?format=jpg&amp;name=small" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>another pro-tip: view source is alive and well and still useful</title>
-      <link>https://x.com/AREdotNA/status/2107226082369749020</link>
-      <guid isPermaLink="true">https://x.com/AREdotNA/status/2107226082369749020</guid>
-      <pubDate>Mon, 05 Oct 2026 21:47:03 GMT</pubDate>
-      <author>@AREdotNA</author>
-      <description><![CDATA[<p>another pro-tip: view source is alive and well and still useful</p><p><img src="https://pbs.twimg.com/media/HT4vmaDWkAAmwGh?format=jpg&amp;name=small" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>Media post</title>
-      <link>https://x.com/avstorm/status/2107218031784956265</link>
-      <guid isPermaLink="true">https://x.com/avstorm/status/2107218031784956265</guid>
-      <pubDate>Mon, 05 Oct 2026 21:15:03 GMT</pubDate>
-      <author>@avstorm</author>
-      <description><![CDATA[<p></p><p><img src="https://pbs.twimg.com/media/HT5Xn2XWUAAhzp2?format=jpg&amp;name=small" alt=""></p>]]></description>
     </item>
   </channel>
 </rss>
