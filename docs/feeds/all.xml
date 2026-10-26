@@ -7,6 +7,22 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>In 2023, ~80% of the team’s engineering time was going into keeping its canvas running. tldraw took that</title>
+      <link>https://x.com/tldraw/status/2114809800261595197</link>
+      <guid isPermaLink="true">https://x.com/tldraw/status/2114809800261595197</guid>
+      <pubDate>Mon, 26 Oct 2026 20:02:02 GMT</pubDate>
+      <author>@tldraw</author>
+      <description><![CDATA[<p>In 2023, ~80% of the team’s engineering time was going into keeping its canvas running. tldraw took that off their plate and allowed their teams to push their product further than ever.<br><br>With that time back, they’re building agents that work directly on the canvas like teammates.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2114809674273021952/img/8yZgN0eVMLAm46lX.jpg" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>One creative campaign can still mean four tools and twelve tabs. But no longer. @makingendless lets creative teams</title>
+      <link>https://x.com/tldraw/status/2114809661199388686</link>
+      <guid isPermaLink="true">https://x.com/tldraw/status/2114809661199388686</guid>
+      <pubDate>Mon, 26 Oct 2026 20:01:29 GMT</pubDate>
+      <author>@tldraw</author>
+      <description><![CDATA[<p>One creative campaign can still mean four tools and twelve tabs. But no longer.<br><br>@makingendless lets creative teams go from “what are people talking about?” to finished content in one workspace. Here’s how we helped.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2114809542752239618/img/dMgSp45zQJKcXSyf.jpg" alt=""></p>]]></description>
+    </item>
+    <item>
       <title>@anikrisn explores how this works in tldraw, from a single shape to nested frames to rotated selections:</title>
       <link>https://x.com/tldraw/status/2114764780317835367</link>
       <guid isPermaLink="true">https://x.com/tldraw/status/2114764780317835367</guid>
@@ -20,7 +36,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2114764768410230909</guid>
       <pubDate>Mon, 26 Oct 2026 17:03:05 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>If you rotate a 100×50 rectangle by 45°, its bounding box grows to roughly 106×106.<br><br>That might seem wasteful, but it’s deliberate. Axis-aligned boxes can be checked for overlap with four comparisons. Rotated ones need the separating axis theorem and a lot more math.<br><br>tldraw lets</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2114764747145089024/img/cvRt-K3_DlMVxfxg.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>If you rotate a 100×50 rectangle by 45°, its bounding box grows to roughly 106×106.<br><br>That might seem wasteful, but it’s deliberate. Axis-aligned boxes can be checked for overlap with four comparisons. Rotated ones need the separating axis theorem and a lot more math.<br><br>tldraw lets</p>]]></description>
     </item>
     <item>
       <title>look at the examples</title>
@@ -340,7 +356,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2113219944163017109</guid>
       <pubDate>Thu, 22 Oct 2026 10:44:31 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>Love to see @Aries take the trading desk to the infinite canvas.<br><br>Aries Infinite turns charts, options chains and order tickets into objects you can move, resize and arrange freely.<br><br>Congrats to the team on the launch!</p>]]></description>
+      <description><![CDATA[<p>Love to see @Aries take the trading desk to the infinite canvas.<br><br>Aries Infinite turns charts, options chains and order tickets into objects you can move, resize and arrange freely.<br><br>Congrats to the team on the launch!</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2112565258837544960/img/8s5quDuRHu0GJ528.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>huge opportunities in picking up old spikes and side projects</title>
@@ -348,7 +364,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2113199722177630210</guid>
       <pubDate>Thu, 22 Oct 2026 09:24:09 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>huge opportunities in picking up old spikes and side projects</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2113172900224114688/img/_LjnN9imD4L_128-.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>huge opportunities in picking up old spikes and side projects</p>]]></description>
     </item>
     <item>
       <title>Media post</title>
@@ -756,7 +772,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2111156375862824971</guid>
       <pubDate>Fri, 16 Oct 2026 18:04:38 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>With the new tldraw plugin for @OpenAI, you can work with Codex on a live, multiplayer infinite canvas.<br><br>Here, we started with a wireframe sketch for a mobile Frisbee game, added context and questions via comments on the board, and worked with Codex directly on the canvas.</p>]]></description>
+      <description><![CDATA[<p>With the new tldraw plugin for @OpenAI, you can work with Codex on a live, multiplayer infinite canvas.<br><br>Here, we started with a wireframe sketch for a mobile Frisbee game, added context and questions via comments on the board, and worked with Codex directly on the canvas.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2111156225497030656/img/aI-R1CT4EebqdV-q.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>unbelievably great timing for us to release this</title>
@@ -1589,22 +1605,6 @@
       <pubDate>Fri, 09 Oct 2026 17:38:31 GMT</pubDate>
       <author>@stephenhaney</author>
       <description><![CDATA[<p>Paper shipped the most impactful feature in the history of design tools (I would never exaggerate)<br><br>you can now change opacity while using color tokens</p><p><img src="https://pbs.twimg.com/media/HUNL2TKagAALiao?format=jpg&amp;name=small" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>The parents will empathize here. My wife is out of town (but I would&apos;ve been helping either way).</title>
-      <link>https://x.com/mitchellh/status/2108610748314427498</link>
-      <guid isPermaLink="true">https://x.com/mitchellh/status/2108610748314427498</guid>
-      <pubDate>Fri, 09 Oct 2026 17:29:13 GMT</pubDate>
-      <author>@mitchellh</author>
-      <description><![CDATA[<p>The parents will empathize here. My wife is out of town (but I would&apos;ve been helping either way). <br><br>Last night at 10 PM my 3yo started screaming because she threw up. Full clothes, sheet replace, calm kid down, full bed cycle. <br><br>At the same time, our sump pump alarm goes off.</p>]]></description>
-    </item>
-    <item>
-      <title>Honored to see this Oliver remix 💗</title>
-      <link>https://x.com/paper/status/2108607620722704461</link>
-      <guid isPermaLink="true">https://x.com/paper/status/2108607620722704461</guid>
-      <pubDate>Fri, 09 Oct 2026 17:16:47 GMT</pubDate>
-      <author>@paper</author>
-      <description><![CDATA[<p>Honored to see this Oliver remix 💗</p>]]></description>
     </item>
   </channel>
 </rss>
