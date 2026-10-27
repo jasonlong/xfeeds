@@ -13,6 +13,14 @@
     </image>
     <ttl>120</ttl>
     <item>
+      <title>JetBrains IDEs are now powered by libghostty! This brings huge feature and performance improvements to JB terminals! Based</title>
+      <link>https://x.com/mitchellh/status/2115101011518095385</link>
+      <guid isPermaLink="true">https://x.com/mitchellh/status/2115101011518095385</guid>
+      <pubDate>Tue, 27 Oct 2026 15:19:12 GMT</pubDate>
+      <author>@mitchellh</author>
+      <description><![CDATA[<p>JetBrains IDEs are now powered by libghostty! This brings huge feature and performance improvements to JB terminals! Based on their own annual reports, that&apos;s over 12.5 million active users across all platforms about to get a libghostty-powered terminal.</p>]]></description>
+    </item>
+    <item>
       <title>This was fun to do! Rex now supports Kitty graphics protocol even for remote servers, including local files</title>
       <link>https://x.com/mitchellh/status/2113761797308391526</link>
       <guid isPermaLink="true">https://x.com/mitchellh/status/2113761797308391526</guid>
@@ -42,7 +50,7 @@
       <guid isPermaLink="true">https://x.com/mitchellh/status/2113347960813781335</guid>
       <pubDate>Thu, 22 Oct 2026 19:13:12 GMT</pubDate>
       <author>@mitchellh</author>
-      <description><![CDATA[<p>Greatest splash screen animation of all time by the way.</p><p><img src="https://pbs.twimg.com/media/HVQdBO5bcAARqSA.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Greatest splash screen animation of all time by the way.</p>]]></description>
     </item>
     <item>
       <title>The Rex iOS app testing program started today with external testers and includes dedicated iPad and Duo support.</title>
@@ -50,7 +58,7 @@
       <guid isPermaLink="true">https://x.com/mitchellh/status/2113346052090925406</guid>
       <pubDate>Thu, 22 Oct 2026 19:05:37 GMT</pubDate>
       <author>@mitchellh</author>
-      <description><![CDATA[<p>The Rex iOS app testing program started today with external testers and includes dedicated iPad and Duo support. Lots of polish to go on this one, but excited to get this in the App Store soon (free).</p>]]></description>
+      <description><![CDATA[<p>The Rex iOS app testing program started today with external testers and includes dedicated iPad and Duo support. Lots of polish to go on this one, but excited to get this in the App Store soon (free).</p><p><img src="https://pbs.twimg.com/media/HVQdBO5bcAARqSA.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>After being on the waitlist for ~15 years, we got the call and are Lakers season ticket holders.</title>

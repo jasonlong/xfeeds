@@ -7,6 +7,14 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>JetBrains IDEs are now powered by libghostty! This brings huge feature and performance improvements to JB terminals! Based</title>
+      <link>https://x.com/mitchellh/status/2115101011518095385</link>
+      <guid isPermaLink="true">https://x.com/mitchellh/status/2115101011518095385</guid>
+      <pubDate>Tue, 27 Oct 2026 15:19:12 GMT</pubDate>
+      <author>@mitchellh</author>
+      <description><![CDATA[<p>JetBrains IDEs are now powered by libghostty! This brings huge feature and performance improvements to JB terminals! Based on their own annual reports, that&apos;s over 12.5 million active users across all platforms about to get a libghostty-powered terminal.</p>]]></description>
+    </item>
+    <item>
       <title>a little tour of the Rex UI basics 📽️ there&apos;s so much I didn&apos;t touch on in this</title>
       <link>https://x.com/almonk/status/2115075350203969991</link>
       <guid isPermaLink="true">https://x.com/almonk/status/2115075350203969991</guid>
@@ -356,7 +364,7 @@
       <guid isPermaLink="true">https://x.com/mitchellh/status/2113347960813781335</guid>
       <pubDate>Thu, 22 Oct 2026 19:13:12 GMT</pubDate>
       <author>@mitchellh</author>
-      <description><![CDATA[<p>Greatest splash screen animation of all time by the way.</p><p><img src="https://pbs.twimg.com/media/HVQdBO5bcAARqSA.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Greatest splash screen animation of all time by the way.</p>]]></description>
     </item>
     <item>
       <title>The Rex iOS app testing program started today with external testers and includes dedicated iPad and Duo support.</title>
@@ -364,7 +372,7 @@
       <guid isPermaLink="true">https://x.com/mitchellh/status/2113346052090925406</guid>
       <pubDate>Thu, 22 Oct 2026 19:05:37 GMT</pubDate>
       <author>@mitchellh</author>
-      <description><![CDATA[<p>The Rex iOS app testing program started today with external testers and includes dedicated iPad and Duo support. Lots of polish to go on this one, but excited to get this in the App Store soon (free).</p>]]></description>
+      <description><![CDATA[<p>The Rex iOS app testing program started today with external testers and includes dedicated iPad and Duo support. Lots of polish to go on this one, but excited to get this in the App Store soon (free).</p><p><img src="https://pbs.twimg.com/media/HVQdBO5bcAARqSA.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>there really is no substitute for building your own tools. I was having a tough time dialing in</title>
@@ -1597,14 +1605,6 @@
       <pubDate>Sun, 11 Oct 2026 07:31:45 GMT</pubDate>
       <author>@avstorm</author>
       <description><![CDATA[<p>Fun fact: Apple updated its logo guidelines in early 2017, yet the og:image is still stuck in the past.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2109183935150166016/img/lB1789Z8HqIvVuQH.jpg" alt=""></p><p><img src="https://pbs.twimg.com/media/HUVToF0WQAAGsMS?format=jpg&amp;name=small" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>Abstractions</title>
-      <link>https://x.com/shadcn/status/2109168398005338166</link>
-      <guid isPermaLink="true">https://x.com/shadcn/status/2109168398005338166</guid>
-      <pubDate>Sun, 11 Oct 2026 06:25:07 GMT</pubDate>
-      <author>@shadcn</author>
-      <description><![CDATA[<p>Abstractions</p>]]></description>
     </item>
   </channel>
 </rss>
