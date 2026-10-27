@@ -7,6 +7,14 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>🫶</title>
+      <link>https://x.com/zerocam_app/status/2115048857822286234</link>
+      <guid isPermaLink="true">https://x.com/zerocam_app/status/2115048857822286234</guid>
+      <pubDate>Tue, 27 Oct 2026 11:51:58 GMT</pubDate>
+      <author>@zerocam_app</author>
+      <description><![CDATA[<p>🫶</p>]]></description>
+    </item>
+    <item>
       <title>A voice-to-text dictation app, with live transcription and edits, custom HUD, running on my own models (AI Gateway)</title>
       <link>https://x.com/shadcn/status/2114972098515096036</link>
       <guid isPermaLink="true">https://x.com/shadcn/status/2114972098515096036</guid>
@@ -236,7 +244,7 @@
       <guid isPermaLink="true">https://x.com/chan_k/status/2113622379050246243</guid>
       <pubDate>Fri, 23 Oct 2026 13:23:39 GMT</pubDate>
       <author>@chan_k</author>
-      <description><![CDATA[<p>iPhone Duo is here! Excited to have worked on the design of our open/close transition. It’s designed to make the two displays feel like one seamless experience by perceptually bending the focal plane, not the content, so that it feels like opening a window onto a singular view.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2113622313325543424/img/PtKK_WpkexUj4nmm.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>iPhone Duo is here! Excited to have worked on the design of our open/close transition. It’s designed to make the two displays feel like one seamless experience by perceptually bending the focal plane, not the content, so that it feels like opening a window onto a singular view.</p>]]></description>
     </item>
     <item>
       <title>I watched the iPhone Duo reviews and I think what I really want is an iPad Mini that</title>
@@ -1597,14 +1605,6 @@
       <pubDate>Sat, 10 Oct 2026 06:20:54 GMT</pubDate>
       <author>@shadcn</author>
       <description><![CDATA[<p>Most of what I do in Claude Code now are in Projects.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2108616285760499712/img/ESduThxQJik4m9hs.jpg" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>Paper is a visual interface to your agent. What will you create?</title>
-      <link>https://x.com/paper/status/2108729862987137383</link>
-      <guid isPermaLink="true">https://x.com/paper/status/2108729862987137383</guid>
-      <pubDate>Sat, 10 Oct 2026 01:22:32 GMT</pubDate>
-      <author>@paper</author>
-      <description><![CDATA[<p>Paper is a visual interface to your agent. What will you create?</p>]]></description>
     </item>
   </channel>
 </rss>
