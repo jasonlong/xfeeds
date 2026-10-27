@@ -7,6 +7,14 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>A voice-to-text dictation app, with live transcription and edits, custom HUD, running on my own models (AI Gateway)</title>
+      <link>https://x.com/shadcn/status/2114972098515096036</link>
+      <guid isPermaLink="true">https://x.com/shadcn/status/2114972098515096036</guid>
+      <pubDate>Tue, 27 Oct 2026 06:46:57 GMT</pubDate>
+      <author>@shadcn</author>
+      <description><![CDATA[<p>A voice-to-text dictation app, with live transcription and edits, custom HUD, running on my own models (AI Gateway) is really just T3 code + one prompt. Insane.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2114971901588033536/img/IL3BQikpLEfdTXWA.jpg" alt=""></p>]]></description>
+    </item>
+    <item>
       <title>I&apos;m a big fan of these newsstands in SF, they light up like a beacon at night it&apos;s</title>
       <link>https://x.com/stephenhaney/status/2114855387971399792</link>
       <guid isPermaLink="true">https://x.com/stephenhaney/status/2114855387971399792</guid>
@@ -276,7 +284,7 @@
       <guid isPermaLink="true">https://x.com/shadcn/status/2113499106844778956</guid>
       <pubDate>Fri, 23 Oct 2026 05:13:48 GMT</pubDate>
       <author>@shadcn</author>
-      <description><![CDATA[<p>Speaking of security, we created a registry for building OIDC configuration components.<br><br>Pick your providers, form and validation libraries, and token verifier (powered by jose). Then run one command to copy everything into your app.<br><br>I&apos;ve built these a few times before. I know</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2113498819409170432/img/usQShmQRMeZNxS8T.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Speaking of security, we created a registry for building OIDC configuration components.<br><br>Pick your providers, form and validation libraries, and token verifier (powered by jose). Then run one command to copy everything into your app.<br><br>I&apos;ve built these a few times before. I know</p>]]></description>
     </item>
     <item>
       <title>To explain the level of dedication we have to creating an exceptional iOS experience: @almonk made exact-size cardboard</title>
@@ -876,7 +884,7 @@
       <guid isPermaLink="true">https://x.com/shadcn/status/2111003691020906976</guid>
       <pubDate>Fri, 16 Oct 2026 07:57:55 GMT</pubDate>
       <author>@shadcn</author>
-      <description><![CDATA[<p>Browse and discover GitHub registries.</p>]]></description>
+      <description><![CDATA[<p>Browse and discover GitHub registries.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2110987900191961088/img/WNp9_Au6BbjksbLx.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>12 years ago today, Apple released OS X Yosemite.</title>
@@ -1052,7 +1060,7 @@
       <guid isPermaLink="true">https://x.com/shadcn/status/2110410655165779985</guid>
       <pubDate>Wed, 14 Oct 2026 16:41:24 GMT</pubDate>
       <author>@shadcn</author>
-      <description><![CDATA[<p>I just published Trace, a new component for agent activity. It&apos;s one abstraction for reasoning, tool calls, queues, chain of thought, subagents...etc<br><br>Also in this release: Code Block and AI Elements.<br><br>https://ui.shadcn.com/docs/changelog/2026-10-ai-elements…</p>]]></description>
+      <description><![CDATA[<p>I just published Trace, a new component for agent activity. It&apos;s one abstraction for reasoning, tool calls, queues, chain of thought, subagents...etc<br><br>Also in this release: Code Block and AI Elements.<br><br>https://ui.shadcn.com/docs/changelog/2026-10-ai-elements…</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2110410297529753600/img/tP8L9vBubLGBz-1w.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Claude Code&apos;s &quot;Pin as chapter&quot; is brilliant.</title>
@@ -1597,14 +1605,6 @@
       <pubDate>Sat, 10 Oct 2026 01:22:32 GMT</pubDate>
       <author>@paper</author>
       <description><![CDATA[<p>Paper is a visual interface to your agent. What will you create?</p>]]></description>
-    </item>
-    <item>
-      <title>You can just do things</title>
-      <link>https://x.com/AREdotNA/status/2108695885395739062</link>
-      <guid isPermaLink="true">https://x.com/AREdotNA/status/2108695885395739062</guid>
-      <pubDate>Fri, 09 Oct 2026 23:07:31 GMT</pubDate>
-      <author>@AREdotNA</author>
-      <description><![CDATA[<p>You can just do things</p><p><img src="https://pbs.twimg.com/media/HUNuJnZbkAAOzHI?format=jpg&amp;name=small" alt=""></p>]]></description>
     </item>
   </channel>
 </rss>
