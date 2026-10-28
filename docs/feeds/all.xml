@@ -7,6 +7,14 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>Dimensional drawings of the iPhone Duo</title>
+      <link>https://x.com/avstorm/status/2115454233612828969</link>
+      <guid isPermaLink="true">https://x.com/avstorm/status/2115454233612828969</guid>
+      <pubDate>Wed, 28 Oct 2026 14:42:47 GMT</pubDate>
+      <author>@avstorm</author>
+      <description><![CDATA[<p>Dimensional drawings of the iPhone Duo</p><p><img src="https://pbs.twimg.com/media/HVuaXK-WMAA42RY?format=png&amp;name=small" alt=""></p><p><img src="https://pbs.twimg.com/media/HVuaXZmXkAAt2E0?format=png&amp;name=small" alt=""></p><p><img src="https://pbs.twimg.com/media/HVuaYgIXQAAAzeS?format=png&amp;name=small" alt=""></p><p><img src="https://pbs.twimg.com/media/HVuaY_nXwAALL7r?format=jpg&amp;name=small" alt=""></p>]]></description>
+    </item>
+    <item>
       <title>lotta stuff i love about the Rex UI (obviously), but one of the hidden gems is our custom,</title>
       <link>https://x.com/almonk/status/2115433870208258482</link>
       <guid isPermaLink="true">https://x.com/almonk/status/2115433870208258482</guid>
@@ -116,7 +124,7 @@
       <guid isPermaLink="true">https://x.com/avstorm/status/2114837750793052646</guid>
       <pubDate>Mon, 26 Oct 2026 21:53:06 GMT</pubDate>
       <author>@avstorm</author>
-      <description><![CDATA[<p>Apple has added a simplified Touch ID icon in iOS 27.2 for iPhone Duo. The animation still uses the “touchid” SF Symbol.</p><p><img src="https://pbs.twimg.com/media/HVln6XFWAAAwcJW?format=png&amp;name=360x360" alt=""></p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2114835849258876928/img/tPxVhW7W2ei811M8.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Apple has added a simplified Touch ID icon in iOS 27.2 for iPhone Duo. The animation still uses the “touchid” SF Symbol.</p><p><img src="https://pbs.twimg.com/media/HVln6XFWAAAwcJW?format=png&amp;name=360x360" alt=""></p>]]></description>
     </item>
     <item>
       <title>Check out the full getting started with Paper video here:</title>
@@ -196,7 +204,7 @@
       <guid isPermaLink="true">https://x.com/avstorm/status/2114732232396947755</guid>
       <pubDate>Mon, 26 Oct 2026 14:53:48 GMT</pubDate>
       <author>@avstorm</author>
-      <description><![CDATA[<p>The new iPad mini: Thinner. Lighter. Ultra-portable.</p>]]></description>
+      <description><![CDATA[<p>The new iPad mini: Thinner. Lighter. Ultra-portable.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2114732109273198592/img/or3Y-XqN48F0_aB_.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Apple’s attention to the smallest details is insane.</title>
@@ -204,7 +212,7 @@
       <guid isPermaLink="true">https://x.com/avstorm/status/2114719933770711336</guid>
       <pubDate>Mon, 26 Oct 2026 14:04:56 GMT</pubDate>
       <author>@avstorm</author>
-      <description><![CDATA[<p>Apple’s attention to the smallest details is insane.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2114719349067894784/img/fM-6yeUPyyxpjV7k.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Apple’s attention to the smallest details is insane.</p>]]></description>
     </item>
     <item>
       <title>Current status: reading coding tutorial on Medium. Send help.</title>
@@ -676,7 +684,7 @@
       <guid isPermaLink="true">https://x.com/avstorm/status/2112577407148298434</guid>
       <pubDate>Tue, 20 Oct 2026 16:11:18 GMT</pubDate>
       <author>@avstorm</author>
-      <description><![CDATA[<p>The note on the old Apple Music icon is literally the 🎵 emoji.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2112576647563976704/img/wbEVGNVezrWYAzVB.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>The note on the old Apple Music icon is literally the 🎵 emoji.</p>]]></description>
     </item>
     <item>
       <title>Thanks @_alejandroao for all the effort you put into helping others understand what we build</title>
@@ -820,7 +828,7 @@
       <guid isPermaLink="true">https://x.com/avstorm/status/2111827088730943601</guid>
       <pubDate>Sun, 18 Oct 2026 14:29:48 GMT</pubDate>
       <author>@avstorm</author>
-      <description><![CDATA[<p>Five years ago today, Apple dropped one of its best Apple Event intros ever.</p>]]></description>
+      <description><![CDATA[<p>Five years ago today, Apple dropped one of its best Apple Event intros ever.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2111826383739432960/img/OepRaiEPpulVNIFj.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Hackable software is so fun</title>
@@ -1597,14 +1605,6 @@
       <pubDate>Sun, 11 Oct 2026 15:28:24 GMT</pubDate>
       <author>@shadcn</author>
       <description><![CDATA[<p>I still spend a LOT of time figuring out the right abstractions and interfaces (user and programming).<br><br>I recently built two components for shadcn/react. Each took weeks of UX research, experimentation, and iteration to get right.<br><br>AI hasn&apos;t accelerated this part yet, at least</p>]]></description>
-    </item>
-    <item>
-      <title>https://apple.com/ac/structured-data/images/open_graph_logo.png…</title>
-      <link>https://x.com/avstorm/status/2109284467978223770</link>
-      <guid isPermaLink="true">https://x.com/avstorm/status/2109284467978223770</guid>
-      <pubDate>Sun, 11 Oct 2026 14:06:20 GMT</pubDate>
-      <author>@avstorm</author>
-      <description><![CDATA[<p>https://apple.com/ac/structured-data/images/open_graph_logo.png…</p><p><img src="https://pbs.twimg.com/media/HUWu6eGWcAEKv7n?format=png&amp;name=small" alt=""></p>]]></description>
     </item>
   </channel>
 </rss>
