@@ -7,6 +7,14 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>I do all of my decks and presentations in Paper it&apos;s fast and fun and lets you spend</title>
+      <link>https://x.com/stephenhaney/status/2115291388531154996</link>
+      <guid isPermaLink="true">https://x.com/stephenhaney/status/2115291388531154996</guid>
+      <pubDate>Wed, 28 Oct 2026 03:55:41 GMT</pubDate>
+      <author>@stephenhaney</author>
+      <description><![CDATA[<p>I do all of my decks and presentations in Paper<br><br>it&apos;s fast and fun and lets you spend more time on the content<br><br>paste some style references plus your plaintext ideas for slides, then ask your agent to combine them... 5 minutes later: insane deck<br><br>here I&apos;m using our Paper Mono art</p><p><img src="https://pbs.twimg.com/media/HVsFtjDbcAA6mlb?format=jpg&amp;name=small" alt=""></p>]]></description>
+    </item>
+    <item>
       <title>Here is more info on our plans for components in Paper! We&apos;re so excited to share what we&apos;ve</title>
       <link>https://x.com/paper/status/2115180596695839231</link>
       <guid isPermaLink="true">https://x.com/paper/status/2115180596695839231</guid>
@@ -356,7 +364,7 @@
       <guid isPermaLink="true">https://x.com/shadcn/status/2113499106844778956</guid>
       <pubDate>Fri, 23 Oct 2026 05:13:48 GMT</pubDate>
       <author>@shadcn</author>
-      <description><![CDATA[<p>Speaking of security, we created a registry for building OIDC configuration components.<br><br>Pick your providers, form and validation libraries, and token verifier (powered by jose). Then run one command to copy everything into your app.<br><br>I&apos;ve built these a few times before. I know</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2113498819409170432/img/usQShmQRMeZNxS8T.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Speaking of security, we created a registry for building OIDC configuration components.<br><br>Pick your providers, form and validation libraries, and token verifier (powered by jose). Then run one command to copy everything into your app.<br><br>I&apos;ve built these a few times before. I know</p>]]></description>
     </item>
     <item>
       <title>To explain the level of dedication we have to creating an exceptional iOS experience: @almonk made exact-size cardboard</title>
@@ -1597,14 +1605,6 @@
       <pubDate>Sun, 11 Oct 2026 13:47:03 GMT</pubDate>
       <author>@mitchellh</author>
       <description><![CDATA[<p>Powered by OSC7501! The implementation seems obvious, but @almonk went into the dungeon for weeks toiling over TINY details around when exactly to show different UI states and it feels amazing. <br><br>Everyone at Superlogical all agreed we&apos;ve never used any activity inbox in any</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2109261490838544384/img/7S3muRxeg-hcsOPI.jpg" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>New for Rex testers. 👁️ Activity Mode shows you active and idling processes and agents for quick context</title>
-      <link>https://x.com/almonk/status/2109262000165437943</link>
-      <guid isPermaLink="true">https://x.com/almonk/status/2109262000165437943</guid>
-      <pubDate>Sun, 11 Oct 2026 12:37:03 GMT</pubDate>
-      <author>@almonk</author>
-      <description><![CDATA[<p>New for Rex testers. 👁️ Activity Mode shows you active and idling processes and agents for quick context switching, and some extra metadata.<br><br>We&apos;re working our way slowly through the waitlist. Our priority is building quality software, so we&apos;re admitting testers in batches of 50</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2109261490838544384/img/7S3muRxeg-hcsOPI.jpg" alt=""></p>]]></description>
     </item>
   </channel>
 </rss>
