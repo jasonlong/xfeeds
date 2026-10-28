@@ -7,6 +7,14 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>Latest updates on Rex beta rollout: - I&apos;ll have a formal update next week (blog post). - We&apos;ve</title>
+      <link>https://x.com/mitchellh/status/2115569789574033436</link>
+      <guid isPermaLink="true">https://x.com/mitchellh/status/2115569789574033436</guid>
+      <pubDate>Wed, 28 Oct 2026 22:21:57 GMT</pubDate>
+      <author>@mitchellh</author>
+      <description><![CDATA[<p>Latest updates on Rex beta rollout: <br>- I&apos;ll have a formal update next week (blog post).<br>- We&apos;ve invited 12,000 more this week.<br>- We&apos;ve fully opened iOS testing to everyone invited<br>- Server (Linux + FreeBSD) testing is up to ~2,000 and we&apos;re going to open that up to everyone</p>]]></description>
+    </item>
+    <item>
       <title>A screen come true. https://apple.com/macbook-pro/proled-xdr-display/…</title>
       <link>https://x.com/avstorm/status/2115563322544148616</link>
       <guid isPermaLink="true">https://x.com/avstorm/status/2115563322544148616</guid>
@@ -204,7 +212,7 @@
       <guid isPermaLink="true">https://x.com/avstorm/status/2115067884846092436</guid>
       <pubDate>Tue, 27 Oct 2026 13:07:34 GMT</pubDate>
       <author>@avstorm</author>
-      <description><![CDATA[<p>Apple introduces the new 14‑inch MacBook Pro with M6</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2115067717996642304/img/FUpRnZqNhxTaQ6vH.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Apple introduces the new 14‑inch MacBook Pro with M6</p>]]></description>
     </item>
     <item>
       <title>🫶</title>
@@ -540,7 +548,7 @@
       <guid isPermaLink="true">https://x.com/mitchellh/status/2113346052090925406</guid>
       <pubDate>Thu, 22 Oct 2026 19:05:37 GMT</pubDate>
       <author>@mitchellh</author>
-      <description><![CDATA[<p>The Rex iOS app testing program started today with external testers and includes dedicated iPad and Duo support. Lots of polish to go on this one, but excited to get this in the App Store soon (free).</p><p><img src="https://pbs.twimg.com/media/HVQdBO5bcAARqSA.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>The Rex iOS app testing program started today with external testers and includes dedicated iPad and Duo support. Lots of polish to go on this one, but excited to get this in the App Store soon (free).</p>]]></description>
     </item>
     <item>
       <title>there really is no substitute for building your own tools. I was having a tough time dialing in</title>
@@ -692,7 +700,7 @@
       <guid isPermaLink="true">https://x.com/avstorm/status/2112930113654280449</guid>
       <pubDate>Wed, 21 Oct 2026 15:32:50 GMT</pubDate>
       <author>@avstorm</author>
-      <description><![CDATA[<p>Behind the new Apple Music brand identity</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2112930015620804608/img/V4PEvst4cvXKXZYX.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Behind the new Apple Music brand identity</p>]]></description>
     </item>
     <item>
       <title>Apple announced the new Apple Music branding</title>
@@ -724,7 +732,7 @@
       <guid isPermaLink="true">https://x.com/avstorm/status/2112886871017529379</guid>
       <pubDate>Wed, 21 Oct 2026 12:41:00 GMT</pubDate>
       <author>@avstorm</author>
-      <description><![CDATA[<p>Under-display camera animation of iPhone Duo</p>]]></description>
+      <description><![CDATA[<p>Under-display camera animation of iPhone Duo</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2112847706162970624/img/L8VtjBVUngeayJQy.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Media post</title>
@@ -1597,14 +1605,6 @@
       <pubDate>Mon, 12 Oct 2026 16:38:51 GMT</pubDate>
       <author>@avstorm</author>
       <description><![CDATA[<p>Google has introduced Fitbit Edge</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2109684704018378752/img/igdGvTShElyd3gVY.jpg" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>Coding agents generally are built for a chat log. Working with them on a canvas is a different</title>
-      <link>https://x.com/tldraw/status/2109675971154686320</link>
-      <guid isPermaLink="true">https://x.com/tldraw/status/2109675971154686320</guid>
-      <pubDate>Mon, 12 Oct 2026 16:02:02 GMT</pubDate>
-      <author>@tldraw</author>
-      <description><![CDATA[<p>Coding agents generally are built for a chat log. Working with them on a canvas is a different problem: they need to see what’s there, where it is, and what’s off-screen.<br><br>@max__drake wrote up how we’ve been building the harness that gives them that context:</p>]]></description>
     </item>
   </channel>
 </rss>

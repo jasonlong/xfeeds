@@ -13,6 +13,14 @@
     </image>
     <ttl>120</ttl>
     <item>
+      <title>Latest updates on Rex beta rollout: - I&apos;ll have a formal update next week (blog post). - We&apos;ve</title>
+      <link>https://x.com/mitchellh/status/2115569789574033436</link>
+      <guid isPermaLink="true">https://x.com/mitchellh/status/2115569789574033436</guid>
+      <pubDate>Wed, 28 Oct 2026 22:21:57 GMT</pubDate>
+      <author>@mitchellh</author>
+      <description><![CDATA[<p>Latest updates on Rex beta rollout: <br>- I&apos;ll have a formal update next week (blog post).<br>- We&apos;ve invited 12,000 more this week.<br>- We&apos;ve fully opened iOS testing to everyone invited<br>- Server (Linux + FreeBSD) testing is up to ~2,000 and we&apos;re going to open that up to everyone</p>]]></description>
+    </item>
+    <item>
       <title>Siri is still bad, like really really bad. I opened an email with my Uber Eats confirmation, there</title>
       <link>https://x.com/mitchellh/status/2115516893813748106</link>
       <guid isPermaLink="true">https://x.com/mitchellh/status/2115516893813748106</guid>
@@ -82,7 +90,7 @@
       <guid isPermaLink="true">https://x.com/mitchellh/status/2113346052090925406</guid>
       <pubDate>Thu, 22 Oct 2026 19:05:37 GMT</pubDate>
       <author>@mitchellh</author>
-      <description><![CDATA[<p>The Rex iOS app testing program started today with external testers and includes dedicated iPad and Duo support. Lots of polish to go on this one, but excited to get this in the App Store soon (free).</p><p><img src="https://pbs.twimg.com/media/HVQdBO5bcAARqSA.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>The Rex iOS app testing program started today with external testers and includes dedicated iPad and Duo support. Lots of polish to go on this one, but excited to get this in the App Store soon (free).</p>]]></description>
     </item>
     <item>
       <title>After being on the waitlist for ~15 years, we got the call and are Lakers season ticket holders.</title>
