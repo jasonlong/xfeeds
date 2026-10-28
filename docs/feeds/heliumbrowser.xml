@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+  <channel>
+    <title>Helium / @heliumbrowser</title>
+    <description>Recent X posts collected for @heliumbrowser</description>
+    <link>https://x.com/heliumbrowser</link>
+    <atom:link href="https://jasonlong.github.io/xfeeds/feeds/heliumbrowser.xml" rel="self" type="application/rss+xml"/>
+    <webfeeds:icon>https://pbs.twimg.com/profile_images/2061740543827165184/eZ_2Jiy8_200x200.jpg</webfeeds:icon>
+    <image>
+      <url>https://pbs.twimg.com/profile_images/2061740543827165184/eZ_2Jiy8_200x200.jpg</url>
+      <title>Helium / @heliumbrowser</title>
+      <link>https://x.com/heliumbrowser</link>
+    </image>
+    <ttl>120</ttl>
+    <item>
+      <title>recently new in the helium browser: - cname uncloaking in built-in ublock origin, enabled by default - important</title>
+      <link>https://x.com/heliumbrowser/status/2101027440638210306</link>
+      <guid isPermaLink="true">https://x.com/heliumbrowser/status/2101027440638210306</guid>
+      <pubDate>Fri, 18 Sep 2026 19:15:51 GMT</pubDate>
+      <author>@heliumbrowser</author>
+      <description><![CDATA[<p>recently new in the helium browser:<br>- cname uncloaking in built-in ublock origin, enabled by default<br>- important fix for rare mid-update data reset on macOS, and an additional safeguard that makes helium retry several times, close the browser on repeated failure, and notify the</p><p><img src="https://pbs.twimg.com/media/HShWHriXYAAO-pq?format=jpg&amp;name=small" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>we were granted a trademark for Helium in EU 🇪🇺</title>
+      <link>https://x.com/heliumbrowser/status/2088900610762449189</link>
+      <guid isPermaLink="true">https://x.com/heliumbrowser/status/2088900610762449189</guid>
+      <pubDate>Sun, 16 Aug 2026 08:08:10 GMT</pubDate>
+      <author>@heliumbrowser</author>
+      <description><![CDATA[<p>we were granted a trademark for Helium in EU 🇪🇺</p><p><img src="https://pbs.twimg.com/media/HP06N1TXwAANDI4?format=png&amp;name=small" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>that must suck 🥱</title>
+      <link>https://x.com/heliumbrowser/status/2086815280232088019</link>
+      <guid isPermaLink="true">https://x.com/heliumbrowser/status/2086815280232088019</guid>
+      <pubDate>Mon, 10 Aug 2026 14:01:48 GMT</pubDate>
+      <author>@heliumbrowser</author>
+      <description><![CDATA[<p>that must suck 🥱</p><p><img src="https://pbs.twimg.com/media/HPXbb2LX0AAkXdv?format=png&amp;name=small" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>Media post</title>
+      <link>https://x.com/heliumbrowser/status/2086139794975768644</link>
+      <guid isPermaLink="true">https://x.com/heliumbrowser/status/2086139794975768644</guid>
+      <pubDate>Sat, 08 Aug 2026 17:17:40 GMT</pubDate>
+      <author>@heliumbrowser</author>
+      <description><![CDATA[<p></p>]]></description>
+    </item>
+    <item>
+      <title>global privacy control is now available in the latest version of helium, along with useful guidance on privacy</title>
+      <link>https://x.com/heliumbrowser/status/2086139792241127460</link>
+      <guid isPermaLink="true">https://x.com/heliumbrowser/status/2086139792241127460</guid>
+      <pubDate>Sat, 08 Aug 2026 17:17:39 GMT</pubDate>
+      <author>@heliumbrowser</author>
+      <description><![CDATA[<p>global privacy control is now available in the latest version of helium, along with useful guidance on privacy signals</p><p><img src="https://pbs.twimg.com/media/HPN0cF9WYAAR9Qt?format=jpg&amp;name=small" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>since opt-in crash reporting requires us to process and store reports for debugging, we added a section to</title>
+      <link>https://x.com/heliumbrowser/status/2080218126327648508</link>
+      <guid isPermaLink="true">https://x.com/heliumbrowser/status/2080218126327648508</guid>
+      <pubDate>Thu, 23 Jul 2026 09:07:04 GMT</pubDate>
+      <author>@heliumbrowser</author>
+      <description><![CDATA[<p>since opt-in crash reporting requires us to process and store reports for debugging, we added a section to the privacy policy to reflect that: https://helium.computer/privacy<br><br>see the full diff compared to the last version here: https://github.com/imputnet/helium-legal/compare/c03dfa8..96f43a9…<br><br>helium and its web services are</p>]]></description>
+    </item>
+    <item>
+      <title>recently added to the helium browser: - opt-in crash reporting, with a prompt after a crash and optional</title>
+      <link>https://x.com/heliumbrowser/status/2080218122674376708</link>
+      <guid isPermaLink="true">https://x.com/heliumbrowser/status/2080218122674376708</guid>
+      <pubDate>Thu, 23 Jul 2026 09:07:03 GMT</pubDate>
+      <author>@heliumbrowser</author>
+      <description><![CDATA[<p>recently added to the helium browser:<br>- opt-in crash reporting, with a prompt after a crash and optional automatic reporting in settings<br>- fingerprinting protection settings and explainers. helium has had fingerprinting protection for a while, but now you can toggle it per site</p><p><img src="https://pbs.twimg.com/media/HN5owXDWYAAq3D8?format=jpg&amp;name=small" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>helium still supports mv2 extensions btw</title>
+      <link>https://x.com/heliumbrowser/status/2077366818050552299</link>
+      <guid isPermaLink="true">https://x.com/heliumbrowser/status/2077366818050552299</guid>
+      <pubDate>Wed, 15 Jul 2026 12:16:59 GMT</pubDate>
+      <author>@heliumbrowser</author>
+      <description><![CDATA[<p>helium still supports mv2 extensions btw</p>]]></description>
+    </item>
+    <item>
+      <title>we published the first blog post on our new website, highlighting our efforts to ensure that helium is</title>
+      <link>https://x.com/heliumbrowser/status/2075182915130937528</link>
+      <guid isPermaLink="true">https://x.com/heliumbrowser/status/2075182915130937528</guid>
+      <pubDate>Thu, 09 Jul 2026 11:38:56 GMT</pubDate>
+      <author>@heliumbrowser</author>
+      <description><![CDATA[<p>we published the first blog post on our new website, highlighting our efforts to ensure that helium is transparent, open, and people-first<br><br>we believe transparency is paramount for projects like helium, and encourage others to do the same</p>]]></description>
+    </item>
+    <item>
+      <title>along with the landing page update, we&apos;ve revised privacy policy and terms of use with updated markdown formatting</title>
+      <link>https://x.com/heliumbrowser/status/2075178177224179896</link>
+      <guid isPermaLink="true">https://x.com/heliumbrowser/status/2075178177224179896</guid>
+      <pubDate>Thu, 09 Jul 2026 11:20:07 GMT</pubDate>
+      <author>@heliumbrowser</author>
+      <description><![CDATA[<p>along with the landing page update, we&apos;ve revised privacy policy and terms of use with updated markdown formatting and explicit mention of cloudflare usage for caching browser updates:<br>- https://helium.computer/privacy<br>- https://helium.computer/terms<br><br>see the full diff for both here:</p>]]></description>
+    </item>
+    <item>
+      <title>we released the brand new landing page for helium, fully up-to-date and packed with fresh info go check</title>
+      <link>https://x.com/heliumbrowser/status/2075178175022186709</link>
+      <guid isPermaLink="true">https://x.com/heliumbrowser/status/2075178175022186709</guid>
+      <pubDate>Thu, 09 Jul 2026 11:20:06 GMT</pubDate>
+      <author>@heliumbrowser</author>
+      <description><![CDATA[<p>we released the brand new landing page for helium, fully up-to-date and packed with fresh info<br><br>go check it out https://helium.computer :D</p>]]></description>
+    </item>
+    <item>
+      <title>native selection translation is now available in helium on macOS it uses apple&apos;s translation service, which can be</title>
+      <link>https://x.com/heliumbrowser/status/2068238234866659661</link>
+      <guid isPermaLink="true">https://x.com/heliumbrowser/status/2068238234866659661</guid>
+      <pubDate>Sat, 20 Jun 2026 07:43:15 GMT</pubDate>
+      <author>@heliumbrowser</author>
+      <description><![CDATA[<p>native selection translation is now available in helium on macOS<br><br>it uses apple&apos;s translation service, which can be used offline if you download the models in system settings</p>]]></description>
+    </item>
+    <item>
+      <title>long time no posting, here&apos;s some of the stuff we released in helium recently: - customizable keyboard shortcuts</title>
+      <link>https://x.com/heliumbrowser/status/2064634566246072542</link>
+      <guid isPermaLink="true">https://x.com/heliumbrowser/status/2064634566246072542</guid>
+      <pubDate>Wed, 10 Jun 2026 09:03:34 GMT</pubDate>
+      <author>@heliumbrowser</author>
+      <description><![CDATA[<p>long time no posting, here&apos;s some of the stuff we released in helium recently:<br>- customizable keyboard shortcuts on all platforms<br>- automatic updates on windows<br>- frameless mode (previously zen mode), with floating sidebar, is now out of beta and included in settings by default<br>-</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2064630111995904000/img/CvxJaabRhiYEsd55.jpg" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>you can get helium at https://helium.computer or from releases on github: https://github.com/imputnet/helium#downloads… helium is open source, developed in</title>
+      <link>https://x.com/heliumbrowser/status/2064634568586498265</link>
+      <guid isPermaLink="true">https://x.com/heliumbrowser/status/2064634568586498265</guid>
+      <pubDate>Wed, 10 Jun 2026 09:03:34 GMT</pubDate>
+      <author>@heliumbrowser</author>
+      <description><![CDATA[<p>you can get helium at https://helium.computer or from releases on github: https://github.com/imputnet/helium#downloads…<br><br>helium is open source, developed in public, and fully transparent. if you&apos;re curious, you can take a look at all code changes in the commit history: https://github.com/imputnet/helium/commits/main/… .</p>]]></description>
+    </item>
+    <item>
+      <title>helium is open source, developed in public, and fully transparent. if you&apos;re extra curious, you can take a</title>
+      <link>https://x.com/heliumbrowser/status/2048412407622422982</link>
+      <guid isPermaLink="true">https://x.com/heliumbrowser/status/2048412407622422982</guid>
+      <pubDate>Sun, 26 Apr 2026 14:42:30 GMT</pubDate>
+      <author>@heliumbrowser</author>
+      <description><![CDATA[<p>helium is open source, developed in public, and fully transparent. if you&apos;re extra curious, you can take a look at all changes in the commit history: https://github.com/imputnet/helium/commits/main/…<br><br>if you like helium and would like to support it, you can sponsor our work at https://helium.computer/sponsor :D</p>]]></description>
+    </item>
+    <item>
+      <title>new this week in helium: - web content frame with concentric rounded corners that dynamically adjust based on</title>
+      <link>https://x.com/heliumbrowser/status/2048412400529920016</link>
+      <guid isPermaLink="true">https://x.com/heliumbrowser/status/2048412400529920016</guid>
+      <pubDate>Sun, 26 Apr 2026 14:42:28 GMT</pubDate>
+      <author>@heliumbrowser</author>
+      <description><![CDATA[<p>new this week in helium:<br>- web content frame with concentric rounded corners that dynamically adjust based on the adjacent surface across all platforms<br>- a whole lot of zen mode UX and stability improvements that make it a joy to use, including new options to pin the sidebar or</p>]]></description>
+    </item>
+    <item>
+      <title>zen mode is WIP, so it&apos;s currently disabled by default, but you can enable it via a flag</title>
+      <link>https://x.com/heliumbrowser/status/2042262823447769243</link>
+      <guid isPermaLink="true">https://x.com/heliumbrowser/status/2042262823447769243</guid>
+      <pubDate>Thu, 09 Apr 2026 15:26:15 GMT</pubDate>
+      <author>@heliumbrowser</author>
+      <description><![CDATA[<p>zen mode is WIP, so it&apos;s currently disabled by default, but you can enable it via a flag if you want to try it early:<br>1. open helium://flags<br>2. search for helium-zen-mode<br><br>btw, you can pin the sidebar and autohide the toolbar via cmd/ctrl+s in zen mode:</p><p><img src="https://pbs.twimg.com/media/HFeRzLXWUAAYN1L?format=jpg&amp;name=small" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>many new ways to make your browser feel &quot;just right&quot; dropped in helium today: - centered address bar</title>
+      <link>https://x.com/heliumbrowser/status/2042262820599758934</link>
+      <guid isPermaLink="true">https://x.com/heliumbrowser/status/2042262820599758934</guid>
+      <pubDate>Thu, 09 Apr 2026 15:26:14 GMT</pubDate>
+      <author>@heliumbrowser</author>
+      <description><![CDATA[<p>many new ways to make your browser feel &quot;just right&quot; dropped in helium today:<br>- centered address bar<br>- minimal address bar<br>- new dynamic layout<br>- improvements to vertical layout<br>- and experimental zen/frameless mode (flagged, bit buggy, but cool!)<br><br>http://helium.computer</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2042260890393653248/img/E2nB-JcJ2s2VhRf1.jpg" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>still can&apos;t decide on the best keyboard shortcut for toggling the sidebar, but we will come up with</title>
+      <link>https://x.com/heliumbrowser/status/2025166798690144350</link>
+      <guid isPermaLink="true">https://x.com/heliumbrowser/status/2025166798690144350</guid>
+      <pubDate>Sat, 21 Feb 2026 11:12:45 GMT</pubDate>
+      <author>@heliumbrowser</author>
+      <description><![CDATA[<p>still can&apos;t decide on the best keyboard shortcut for toggling the sidebar, but we will come up with the best solution for this over next few updates</p>]]></description>
+    </item>
+    <item>
+      <title>and with today&apos;s update, you can now position vertical tabs on the right side! we also made a</title>
+      <link>https://x.com/heliumbrowser/status/2025166790314119310</link>
+      <guid isPermaLink="true">https://x.com/heliumbrowser/status/2025166790314119310</guid>
+      <pubDate>Sat, 21 Feb 2026 11:12:43 GMT</pubDate>
+      <author>@heliumbrowser</author>
+      <description><![CDATA[<p>and with today&apos;s update, you can now position vertical tabs on the right side!<br><br>we also made a few improvements based on your feedback, including saving the sidebar width and collapse preferences across sessions</p><p><img src="https://pbs.twimg.com/media/HBrVBgiW8AAWwtX?format=jpg&amp;name=small" alt=""></p><p><img src="https://pbs.twimg.com/media/HBWq_GyWIAArXKf?format=jpg&amp;name=240x240" alt=""></p>]]></description>
+    </item>
+  </channel>
+</rss>
