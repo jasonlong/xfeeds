@@ -13,6 +13,22 @@
     </image>
     <ttl>120</ttl>
     <item>
+      <title>We tweaked undo to be more precise. Among other fixes, you can double-click a frame’s corner or edge</title>
+      <link>https://x.com/tldraw/status/2115510721584968003</link>
+      <guid isPermaLink="true">https://x.com/tldraw/status/2115510721584968003</guid>
+      <pubDate>Wed, 28 Oct 2026 18:27:14 GMT</pubDate>
+      <author>@tldraw</author>
+      <description><![CDATA[<p>We tweaked undo to be more precise.<br><br>Among other fixes, you can double-click a frame’s corner or edge to fit it to its content, and undo will put it back exactly as you drew it. Before, that undo could delete the frame altogether.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2115510674784944128/img/YBxyVnT6Tp2C5b2Z.jpg" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>We&apos;ve just landed version 5.6 of the tldraw SDK. Read the release blog for the full breakdown, or</title>
+      <link>https://x.com/tldraw/status/2115510661539364996</link>
+      <guid isPermaLink="true">https://x.com/tldraw/status/2115510661539364996</guid>
+      <pubDate>Wed, 28 Oct 2026 18:27:00 GMT</pubDate>
+      <author>@tldraw</author>
+      <description><![CDATA[<p>We&apos;ve just landed version 5.6 of the tldraw SDK.<br><br>Read the release blog for the full breakdown, or check out a few highlights below.</p>]]></description>
+    </item>
+    <item>
       <title>In 2023, ~80% of the team’s engineering time was going into keeping its canvas running. tldraw took that</title>
       <link>https://x.com/tldraw/status/2114809800261595197</link>
       <guid isPermaLink="true">https://x.com/tldraw/status/2114809800261595197</guid>
@@ -26,7 +42,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2114809661199388686</guid>
       <pubDate>Mon, 26 Oct 2026 20:01:29 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>One creative campaign can still mean four tools and twelve tabs. But no longer.<br><br>@makingendless lets creative teams go from “what are people talking about?” to finished content in one workspace. Here’s how we helped.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2114809542752239618/img/dMgSp45zQJKcXSyf.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>One creative campaign can still mean four tools and twelve tabs. But no longer.<br><br>@makingendless lets creative teams go from “what are people talking about?” to finished content in one workspace. Here’s how we helped.</p>]]></description>
     </item>
     <item>
       <title>@anikrisn explores how this works in tldraw, from a single shape to nested frames to rotated selections:</title>
@@ -42,7 +58,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2114764768410230909</guid>
       <pubDate>Mon, 26 Oct 2026 17:03:05 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>If you rotate a 100×50 rectangle by 45°, its bounding box grows to roughly 106×106.<br><br>That might seem wasteful, but it’s deliberate. Axis-aligned boxes can be checked for overlap with four comparisons. Rotated ones need the separating axis theorem and a lot more math.<br><br>tldraw lets</p>]]></description>
+      <description><![CDATA[<p>If you rotate a 100×50 rectangle by 45°, its bounding box grows to roughly 106×106.<br><br>That might seem wasteful, but it’s deliberate. Axis-aligned boxes can be checked for overlap with four comparisons. Rotated ones need the separating axis theorem and a lot more math.<br><br>tldraw lets</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2114764747145089024/img/cvRt-K3_DlMVxfxg.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>look at the examples</title>
@@ -58,7 +74,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2113684347622658063</guid>
       <pubDate>Fri, 23 Oct 2026 17:29:53 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>the future we were promised</p>]]></description>
+      <description><![CDATA[<p>the future we were promised</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2113684217754259456/img/hYwEX3tCwUh1Ruwf.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>notably absent ;) 🔒🔒🔒</title>
@@ -74,7 +90,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2113219944163017109</guid>
       <pubDate>Thu, 22 Oct 2026 10:44:31 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>Love to see @Aries take the trading desk to the infinite canvas.<br><br>Aries Infinite turns charts, options chains and order tickets into objects you can move, resize and arrange freely.<br><br>Congrats to the team on the launch!</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2112565258837544960/img/8s5quDuRHu0GJ528.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Love to see @Aries take the trading desk to the infinite canvas.<br><br>Aries Infinite turns charts, options chains and order tickets into objects you can move, resize and arrange freely.<br><br>Congrats to the team on the launch!</p>]]></description>
     </item>
     <item>
       <title>huge opportunities in picking up old spikes and side projects</title>
@@ -82,7 +98,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2113199722177630210</guid>
       <pubDate>Thu, 22 Oct 2026 09:24:09 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>huge opportunities in picking up old spikes and side projects</p>]]></description>
+      <description><![CDATA[<p>huge opportunities in picking up old spikes and side projects</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2113172900224114688/img/_LjnN9imD4L_128-.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>@anikrisn explores the decisions behind how we built our bounding boxes.</title>
@@ -106,7 +122,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2112539677119177074</guid>
       <pubDate>Tue, 20 Oct 2026 13:41:22 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p></p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2112539614401449984/img/fi1lpPmVyERcuYY7.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p></p>]]></description>
     </item>
     <item>
       <title>Media post</title>
@@ -114,7 +130,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2112485341571797320</guid>
       <pubDate>Tue, 20 Oct 2026 10:05:28 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p></p>]]></description>
+      <description><![CDATA[<p></p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2112485233668861952/img/y3LQHpSUaNV_37Tc.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>early experience at</title>
@@ -795,22 +811,6 @@
       <pubDate>Thu, 24 Sep 2026 17:58:29 GMT</pubDate>
       <author>@tldraw</author>
       <description><![CDATA[<p>You can make scrapbook-style animations on tldraw flash</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2100188641574170624/img/sMV6jhdQpRO4YJV2.jpg" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>Opus 5.5 made the tldraw flash whimsical cat playable</title>
-      <link>https://x.com/tldraw/status/2103182286565060907</link>
-      <guid isPermaLink="true">https://x.com/tldraw/status/2103182286565060907</guid>
-      <pubDate>Thu, 24 Sep 2026 17:58:27 GMT</pubDate>
-      <author>@tldraw</author>
-      <description><![CDATA[<p>Opus 5.5 made the tldraw flash whimsical cat playable</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2103182177605431296/img/3LW9OzzH6MthRbAH.jpg" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>Notes now centre exactly where you click inside a rotated frame, instead of landing off to the side.</title>
-      <link>https://x.com/tldraw/status/2103152044878201237</link>
-      <guid isPermaLink="true">https://x.com/tldraw/status/2103152044878201237</guid>
-      <pubDate>Thu, 24 Sep 2026 15:58:16 GMT</pubDate>
-      <author>@tldraw</author>
-      <description><![CDATA[<p>Notes now centre exactly where you click inside a rotated frame, instead of landing off to the side.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2103151988116762624/img/ssKtfpEwx26rV317.jpg" alt=""></p>]]></description>
     </item>
   </channel>
 </rss>
