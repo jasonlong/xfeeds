@@ -13,12 +13,28 @@
     </image>
     <ttl>120</ttl>
     <item>
+      <title>Full interview at</title>
+      <link>https://x.com/tldraw/status/2115735647038431376</link>
+      <guid isPermaLink="true">https://x.com/tldraw/status/2115735647038431376</guid>
+      <pubDate>Thu, 29 Oct 2026 09:21:01 GMT</pubDate>
+      <author>@tldraw</author>
+      <description><![CDATA[<p>Full interview at</p>]]></description>
+    </item>
+    <item>
+      <title>“A good creative tool doesn’t fight you, but it doesn’t give you everything you want either.” @steveruizok on</title>
+      <link>https://x.com/tldraw/status/2115735643703623776</link>
+      <guid isPermaLink="true">https://x.com/tldraw/status/2115735643703623776</guid>
+      <pubDate>Thu, 29 Oct 2026 09:21:00 GMT</pubDate>
+      <author>@tldraw</author>
+      <description><![CDATA[<p>“A good creative tool doesn’t fight you, but it doesn’t give you everything you want either.”<br><br>@steveruizok on building good tools in service of creativity, sharing unfinished work, and why people thinking deeply about AI UX should probably read some fairy lore.</p>]]></description>
+    </item>
+    <item>
       <title>We tweaked undo to be more precise. Among other fixes, you can double-click a frame’s corner or edge</title>
       <link>https://x.com/tldraw/status/2115510721584968003</link>
       <guid isPermaLink="true">https://x.com/tldraw/status/2115510721584968003</guid>
       <pubDate>Wed, 28 Oct 2026 18:27:14 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>We tweaked undo to be more precise.<br><br>Among other fixes, you can double-click a frame’s corner or edge to fit it to its content, and undo will put it back exactly as you drew it. Before, that undo could delete the frame altogether.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2115510674784944128/img/YBxyVnT6Tp2C5b2Z.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>We tweaked undo to be more precise.<br><br>Among other fixes, you can double-click a frame’s corner or edge to fit it to its content, and undo will put it back exactly as you drew it. Before, that undo could delete the frame altogether.</p>]]></description>
     </item>
     <item>
       <title>We&apos;ve just landed version 5.6 of the tldraw SDK. Read the release blog for the full breakdown, or</title>
@@ -34,7 +50,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2114809800261595197</guid>
       <pubDate>Mon, 26 Oct 2026 20:02:02 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>In 2023, ~80% of the team’s engineering time was going into keeping its canvas running. tldraw took that off their plate and allowed their teams to push their product further than ever.<br><br>With that time back, they’re building agents that work directly on the canvas like teammates.</p>]]></description>
+      <description><![CDATA[<p>In 2023, ~80% of the team’s engineering time was going into keeping its canvas running. tldraw took that off their plate and allowed their teams to push their product further than ever.<br><br>With that time back, they’re building agents that work directly on the canvas like teammates.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2114809674273021952/img/8yZgN0eVMLAm46lX.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>One creative campaign can still mean four tools and twelve tabs. But no longer. @makingendless lets creative teams</title>
@@ -58,7 +74,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2114764768410230909</guid>
       <pubDate>Mon, 26 Oct 2026 17:03:05 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>If you rotate a 100×50 rectangle by 45°, its bounding box grows to roughly 106×106.<br><br>That might seem wasteful, but it’s deliberate. Axis-aligned boxes can be checked for overlap with four comparisons. Rotated ones need the separating axis theorem and a lot more math.<br><br>tldraw lets</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2114764747145089024/img/cvRt-K3_DlMVxfxg.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>If you rotate a 100×50 rectangle by 45°, its bounding box grows to roughly 106×106.<br><br>That might seem wasteful, but it’s deliberate. Axis-aligned boxes can be checked for overlap with four comparisons. Rotated ones need the separating axis theorem and a lot more math.<br><br>tldraw lets</p>]]></description>
     </item>
     <item>
       <title>look at the examples</title>
@@ -74,7 +90,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2113684347622658063</guid>
       <pubDate>Fri, 23 Oct 2026 17:29:53 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>the future we were promised</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2113684217754259456/img/hYwEX3tCwUh1Ruwf.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>the future we were promised</p>]]></description>
     </item>
     <item>
       <title>notably absent ;) 🔒🔒🔒</title>
@@ -130,7 +146,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2112485341571797320</guid>
       <pubDate>Tue, 20 Oct 2026 10:05:28 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p></p>]]></description>
+      <description><![CDATA[<p></p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2112485233668861952/img/y3LQHpSUaNV_37Tc.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>early experience at</title>
@@ -795,22 +811,6 @@
       <pubDate>Thu, 24 Sep 2026 20:01:42 GMT</pubDate>
       <author>@tldraw</author>
       <description><![CDATA[<p>build for fun https://offline.tldraw.com<br><br>build for money https://tldraw.dev</p>]]></description>
-    </item>
-    <item>
-      <title>Media post</title>
-      <link>https://x.com/tldraw/status/2103213117576556996</link>
-      <guid isPermaLink="true">https://x.com/tldraw/status/2103213117576556996</guid>
-      <pubDate>Thu, 24 Sep 2026 20:00:57 GMT</pubDate>
-      <author>@tldraw</author>
-      <description><![CDATA[<p></p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2103213077214674944/img/cqulEy8GDPQRRSuH.jpg" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>You can make scrapbook-style animations on tldraw flash</title>
-      <link>https://x.com/tldraw/status/2103182298527174709</link>
-      <guid isPermaLink="true">https://x.com/tldraw/status/2103182298527174709</guid>
-      <pubDate>Thu, 24 Sep 2026 17:58:29 GMT</pubDate>
-      <author>@tldraw</author>
-      <description><![CDATA[<p>You can make scrapbook-style animations on tldraw flash</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2100188641574170624/img/sMV6jhdQpRO4YJV2.jpg" alt=""></p>]]></description>
     </item>
   </channel>
 </rss>
