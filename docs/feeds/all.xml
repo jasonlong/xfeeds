@@ -7,6 +7,46 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>iPhone X reveal</title>
+      <link>https://x.com/avstorm/status/2117594282479780332</link>
+      <guid isPermaLink="true">https://x.com/avstorm/status/2117594282479780332</guid>
+      <pubDate>Tue, 03 Nov 2026 12:26:34 GMT</pubDate>
+      <author>@avstorm</author>
+      <description><![CDATA[<p>iPhone X reveal</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2117594057698344961/img/TqZXnvJs4UrB1cOq.jpg" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>@anikrisn explores the rest of the bounding box story, including the trade-offs:</title>
+      <link>https://x.com/tldraw/status/2117588628042072151</link>
+      <guid isPermaLink="true">https://x.com/tldraw/status/2117588628042072151</guid>
+      <pubDate>Tue, 03 Nov 2026 12:04:06 GMT</pubDate>
+      <author>@tldraw</author>
+      <description><![CDATA[<p>@anikrisn explores the rest of the bounding box story, including the trade-offs:</p>]]></description>
+    </item>
+    <item>
+      <title>What angle should the selection box be when every shape is rotated differently? No single angle makes sense,</title>
+      <link>https://x.com/tldraw/status/2117588616180564106</link>
+      <guid isPermaLink="true">https://x.com/tldraw/status/2117588616180564106</guid>
+      <pubDate>Tue, 03 Nov 2026 12:04:03 GMT</pubDate>
+      <author>@tldraw</author>
+      <description><![CDATA[<p>What angle should the selection box be when every shape is rotated differently?<br><br>No single angle makes sense, so tldraw falls back to a plain axis-aligned box.<br><br>It’s a small edge case, but we thought about it a lot when deciding how to build our bounding boxes.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2117588604369453057/img/pPnLWaBPi5qEizMw.jpg" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>there’s a lot of people building, but not much being built</title>
+      <link>https://x.com/almonk/status/2117546916040835142</link>
+      <guid isPermaLink="true">https://x.com/almonk/status/2117546916040835142</guid>
+      <pubDate>Tue, 03 Nov 2026 09:18:21 GMT</pubDate>
+      <author>@almonk</author>
+      <description><![CDATA[<p>there’s a lot of people building, but not much being built</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2117336516540370944/img/7fSqX0K8ObS5J11g.jpg" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>The iPhone X was officially released 9 years ago today.</title>
+      <link>https://x.com/avstorm/status/2117521654331195481</link>
+      <guid isPermaLink="true">https://x.com/avstorm/status/2117521654331195481</guid>
+      <pubDate>Tue, 03 Nov 2026 07:37:58 GMT</pubDate>
+      <author>@avstorm</author>
+      <description><![CDATA[<p>The iPhone X was officially released 9 years ago today.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2117521115505459200/img/lurx1j7hBWBa4BlY.jpg" alt=""></p>]]></description>
+    </item>
+    <item>
       <title>I don’t know how else to tell you this, but people on the Supporter tier can now customize</title>
       <link>https://x.com/AREdotNA/status/2117418638416228630</link>
       <guid isPermaLink="true">https://x.com/AREdotNA/status/2117418638416228630</guid>
@@ -92,7 +132,7 @@
       <guid isPermaLink="true">https://x.com/avstorm/status/2117265682262040987</guid>
       <pubDate>Mon, 02 Nov 2026 14:40:50 GMT</pubDate>
       <author>@avstorm</author>
-      <description><![CDATA[<p>Affinity for iPad has officially launched.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2117265503915823104/img/LdqVtykvmPvHT3pt.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Affinity for iPad has officially launched.</p>]]></description>
     </item>
     <item>
       <title>Looking for a HQ version of the intro from the Apple Experience event in LA. Does anyone have</title>
@@ -132,7 +172,7 @@
       <guid isPermaLink="true">https://x.com/avstorm/status/2116940833509499284</guid>
       <pubDate>Sun, 01 Nov 2026 17:10:00 GMT</pubDate>
       <author>@avstorm</author>
-      <description><![CDATA[<p>The Mac startup sound at the end of the Home Theater surround setup is awesome.</p>]]></description>
+      <description><![CDATA[<p>The Mac startup sound at the end of the Home Theater surround setup is awesome.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2116880462563991552/img/9az48kXtmONvWpy2.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>arrows arrows arrows arrows in my code factory many arrows in my code factory if you need many</title>
@@ -212,7 +252,7 @@
       <guid isPermaLink="true">https://x.com/almonk/status/2116302471119491172</guid>
       <pubDate>Fri, 30 Oct 2026 22:53:22 GMT</pubDate>
       <author>@almonk</author>
-      <description><![CDATA[<p>had a blast recreating windows 95 this week</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2116296129537245184/img/3uLeJhcssQ9SVSd2.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>had a blast recreating windows 95 this week</p>]]></description>
     </item>
     <item>
       <title>A quick demo of floating panes in Rex, some of their features, and how I use them in</title>
@@ -252,7 +292,7 @@
       <guid isPermaLink="true">https://x.com/almonk/status/2116235909377183823</guid>
       <pubDate>Fri, 30 Oct 2026 18:28:53 GMT</pubDate>
       <author>@almonk</author>
-      <description><![CDATA[<p>this has been my 24 hour pet project. It also works seamlessly between the terminal views and appkit inputs</p>]]></description>
+      <description><![CDATA[<p>this has been my 24 hour pet project. It also works seamlessly between the terminal views and appkit inputs</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2116235016216924160/img/w4wWE0fLPsctyBvD.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>rip my 5-hour pomodoro</title>
@@ -268,7 +308,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2116213369170751495</guid>
       <pubDate>Fri, 30 Oct 2026 16:59:19 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>Here’s how: https://tldraw.dev/blog/endless</p>]]></description>
+      <description><![CDATA[<p>Here’s how: https://tldraw.dev/blog/endless</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2116213343010828288/img/99V1u1UopaZhL78u.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>“Hey Claude, can you organise this moodboard by colour?” The team at @makingendless is building a creative workspace</title>
@@ -276,7 +316,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2116213329979117677</guid>
       <pubDate>Fri, 30 Oct 2026 16:59:09 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>“Hey Claude, can you organise this moodboard by colour?”<br><br>The team at @makingendless is building a creative workspace where agents can work directly on your ideas and assets.<br><br>Their thesis: creative work needs more than a chat.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2116213294348566528/img/NJXn1HOeBKp9LfT8.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>“Hey Claude, can you organise this moodboard by colour?”<br><br>The team at @makingendless is building a creative workspace where agents can work directly on your ideas and assets.<br><br>Their thesis: creative work needs more than a chat.</p>]]></description>
     </item>
     <item>
       <title>The glowing Apple logo on hover would be the perfect little Easter egg for the new MacBook page.</title>
@@ -284,7 +324,7 @@
       <guid isPermaLink="true">https://x.com/avstorm/status/2116211734365000108</guid>
       <pubDate>Fri, 30 Oct 2026 16:52:49 GMT</pubDate>
       <author>@avstorm</author>
-      <description><![CDATA[<p>The glowing Apple logo on hover would be the perfect little Easter egg for the new MacBook page.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2116211284928602112/img/05iqtJPa4HBx_hTV.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>The glowing Apple logo on hover would be the perfect little Easter egg for the new MacBook page.</p>]]></description>
     </item>
     <item>
       <title>Termius on iOS and Android now powered by libghostty. The most popular (or close to) mobile terminal! Looks</title>
@@ -356,7 +396,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2115912606053437472</guid>
       <pubDate>Thu, 29 Oct 2026 21:04:11 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>just tidying up</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2115912114036469762/img/R_R7HIJRZlMstr3y.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>just tidying up</p>]]></description>
     </item>
     <item>
       <title>Agents are an implementation detail</title>
@@ -412,7 +452,7 @@
       <guid isPermaLink="true">https://x.com/almonk/status/2115709707117854872</guid>
       <pubDate>Thu, 29 Oct 2026 07:37:56 GMT</pubDate>
       <author>@almonk</author>
-      <description><![CDATA[<p>I really don&apos;t get who this is for. macOS is embarassingly unoptimised for a touch interface - so much so that your finger will obscure most UI items if they&apos;re even large enough to reliably drag</p>]]></description>
+      <description><![CDATA[<p>I really don&apos;t get who this is for. macOS is embarassingly unoptimised for a touch interface - so much so that your finger will obscure most UI items if they&apos;re even large enough to reliably drag</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2115495536585486336/img/VVdPVgoq3yBD6lyu.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Media post</title>
@@ -524,7 +564,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2115510721584968003</guid>
       <pubDate>Wed, 28 Oct 2026 18:27:14 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>We tweaked undo to be more precise.<br><br>Among other fixes, you can double-click a frame’s corner or edge to fit it to its content, and undo will put it back exactly as you drew it. Before, that undo could delete the frame altogether.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2115510674784944128/img/YBxyVnT6Tp2C5b2Z.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>We tweaked undo to be more precise.<br><br>Among other fixes, you can double-click a frame’s corner or edge to fit it to its content, and undo will put it back exactly as you drew it. Before, that undo could delete the frame altogether.</p>]]></description>
     </item>
     <item>
       <title>We&apos;ve just landed version 5.6 of the tldraw SDK. Read the release blog for the full breakdown, or</title>
@@ -548,7 +588,7 @@
       <guid isPermaLink="true">https://x.com/avstorm/status/2115495048272130063</guid>
       <pubDate>Wed, 28 Oct 2026 17:24:58 GMT</pubDate>
       <author>@avstorm</author>
-      <description><![CDATA[<p>Nice little touch on the Mac page.</p>]]></description>
+      <description><![CDATA[<p>Nice little touch on the Mac page.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2115494897033650176/img/9p7iYDVl2gcuPkut.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Apple unveils MacBook Pro with PROLED XDR Display and Touch for the first time on Mac.</title>
@@ -644,7 +684,7 @@
       <guid isPermaLink="true">https://x.com/almonk/status/2115075350203969991</guid>
       <pubDate>Tue, 27 Oct 2026 13:37:14 GMT</pubDate>
       <author>@almonk</author>
-      <description><![CDATA[<p>a little tour of the Rex UI basics 📽️<br><br>there&apos;s so much I didn&apos;t touch on in this video (I really want to show off how I work in Rex everyday, for another video), but wanted to share some of the latest and good stuff we have around pane management, process + agent activity,</p>]]></description>
+      <description><![CDATA[<p>a little tour of the Rex UI basics 📽️<br><br>there&apos;s so much I didn&apos;t touch on in this video (I really want to show off how I work in Rex everyday, for another video), but wanted to share some of the latest and good stuff we have around pane management, process + agent activity,</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2115074327318065153/img/HrEvNxMoxAWBToEF.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>https://apple.com/macbook-pro/</title>
@@ -660,7 +700,7 @@
       <guid isPermaLink="true">https://x.com/avstorm/status/2115067884846092436</guid>
       <pubDate>Tue, 27 Oct 2026 13:07:34 GMT</pubDate>
       <author>@avstorm</author>
-      <description><![CDATA[<p>Apple introduces the new 14‑inch MacBook Pro with M6</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2115067717996642304/img/FUpRnZqNhxTaQ6vH.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Apple introduces the new 14‑inch MacBook Pro with M6</p>]]></description>
     </item>
     <item>
       <title>🫶</title>
@@ -692,7 +732,7 @@
       <guid isPermaLink="true">https://x.com/avstorm/status/2114837750793052646</guid>
       <pubDate>Mon, 26 Oct 2026 21:53:06 GMT</pubDate>
       <author>@avstorm</author>
-      <description><![CDATA[<p>Apple has added a simplified Touch ID icon in iOS 27.2 for iPhone Duo. The animation still uses the “touchid” SF Symbol.</p><p><img src="https://pbs.twimg.com/media/HVln6XFWAAAwcJW?format=png&amp;name=360x360" alt=""></p>]]></description>
+      <description><![CDATA[<p>Apple has added a simplified Touch ID icon in iOS 27.2 for iPhone Duo. The animation still uses the “touchid” SF Symbol.</p><p><img src="https://pbs.twimg.com/media/HVln6XFWAAAwcJW?format=png&amp;name=360x360" alt=""></p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2114835849258876928/img/tPxVhW7W2ei811M8.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Check out the full getting started with Paper video here:</title>
@@ -732,7 +772,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2114809661199388686</guid>
       <pubDate>Mon, 26 Oct 2026 20:01:29 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>One creative campaign can still mean four tools and twelve tabs. But no longer.<br><br>@makingendless lets creative teams go from “what are people talking about?” to finished content in one workspace. Here’s how we helped.</p>]]></description>
+      <description><![CDATA[<p>One creative campaign can still mean four tools and twelve tabs. But no longer.<br><br>@makingendless lets creative teams go from “what are people talking about?” to finished content in one workspace. Here’s how we helped.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2114809542752239618/img/dMgSp45zQJKcXSyf.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>@anikrisn explores how this works in tldraw, from a single shape to nested frames to rotated selections:</title>
@@ -748,7 +788,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2114764768410230909</guid>
       <pubDate>Mon, 26 Oct 2026 17:03:05 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>If you rotate a 100×50 rectangle by 45°, its bounding box grows to roughly 106×106.<br><br>That might seem wasteful, but it’s deliberate. Axis-aligned boxes can be checked for overlap with four comparisons. Rotated ones need the separating axis theorem and a lot more math.<br><br>tldraw lets</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2114764747145089024/img/cvRt-K3_DlMVxfxg.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>If you rotate a 100×50 rectangle by 45°, its bounding box grows to roughly 106×106.<br><br>That might seem wasteful, but it’s deliberate. Axis-aligned boxes can be checked for overlap with four comparisons. Rotated ones need the separating axis theorem and a lot more math.<br><br>tldraw lets</p>]]></description>
     </item>
     <item>
       <title>look at the examples</title>
@@ -780,7 +820,7 @@
       <guid isPermaLink="true">https://x.com/avstorm/status/2114719933770711336</guid>
       <pubDate>Mon, 26 Oct 2026 14:04:56 GMT</pubDate>
       <author>@avstorm</author>
-      <description><![CDATA[<p>Apple’s attention to the smallest details is insane.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2114719349067894784/img/fM-6yeUPyyxpjV7k.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Apple’s attention to the smallest details is insane.</p>]]></description>
     </item>
     <item>
       <title>Current status: reading coding tutorial on Medium. Send help.</title>
@@ -796,7 +836,7 @@
       <guid isPermaLink="true">https://x.com/almonk/status/2114390982049329442</guid>
       <pubDate>Sun, 25 Oct 2026 16:17:48 GMT</pubDate>
       <author>@almonk</author>
-      <description><![CDATA[<p>after 24 hours with the Duo I decided that the Rex experience wasn&apos;t quite good enough.<br><br>The redesign, dropping early next week for testers, brings total pane management to the Duo including the ability to see a 1:1 layout with your Mac, reordering and moving blocks, changing</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2114390546013712384/img/GCdeF71ACeftYp7C.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>after 24 hours with the Duo I decided that the Rex experience wasn&apos;t quite good enough.<br><br>The redesign, dropping early next week for testers, brings total pane management to the Duo including the ability to see a 1:1 layout with your Mac, reordering and moving blocks, changing</p>]]></description>
     </item>
     <item>
       <title>Media post</title>
@@ -884,7 +924,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2113684347622658063</guid>
       <pubDate>Fri, 23 Oct 2026 17:29:53 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>the future we were promised</p>]]></description>
+      <description><![CDATA[<p>the future we were promised</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2113684217754259456/img/hYwEX3tCwUh1Ruwf.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Rex on iPhone Duo is kinda a gamechanger</title>
@@ -892,7 +932,7 @@
       <guid isPermaLink="true">https://x.com/almonk/status/2113677839853572233</guid>
       <pubDate>Fri, 23 Oct 2026 17:04:01 GMT</pubDate>
       <author>@almonk</author>
-      <description><![CDATA[<p>Rex on iPhone Duo is kinda a gamechanger</p>]]></description>
+      <description><![CDATA[<p>Rex on iPhone Duo is kinda a gamechanger</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2113677773411598337/img/gxdGimKNC7JuzdUP.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>iPhone Duo is here! Excited to have worked on the design of our open/close transition. It’s designed to</title>
@@ -980,7 +1020,7 @@
       <guid isPermaLink="true">https://x.com/almonk/status/2113347999560843634</guid>
       <pubDate>Thu, 22 Oct 2026 19:13:21 GMT</pubDate>
       <author>@almonk</author>
-      <description><![CDATA[<p>hype to get this into hands. @dizzyup and I spent an inordinate amount of time trying to bring the best Rex experience to the small screen.</p><p><img src="https://pbs.twimg.com/media/HVQdBO5bcAARqSA.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>hype to get this into hands. @dizzyup and I spent an inordinate amount of time trying to bring the best Rex experience to the small screen.</p>]]></description>
     </item>
     <item>
       <title>Greatest splash screen animation of all time by the way.</title>
@@ -1012,7 +1052,7 @@
       <guid isPermaLink="true">https://x.com/pidotdev/status/2113285940974342204</guid>
       <pubDate>Thu, 22 Oct 2026 15:06:45 GMT</pubDate>
       <author>@pidotdev</author>
-      <description><![CDATA[<p>Thanks for spreading the good word about Pi Durable @superlinear_fm</p>]]></description>
+      <description><![CDATA[<p>Thanks for spreading the good word about Pi Durable @superlinear_fm</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2113246725078994944/img/3bOwNXDDpDHs7OIe.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>These apps are ready for iPhone Duo. https://apple.com/newsroom/2026/10/developers-bring-incredible-new-app-experiences-to-iphone-duo/…</title>
@@ -1028,7 +1068,7 @@
       <guid isPermaLink="true">https://x.com/almonk/status/2113269013715501488</guid>
       <pubDate>Thu, 22 Oct 2026 13:59:30 GMT</pubDate>
       <author>@almonk</author>
-      <description><![CDATA[<p>Hackable software is creative software</p>]]></description>
+      <description><![CDATA[<p>Hackable software is creative software</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2113232201143771137/img/nM8RuKKlKBMWVGG-.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>After being on the waitlist for ~15 years, we got the call and are Lakers season ticket holders.</title>
@@ -1565,46 +1605,6 @@
       <pubDate>Thu, 15 Oct 2026 22:04:56 GMT</pubDate>
       <author>@almonk</author>
       <description><![CDATA[<p>Rex is a programmable terminal, controllable and observable by agents _and_ humans. We just shipped to testers our native skill framework for your agents to give them Rex superpowers. https://superlogical.com/rex/docs/automate/agent-skill…</p><p><img src="https://pbs.twimg.com/media/HUrUw5hWEAASvi8?format=jpg&amp;name=small" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>Last week we invited 250 people to the Rex beta. This week we invited around 2,000 and we</title>
-      <link>https://x.com/mitchellh/status/2110828346598936753</link>
-      <guid isPermaLink="true">https://x.com/mitchellh/status/2110828346598936753</guid>
-      <pubDate>Thu, 15 Oct 2026 20:21:09 GMT</pubDate>
-      <author>@mitchellh</author>
-      <description><![CDATA[<p>Last week we invited 250 people to the Rex beta. This week we invited around 2,000 and we just started another 1,000 person wave (in order of the newsletter signup). There is still almost 50,000 people waiting. As we continue to prove stability, wave size will increase. Soon!</p>]]></description>
-    </item>
-    <item>
-      <title>Mobbin started from tldraw’s canvas and added custom shapes and logic to fit how its content and ML</title>
-      <link>https://x.com/tldraw/status/2110783586928599342</link>
-      <guid isPermaLink="true">https://x.com/tldraw/status/2110783586928599342</guid>
-      <pubDate>Thu, 15 Oct 2026 17:23:18 GMT</pubDate>
-      <author>@tldraw</author>
-      <description><![CDATA[<p>Mobbin started from tldraw’s canvas and added custom shapes and logic to fit how its content and ML teams work.<br><br>Here’s how three engineers shipped two internal tools in less than three months: https://tldraw.dev/blog/mobbin</p><p><img src="https://pbs.twimg.com/media/HUsCfIaboAAS9xr?format=jpg&amp;name=small" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>Teams at @Mobbin, the UI design reference library, use tldraw’s infinite canvas SDK to curate thousands of design</title>
-      <link>https://x.com/tldraw/status/2110783571623543048</link>
-      <guid isPermaLink="true">https://x.com/tldraw/status/2110783571623543048</guid>
-      <pubDate>Thu, 15 Oct 2026 17:23:14 GMT</pubDate>
-      <author>@tldraw</author>
-      <description><![CDATA[<p>Teams at @Mobbin, the UI design reference library, use tldraw’s infinite canvas SDK to curate thousands of design references, annotate UI elements, and benchmark ML models.</p><p><img src="https://pbs.twimg.com/media/HUsCeOeaUAAh3bp?format=jpg&amp;name=small" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>Rex testers receiving their invites today</title>
-      <link>https://x.com/almonk/status/2110776906719338651</link>
-      <guid isPermaLink="true">https://x.com/almonk/status/2110776906719338651</guid>
-      <pubDate>Thu, 15 Oct 2026 16:56:45 GMT</pubDate>
-      <author>@almonk</author>
-      <description><![CDATA[<p>Rex testers receiving their invites today</p><p><img src="https://pbs.twimg.com/media/HUr8Z1tXcAA3q0g?format=jpg&amp;name=small" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>Rex beta testers are figuring it out. 😍 You can also do stuff like &quot;rerun the benchmarks I</title>
-      <link>https://x.com/mitchellh/status/2110767244506767795</link>
-      <guid isPermaLink="true">https://x.com/mitchellh/status/2110767244506767795</guid>
-      <pubDate>Thu, 15 Oct 2026 16:18:21 GMT</pubDate>
-      <author>@mitchellh</author>
-      <description><![CDATA[<p>Rex beta testers are figuring it out. 😍 You can also do stuff like &quot;rerun the benchmarks I did last night on my Mac Studio, but run them on Jack&apos;s Mac instead, then bring both results to my local Mac to compare.&quot; And it does what you&apos;d expect. <br><br>We actually aren&apos;t running evals</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2110740503108988929/img/dvGJje5t3gSbAkmv.jpg" alt=""></p>]]></description>
     </item>
   </channel>
 </rss>
