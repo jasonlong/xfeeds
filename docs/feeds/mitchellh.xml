@@ -13,6 +13,38 @@
     </image>
     <ttl>120</ttl>
     <item>
+      <title>Everyone is an expert on mach tuck and the aerodynamic effects of icing now I guess. Their stated</title>
+      <link>https://x.com/mitchellh/status/2117748713275973991</link>
+      <guid isPermaLink="true">https://x.com/mitchellh/status/2117748713275973991</guid>
+      <pubDate>Tue, 03 Nov 2026 22:40:13 GMT</pubDate>
+      <author>@mitchellh</author>
+      <description><![CDATA[<p>Everyone is an expert on mach tuck and the aerodynamic effects of icing now I guess. Their stated qualifications are that they&apos;ve been Delta Platinum Medallion for 8 years and got to shake hands with the pilot one time. Alright.</p>]]></description>
+    </item>
+    <item>
+      <title>As a pilot*, I find it really fucking annoying that every non-qualified Dunning-Krugered armchair critic comes out for</title>
+      <link>https://x.com/mitchellh/status/2117746615670939751</link>
+      <guid isPermaLink="true">https://x.com/mitchellh/status/2117746615670939751</guid>
+      <pubDate>Tue, 03 Nov 2026 22:31:53 GMT</pubDate>
+      <author>@mitchellh</author>
+      <description><![CDATA[<p>As a pilot*, I find it really fucking annoying that every non-qualified Dunning-Krugered armchair critic comes out for every aviation accident to provide their uneducated and often embarrassingly wrong takes on aviation in general. Even I refrain, and I&apos;m more qualified than</p>]]></description>
+    </item>
+    <item>
+      <title>A quick note. On both Linux and macOS, libghostty already processes data faster than the kernel can supply</title>
+      <link>https://x.com/mitchellh/status/2117667382605005263</link>
+      <guid isPermaLink="true">https://x.com/mitchellh/status/2117667382605005263</guid>
+      <pubDate>Tue, 03 Nov 2026 17:17:03 GMT</pubDate>
+      <author>@mitchellh</author>
+      <description><![CDATA[<p>A quick note. On both Linux and macOS, libghostty already processes data faster than the kernel can supply it over a pty fd. Ghostty is literally the floor of how fast `cat` can get (over plain text). So the plain ASCII/Unicode improvements here do NOT translate to visible `cat`</p><p><img src="https://pbs.twimg.com/media/HWNzcHubgAAOF_I?format=jpg&amp;name=small" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>libghostty has always been fast, but it&apos;s also been getting significantly faster. Here are IO throughput measurements comparing</title>
+      <link>https://x.com/mitchellh/status/2117666380380274955</link>
+      <guid isPermaLink="true">https://x.com/mitchellh/status/2117666380380274955</guid>
+      <pubDate>Tue, 03 Nov 2026 17:13:04 GMT</pubDate>
+      <author>@mitchellh</author>
+      <description><![CDATA[<p>libghostty has always been fast, but it&apos;s also been getting significantly faster. Here are IO throughput measurements comparing Ghostty 1.3.1, 1.4.0, and main as of this morning. We&apos;ll be backporting most of these to a 1.4.1 release soon.<br><br>Here are some highlights of the changes</p><p><img src="https://pbs.twimg.com/media/HWNzcHubgAAOF_I?format=jpg&amp;name=small" alt=""></p>]]></description>
+    </item>
+    <item>
       <title>If you&apos;re looking for some entertainment today, I present this Lobsters thread without any additional commentary. 🤭 https://lobste.rs/s/lt44rt/introducing_kwi_new_kde_terminal#c_tnccbf…</title>
       <link>https://x.com/mitchellh/status/2117288750527217682</link>
       <guid isPermaLink="true">https://x.com/mitchellh/status/2117288750527217682</guid>
@@ -34,7 +66,7 @@
       <guid isPermaLink="true">https://x.com/mitchellh/status/2116186029875134574</guid>
       <pubDate>Fri, 30 Oct 2026 15:10:41 GMT</pubDate>
       <author>@mitchellh</author>
-      <description><![CDATA[<p>Termius on iOS and Android now powered by libghostty. The most popular (or close to) mobile terminal! Looks great.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2115920782899752960/img/R3xlhX6qywWncrXH.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Termius on iOS and Android now powered by libghostty. The most popular (or close to) mobile terminal! Looks great.</p>]]></description>
     </item>
     <item>
       <title>Latest updates on Rex beta rollout: - I&apos;ll have a formal update next week (blog post). - We&apos;ve</title>
