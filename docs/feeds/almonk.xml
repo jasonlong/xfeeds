@@ -13,12 +13,52 @@
     </image>
     <ttl>120</ttl>
     <item>
+      <title>the creativity and pace of the community has been astounding. my favourite so far is `neorex`, a plugin</title>
+      <link>https://x.com/almonk/status/2116810937525272583</link>
+      <guid isPermaLink="true">https://x.com/almonk/status/2116810937525272583</guid>
+      <pubDate>Sun, 01 Nov 2026 08:33:50 GMT</pubDate>
+      <author>@almonk</author>
+      <description><![CDATA[<p>the creativity and pace of the community has been astounding. my favourite so far is `neorex`, a plugin for neovim which gives it Rex-native splits and floating windows.<br>https://github.com/alexrlocke/neorex…</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2116810594510573568/img/8FVpJqunEgxx8O7Y.jpg" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>had a blast recreating windows 95 this week</title>
+      <link>https://x.com/almonk/status/2116302471119491172</link>
+      <guid isPermaLink="true">https://x.com/almonk/status/2116302471119491172</guid>
+      <pubDate>Fri, 30 Oct 2026 22:53:22 GMT</pubDate>
+      <author>@almonk</author>
+      <description><![CDATA[<p>had a blast recreating windows 95 this week</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2116296129537245184/img/3uLeJhcssQ9SVSd2.jpg" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>this has been my 24 hour pet project. It also works seamlessly between the terminal views and appkit</title>
+      <link>https://x.com/almonk/status/2116235909377183823</link>
+      <guid isPermaLink="true">https://x.com/almonk/status/2116235909377183823</guid>
+      <pubDate>Fri, 30 Oct 2026 18:28:53 GMT</pubDate>
+      <author>@almonk</author>
+      <description><![CDATA[<p>this has been my 24 hour pet project. It also works seamlessly between the terminal views and appkit inputs</p>]]></description>
+    </item>
+    <item>
+      <title>inside you there are two wolves</title>
+      <link>https://x.com/almonk/status/2116078870411796501</link>
+      <guid isPermaLink="true">https://x.com/almonk/status/2116078870411796501</guid>
+      <pubDate>Fri, 30 Oct 2026 08:04:52 GMT</pubDate>
+      <author>@almonk</author>
+      <description><![CDATA[<p>inside you there are two wolves</p><p><img src="https://pbs.twimg.com/media/HV1dHN3bAAEAO0G?format=png&amp;name=small" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>Agents are an implementation detail</title>
+      <link>https://x.com/almonk/status/2115885948126789967</link>
+      <guid isPermaLink="true">https://x.com/almonk/status/2115885948126789967</guid>
+      <pubDate>Thu, 29 Oct 2026 19:18:15 GMT</pubDate>
+      <author>@almonk</author>
+      <description><![CDATA[<p>Agents are an implementation detail</p>]]></description>
+    </item>
+    <item>
       <title>I really don&apos;t get who this is for. macOS is embarassingly unoptimised for a touch interface - so</title>
       <link>https://x.com/almonk/status/2115709707117854872</link>
       <guid isPermaLink="true">https://x.com/almonk/status/2115709707117854872</guid>
       <pubDate>Thu, 29 Oct 2026 07:37:56 GMT</pubDate>
       <author>@almonk</author>
-      <description><![CDATA[<p>I really don&apos;t get who this is for. macOS is embarassingly unoptimised for a touch interface - so much so that your finger will obscure most UI items if they&apos;re even large enough to reliably drag</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2115495536585486336/img/VVdPVgoq3yBD6lyu.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>I really don&apos;t get who this is for. macOS is embarassingly unoptimised for a touch interface - so much so that your finger will obscure most UI items if they&apos;re even large enough to reliably drag</p>]]></description>
     </item>
     <item>
       <title>life is short, run unauthorised software</title>
@@ -42,7 +82,7 @@
       <guid isPermaLink="true">https://x.com/almonk/status/2115075350203969991</guid>
       <pubDate>Tue, 27 Oct 2026 13:37:14 GMT</pubDate>
       <author>@almonk</author>
-      <description><![CDATA[<p>a little tour of the Rex UI basics 📽️<br><br>there&apos;s so much I didn&apos;t touch on in this video (I really want to show off how I work in Rex everyday, for another video), but wanted to share some of the latest and good stuff we have around pane management, process + agent activity,</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2115074327318065153/img/HrEvNxMoxAWBToEF.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>a little tour of the Rex UI basics 📽️<br><br>there&apos;s so much I didn&apos;t touch on in this video (I really want to show off how I work in Rex everyday, for another video), but wanted to share some of the latest and good stuff we have around pane management, process + agent activity,</p>]]></description>
     </item>
     <item>
       <title>Media post</title>
@@ -771,46 +811,6 @@
       <pubDate>Fri, 21 Aug 2026 11:02:01 GMT</pubDate>
       <author>@almonk</author>
       <description><![CDATA[<p>there&apos;s a phenomenon in engineering called the &quot;zenith before obsolescence&quot;: when a technology reaches its most perfected form just as it’s about to be replaced.<br><br>The Eiffel Tower was that for construction in wrought iron.<br><br>Disco was that for the Aqua-era.</p>]]></description>
-    </item>
-    <item>
-      <title>Slack being the IDE is really smart and I&apos;m proud of Salesforce for pushing in that direction. 404ing</title>
-      <link>https://x.com/almonk/status/2090408324881629388</link>
-      <guid isPermaLink="true">https://x.com/almonk/status/2090408324881629388</guid>
-      <pubDate>Thu, 20 Aug 2026 11:59:17 GMT</pubDate>
-      <author>@almonk</author>
-      <description><![CDATA[<p>Slack being the IDE is really smart and I&apos;m proud of Salesforce for pushing in that direction.<br>404ing your launch page though (even after 8 hours) unfortunately is -1000 aura.</p><p><img src="https://pbs.twimg.com/media/HQKfLvUWMAANhlk?format=jpg&amp;name=small" alt=""></p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2090235761711104000/img/7duS52FmPujjk-0c?format=jpg&amp;name=240x240" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>when they ask you to speak first at all hands</title>
-      <link>https://x.com/almonk/status/2090140305081221202</link>
-      <guid isPermaLink="true">https://x.com/almonk/status/2090140305081221202</guid>
-      <pubDate>Wed, 19 Aug 2026 18:14:16 GMT</pubDate>
-      <author>@almonk</author>
-      <description><![CDATA[<p>when they ask you to speak first at all hands</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2089854403524395008/img/Ab-b6Z8MJmkBQGY6.jpg" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>After years being speakerless, I bought these edifier M60s for my home setup. Holy shit they sound so</title>
-      <link>https://x.com/almonk/status/2090135575227453825</link>
-      <guid isPermaLink="true">https://x.com/almonk/status/2090135575227453825</guid>
-      <pubDate>Wed, 19 Aug 2026 17:55:28 GMT</pubDate>
-      <author>@almonk</author>
-      <description><![CDATA[<p>After years being speakerless, I bought these edifier M60s for my home setup. Holy shit they sound so good I can&apos;t believe what I was missing. Best of all they just connect to the studio display via usbc. <br><br>Gonna go back to listening to Burial now.<br><br>https://edifier.com/uk/p/computer-speakers/m60…</p><p><img src="https://pbs.twimg.com/media/HQGnBzxXcAAAVPh?format=jpg&amp;name=small" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>wake up idiot, it&apos;s time to work</title>
-      <link>https://x.com/almonk/status/2090111057243132358</link>
-      <guid isPermaLink="true">https://x.com/almonk/status/2090111057243132358</guid>
-      <pubDate>Wed, 19 Aug 2026 16:18:03 GMT</pubDate>
-      <author>@almonk</author>
-      <description><![CDATA[<p>wake up idiot, it&apos;s time to work</p><p><img src="https://pbs.twimg.com/media/HQDzNBlb0AAR3tJ?format=jpg&amp;name=240x240" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>Nightmare fuel</title>
-      <link>https://x.com/almonk/status/2090108914075324734</link>
-      <guid isPermaLink="true">https://x.com/almonk/status/2090108914075324734</guid>
-      <pubDate>Wed, 19 Aug 2026 16:09:32 GMT</pubDate>
-      <author>@almonk</author>
-      <description><![CDATA[<p>Nightmare fuel</p><p><img src="https://pbs.twimg.com/media/HQDzNBlb0AAR3tJ?format=jpg&amp;name=small" alt=""></p>]]></description>
     </item>
   </channel>
 </rss>

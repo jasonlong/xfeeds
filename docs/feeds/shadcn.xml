@@ -13,6 +13,46 @@
     </image>
     <ttl>120</ttl>
     <item>
+      <title>There&apos;s still so much software to build.</title>
+      <link>https://x.com/shadcn/status/2117149197098996192</link>
+      <guid isPermaLink="true">https://x.com/shadcn/status/2117149197098996192</guid>
+      <pubDate>Mon, 02 Nov 2026 06:57:57 GMT</pubDate>
+      <author>@shadcn</author>
+      <description><![CDATA[<p>There&apos;s still so much software to build.</p>]]></description>
+    </item>
+    <item>
+      <title>There are two UIs that every AI harness will eventually build. Slack is already happening. Linear is next.</title>
+      <link>https://x.com/shadcn/status/2116634842746274148</link>
+      <guid isPermaLink="true">https://x.com/shadcn/status/2116634842746274148</guid>
+      <pubDate>Sat, 31 Oct 2026 20:54:06 GMT</pubDate>
+      <author>@shadcn</author>
+      <description><![CDATA[<p>There are two UIs that every AI harness will eventually build.<br><br>Slack is already happening. Linear is next.</p>]]></description>
+    </item>
+    <item>
+      <title>rip my 5-hour pomodoro</title>
+      <link>https://x.com/shadcn/status/2116235515481473449</link>
+      <guid isPermaLink="true">https://x.com/shadcn/status/2116235515481473449</guid>
+      <pubDate>Fri, 30 Oct 2026 18:27:19 GMT</pubDate>
+      <author>@shadcn</author>
+      <description><![CDATA[<p>rip my 5-hour pomodoro</p>]]></description>
+    </item>
+    <item>
+      <title>An agent helped me come up with a lint rule and a script to detect and remove slop</title>
+      <link>https://x.com/shadcn/status/2116048559493771466</link>
+      <guid isPermaLink="true">https://x.com/shadcn/status/2116048559493771466</guid>
+      <pubDate>Fri, 30 Oct 2026 06:04:25 GMT</pubDate>
+      <author>@shadcn</author>
+      <description><![CDATA[<p>An agent helped me come up with a lint rule and a script to detect and remove slop comments. <br><br>The check-comment.mjs script it wrote has 10+ lines of slop comments.<br><br>🤦‍♂️</p>]]></description>
+    </item>
+    <item>
+      <title>ok to be fair, if the alternative is speaking to Siri AI to do things on the Mac,</title>
+      <link>https://x.com/shadcn/status/2115789582117838889</link>
+      <guid isPermaLink="true">https://x.com/shadcn/status/2115789582117838889</guid>
+      <pubDate>Thu, 29 Oct 2026 12:55:20 GMT</pubDate>
+      <author>@shadcn</author>
+      <description><![CDATA[<p>ok to be fair, if the alternative is speaking to Siri AI to do things on the Mac, then yes give me a touchscreen give me a stylus and a foot pedal. 🤣</p>]]></description>
+    </item>
+    <item>
       <title>I&apos;m not against touchscreens on laptop. I can see how they&apos;d be useful. But In a world where</title>
       <link>https://x.com/shadcn/status/2115747963309855088</link>
       <guid isPermaLink="true">https://x.com/shadcn/status/2115747963309855088</guid>
@@ -58,7 +98,7 @@
       <guid isPermaLink="true">https://x.com/shadcn/status/2113499106844778956</guid>
       <pubDate>Fri, 23 Oct 2026 05:13:48 GMT</pubDate>
       <author>@shadcn</author>
-      <description><![CDATA[<p>Speaking of security, we created a registry for building OIDC configuration components.<br><br>Pick your providers, form and validation libraries, and token verifier (powered by jose). Then run one command to copy everything into your app.<br><br>I&apos;ve built these a few times before. I know</p>]]></description>
+      <description><![CDATA[<p>Speaking of security, we created a registry for building OIDC configuration components.<br><br>Pick your providers, form and validation libraries, and token verifier (powered by jose). Then run one command to copy everything into your app.<br><br>I&apos;ve built these a few times before. I know</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2113498819409170432/img/usQShmQRMeZNxS8T.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Naruto &gt; Attack on Titan</title>
@@ -106,7 +146,7 @@
       <guid isPermaLink="true">https://x.com/shadcn/status/2111003691020906976</guid>
       <pubDate>Fri, 16 Oct 2026 07:57:55 GMT</pubDate>
       <author>@shadcn</author>
-      <description><![CDATA[<p>Browse and discover GitHub registries.</p>]]></description>
+      <description><![CDATA[<p>Browse and discover GitHub registries.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2110987900191961088/img/WNp9_Au6BbjksbLx.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>To all frontier labs, if we could have all new models by end of October please. I can&apos;t</title>

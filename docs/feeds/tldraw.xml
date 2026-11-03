@@ -13,6 +13,46 @@
     </image>
     <ttl>120</ttl>
     <item>
+      <title>arrows arrows arrows arrows in my code factory many arrows in my code factory if you need many</title>
+      <link>https://x.com/tldraw/status/2116928159438499862</link>
+      <guid isPermaLink="true">https://x.com/tldraw/status/2116928159438499862</guid>
+      <pubDate>Sun, 01 Nov 2026 16:19:38 GMT</pubDate>
+      <author>@tldraw</author>
+      <description><![CDATA[<p>arrows arrows arrows arrows<br>in my code factory<br>many arrows in my code factory<br><br>if you need many arrows<br>you can tell me<br>I want you to take a lot of arrows</p>]]></description>
+    </item>
+    <item>
+      <title>Here’s how: https://tldraw.dev/blog/endless</title>
+      <link>https://x.com/tldraw/status/2116213369170751495</link>
+      <guid isPermaLink="true">https://x.com/tldraw/status/2116213369170751495</guid>
+      <pubDate>Fri, 30 Oct 2026 16:59:19 GMT</pubDate>
+      <author>@tldraw</author>
+      <description><![CDATA[<p>Here’s how: https://tldraw.dev/blog/endless</p>]]></description>
+    </item>
+    <item>
+      <title>“Hey Claude, can you organise this moodboard by colour?” The team at @makingendless is building a creative workspace</title>
+      <link>https://x.com/tldraw/status/2116213329979117677</link>
+      <guid isPermaLink="true">https://x.com/tldraw/status/2116213329979117677</guid>
+      <pubDate>Fri, 30 Oct 2026 16:59:09 GMT</pubDate>
+      <author>@tldraw</author>
+      <description><![CDATA[<p>“Hey Claude, can you organise this moodboard by colour?”<br><br>The team at @makingendless is building a creative workspace where agents can work directly on your ideas and assets.<br><br>Their thesis: creative work needs more than a chat.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2116213294348566528/img/NJXn1HOeBKp9LfT8.jpg" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>Media post</title>
+      <link>https://x.com/tldraw/status/2116125545020690646</link>
+      <guid isPermaLink="true">https://x.com/tldraw/status/2116125545020690646</guid>
+      <pubDate>Fri, 30 Oct 2026 11:10:20 GMT</pubDate>
+      <author>@tldraw</author>
+      <description><![CDATA[<p></p><p><img src="https://pbs.twimg.com/media/HV389V6WMAA_ZCO?format=jpg&amp;name=small" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>just tidying up</title>
+      <link>https://x.com/tldraw/status/2115912606053437472</link>
+      <guid isPermaLink="true">https://x.com/tldraw/status/2115912606053437472</guid>
+      <pubDate>Thu, 29 Oct 2026 21:04:11 GMT</pubDate>
+      <author>@tldraw</author>
+      <description><![CDATA[<p>just tidying up</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2115912114036469762/img/R_R7HIJRZlMstr3y.jpg" alt=""></p>]]></description>
+    </item>
+    <item>
       <title>Full interview at</title>
       <link>https://x.com/tldraw/status/2115735647038431376</link>
       <guid isPermaLink="true">https://x.com/tldraw/status/2115735647038431376</guid>
@@ -34,7 +74,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2115510721584968003</guid>
       <pubDate>Wed, 28 Oct 2026 18:27:14 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>We tweaked undo to be more precise.<br><br>Among other fixes, you can double-click a frame’s corner or edge to fit it to its content, and undo will put it back exactly as you drew it. Before, that undo could delete the frame altogether.</p>]]></description>
+      <description><![CDATA[<p>We tweaked undo to be more precise.<br><br>Among other fixes, you can double-click a frame’s corner or edge to fit it to its content, and undo will put it back exactly as you drew it. Before, that undo could delete the frame altogether.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2115510674784944128/img/YBxyVnT6Tp2C5b2Z.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>We&apos;ve just landed version 5.6 of the tldraw SDK. Read the release blog for the full breakdown, or</title>
@@ -58,7 +98,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2114809661199388686</guid>
       <pubDate>Mon, 26 Oct 2026 20:01:29 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>One creative campaign can still mean four tools and twelve tabs. But no longer.<br><br>@makingendless lets creative teams go from “what are people talking about?” to finished content in one workspace. Here’s how we helped.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2114809542752239618/img/dMgSp45zQJKcXSyf.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>One creative campaign can still mean four tools and twelve tabs. But no longer.<br><br>@makingendless lets creative teams go from “what are people talking about?” to finished content in one workspace. Here’s how we helped.</p>]]></description>
     </item>
     <item>
       <title>@anikrisn explores how this works in tldraw, from a single shape to nested frames to rotated selections:</title>
@@ -74,7 +114,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2114764768410230909</guid>
       <pubDate>Mon, 26 Oct 2026 17:03:05 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>If you rotate a 100×50 rectangle by 45°, its bounding box grows to roughly 106×106.<br><br>That might seem wasteful, but it’s deliberate. Axis-aligned boxes can be checked for overlap with four comparisons. Rotated ones need the separating axis theorem and a lot more math.<br><br>tldraw lets</p>]]></description>
+      <description><![CDATA[<p>If you rotate a 100×50 rectangle by 45°, its bounding box grows to roughly 106×106.<br><br>That might seem wasteful, but it’s deliberate. Axis-aligned boxes can be checked for overlap with four comparisons. Rotated ones need the separating axis theorem and a lot more math.<br><br>tldraw lets</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2114764747145089024/img/cvRt-K3_DlMVxfxg.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>look at the examples</title>
@@ -114,7 +154,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2113199722177630210</guid>
       <pubDate>Thu, 22 Oct 2026 09:24:09 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>huge opportunities in picking up old spikes and side projects</p>]]></description>
+      <description><![CDATA[<p>huge opportunities in picking up old spikes and side projects</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2113172900224114688/img/_LjnN9imD4L_128-.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>@anikrisn explores the decisions behind how we built our bounding boxes.</title>
@@ -771,46 +811,6 @@
       <pubDate>Fri, 25 Sep 2026 17:23:41 GMT</pubDate>
       <author>@tldraw</author>
       <description><![CDATA[<p>tldraw spotted at design+AI in Brighton<br><br>Thanks @genmon!</p><p><img src="https://pbs.twimg.com/media/HTFCxt-aQAA-2l4?format=jpg&amp;name=small" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>Media post</title>
-      <link>https://x.com/tldraw/status/2103533038495801747</link>
-      <guid isPermaLink="true">https://x.com/tldraw/status/2103533038495801747</guid>
-      <pubDate>Fri, 25 Sep 2026 17:12:12 GMT</pubDate>
-      <author>@tldraw</author>
-      <description><![CDATA[<p></p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2103532989304963073/img/LSLSFkFyMS1RMDnp.jpg" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>In the latest version of https://tldraw.com, lists stay put when you triple-click a bullet to select it.</title>
-      <link>https://x.com/tldraw/status/2103515915564564619</link>
-      <guid isPermaLink="true">https://x.com/tldraw/status/2103515915564564619</guid>
-      <pubDate>Fri, 25 Sep 2026 16:04:10 GMT</pubDate>
-      <author>@tldraw</author>
-      <description><![CDATA[<p>In the latest version of https://tldraw.com, lists stay put when you triple-click a bullet to select it.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2103515877153062913/img/1ok-S9eNU-_tqoRQ.jpg" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>Welcome to tldraw sleep, a series of videos on topics we think are interesting. Tonight&apos;s episode is Keeping</title>
-      <link>https://x.com/tldraw/status/2103257923455746063</link>
-      <guid isPermaLink="true">https://x.com/tldraw/status/2103257923455746063</guid>
-      <pubDate>Thu, 24 Sep 2026 22:59:00 GMT</pubDate>
-      <author>@tldraw</author>
-      <description><![CDATA[<p>Welcome to tldraw sleep, a series of videos on topics we think are interesting. Tonight&apos;s episode is Keeping the Sun and is about how to stop the sun from eventually destroying the Earth.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2101757450865029120/img/3kpycc6n-v8amvud.jpg" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>Are you still awake? Are you a large enterprise interested in building visual user interfaces for AI? Join</title>
-      <link>https://x.com/tldraw/status/2103257924210770283</link>
-      <guid isPermaLink="true">https://x.com/tldraw/status/2103257924210770283</guid>
-      <pubDate>Thu, 24 Sep 2026 22:59:00 GMT</pubDate>
-      <author>@tldraw</author>
-      <description><![CDATA[<p>Are you still awake? Are you a large enterprise interested in building visual user interfaces for AI? Join companies such as Replit, Honeycomb, Google, and BlackRock by building with the tldraw SDK:</p>]]></description>
-    </item>
-    <item>
-      <title>build for fun https://offline.tldraw.com build for money https://tldraw.dev</title>
-      <link>https://x.com/tldraw/status/2103213303619264639</link>
-      <guid isPermaLink="true">https://x.com/tldraw/status/2103213303619264639</guid>
-      <pubDate>Thu, 24 Sep 2026 20:01:42 GMT</pubDate>
-      <author>@tldraw</author>
-      <description><![CDATA[<p>build for fun https://offline.tldraw.com<br><br>build for money https://tldraw.dev</p>]]></description>
     </item>
   </channel>
 </rss>
