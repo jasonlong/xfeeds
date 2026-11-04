@@ -13,6 +13,14 @@
     </image>
     <ttl>120</ttl>
     <item>
+      <title>since they started @pierrecomputer have been the ultimate company inspo for me. so happy to see them bring</title>
+      <link>https://x.com/almonk/status/2118014967370940629</link>
+      <guid isPermaLink="true">https://x.com/almonk/status/2118014967370940629</guid>
+      <pubDate>Wed, 04 Nov 2026 16:18:13 GMT</pubDate>
+      <author>@almonk</author>
+      <description><![CDATA[<p>since they started @pierrecomputer have been the ultimate company inspo for me. so happy to see them bring the energy to @OpenAI</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2117998774412832769/img/UQdWE3BBn4mW1W9I.jpg" alt=""></p>]]></description>
+    </item>
+    <item>
       <title>there’s a lot of people building, but not much being built</title>
       <link>https://x.com/almonk/status/2117546916040835142</link>
       <guid isPermaLink="true">https://x.com/almonk/status/2117546916040835142</guid>
@@ -26,7 +34,7 @@
       <guid isPermaLink="true">https://x.com/almonk/status/2116810937525272583</guid>
       <pubDate>Sun, 01 Nov 2026 08:33:50 GMT</pubDate>
       <author>@almonk</author>
-      <description><![CDATA[<p>the creativity and pace of the community has been astounding. my favourite so far is `neorex`, a plugin for neovim which gives it Rex-native splits and floating windows.<br>https://github.com/alexrlocke/neorex…</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2116810594510573568/img/8FVpJqunEgxx8O7Y.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>the creativity and pace of the community has been astounding. my favourite so far is `neorex`, a plugin for neovim which gives it Rex-native splits and floating windows.<br>https://github.com/alexrlocke/neorex…</p>]]></description>
     </item>
     <item>
       <title>had a blast recreating windows 95 this week</title>
@@ -34,7 +42,7 @@
       <guid isPermaLink="true">https://x.com/almonk/status/2116302471119491172</guid>
       <pubDate>Fri, 30 Oct 2026 22:53:22 GMT</pubDate>
       <author>@almonk</author>
-      <description><![CDATA[<p>had a blast recreating windows 95 this week</p>]]></description>
+      <description><![CDATA[<p>had a blast recreating windows 95 this week</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2116296129537245184/img/3uLeJhcssQ9SVSd2.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>this has been my 24 hour pet project. It also works seamlessly between the terminal views and appkit</title>
@@ -42,7 +50,7 @@
       <guid isPermaLink="true">https://x.com/almonk/status/2116235909377183823</guid>
       <pubDate>Fri, 30 Oct 2026 18:28:53 GMT</pubDate>
       <author>@almonk</author>
-      <description><![CDATA[<p>this has been my 24 hour pet project. It also works seamlessly between the terminal views and appkit inputs</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2116235016216924160/img/w4wWE0fLPsctyBvD.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>this has been my 24 hour pet project. It also works seamlessly between the terminal views and appkit inputs</p>]]></description>
     </item>
     <item>
       <title>inside you there are two wolves</title>
@@ -803,14 +811,6 @@
       <pubDate>Sat, 22 Aug 2026 19:00:52 GMT</pubDate>
       <author>@almonk</author>
       <description><![CDATA[<p>The worst part of the otherwise excellent Logitech mice &amp; keyboards has always been the software. Nice to see an open source, local-only desktop app alternative launch https://openlogi.org</p><p><img src="https://pbs.twimg.com/media/HQWS4bpXEAAoxyZ?format=jpg&amp;name=small" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>The state of TUI user theme support is kinda all over the place, even in some of the</title>
-      <link>https://x.com/almonk/status/2090842456308781358</link>
-      <guid isPermaLink="true">https://x.com/almonk/status/2090842456308781358</guid>
-      <pubDate>Fri, 21 Aug 2026 16:44:22 GMT</pubDate>
-      <author>@almonk</author>
-      <description><![CDATA[<p>The state of TUI user theme support is kinda all over the place, even in some of the most popular apps I use everyday. Overriding user palette, no detection of light/dark mode change, very often no light theme support at all. <br><br>I’m working on a library to make this fool proof for</p><p><img src="https://pbs.twimg.com/media/HQQqIZVWYAAPWYz?format=jpg&amp;name=small" alt=""></p><p><img src="https://pbs.twimg.com/media/HQQqIZgWQAAcmum?format=jpg&amp;name=small" alt=""></p>]]></description>
     </item>
   </channel>
 </rss>
