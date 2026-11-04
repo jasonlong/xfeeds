@@ -13,6 +13,30 @@
     </image>
     <ttl>120</ttl>
     <item>
+      <title>c&apos;mon I know Opus has been out for a while. But what we call &quot;taste&quot; is not something</title>
+      <link>https://x.com/shadcn/status/2117933775871168893</link>
+      <guid isPermaLink="true">https://x.com/shadcn/status/2117933775871168893</guid>
+      <pubDate>Wed, 04 Nov 2026 10:55:36 GMT</pubDate>
+      <author>@shadcn</author>
+      <description><![CDATA[<p>c&apos;mon I know Opus has been out for a while. But what we call &quot;taste&quot; is not something you can benchmark the next day or week. It takes time. It takes a lot of prompting and product building.</p>]]></description>
+    </item>
+    <item>
+      <title>Media post</title>
+      <link>https://x.com/shadcn/status/2117869775065882794</link>
+      <guid isPermaLink="true">https://x.com/shadcn/status/2117869775065882794</guid>
+      <pubDate>Wed, 04 Nov 2026 06:41:17 GMT</pubDate>
+      <author>@shadcn</author>
+      <description><![CDATA[<p></p><p><img src="https://pbs.twimg.com/media/HWQvUZWWcAE6pmJ?format=jpg&amp;name=small" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>We&apos;ve been waiting for this. Opus 5.5 is the first model with &quot;taste&quot;. They did it.</title>
+      <link>https://x.com/shadcn/status/2117856245101019250</link>
+      <guid isPermaLink="true">https://x.com/shadcn/status/2117856245101019250</guid>
+      <pubDate>Wed, 04 Nov 2026 05:47:31 GMT</pubDate>
+      <author>@shadcn</author>
+      <description><![CDATA[<p>We&apos;ve been waiting for this. Opus 5.5 is the first model with &quot;taste&quot;. They did it.</p>]]></description>
+    </item>
+    <item>
       <title>There&apos;s still so much software to build.</title>
       <link>https://x.com/shadcn/status/2117149197098996192</link>
       <guid isPermaLink="true">https://x.com/shadcn/status/2117149197098996192</guid>
@@ -58,7 +82,7 @@
       <guid isPermaLink="true">https://x.com/shadcn/status/2115747963309855088</guid>
       <pubDate>Thu, 29 Oct 2026 10:09:57 GMT</pubDate>
       <author>@shadcn</author>
-      <description><![CDATA[<p>I&apos;m not against touchscreens on laptop. I can see how they&apos;d be useful.<br><br>But In a world where we are touching the keyboard less and buttons are being removed from interfaces, the time for this Macbook has passed.<br><br>I could be wrong. I don&apos;t think I am.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2115635945022308352/img/7oQIXLeaNEIoLb5l.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>I&apos;m not against touchscreens on laptop. I can see how they&apos;d be useful.<br><br>But In a world where we are touching the keyboard less and buttons are being removed from interfaces, the time for this Macbook has passed.<br><br>I could be wrong. I don&apos;t think I am.</p>]]></description>
     </item>
     <item>
       <title>the human behind the code is the moat. you are the moat.</title>
@@ -74,7 +98,7 @@
       <guid isPermaLink="true">https://x.com/shadcn/status/2114972098515096036</guid>
       <pubDate>Tue, 27 Oct 2026 06:46:57 GMT</pubDate>
       <author>@shadcn</author>
-      <description><![CDATA[<p>A voice-to-text dictation app, with live transcription and edits, custom HUD, running on my own models (AI Gateway) is really just T3 code + one prompt. Insane.</p>]]></description>
+      <description><![CDATA[<p>A voice-to-text dictation app, with live transcription and edits, custom HUD, running on my own models (AI Gateway) is really just T3 code + one prompt. Insane.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2114971901588033536/img/IL3BQikpLEfdTXWA.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Current status: reading coding tutorial on Medium. Send help.</title>
@@ -98,7 +122,7 @@
       <guid isPermaLink="true">https://x.com/shadcn/status/2113499106844778956</guid>
       <pubDate>Fri, 23 Oct 2026 05:13:48 GMT</pubDate>
       <author>@shadcn</author>
-      <description><![CDATA[<p>Speaking of security, we created a registry for building OIDC configuration components.<br><br>Pick your providers, form and validation libraries, and token verifier (powered by jose). Then run one command to copy everything into your app.<br><br>I&apos;ve built these a few times before. I know</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2113498819409170432/img/usQShmQRMeZNxS8T.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Speaking of security, we created a registry for building OIDC configuration components.<br><br>Pick your providers, form and validation libraries, and token verifier (powered by jose). Then run one command to copy everything into your app.<br><br>I&apos;ve built these a few times before. I know</p>]]></description>
     </item>
     <item>
       <title>Naruto &gt; Attack on Titan</title>
@@ -787,30 +811,6 @@
       <pubDate>Tue, 11 Aug 2026 12:26:01 GMT</pubDate>
       <author>@shadcn</author>
       <description><![CDATA[<p>I just open sourced a minimal chatbot template.<br><br>This brings together everything we&apos;ve been doing the past weeks: new components, shadcn/typeset, shadcn/react, tool calling, HITL with questionnaire, message parts. Deploys one click to @vercel AI Gateway.</p>]]></description>
-    </item>
-    <item>
-      <title>1 point for Levi. 1 point for battle scenes. 1/2 for mikasa and 1/2 for good vs evil.</title>
-      <link>https://x.com/shadcn/status/2086819793122853274</link>
-      <guid isPermaLink="true">https://x.com/shadcn/status/2086819793122853274</guid>
-      <pubDate>Mon, 10 Aug 2026 14:19:44 GMT</pubDate>
-      <author>@shadcn</author>
-      <description><![CDATA[<p>1 point for Levi. 1 point for battle scenes. 1/2 for mikasa and 1/2 for good vs evil.</p>]]></description>
-    </item>
-    <item>
-      <title>Just tagged a quick update for Copper. - You can now copy and paste files into Copper. -</title>
-      <link>https://x.com/shadcn/status/2086737201723764847</link>
-      <guid isPermaLink="true">https://x.com/shadcn/status/2086737201723764847</guid>
-      <pubDate>Mon, 10 Aug 2026 08:51:33 GMT</pubDate>
-      <author>@shadcn</author>
-      <description><![CDATA[<p>Just tagged a quick update for Copper.<br><br>- You can now copy and paste files into Copper.<br>- When you hide Copper, focus now returns to last active app.<br>- Fixed a bug with double-tap keys.</p><p><img src="https://pbs.twimg.com/media/HPWUWz_WQAAKKqJ?format=png&amp;name=small" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>Launching Copper, a Mac app for capturing things you want to keep and prompts you want to try</title>
-      <link>https://x.com/shadcn/status/2082519375194763675</link>
-      <guid isPermaLink="true">https://x.com/shadcn/status/2082519375194763675</guid>
-      <pubDate>Wed, 29 Jul 2026 17:31:25 GMT</pubDate>
-      <author>@shadcn</author>
-      <description><![CDATA[<p>Launching Copper, a Mac app for capturing things you want to keep and prompts you want to try next while working with AI.<br><br>The more I use AI, the more I find myself collecting little things I don&apos;t want to lose.<br><br>You&apos;re in ChatGPT and think, &quot;I&apos;ll need this later,&quot; but you don&apos;t</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2082518119344459776/img/MqXnyHAYOzdtpP98.jpg" alt=""></p>]]></description>
     </item>
   </channel>
 </rss>

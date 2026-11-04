@@ -13,6 +13,22 @@
     </image>
     <ttl>120</ttl>
     <item>
+      <title>Media post</title>
+      <link>https://x.com/heliumbrowser/status/2117932385933181344</link>
+      <guid isPermaLink="true">https://x.com/heliumbrowser/status/2117932385933181344</guid>
+      <pubDate>Wed, 04 Nov 2026 10:50:04 GMT</pubDate>
+      <author>@heliumbrowser</author>
+      <description><![CDATA[<p></p>]]></description>
+    </item>
+    <item>
+      <title>helium was one of top open source projects on github in 2026 :D</title>
+      <link>https://x.com/heliumbrowser/status/2117932380388241846</link>
+      <guid isPermaLink="true">https://x.com/heliumbrowser/status/2117932380388241846</guid>
+      <pubDate>Wed, 04 Nov 2026 10:50:03 GMT</pubDate>
+      <author>@heliumbrowser</author>
+      <description><![CDATA[<p>helium was one of top open source projects on github in 2026 :D</p><p><img src="https://pbs.twimg.com/media/HWRoRRBWIAAFGVx?format=jpg&amp;name=small" alt=""></p>]]></description>
+    </item>
+    <item>
       <title>recently new in the helium browser: - cname uncloaking in built-in ublock origin, enabled by default - important</title>
       <link>https://x.com/heliumbrowser/status/2101027440638210306</link>
       <guid isPermaLink="true">https://x.com/heliumbrowser/status/2101027440638210306</guid>
@@ -106,7 +122,7 @@
       <guid isPermaLink="true">https://x.com/heliumbrowser/status/2068238234866659661</guid>
       <pubDate>Sat, 20 Jun 2026 07:43:15 GMT</pubDate>
       <author>@heliumbrowser</author>
-      <description><![CDATA[<p>native selection translation is now available in helium on macOS<br><br>it uses apple&apos;s translation service, which can be used offline if you download the models in system settings</p>]]></description>
+      <description><![CDATA[<p>native selection translation is now available in helium on macOS<br><br>it uses apple&apos;s translation service, which can be used offline if you download the models in system settings</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2068236254593064961/img/EUyFcZ184se5PUgp.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>long time no posting, here&apos;s some of the stuff we released in helium recently: - customizable keyboard shortcuts</title>
@@ -114,7 +130,7 @@
       <guid isPermaLink="true">https://x.com/heliumbrowser/status/2064634566246072542</guid>
       <pubDate>Wed, 10 Jun 2026 09:03:34 GMT</pubDate>
       <author>@heliumbrowser</author>
-      <description><![CDATA[<p>long time no posting, here&apos;s some of the stuff we released in helium recently:<br>- customizable keyboard shortcuts on all platforms<br>- automatic updates on windows<br>- frameless mode (previously zen mode), with floating sidebar, is now out of beta and included in settings by default<br>-</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2064630111995904000/img/CvxJaabRhiYEsd55.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>long time no posting, here&apos;s some of the stuff we released in helium recently:<br>- customizable keyboard shortcuts on all platforms<br>- automatic updates on windows<br>- frameless mode (previously zen mode), with floating sidebar, is now out of beta and included in settings by default<br>-</p>]]></description>
     </item>
     <item>
       <title>you can get helium at https://helium.computer or from releases on github: https://github.com/imputnet/helium#downloads… helium is open source, developed in</title>
@@ -138,7 +154,7 @@
       <guid isPermaLink="true">https://x.com/heliumbrowser/status/2048412400529920016</guid>
       <pubDate>Sun, 26 Apr 2026 14:42:28 GMT</pubDate>
       <author>@heliumbrowser</author>
-      <description><![CDATA[<p>new this week in helium:<br>- web content frame with concentric rounded corners that dynamically adjust based on the adjacent surface across all platforms<br>- a whole lot of zen mode UX and stability improvements that make it a joy to use, including new options to pin the sidebar or</p>]]></description>
+      <description><![CDATA[<p>new this week in helium:<br>- web content frame with concentric rounded corners that dynamically adjust based on the adjacent surface across all platforms<br>- a whole lot of zen mode UX and stability improvements that make it a joy to use, including new options to pin the sidebar or</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2048409176356089856/img/Bh252KMASar_tW_y.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>zen mode is WIP, so it&apos;s currently disabled by default, but you can enable it via a flag</title>
