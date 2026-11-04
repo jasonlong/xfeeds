@@ -7,6 +7,14 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>extremely off the cuff demo of my backlog combing tui for Rex. I handoff simple bug fixes and</title>
+      <link>https://x.com/almonk/status/2118072403763048950</link>
+      <guid isPermaLink="true">https://x.com/almonk/status/2118072403763048950</guid>
+      <pubDate>Wed, 04 Nov 2026 20:06:27 GMT</pubDate>
+      <author>@almonk</author>
+      <description><![CDATA[<p>extremely off the cuff demo of my backlog combing tui for Rex. I handoff simple bug fixes and other issues that don&apos;t need discussion to agents to implement a draft pr. It&apos;s integrated with Rex so that all work happens on my homeserver, each ticket gets a new session, each agent</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2118067279220912128/img/idcu8Q8eNxHmAGCN.jpg" alt=""></p>]]></description>
+    </item>
+    <item>
       <title>since they started @pierrecomputer have been the ultimate company inspo for me. so happy to see them bring</title>
       <link>https://x.com/almonk/status/2118014967370940629</link>
       <guid isPermaLink="true">https://x.com/almonk/status/2118014967370940629</guid>
@@ -252,7 +260,7 @@
       <guid isPermaLink="true">https://x.com/almonk/status/2117546916040835142</guid>
       <pubDate>Tue, 03 Nov 2026 09:18:21 GMT</pubDate>
       <author>@almonk</author>
-      <description><![CDATA[<p>there’s a lot of people building, but not much being built</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2117336516540370944/img/7fSqX0K8ObS5J11g.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>there’s a lot of people building, but not much being built</p>]]></description>
     </item>
     <item>
       <title>The iPhone X was officially released 9 years ago today.</title>
@@ -412,7 +420,7 @@
       <guid isPermaLink="true">https://x.com/almonk/status/2116810937525272583</guid>
       <pubDate>Sun, 01 Nov 2026 08:33:50 GMT</pubDate>
       <author>@almonk</author>
-      <description><![CDATA[<p>the creativity and pace of the community has been astounding. my favourite so far is `neorex`, a plugin for neovim which gives it Rex-native splits and floating windows.<br>https://github.com/alexrlocke/neorex…</p>]]></description>
+      <description><![CDATA[<p>the creativity and pace of the community has been astounding. my favourite so far is `neorex`, a plugin for neovim which gives it Rex-native splits and floating windows.<br>https://github.com/alexrlocke/neorex…</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2116810594510573568/img/8FVpJqunEgxx8O7Y.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>“Machines are tools, not persons”. - Pope Leo</title>
@@ -468,7 +476,7 @@
       <guid isPermaLink="true">https://x.com/almonk/status/2116302471119491172</guid>
       <pubDate>Fri, 30 Oct 2026 22:53:22 GMT</pubDate>
       <author>@almonk</author>
-      <description><![CDATA[<p>had a blast recreating windows 95 this week</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2116296129537245184/img/3uLeJhcssQ9SVSd2.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>had a blast recreating windows 95 this week</p>]]></description>
     </item>
     <item>
       <title>A quick demo of floating panes in Rex, some of their features, and how I use them in</title>
@@ -508,7 +516,7 @@
       <guid isPermaLink="true">https://x.com/almonk/status/2116235909377183823</guid>
       <pubDate>Fri, 30 Oct 2026 18:28:53 GMT</pubDate>
       <author>@almonk</author>
-      <description><![CDATA[<p>this has been my 24 hour pet project. It also works seamlessly between the terminal views and appkit inputs</p>]]></description>
+      <description><![CDATA[<p>this has been my 24 hour pet project. It also works seamlessly between the terminal views and appkit inputs</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2116235016216924160/img/w4wWE0fLPsctyBvD.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>rip my 5-hour pomodoro</title>
@@ -668,7 +676,7 @@
       <guid isPermaLink="true">https://x.com/almonk/status/2115709707117854872</guid>
       <pubDate>Thu, 29 Oct 2026 07:37:56 GMT</pubDate>
       <author>@almonk</author>
-      <description><![CDATA[<p>I really don&apos;t get who this is for. macOS is embarassingly unoptimised for a touch interface - so much so that your finger will obscure most UI items if they&apos;re even large enough to reliably drag</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2115495536585486336/img/VVdPVgoq3yBD6lyu.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>I really don&apos;t get who this is for. macOS is embarassingly unoptimised for a touch interface - so much so that your finger will obscure most UI items if they&apos;re even large enough to reliably drag</p>]]></description>
     </item>
     <item>
       <title>Media post</title>
@@ -900,7 +908,7 @@
       <guid isPermaLink="true">https://x.com/almonk/status/2115075350203969991</guid>
       <pubDate>Tue, 27 Oct 2026 13:37:14 GMT</pubDate>
       <author>@almonk</author>
-      <description><![CDATA[<p>a little tour of the Rex UI basics 📽️<br><br>there&apos;s so much I didn&apos;t touch on in this video (I really want to show off how I work in Rex everyday, for another video), but wanted to share some of the latest and good stuff we have around pane management, process + agent activity,</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2115074327318065153/img/HrEvNxMoxAWBToEF.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>a little tour of the Rex UI basics 📽️<br><br>there&apos;s so much I didn&apos;t touch on in this video (I really want to show off how I work in Rex everyday, for another video), but wanted to share some of the latest and good stuff we have around pane management, process + agent activity,</p>]]></description>
     </item>
     <item>
       <title>https://apple.com/macbook-pro/</title>
@@ -1052,7 +1060,7 @@
       <guid isPermaLink="true">https://x.com/almonk/status/2114390982049329442</guid>
       <pubDate>Sun, 25 Oct 2026 16:17:48 GMT</pubDate>
       <author>@almonk</author>
-      <description><![CDATA[<p>after 24 hours with the Duo I decided that the Rex experience wasn&apos;t quite good enough.<br><br>The redesign, dropping early next week for testers, brings total pane management to the Duo including the ability to see a 1:1 layout with your Mac, reordering and moving blocks, changing</p>]]></description>
+      <description><![CDATA[<p>after 24 hours with the Duo I decided that the Rex experience wasn&apos;t quite good enough.<br><br>The redesign, dropping early next week for testers, brings total pane management to the Duo including the ability to see a 1:1 layout with your Mac, reordering and moving blocks, changing</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2114390546013712384/img/GCdeF71ACeftYp7C.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Media post</title>
@@ -1148,7 +1156,7 @@
       <guid isPermaLink="true">https://x.com/almonk/status/2113677839853572233</guid>
       <pubDate>Fri, 23 Oct 2026 17:04:01 GMT</pubDate>
       <author>@almonk</author>
-      <description><![CDATA[<p>Rex on iPhone Duo is kinda a gamechanger</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2113677773411598337/img/gxdGimKNC7JuzdUP.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Rex on iPhone Duo is kinda a gamechanger</p>]]></description>
     </item>
     <item>
       <title>iPhone Duo is here! Excited to have worked on the design of our open/close transition. It’s designed to</title>
@@ -1236,7 +1244,7 @@
       <guid isPermaLink="true">https://x.com/almonk/status/2113347999560843634</guid>
       <pubDate>Thu, 22 Oct 2026 19:13:21 GMT</pubDate>
       <author>@almonk</author>
-      <description><![CDATA[<p>hype to get this into hands. @dizzyup and I spent an inordinate amount of time trying to bring the best Rex experience to the small screen.</p>]]></description>
+      <description><![CDATA[<p>hype to get this into hands. @dizzyup and I spent an inordinate amount of time trying to bring the best Rex experience to the small screen.</p><p><img src="https://pbs.twimg.com/media/HVQdBO5bcAARqSA.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Greatest splash screen animation of all time by the way.</title>
@@ -1597,14 +1605,6 @@
       <pubDate>Mon, 19 Oct 2026 20:55:11 GMT</pubDate>
       <author>@mitchellh</author>
       <description><![CDATA[<p>The latest Rex preview release includes a very important subsystem I&apos;ve been working on for weeks to enable full forwards+backwards API compatibility with clients and servers. This was gating the Linux test program and massively opening up the Mac test program. <br><br>We just invited</p>]]></description>
-    </item>
-    <item>
-      <title>Today&apos;s Monday Meditations is a photo of a rock sculpture someone at Earendil built in Austria</title>
-      <link>https://x.com/pidotdev/status/2112259257060188471</link>
-      <guid isPermaLink="true">https://x.com/pidotdev/status/2112259257060188471</guid>
-      <pubDate>Mon, 19 Oct 2026 19:07:05 GMT</pubDate>
-      <author>@pidotdev</author>
-      <description><![CDATA[<p>Today&apos;s Monday Meditations is a photo of a rock sculpture someone at Earendil built in Austria</p><p><img src="https://pbs.twimg.com/media/HVBAh1KW4AAj9My?format=jpg&amp;name=small" alt=""></p>]]></description>
     </item>
   </channel>
 </rss>
