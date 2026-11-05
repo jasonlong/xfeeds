@@ -13,6 +13,14 @@
     </image>
     <ttl>120</ttl>
     <item>
+      <title>You can now leave a comment straight from the right-click menu.</title>
+      <link>https://x.com/tldraw/status/2118312687512047816</link>
+      <guid isPermaLink="true">https://x.com/tldraw/status/2118312687512047816</guid>
+      <pubDate>Thu, 05 Nov 2026 12:01:15 GMT</pubDate>
+      <author>@tldraw</author>
+      <description><![CDATA[<p>You can now leave a comment straight from the right-click menu.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2118312629907365888/img/HRPZT2L9gNTfatoA.jpg" alt=""></p>]]></description>
+    </item>
+    <item>
       <title>We’re thrilled to welcome @Aries on board as our newest SDK customer! Aries used the tldraw SDK to</title>
       <link>https://x.com/tldraw/status/2117987475603730510</link>
       <guid isPermaLink="true">https://x.com/tldraw/status/2117987475603730510</guid>
@@ -50,7 +58,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2117588616180564106</guid>
       <pubDate>Tue, 03 Nov 2026 12:04:03 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>What angle should the selection box be when every shape is rotated differently?<br><br>No single angle makes sense, so tldraw falls back to a plain axis-aligned box.<br><br>It’s a small edge case, but we thought about it a lot when deciding how to build our bounding boxes.</p>]]></description>
+      <description><![CDATA[<p>What angle should the selection box be when every shape is rotated differently?<br><br>No single angle makes sense, so tldraw falls back to a plain axis-aligned box.<br><br>It’s a small edge case, but we thought about it a lot when deciding how to build our bounding boxes.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2117588604369453057/img/pPnLWaBPi5qEizMw.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>arrows arrows arrows arrows in my code factory many arrows in my code factory if you need many</title>
@@ -114,7 +122,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2115510721584968003</guid>
       <pubDate>Wed, 28 Oct 2026 18:27:14 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>We tweaked undo to be more precise.<br><br>Among other fixes, you can double-click a frame’s corner or edge to fit it to its content, and undo will put it back exactly as you drew it. Before, that undo could delete the frame altogether.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2115510674784944128/img/YBxyVnT6Tp2C5b2Z.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>We tweaked undo to be more precise.<br><br>Among other fixes, you can double-click a frame’s corner or edge to fit it to its content, and undo will put it back exactly as you drew it. Before, that undo could delete the frame altogether.</p>]]></description>
     </item>
     <item>
       <title>We&apos;ve just landed version 5.6 of the tldraw SDK. Read the release blog for the full breakdown, or</title>
@@ -138,7 +146,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2114809661199388686</guid>
       <pubDate>Mon, 26 Oct 2026 20:01:29 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>One creative campaign can still mean four tools and twelve tabs. But no longer.<br><br>@makingendless lets creative teams go from “what are people talking about?” to finished content in one workspace. Here’s how we helped.</p>]]></description>
+      <description><![CDATA[<p>One creative campaign can still mean four tools and twelve tabs. But no longer.<br><br>@makingendless lets creative teams go from “what are people talking about?” to finished content in one workspace. Here’s how we helped.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2114809542752239618/img/dMgSp45zQJKcXSyf.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>@anikrisn explores how this works in tldraw, from a single shape to nested frames to rotated selections:</title>
@@ -803,14 +811,6 @@
       <pubDate>Fri, 25 Sep 2026 22:59:00 GMT</pubDate>
       <author>@tldraw</author>
       <description><![CDATA[<p>Welcome to tldraw sleep, a series of videos on topics we think are interesting. Tonight&apos;s episode is The Quiet Side of the Table and is about the hidden elements of luxury in fine dining.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2101759085108445184/img/WHIPObcpGppq5Jrl.jpg" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>Are you still awake? Are you a large enterprise interested in building visual user interfaces for AI? Join</title>
-      <link>https://x.com/tldraw/status/2103620312008896973</link>
-      <guid isPermaLink="true">https://x.com/tldraw/status/2103620312008896973</guid>
-      <pubDate>Fri, 25 Sep 2026 22:59:00 GMT</pubDate>
-      <author>@tldraw</author>
-      <description><![CDATA[<p>Are you still awake? Are you a large enterprise interested in building visual user interfaces for AI? Join companies such as Replit, Honeycomb, Google, and BlackRock by building with the tldraw SDK:</p>]]></description>
     </item>
   </channel>
 </rss>

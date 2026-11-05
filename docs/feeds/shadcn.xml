@@ -13,6 +13,30 @@
     </image>
     <ttl>120</ttl>
     <item>
+      <title>Agents love registries. You can put pretty much anything in it. Seriously, try building one.</title>
+      <link>https://x.com/shadcn/status/2118355007003058503</link>
+      <guid isPermaLink="true">https://x.com/shadcn/status/2118355007003058503</guid>
+      <pubDate>Thu, 05 Nov 2026 14:49:25 GMT</pubDate>
+      <author>@shadcn</author>
+      <description><![CDATA[<p>Agents love registries. You can put pretty much anything in it. Seriously, try building one.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2118302080167182336/img/8VucxUv1nUCOtQ1B.jpg" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>Ocarina of Time &gt; GTA</title>
+      <link>https://x.com/shadcn/status/2118232108208455808</link>
+      <guid isPermaLink="true">https://x.com/shadcn/status/2118232108208455808</guid>
+      <pubDate>Thu, 05 Nov 2026 06:41:04 GMT</pubDate>
+      <author>@shadcn</author>
+      <description><![CDATA[<p>Ocarina of Time &gt; GTA</p>]]></description>
+    </item>
+    <item>
+      <title>My 2027 @t3dotcodes prediction: drop the Code. Just T3.</title>
+      <link>https://x.com/shadcn/status/2118209162081640731</link>
+      <guid isPermaLink="true">https://x.com/shadcn/status/2118209162081640731</guid>
+      <pubDate>Thu, 05 Nov 2026 05:09:53 GMT</pubDate>
+      <author>@shadcn</author>
+      <description><![CDATA[<p>My 2027 @t3dotcodes prediction: drop the Code. Just T3.</p>]]></description>
+    </item>
+    <item>
       <title>c&apos;mon I know Opus has been out for a while. But what we call &quot;taste&quot; is not something</title>
       <link>https://x.com/shadcn/status/2117933775871168893</link>
       <guid isPermaLink="true">https://x.com/shadcn/status/2117933775871168893</guid>
@@ -82,7 +106,7 @@
       <guid isPermaLink="true">https://x.com/shadcn/status/2115747963309855088</guid>
       <pubDate>Thu, 29 Oct 2026 10:09:57 GMT</pubDate>
       <author>@shadcn</author>
-      <description><![CDATA[<p>I&apos;m not against touchscreens on laptop. I can see how they&apos;d be useful.<br><br>But In a world where we are touching the keyboard less and buttons are being removed from interfaces, the time for this Macbook has passed.<br><br>I could be wrong. I don&apos;t think I am.</p>]]></description>
+      <description><![CDATA[<p>I&apos;m not against touchscreens on laptop. I can see how they&apos;d be useful.<br><br>But In a world where we are touching the keyboard less and buttons are being removed from interfaces, the time for this Macbook has passed.<br><br>I could be wrong. I don&apos;t think I am.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2115635945022308352/img/7oQIXLeaNEIoLb5l.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>the human behind the code is the moat. you are the moat.</title>
@@ -98,7 +122,7 @@
       <guid isPermaLink="true">https://x.com/shadcn/status/2114972098515096036</guid>
       <pubDate>Tue, 27 Oct 2026 06:46:57 GMT</pubDate>
       <author>@shadcn</author>
-      <description><![CDATA[<p>A voice-to-text dictation app, with live transcription and edits, custom HUD, running on my own models (AI Gateway) is really just T3 code + one prompt. Insane.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2114971901588033536/img/IL3BQikpLEfdTXWA.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>A voice-to-text dictation app, with live transcription and edits, custom HUD, running on my own models (AI Gateway) is really just T3 code + one prompt. Insane.</p>]]></description>
     </item>
     <item>
       <title>Current status: reading coding tutorial on Medium. Send help.</title>
@@ -122,7 +146,7 @@
       <guid isPermaLink="true">https://x.com/shadcn/status/2113499106844778956</guid>
       <pubDate>Fri, 23 Oct 2026 05:13:48 GMT</pubDate>
       <author>@shadcn</author>
-      <description><![CDATA[<p>Speaking of security, we created a registry for building OIDC configuration components.<br><br>Pick your providers, form and validation libraries, and token verifier (powered by jose). Then run one command to copy everything into your app.<br><br>I&apos;ve built these a few times before. I know</p>]]></description>
+      <description><![CDATA[<p>Speaking of security, we created a registry for building OIDC configuration components.<br><br>Pick your providers, form and validation libraries, and token verifier (powered by jose). Then run one command to copy everything into your app.<br><br>I&apos;ve built these a few times before. I know</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2113498819409170432/img/usQShmQRMeZNxS8T.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Naruto &gt; Attack on Titan</title>
@@ -787,30 +811,6 @@
       <pubDate>Thu, 13 Aug 2026 19:00:34 GMT</pubDate>
       <author>@shadcn</author>
       <description><![CDATA[<p>The shadcn cli can now read registries config out of package.json. Which means if you&apos;re distributing non-component code, no components.json required.<br><br>It works with everything else: add, search, view. <br><br>Any project can now install code from registries.</p><p><img src="https://pbs.twimg.com/media/HPn788bWMAAk0Zt?format=jpg&amp;name=small" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>We’re open sourcing @​shadcn/helpers, a new package for small, focused utils to help you build and test components</title>
-      <link>https://x.com/shadcn/status/2087287183090634806</link>
-      <guid isPermaLink="true">https://x.com/shadcn/status/2087287183090634806</guid>
-      <pubDate>Tue, 11 Aug 2026 21:16:59 GMT</pubDate>
-      <author>@shadcn</author>
-      <description><![CDATA[<p>We’re open sourcing @​shadcn/helpers, a new package for small, focused utils to help you build and test components faster.<br><br>Starting with `createChat` for AI SDK and TanStack AI. It lets you script a conversation between a user &amp; assistant then run it through `useChat`.<br><br>Your</p><p><img src="https://pbs.twimg.com/media/HNM26a2WwAAafOq?format=jpg&amp;name=360x360" alt=""></p><p><img src="https://pbs.twimg.com/media/HNM27dYX0AAsEki?format=jpg&amp;name=small" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>You can now script human-in-the-loop flows in @​shadcn/helpers. Approvals with approve/deny and dynamic tool calls that pause for</title>
-      <link>https://x.com/shadcn/status/2087283211994894814</link>
-      <guid isPermaLink="true">https://x.com/shadcn/status/2087283211994894814</guid>
-      <pubDate>Tue, 11 Aug 2026 21:01:12 GMT</pubDate>
-      <author>@shadcn</author>
-      <description><![CDATA[<p>You can now script human-in-the-loop flows in @​shadcn/helpers.<br><br>Approvals with approve/deny and dynamic tool calls that pause for user input e.g. user questions.<br><br>All through the @aisdk useChat lifecycle.</p><p><img src="https://pbs.twimg.com/media/HPeEqthWUAEpgr1?format=jpg&amp;name=small" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>I just open sourced a minimal chatbot template. This brings together everything we&apos;ve been doing the past weeks:</title>
-      <link>https://x.com/shadcn/status/2087153563340325341</link>
-      <guid isPermaLink="true">https://x.com/shadcn/status/2087153563340325341</guid>
-      <pubDate>Tue, 11 Aug 2026 12:26:01 GMT</pubDate>
-      <author>@shadcn</author>
-      <description><![CDATA[<p>I just open sourced a minimal chatbot template.<br><br>This brings together everything we&apos;ve been doing the past weeks: new components, shadcn/typeset, shadcn/react, tool calling, HITL with questionnaire, message parts. Deploys one click to @vercel AI Gateway.</p>]]></description>
     </item>
   </channel>
 </rss>
