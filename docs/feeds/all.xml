@@ -7,6 +7,14 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>gave a talk at @aiDotEngineer shanghai about about a question i keep coming back to: when we can</title>
+      <link>https://x.com/ryolu_/status/2118207967728451760</link>
+      <guid isPermaLink="true">https://x.com/ryolu_/status/2118207967728451760</guid>
+      <pubDate>Thu, 05 Nov 2026 05:05:08 GMT</pubDate>
+      <author>@ryolu_</author>
+      <description><![CDATA[<p>gave a talk at @aiDotEngineer shanghai about about a question i keep coming back to: when we can make anything, do we still know what we want?<br><br>i want tools that help us find our own answers, not skip the process of forming them. not just more output, but more room to think,</p><p><img src="https://pbs.twimg.com/media/HWVZQxdaoAA8qK_?format=jpg&amp;name=small" alt=""></p>]]></description>
+    </item>
+    <item>
       <title>extremely off the cuff demo of my backlog combing tui for Rex. I handoff simple bug fixes and</title>
       <link>https://x.com/almonk/status/2118072403763048950</link>
       <guid isPermaLink="true">https://x.com/almonk/status/2118072403763048950</guid>
@@ -1276,7 +1284,7 @@
       <guid isPermaLink="true">https://x.com/pidotdev/status/2113285940974342204</guid>
       <pubDate>Thu, 22 Oct 2026 15:06:45 GMT</pubDate>
       <author>@pidotdev</author>
-      <description><![CDATA[<p>Thanks for spreading the good word about Pi Durable @superlinear_fm</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2113246725078994944/img/3bOwNXDDpDHs7OIe.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Thanks for spreading the good word about Pi Durable @superlinear_fm</p>]]></description>
     </item>
     <item>
       <title>These apps are ready for iPhone Duo. https://apple.com/newsroom/2026/10/developers-bring-incredible-new-app-experiences-to-iphone-duo/…</title>
@@ -1388,7 +1396,7 @@
       <guid isPermaLink="true">https://x.com/pidotdev/status/2112978311252979761</guid>
       <pubDate>Wed, 21 Oct 2026 18:44:21 GMT</pubDate>
       <author>@pidotdev</author>
-      <description><![CDATA[<p>@Recursive_SI shipped its first model, Flint! Exciting to see they did extensive RL training on the Pi harness, so it works well out of the box.<br>40B MoE (2.5B active) for fast local coding. Apache 2.0.<br><br>Available now for free in Pi via Radius.</p>]]></description>
+      <description><![CDATA[<p>@Recursive_SI shipped its first model, Flint! Exciting to see they did extensive RL training on the Pi harness, so it works well out of the box.<br>40B MoE (2.5B active) for fast local coding. Apache 2.0.<br><br>Available now for free in Pi via Radius.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2112941750809419776/img/MJaHRrNTo-Kg92Pb.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>@anikrisn explores the decisions behind how we built our bounding boxes.</title>
@@ -1524,7 +1532,7 @@
       <guid isPermaLink="true">https://x.com/pidotdev/status/2112576009509691512</guid>
       <pubDate>Tue, 20 Oct 2026 16:05:45 GMT</pubDate>
       <author>@pidotdev</author>
-      <description><![CDATA[<p>Thanks @_alejandroao for all the effort you put into helping others understand what we build</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2112466228027469824/img/HPJyuNmO4nIrqLzd.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Thanks @_alejandroao for all the effort you put into helping others understand what we build</p>]]></description>
     </item>
     <item>
       <title>preview</title>
@@ -1597,14 +1605,6 @@
       <pubDate>Tue, 20 Oct 2026 08:06:58 GMT</pubDate>
       <author>@avstorm</author>
       <description><![CDATA[<p>Apple Logos 2026</p><p><img src="https://pbs.twimg.com/media/HVDyt0OW8AAqfBw?format=jpg&amp;name=small" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>The latest Rex preview release includes a very important subsystem I&apos;ve been working on for weeks to enable</title>
-      <link>https://x.com/mitchellh/status/2112286460309364845</link>
-      <guid isPermaLink="true">https://x.com/mitchellh/status/2112286460309364845</guid>
-      <pubDate>Mon, 19 Oct 2026 20:55:11 GMT</pubDate>
-      <author>@mitchellh</author>
-      <description><![CDATA[<p>The latest Rex preview release includes a very important subsystem I&apos;ve been working on for weeks to enable full forwards+backwards API compatibility with clients and servers. This was gating the Linux test program and massively opening up the Mac test program. <br><br>We just invited</p>]]></description>
     </item>
   </channel>
 </rss>
