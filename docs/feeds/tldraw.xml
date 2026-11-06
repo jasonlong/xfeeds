@@ -13,6 +13,14 @@
     </image>
     <ttl>120</ttl>
     <item>
+      <title>Clicking away from a half-written comment used to just move it. Now it closes it, and your draft</title>
+      <link>https://x.com/tldraw/status/2118750570924388433</link>
+      <guid isPermaLink="true">https://x.com/tldraw/status/2118750570924388433</guid>
+      <pubDate>Fri, 06 Nov 2026 17:01:15 GMT</pubDate>
+      <author>@tldraw</author>
+      <description><![CDATA[<p>Clicking away from a half-written comment used to just move it. Now it closes it, and your draft is still there when you come back.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2118750523230916608/img/77_0DOD-nBkrdL6G.jpg" alt=""></p>]]></description>
+    </item>
+    <item>
       <title>yes, nice feature but can you write &quot;hey&quot;, copy it a bunch of times, use eraser to cut</title>
       <link>https://x.com/tldraw/status/2118431424227196976</link>
       <guid isPermaLink="true">https://x.com/tldraw/status/2118431424227196976</guid>
@@ -82,7 +90,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2117588616180564106</guid>
       <pubDate>Tue, 03 Nov 2026 12:04:03 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>What angle should the selection box be when every shape is rotated differently?<br><br>No single angle makes sense, so tldraw falls back to a plain axis-aligned box.<br><br>It’s a small edge case, but we thought about it a lot when deciding how to build our bounding boxes.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2117588604369453057/img/pPnLWaBPi5qEizMw.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>What angle should the selection box be when every shape is rotated differently?<br><br>No single angle makes sense, so tldraw falls back to a plain axis-aligned box.<br><br>It’s a small edge case, but we thought about it a lot when deciding how to build our bounding boxes.</p>]]></description>
     </item>
     <item>
       <title>arrows arrows arrows arrows in my code factory many arrows in my code factory if you need many</title>
@@ -98,7 +106,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2116213369170751495</guid>
       <pubDate>Fri, 30 Oct 2026 16:59:19 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>Here’s how: https://tldraw.dev/blog/endless</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2116213343010828288/img/99V1u1UopaZhL78u.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Here’s how: https://tldraw.dev/blog/endless</p>]]></description>
     </item>
     <item>
       <title>“Hey Claude, can you organise this moodboard by colour?” The team at @makingendless is building a creative workspace</title>
@@ -122,7 +130,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2115912606053437472</guid>
       <pubDate>Thu, 29 Oct 2026 21:04:11 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>just tidying up</p>]]></description>
+      <description><![CDATA[<p>just tidying up</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2115912114036469762/img/R_R7HIJRZlMstr3y.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Full interview at</title>
@@ -146,7 +154,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2115510721584968003</guid>
       <pubDate>Wed, 28 Oct 2026 18:27:14 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>We tweaked undo to be more precise.<br><br>Among other fixes, you can double-click a frame’s corner or edge to fit it to its content, and undo will put it back exactly as you drew it. Before, that undo could delete the frame altogether.</p>]]></description>
+      <description><![CDATA[<p>We tweaked undo to be more precise.<br><br>Among other fixes, you can double-click a frame’s corner or edge to fit it to its content, and undo will put it back exactly as you drew it. Before, that undo could delete the frame altogether.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2115510674784944128/img/YBxyVnT6Tp2C5b2Z.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>We&apos;ve just landed version 5.6 of the tldraw SDK. Read the release blog for the full breakdown, or</title>
@@ -803,14 +811,6 @@
       <pubDate>Sun, 27 Sep 2026 16:41:03 GMT</pubDate>
       <author>@tldraw</author>
       <description><![CDATA[<p>tldraw offline online confirmed</p>]]></description>
-    </item>
-    <item>
-      <title>Welcome to tldraw sleep, a series of videos on topics we think are interesting. Tonight&apos;s episode is The</title>
-      <link>https://x.com/tldraw/status/2103982698989572167</link>
-      <guid isPermaLink="true">https://x.com/tldraw/status/2103982698989572167</guid>
-      <pubDate>Sat, 26 Sep 2026 22:59:00 GMT</pubDate>
-      <author>@tldraw</author>
-      <description><![CDATA[<p>Welcome to tldraw sleep, a series of videos on topics we think are interesting. Tonight&apos;s episode is The Diary Kept in Salt Water and is about the microscopic machines that perform RNA replication.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2101759756989759488/img/A_N3sMlg7iuH4BvH.jpg" alt=""></p>]]></description>
     </item>
   </channel>
 </rss>
