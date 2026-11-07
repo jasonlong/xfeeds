@@ -13,12 +13,20 @@
     </image>
     <ttl>120</ttl>
     <item>
+      <title>Weird things are happening in my evals right now.</title>
+      <link>https://x.com/shadcn/status/2119032206186471918</link>
+      <guid isPermaLink="true">https://x.com/shadcn/status/2119032206186471918</guid>
+      <pubDate>Sat, 07 Nov 2026 11:40:22 GMT</pubDate>
+      <author>@shadcn</author>
+      <description><![CDATA[<p>Weird things are happening in my evals right now.</p><p><img src="https://pbs.twimg.com/media/HWhQg6XXQAAi4nx?format=png&amp;name=small" alt=""></p>]]></description>
+    </item>
+    <item>
       <title>Agents love registries. You can put pretty much anything in it. Seriously, try building one.</title>
       <link>https://x.com/shadcn/status/2118355007003058503</link>
       <guid isPermaLink="true">https://x.com/shadcn/status/2118355007003058503</guid>
       <pubDate>Thu, 05 Nov 2026 14:49:25 GMT</pubDate>
       <author>@shadcn</author>
-      <description><![CDATA[<p>Agents love registries. You can put pretty much anything in it. Seriously, try building one.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2118302080167182336/img/8VucxUv1nUCOtQ1B.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Agents love registries. You can put pretty much anything in it. Seriously, try building one.</p>]]></description>
     </item>
     <item>
       <title>Ocarina of Time &gt; GTA</title>
@@ -803,14 +811,6 @@
       <pubDate>Sun, 16 Aug 2026 10:41:51 GMT</pubDate>
       <author>@shadcn</author>
       <description><![CDATA[<p>Been testing a new feature for Copper. Took me a weeks to get the UX right. Launching soon.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2082518119344459776/img/MqXnyHAYOzdtpP98.jpg" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>The shadcn cli can now read registries config out of package.json. Which means if you&apos;re distributing non-component code,</title>
-      <link>https://x.com/shadcn/status/2087977629227925765</link>
-      <guid isPermaLink="true">https://x.com/shadcn/status/2087977629227925765</guid>
-      <pubDate>Thu, 13 Aug 2026 19:00:34 GMT</pubDate>
-      <author>@shadcn</author>
-      <description><![CDATA[<p>The shadcn cli can now read registries config out of package.json. Which means if you&apos;re distributing non-component code, no components.json required.<br><br>It works with everything else: add, search, view. <br><br>Any project can now install code from registries.</p><p><img src="https://pbs.twimg.com/media/HPn788bWMAAk0Zt?format=jpg&amp;name=small" alt=""></p>]]></description>
     </item>
   </channel>
 </rss>
