@@ -13,6 +13,14 @@
     </image>
     <ttl>120</ttl>
     <item>
+      <title>We just added the ability to drag and drop and copy/paste files between devices on Rex. It&apos;s amazing.</title>
+      <link>https://x.com/almonk/status/2119145535580012732</link>
+      <guid isPermaLink="true">https://x.com/almonk/status/2119145535580012732</guid>
+      <pubDate>Sat, 07 Nov 2026 19:10:42 GMT</pubDate>
+      <author>@almonk</author>
+      <description><![CDATA[<p>We just added the ability to drag and drop and copy/paste files between devices on Rex. It&apos;s amazing.<br><br>I can build binaries on my Mac Studio then send them to any device for testing instantly. I can send screenshots to remote agents running on Linux, macOS or Windows.<br><br>It&apos;s built</p>]]></description>
+    </item>
+    <item>
       <title>I know the Rex for Windows announcement has made people even more anxious for the Linux client, and</title>
       <link>https://x.com/almonk/status/2118359991891734755</link>
       <guid isPermaLink="true">https://x.com/almonk/status/2118359991891734755</guid>
@@ -26,7 +34,7 @@
       <guid isPermaLink="true">https://x.com/almonk/status/2118322504175390881</guid>
       <pubDate>Thu, 05 Nov 2026 12:40:16 GMT</pubDate>
       <author>@almonk</author>
-      <description><![CDATA[<p>our goal for Rex clients from the start was to build the most magical terminal app and to make it feel native on every platform. to me that doesn’t mean porting the same UI around. it means embracing the norms and quirks of each platform, so the app feels at home on your system</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2118321201424572416/img/5Vc6LJAZJ8bZNPAm.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>our goal for Rex clients from the start was to build the most magical terminal app and to make it feel native on every platform. to me that doesn’t mean porting the same UI around. it means embracing the norms and quirks of each platform, so the app feels at home on your system</p>]]></description>
     </item>
     <item>
       <title>One design goal for Rex is “make any machine in the world feel like my local machine”</title>
@@ -42,7 +50,7 @@
       <guid isPermaLink="true">https://x.com/almonk/status/2118072403763048950</guid>
       <pubDate>Wed, 04 Nov 2026 20:06:27 GMT</pubDate>
       <author>@almonk</author>
-      <description><![CDATA[<p>extremely off the cuff demo of my backlog combing tui for Rex. I handoff simple bug fixes and other issues that don&apos;t need discussion to agents to implement a draft pr. It&apos;s integrated with Rex so that all work happens on my homeserver, each ticket gets a new session, each agent</p>]]></description>
+      <description><![CDATA[<p>extremely off the cuff demo of my backlog combing tui for Rex. I handoff simple bug fixes and other issues that don&apos;t need discussion to agents to implement a draft pr. It&apos;s integrated with Rex so that all work happens on my homeserver, each ticket gets a new session, each agent</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2118067279220912128/img/idcu8Q8eNxHmAGCN.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>since they started @pierrecomputer have been the ultimate company inspo for me. so happy to see them bring</title>
@@ -130,7 +138,7 @@
       <guid isPermaLink="true">https://x.com/almonk/status/2115075350203969991</guid>
       <pubDate>Tue, 27 Oct 2026 13:37:14 GMT</pubDate>
       <author>@almonk</author>
-      <description><![CDATA[<p>a little tour of the Rex UI basics 📽️<br><br>there&apos;s so much I didn&apos;t touch on in this video (I really want to show off how I work in Rex everyday, for another video), but wanted to share some of the latest and good stuff we have around pane management, process + agent activity,</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2115074327318065153/img/HrEvNxMoxAWBToEF.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>a little tour of the Rex UI basics 📽️<br><br>there&apos;s so much I didn&apos;t touch on in this video (I really want to show off how I work in Rex everyday, for another video), but wanted to share some of the latest and good stuff we have around pane management, process + agent activity,</p>]]></description>
     </item>
     <item>
       <title>Media post</title>
@@ -146,7 +154,7 @@
       <guid isPermaLink="true">https://x.com/almonk/status/2114390982049329442</guid>
       <pubDate>Sun, 25 Oct 2026 16:17:48 GMT</pubDate>
       <author>@almonk</author>
-      <description><![CDATA[<p>after 24 hours with the Duo I decided that the Rex experience wasn&apos;t quite good enough.<br><br>The redesign, dropping early next week for testers, brings total pane management to the Duo including the ability to see a 1:1 layout with your Mac, reordering and moving blocks, changing</p>]]></description>
+      <description><![CDATA[<p>after 24 hours with the Duo I decided that the Rex experience wasn&apos;t quite good enough.<br><br>The redesign, dropping early next week for testers, brings total pane management to the Duo including the ability to see a 1:1 layout with your Mac, reordering and moving blocks, changing</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2114390546013712384/img/GCdeF71ACeftYp7C.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Rex on iPhone Duo is kinda a gamechanger</title>
@@ -803,14 +811,6 @@
       <pubDate>Wed, 26 Aug 2026 07:40:24 GMT</pubDate>
       <author>@almonk</author>
       <description><![CDATA[<p>You should probably follow @prekesh for a masterclass in creative Blender work, and also very good pictures of birds</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2092513102411534336/img/dNGqqcgNNuuEuKgF.jpg" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>Wow I completely misread this in the Mac Studio preview x.com/aaronp613/stat…</title>
-      <link>https://x.com/almonk/status/2092278137514086868</link>
-      <guid isPermaLink="true">https://x.com/almonk/status/2092278137514086868</guid>
-      <pubDate>Tue, 25 Aug 2026 15:49:15 GMT</pubDate>
-      <author>@almonk</author>
-      <description><![CDATA[<p>Wow I completely misread this in the Mac Studio preview  x.com/aaronp613/stat…</p><p><img src="https://pbs.twimg.com/media/HQlD4BVXwAA9zpd?format=jpg&amp;name=small" alt=""></p><p><img src="https://pbs.twimg.com/media/HQkjWpLaUAA_j87?format=jpg&amp;name=240x240" alt=""></p>]]></description>
     </item>
   </channel>
 </rss>
