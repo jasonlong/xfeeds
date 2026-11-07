@@ -7,6 +7,14 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>This was my last week @Linear. Proud to have contributed to the website, brand, and product over the</title>
+      <link>https://x.com/pacocoursey/status/2118926043608445213</link>
+      <guid isPermaLink="true">https://x.com/pacocoursey/status/2118926043608445213</guid>
+      <pubDate>Sat, 07 Nov 2026 04:38:31 GMT</pubDate>
+      <author>@pacocoursey</author>
+      <description><![CDATA[<p>This was my last week @Linear. Proud to have contributed to the website, brand, and product over the past 4+ years. Onwards!</p>]]></description>
+    </item>
+    <item>
       <title>libghostty 1.0 is here! I started Ghostty ~5yrs ago to work towards this. Today, libghostty is in hundreds</title>
       <link>https://x.com/mitchellh/status/2118848233762078971</link>
       <guid isPermaLink="true">https://x.com/mitchellh/status/2118848233762078971</guid>
@@ -1597,14 +1605,6 @@
       <pubDate>Thu, 22 Oct 2026 12:23:23 GMT</pubDate>
       <author>@almonk</author>
       <description><![CDATA[<p></p><p><img src="https://pbs.twimg.com/media/HVPA94pWsAA4EV0?format=jpg&amp;name=small" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>Love to see @Aries take the trading desk to the infinite canvas. Aries Infinite turns charts, options chains</title>
-      <link>https://x.com/tldraw/status/2113219944163017109</link>
-      <guid isPermaLink="true">https://x.com/tldraw/status/2113219944163017109</guid>
-      <pubDate>Thu, 22 Oct 2026 10:44:31 GMT</pubDate>
-      <author>@tldraw</author>
-      <description><![CDATA[<p>Love to see @Aries take the trading desk to the infinite canvas.<br><br>Aries Infinite turns charts, options chains and order tickets into objects you can move, resize and arrange freely.<br><br>Congrats to the team on the launch!</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2112565258837544960/img/8s5quDuRHu0GJ528.jpg" alt=""></p>]]></description>
     </item>
   </channel>
 </rss>
