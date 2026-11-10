@@ -13,12 +13,20 @@
     </image>
     <ttl>120</ttl>
     <item>
+      <title>Media post</title>
+      <link>https://x.com/shadcn/status/2120042062120943904</link>
+      <guid isPermaLink="true">https://x.com/shadcn/status/2120042062120943904</guid>
+      <pubDate>Tue, 10 Nov 2026 06:33:10 GMT</pubDate>
+      <author>@shadcn</author>
+      <description><![CDATA[<p></p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2120041994621792256/img/fyXhYyqyuHMW1i0z.jpg" alt=""></p>]]></description>
+    </item>
+    <item>
       <title>Run /improve with Fable 5.2. I’m seeing some interesting results that Opus 5.5 missed. https://github.com/shadcn/improve</title>
       <link>https://x.com/shadcn/status/2119879610724720702</link>
       <guid isPermaLink="true">https://x.com/shadcn/status/2119879610724720702</guid>
       <pubDate>Mon, 09 Nov 2026 19:47:39 GMT</pubDate>
       <author>@shadcn</author>
-      <description><![CDATA[<p>Run /improve with Fable 5.2. I’m seeing some interesting results that Opus 5.5 missed. <br><br>https://github.com/shadcn/improve</p><p><img src="https://pbs.twimg.com/media/HWtIJNLWUAAcc7I.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Run /improve with Fable 5.2. I’m seeing some interesting results that Opus 5.5 missed. <br><br>https://github.com/shadcn/improve</p>]]></description>
     </item>
     <item>
       <title>Need Opus 5.5s</title>
@@ -50,7 +58,7 @@
       <guid isPermaLink="true">https://x.com/shadcn/status/2118355007003058503</guid>
       <pubDate>Thu, 05 Nov 2026 14:49:25 GMT</pubDate>
       <author>@shadcn</author>
-      <description><![CDATA[<p>Agents love registries. You can put pretty much anything in it. Seriously, try building one.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2118302080167182336/img/8VucxUv1nUCOtQ1B.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Agents love registries. You can put pretty much anything in it. Seriously, try building one.</p>]]></description>
     </item>
     <item>
       <title>Ocarina of Time &gt; GTA</title>
@@ -138,7 +146,7 @@
       <guid isPermaLink="true">https://x.com/shadcn/status/2115747963309855088</guid>
       <pubDate>Thu, 29 Oct 2026 10:09:57 GMT</pubDate>
       <author>@shadcn</author>
-      <description><![CDATA[<p>I&apos;m not against touchscreens on laptop. I can see how they&apos;d be useful.<br><br>But In a world where we are touching the keyboard less and buttons are being removed from interfaces, the time for this Macbook has passed.<br><br>I could be wrong. I don&apos;t think I am.</p>]]></description>
+      <description><![CDATA[<p>I&apos;m not against touchscreens on laptop. I can see how they&apos;d be useful.<br><br>But In a world where we are touching the keyboard less and buttons are being removed from interfaces, the time for this Macbook has passed.<br><br>I could be wrong. I don&apos;t think I am.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2115635945022308352/img/7oQIXLeaNEIoLb5l.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>the human behind the code is the moat. you are the moat.</title>
@@ -803,14 +811,6 @@
       <pubDate>Mon, 17 Aug 2026 14:39:59 GMT</pubDate>
       <author>@shadcn</author>
       <description><![CDATA[<p></p>]]></description>
-    </item>
-    <item>
-      <title>Copper now supports freehand drawing. Hit Cmd + (Right) Shift + Shift to open the editor from anywhere.</title>
-      <link>https://x.com/shadcn/status/2089361600402657624</link>
-      <guid isPermaLink="true">https://x.com/shadcn/status/2089361600402657624</guid>
-      <pubDate>Mon, 17 Aug 2026 14:39:58 GMT</pubDate>
-      <author>@shadcn</author>
-      <description><![CDATA[<p>Copper now supports freehand drawing.<br><br>Hit Cmd + (Right) Shift + Shift to open the editor from anywhere.<br><br>Draw. Add shapes. Text. Colors.<br><br>Save to Copper. Or Copy Paste straight to your prompt composer.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2089361286987468800/img/-voOR_BgBTDDc5_3.jpg" alt=""></p>]]></description>
     </item>
   </channel>
 </rss>
