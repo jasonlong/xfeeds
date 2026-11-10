@@ -7,6 +7,14 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>This is a good filter for people who I don’t want to work with. Please understand how computers</title>
+      <link>https://x.com/mitchellh/status/2119949990533673110</link>
+      <guid isPermaLink="true">https://x.com/mitchellh/status/2119949990533673110</guid>
+      <pubDate>Tue, 10 Nov 2026 00:27:19 GMT</pubDate>
+      <author>@mitchellh</author>
+      <description><![CDATA[<p>This is a good filter for people who I don’t want to work with. Please understand how computers work. This isn’t even about understanding Docker. Any software person should know how the layers work at a high level and this is a VERYYYYY high level.</p>]]></description>
+    </item>
+    <item>
       <title>as the originator of this mean, jason is adding all of you to his channels</title>
       <link>https://x.com/AREdotNA/status/2119929582459764738</link>
       <guid isPermaLink="true">https://x.com/AREdotNA/status/2119929582459764738</guid>
@@ -788,7 +796,7 @@
       <guid isPermaLink="true">https://x.com/stephenhaney/status/2117333603608932710</guid>
       <pubDate>Mon, 02 Nov 2026 19:10:43 GMT</pubDate>
       <author>@stephenhaney</author>
-      <description><![CDATA[<p>New: rich text editing is live in Paper!<br><br>Designers have been asking for this one ✨<br><br>Plus Snapshot is now more accurate: copy/paste your live site as layers<br><br>Text uses html/css so what you design is what you ship<br><br>And it&apos;s perfect with agents: code in, code out<br><br>Sound on 🔊</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2117331056861020160/img/jkWA-BGFHtfC6C-j.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>New: rich text editing is live in Paper!<br><br>Designers have been asking for this one ✨<br><br>Plus Snapshot is now more accurate: copy/paste your live site as layers<br><br>Text uses html/css so what you design is what you ship<br><br>And it&apos;s perfect with agents: code in, code out<br><br>Sound on 🔊</p>]]></description>
     </item>
     <item>
       <title>Watch out dependancies, Gramps is unleashing</title>
@@ -1108,7 +1116,7 @@
       <guid isPermaLink="true">https://x.com/shadcn/status/2115747963309855088</guid>
       <pubDate>Thu, 29 Oct 2026 10:09:57 GMT</pubDate>
       <author>@shadcn</author>
-      <description><![CDATA[<p>I&apos;m not against touchscreens on laptop. I can see how they&apos;d be useful.<br><br>But In a world where we are touching the keyboard less and buttons are being removed from interfaces, the time for this Macbook has passed.<br><br>I could be wrong. I don&apos;t think I am.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2115635945022308352/img/7oQIXLeaNEIoLb5l.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>I&apos;m not against touchscreens on laptop. I can see how they&apos;d be useful.<br><br>But In a world where we are touching the keyboard less and buttons are being removed from interfaces, the time for this Macbook has passed.<br><br>I could be wrong. I don&apos;t think I am.</p>]]></description>
     </item>
     <item>
       <title>Full interview at</title>
@@ -1412,7 +1420,7 @@
       <guid isPermaLink="true">https://x.com/avstorm/status/2114837750793052646</guid>
       <pubDate>Mon, 26 Oct 2026 21:53:06 GMT</pubDate>
       <author>@avstorm</author>
-      <description><![CDATA[<p>Apple has added a simplified Touch ID icon in iOS 27.2 for iPhone Duo. The animation still uses the “touchid” SF Symbol.</p><p><img src="https://pbs.twimg.com/media/HVln6XFWAAAwcJW?format=png&amp;name=360x360" alt=""></p>]]></description>
+      <description><![CDATA[<p>Apple has added a simplified Touch ID icon in iOS 27.2 for iPhone Duo. The animation still uses the “touchid” SF Symbol.</p><p><img src="https://pbs.twimg.com/media/HVln6XFWAAAwcJW?format=png&amp;name=360x360" alt=""></p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2114835849258876928/img/tPxVhW7W2ei811M8.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Check out the full getting started with Paper video here:</title>
@@ -1548,7 +1556,7 @@
       <guid isPermaLink="true">https://x.com/ryolu_/status/2114152978575995291</guid>
       <pubDate>Sun, 25 Oct 2026 00:32:03 GMT</pubDate>
       <author>@ryolu_</author>
-      <description><![CDATA[<p>happy 25th birthday, iPod 💛<br><br>a little reintroduction to the iPod in ryOS. a love letter to the little music player i carried everywhere, rebuilt as a place to listen, play, and get lost in music again</p><p><img src="https://pbs.twimg.com/media/HVb65NaasAAcI2x.jpg" alt=""></p><p><img src="https://pbs.twimg.com/media/HVS7GxQXkAAsqta?format=jpg&amp;name=240x240" alt=""></p>]]></description>
+      <description><![CDATA[<p>happy 25th birthday, iPod 💛<br><br>a little reintroduction to the iPod in ryOS. a love letter to the little music player i carried everywhere, rebuilt as a place to listen, play, and get lost in music again</p><p><img src="https://pbs.twimg.com/media/HVS7GxQXkAAsqta?format=jpg&amp;name=240x240" alt=""></p>]]></description>
     </item>
     <item>
       <title>🫆 Touch ID with the correct orientation now</title>
@@ -1597,14 +1605,6 @@
       <pubDate>Fri, 23 Oct 2026 17:33:22 GMT</pubDate>
       <author>@mitchellh</author>
       <description><![CDATA[<p>Walked into an Apple Store at 830 and walked out with a Duo in less than an hour. Now to make Rex really great on this with @almonk</p>]]></description>
-    </item>
-    <item>
-      <title>the future we were promised</title>
-      <link>https://x.com/tldraw/status/2113684347622658063</link>
-      <guid isPermaLink="true">https://x.com/tldraw/status/2113684347622658063</guid>
-      <pubDate>Fri, 23 Oct 2026 17:29:53 GMT</pubDate>
-      <author>@tldraw</author>
-      <description><![CDATA[<p>the future we were promised</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2113684217754259456/img/hYwEX3tCwUh1Ruwf.jpg" alt=""></p>]]></description>
     </item>
   </channel>
 </rss>
