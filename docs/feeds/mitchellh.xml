@@ -13,6 +13,14 @@
     </image>
     <ttl>120</ttl>
     <item>
+      <title>libghostty-vt 1.0.1 released. ABI stable so its a drop-in upgrade. Biggest highlight is that we provide prebuilt Windows</title>
+      <link>https://x.com/mitchellh/status/2120634680362086778</link>
+      <guid isPermaLink="true">https://x.com/mitchellh/status/2120634680362086778</guid>
+      <pubDate>Wed, 11 Nov 2026 21:48:01 GMT</pubDate>
+      <author>@mitchellh</author>
+      <description><![CDATA[<p>libghostty-vt 1.0.1 released. ABI stable so its a drop-in upgrade. Biggest highlight is that we provide prebuilt Windows builds now (DLL and static libs)! Also just a good group of performance improvements and bug fixes. Enjoy the hand-written release notes below.<br><br>Windows builds</p>]]></description>
+    </item>
+    <item>
       <title>We&apos;re still so small but I&apos;m loving the team we&apos;ve got at Superlogical. They&apos;re so talented and kind</title>
       <link>https://x.com/mitchellh/status/2120221244478083249</link>
       <guid isPermaLink="true">https://x.com/mitchellh/status/2120221244478083249</guid>
@@ -42,7 +50,7 @@
       <guid isPermaLink="true">https://x.com/mitchellh/status/2118352046906867927</guid>
       <pubDate>Thu, 05 Nov 2026 14:37:39 GMT</pubDate>
       <author>@mitchellh</author>
-      <description><![CDATA[<p>Surprise! We have a gorgeous, high quality windows client. We’ve been waiting to share until we have a relatively complete (but still pre alpha) client here, but we’re getting ready to start external testing. Hello, Windows.</p>]]></description>
+      <description><![CDATA[<p>Surprise! We have a gorgeous, high quality windows client. We’ve been waiting to share until we have a relatively complete (but still pre alpha) client here, but we’re getting ready to start external testing. Hello, Windows.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2118321201424572416/img/5Vc6LJAZJ8bZNPAm.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Congrats to Pierre! I have many great friends that work there and I’m so happy for them. I’m</title>

@@ -7,6 +7,14 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>libghostty-vt 1.0.1 released. ABI stable so its a drop-in upgrade. Biggest highlight is that we provide prebuilt Windows</title>
+      <link>https://x.com/mitchellh/status/2120634680362086778</link>
+      <guid isPermaLink="true">https://x.com/mitchellh/status/2120634680362086778</guid>
+      <pubDate>Wed, 11 Nov 2026 21:48:01 GMT</pubDate>
+      <author>@mitchellh</author>
+      <description><![CDATA[<p>libghostty-vt 1.0.1 released. ABI stable so its a drop-in upgrade. Biggest highlight is that we provide prebuilt Windows builds now (DLL and static libs)! Also just a good group of performance improvements and bug fixes. Enjoy the hand-written release notes below.<br><br>Windows builds</p>]]></description>
+    </item>
+    <item>
       <title>Media post</title>
       <link>https://x.com/avstorm/status/2120569841732169860</link>
       <guid isPermaLink="true">https://x.com/avstorm/status/2120569841732169860</guid>
@@ -36,7 +44,7 @@
       <guid isPermaLink="true">https://x.com/paper/status/2120558475994710046</guid>
       <pubDate>Wed, 11 Nov 2026 16:45:13 GMT</pubDate>
       <author>@paper</author>
-      <description><![CDATA[<p>The canvas? Undefeated.<br><br>Since Sketchpad in the 1960&apos;s, a 2D canvas has been the interface for creativity, spatial thinking, and dialing in the details.<br><br>We see designers, engineers, and sales teams using a canvas with agents more than ever.<br><br>Long live design tools!</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2120556517309267973/img/sEFGwt81KfZC165r.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>The canvas? Undefeated.<br><br>Since Sketchpad in the 1960&apos;s, a 2D canvas has been the interface for creativity, spatial thinking, and dialing in the details.<br><br>We see designers, engineers, and sales teams using a canvas with agents more than ever.<br><br>Long live design tools!</p>]]></description>
     </item>
     <item>
       <title>From Roboto to YouTube Marquee</title>
@@ -76,7 +84,7 @@
       <guid isPermaLink="true">https://x.com/zerocam_app/status/2120479671674413404</guid>
       <pubDate>Wed, 11 Nov 2026 11:32:04 GMT</pubDate>
       <author>@zerocam_app</author>
-      <description><![CDATA[<p>Unexpected new app available in App Store. Enjoy 🕹️</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2120429633602502656/img/xpG32tGEPfeu2q0F.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Unexpected new app available in App Store. Enjoy 🕹️</p>]]></description>
     </item>
     <item>
       <title>Pidalf and Clankolas are on camera again. Enjoy</title>
@@ -508,7 +516,7 @@
       <guid isPermaLink="true">https://x.com/paper/status/2118434939565924477</guid>
       <pubDate>Thu, 05 Nov 2026 20:07:02 GMT</pubDate>
       <author>@paper</author>
-      <description><![CDATA[<p>Lovable × Paper, 🐐 combo<br><br>Check out how Lovable designs with Paper in this detailed breakdown</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2118092460379295744/img/eW0zAVWE_rIcvyqi.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Lovable × Paper, 🐐 combo<br><br>Check out how Lovable designs with Paper in this detailed breakdown</p>]]></description>
     </item>
     <item>
       <title>yes, nice feature but can you write &quot;hey&quot;, copy it a bunch of times, use eraser to cut</title>
@@ -564,7 +572,7 @@
       <guid isPermaLink="true">https://x.com/AREdotNA/status/2118379734040302025</guid>
       <pubDate>Thu, 05 Nov 2026 16:27:40 GMT</pubDate>
       <author>@AREdotNA</author>
-      <description><![CDATA[<p>Or create new channel from selection (clean up your channels)</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2118378926087061505/img/YC7M3vr_dhOs_Q7X?format=jpg&amp;name=240x240" alt=""></p>]]></description>
+      <description><![CDATA[<p>Or create new channel from selection (clean up your channels)</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2118379617379606528/img/oT0nAhyGY9SmAQZY.jpg" alt=""></p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2118378926087061505/img/YC7M3vr_dhOs_Q7X?format=jpg&amp;name=240x240" alt=""></p>]]></description>
     </item>
     <item>
       <title>Connect as many cloud images at a time as you want (within reason)</title>
@@ -612,7 +620,7 @@
       <guid isPermaLink="true">https://x.com/mitchellh/status/2118352046906867927</guid>
       <pubDate>Thu, 05 Nov 2026 14:37:39 GMT</pubDate>
       <author>@mitchellh</author>
-      <description><![CDATA[<p>Surprise! We have a gorgeous, high quality windows client. We’ve been waiting to share until we have a relatively complete (but still pre alpha) client here, but we’re getting ready to start external testing. Hello, Windows.</p>]]></description>
+      <description><![CDATA[<p>Surprise! We have a gorgeous, high quality windows client. We’ve been waiting to share until we have a relatively complete (but still pre alpha) client here, but we’re getting ready to start external testing. Hello, Windows.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2118321201424572416/img/5Vc6LJAZJ8bZNPAm.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>our goal for Rex clients from the start was to build the most magical terminal app and to</title>
@@ -964,7 +972,7 @@
       <guid isPermaLink="true">https://x.com/vladmoroz/status/2117338760308535732</guid>
       <pubDate>Mon, 02 Nov 2026 19:31:13 GMT</pubDate>
       <author>@vladmoroz</author>
-      <description><![CDATA[<p>another banger 🕺</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2117331056861020160/img/jkWA-BGFHtfC6C-j.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>another banger 🕺</p>]]></description>
     </item>
     <item>
       <title>This is worth a read Alex breaks down the craft that went into the text editing in Paper</title>
@@ -988,7 +996,7 @@
       <guid isPermaLink="true">https://x.com/paper/status/2117333901530235098</guid>
       <pubDate>Mon, 02 Nov 2026 19:11:54 GMT</pubDate>
       <author>@paper</author>
-      <description><![CDATA[<p>Announcing a big fundamental ship in Paper today<br><br>Show us what you design!</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2117331056861020160/img/jkWA-BGFHtfC6C-j.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Announcing a big fundamental ship in Paper today<br><br>Show us what you design!</p>]]></description>
     </item>
     <item>
       <title>New: rich text editing is live in Paper! Designers have been asking for this one ✨ Plus Snapshot</title>
@@ -1597,14 +1605,6 @@
       <pubDate>Tue, 27 Oct 2026 11:51:58 GMT</pubDate>
       <author>@zerocam_app</author>
       <description><![CDATA[<p>🫶</p>]]></description>
-    </item>
-    <item>
-      <title>A voice-to-text dictation app, with live transcription and edits, custom HUD, running on my own models (AI Gateway)</title>
-      <link>https://x.com/shadcn/status/2114972098515096036</link>
-      <guid isPermaLink="true">https://x.com/shadcn/status/2114972098515096036</guid>
-      <pubDate>Tue, 27 Oct 2026 06:46:57 GMT</pubDate>
-      <author>@shadcn</author>
-      <description><![CDATA[<p>A voice-to-text dictation app, with live transcription and edits, custom HUD, running on my own models (AI Gateway) is really just T3 code + one prompt. Insane.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2114971901588033536/img/IL3BQikpLEfdTXWA.jpg" alt=""></p>]]></description>
     </item>
   </channel>
 </rss>
