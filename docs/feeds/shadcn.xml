@@ -13,6 +13,30 @@
     </image>
     <ttl>120</ttl>
     <item>
+      <title>Thank you @benjamincanac for the Vue/Nuxt support.</title>
+      <link>https://x.com/shadcn/status/2120988150772248826</link>
+      <guid isPermaLink="true">https://x.com/shadcn/status/2120988150772248826</guid>
+      <pubDate>Thu, 12 Nov 2026 21:12:35 GMT</pubDate>
+      <author>@shadcn</author>
+      <description><![CDATA[<p>Thank you @benjamincanac for the Vue/Nuxt support.</p>]]></description>
+    </item>
+    <item>
+      <title>We&apos;ve built some really amazing (agentic) features into UI SDK. We&apos;ll show you in the coming days.</title>
+      <link>https://x.com/shadcn/status/2120975490890465691</link>
+      <guid isPermaLink="true">https://x.com/shadcn/status/2120975490890465691</guid>
+      <pubDate>Thu, 12 Nov 2026 20:22:17 GMT</pubDate>
+      <author>@shadcn</author>
+      <description><![CDATA[<p>We&apos;ve built some really amazing (agentic) features into UI SDK. We&apos;ll show you in the coming days.</p>]]></description>
+    </item>
+    <item>
+      <title>Absolutely amazing design work by @marijanapav (and thank you for letting me ship a grayscale color picker 😂)</title>
+      <link>https://x.com/shadcn/status/2120975213999358211</link>
+      <guid isPermaLink="true">https://x.com/shadcn/status/2120975213999358211</guid>
+      <pubDate>Thu, 12 Nov 2026 20:21:11 GMT</pubDate>
+      <author>@shadcn</author>
+      <description><![CDATA[<p>Absolutely amazing design work by @marijanapav (and thank you for letting me ship a grayscale color picker 😂)</p>]]></description>
+    </item>
+    <item>
       <title>Media post</title>
       <link>https://x.com/shadcn/status/2120951243866579157</link>
       <guid isPermaLink="true">https://x.com/shadcn/status/2120951243866579157</guid>
@@ -82,7 +106,7 @@
       <guid isPermaLink="true">https://x.com/shadcn/status/2118355007003058503</guid>
       <pubDate>Thu, 05 Nov 2026 14:49:25 GMT</pubDate>
       <author>@shadcn</author>
-      <description><![CDATA[<p>Agents love registries. You can put pretty much anything in it. Seriously, try building one.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2118302080167182336/img/8VucxUv1nUCOtQ1B.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Agents love registries. You can put pretty much anything in it. Seriously, try building one.</p>]]></description>
     </item>
     <item>
       <title>Ocarina of Time &gt; GTA</title>
@@ -787,30 +811,6 @@
       <pubDate>Sat, 22 Aug 2026 17:19:25 GMT</pubDate>
       <author>@shadcn</author>
       <description><![CDATA[<p>Find one interaction. Make it simpler. <br>Find one interaction. Make it faster. <br>Repeat. <br><br>You’re a design engineer.</p>]]></description>
-    </item>
-    <item>
-      <title>Bootstrap 🐐</title>
-      <link>https://x.com/shadcn/status/2090858847766208635</link>
-      <guid isPermaLink="true">https://x.com/shadcn/status/2090858847766208635</guid>
-      <pubDate>Fri, 21 Aug 2026 17:49:30 GMT</pubDate>
-      <author>@shadcn</author>
-      <description><![CDATA[<p>Bootstrap 🐐</p><p><img src="https://pbs.twimg.com/media/HOfcAxHWoAAiQZS?format=png&amp;name=small" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>We&apos;ve added support for private GitHub registries. npx shadcn list &lt;username&gt;/&lt;repo&gt;</title>
-      <link>https://x.com/shadcn/status/2090855100977758590</link>
-      <guid isPermaLink="true">https://x.com/shadcn/status/2090855100977758590</guid>
-      <pubDate>Fri, 21 Aug 2026 17:34:36 GMT</pubDate>
-      <author>@shadcn</author>
-      <description><![CDATA[<p>We&apos;ve added support for private GitHub registries.<br><br>npx shadcn list &lt;username&gt;/&lt;repo&gt;</p><p><img src="https://pbs.twimg.com/media/HJvVUhYWYAAXuKY?format=png&amp;name=small" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>I think about this tweet a lot.</title>
-      <link>https://x.com/shadcn/status/2090780437039706135</link>
-      <guid isPermaLink="true">https://x.com/shadcn/status/2090780437039706135</guid>
-      <pubDate>Fri, 21 Aug 2026 12:37:55 GMT</pubDate>
-      <author>@shadcn</author>
-      <description><![CDATA[<p>I think about this tweet a lot.</p>]]></description>
     </item>
   </channel>
 </rss>
