@@ -13,6 +13,22 @@
     </image>
     <ttl>120</ttl>
     <item>
+      <title>Media post</title>
+      <link>https://x.com/shadcn/status/2120951243866579157</link>
+      <guid isPermaLink="true">https://x.com/shadcn/status/2120951243866579157</guid>
+      <pubDate>Thu, 12 Nov 2026 18:45:56 GMT</pubDate>
+      <author>@shadcn</author>
+      <description><![CDATA[<p></p>]]></description>
+    </item>
+    <item>
+      <title>Today we’re introducing UI SDK. Agents are becoming both the builders and the users of interfaces. So we</title>
+      <link>https://x.com/shadcn/status/2120951116682682646</link>
+      <guid isPermaLink="true">https://x.com/shadcn/status/2120951116682682646</guid>
+      <pubDate>Thu, 12 Nov 2026 18:45:26 GMT</pubDate>
+      <author>@shadcn</author>
+      <description><![CDATA[<p>Today we’re introducing UI SDK.<br><br>Agents are becoming both the builders and the users of interfaces. So we asked ourselves: where should the abstraction live?<br><br>Take a Select. There’s a popup, selection logic, keyboard navigation and focus management. Those same behaviors are</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2120949925425065984/img/4DSJbkjJAuKq0sfQ.jpg" alt=""></p>]]></description>
+    </item>
+    <item>
       <title>Launch day. Era Two.</title>
       <link>https://x.com/shadcn/status/2120881443333087297</link>
       <guid isPermaLink="true">https://x.com/shadcn/status/2120881443333087297</guid>
@@ -26,7 +42,7 @@
       <guid isPermaLink="true">https://x.com/shadcn/status/2120042062120943904</guid>
       <pubDate>Tue, 10 Nov 2026 06:33:10 GMT</pubDate>
       <author>@shadcn</author>
-      <description><![CDATA[<p></p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2120041994621792256/img/fyXhYyqyuHMW1i0z.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p></p>]]></description>
     </item>
     <item>
       <title>Run /improve with Fable 5.2. I’m seeing some interesting results that Opus 5.5 missed. https://github.com/shadcn/improve</title>
@@ -34,7 +50,7 @@
       <guid isPermaLink="true">https://x.com/shadcn/status/2119879610724720702</guid>
       <pubDate>Mon, 09 Nov 2026 19:47:39 GMT</pubDate>
       <author>@shadcn</author>
-      <description><![CDATA[<p>Run /improve with Fable 5.2. I’m seeing some interesting results that Opus 5.5 missed. <br><br>https://github.com/shadcn/improve</p>]]></description>
+      <description><![CDATA[<p>Run /improve with Fable 5.2. I’m seeing some interesting results that Opus 5.5 missed. <br><br>https://github.com/shadcn/improve</p><p><img src="https://pbs.twimg.com/media/HWtIJNLWUAAcc7I.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Need Opus 5.5s</title>
@@ -66,7 +82,7 @@
       <guid isPermaLink="true">https://x.com/shadcn/status/2118355007003058503</guid>
       <pubDate>Thu, 05 Nov 2026 14:49:25 GMT</pubDate>
       <author>@shadcn</author>
-      <description><![CDATA[<p>Agents love registries. You can put pretty much anything in it. Seriously, try building one.</p>]]></description>
+      <description><![CDATA[<p>Agents love registries. You can put pretty much anything in it. Seriously, try building one.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2118302080167182336/img/8VucxUv1nUCOtQ1B.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Ocarina of Time &gt; GTA</title>
@@ -795,22 +811,6 @@
       <pubDate>Fri, 21 Aug 2026 12:37:55 GMT</pubDate>
       <author>@shadcn</author>
       <description><![CDATA[<p>I think about this tweet a lot.</p>]]></description>
-    </item>
-    <item>
-      <title>If you don&apos;t trust your agent to push to main, why should I trust it with my data?</title>
-      <link>https://x.com/shadcn/status/2090768637342740747</link>
-      <guid isPermaLink="true">https://x.com/shadcn/status/2090768637342740747</guid>
-      <pubDate>Fri, 21 Aug 2026 11:51:02 GMT</pubDate>
-      <author>@shadcn</author>
-      <description><![CDATA[<p>If you don&apos;t trust your agent to push to main, why should I trust it with my data?</p>]]></description>
-    </item>
-    <item>
-      <title>Engineering is for the machines. Design is human.</title>
-      <link>https://x.com/shadcn/status/2090306648325648694</link>
-      <guid isPermaLink="true">https://x.com/shadcn/status/2090306648325648694</guid>
-      <pubDate>Thu, 20 Aug 2026 05:15:15 GMT</pubDate>
-      <author>@shadcn</author>
-      <description><![CDATA[<p>Engineering is for the machines. Design is human.</p>]]></description>
     </item>
   </channel>
 </rss>
