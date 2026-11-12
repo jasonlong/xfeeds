@@ -13,6 +13,14 @@
     </image>
     <ttl>120</ttl>
     <item>
+      <title>Launch day. Era Two.</title>
+      <link>https://x.com/shadcn/status/2120881443333087297</link>
+      <guid isPermaLink="true">https://x.com/shadcn/status/2120881443333087297</guid>
+      <pubDate>Thu, 12 Nov 2026 14:08:34 GMT</pubDate>
+      <author>@shadcn</author>
+      <description><![CDATA[<p>Launch day. Era Two.</p>]]></description>
+    </item>
+    <item>
       <title>Media post</title>
       <link>https://x.com/shadcn/status/2120042062120943904</link>
       <guid isPermaLink="true">https://x.com/shadcn/status/2120042062120943904</guid>
@@ -803,14 +811,6 @@
       <pubDate>Thu, 20 Aug 2026 05:15:15 GMT</pubDate>
       <author>@shadcn</author>
       <description><![CDATA[<p>Engineering is for the machines. Design is human.</p>]]></description>
-    </item>
-    <item>
-      <title>Media post</title>
-      <link>https://x.com/shadcn/status/2089361603758076021</link>
-      <guid isPermaLink="true">https://x.com/shadcn/status/2089361603758076021</guid>
-      <pubDate>Mon, 17 Aug 2026 14:39:59 GMT</pubDate>
-      <author>@shadcn</author>
-      <description><![CDATA[<p></p>]]></description>
     </item>
   </channel>
 </rss>
