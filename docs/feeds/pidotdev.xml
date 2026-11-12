@@ -13,12 +13,20 @@
     </image>
     <ttl>120</ttl>
     <item>
+      <title>Thanks for the Pi love @ivanrvpereira</title>
+      <link>https://x.com/pidotdev/status/2121000321488941066</link>
+      <guid isPermaLink="true">https://x.com/pidotdev/status/2121000321488941066</guid>
+      <pubDate>Thu, 12 Nov 2026 22:00:57 GMT</pubDate>
+      <author>@pidotdev</author>
+      <description><![CDATA[<p>Thanks for the Pi love @ivanrvpereira</p><p><img src="https://pbs.twimg.com/media/HW3jkGvXsAAJfA3?format=jpg&amp;name=small" alt=""></p>]]></description>
+    </item>
+    <item>
       <title>Pidalf and Clankolas are on camera again. Enjoy</title>
       <link>https://x.com/pidotdev/status/2120459951491653656</link>
       <guid isPermaLink="true">https://x.com/pidotdev/status/2120459951491653656</guid>
       <pubDate>Wed, 11 Nov 2026 10:13:43 GMT</pubDate>
       <author>@pidotdev</author>
-      <description><![CDATA[<p>Pidalf and Clankolas are on camera again. Enjoy</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2119816697322639360/img/mp9ugZAfg4Rij9Yv.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Pidalf and Clankolas are on camera again. Enjoy</p>]]></description>
     </item>
     <item>
       <title>Thanks @joelniklaus for burning this compute for all of us and sharing the learnings openly. Cost per task</title>
@@ -26,7 +34,7 @@
       <guid isPermaLink="true">https://x.com/pidotdev/status/2118661763201655075</guid>
       <pubDate>Fri, 06 Nov 2026 11:08:21 GMT</pubDate>
       <author>@pidotdev</author>
-      <description><![CDATA[<p>Thanks @joelniklaus for burning this compute for all of us and sharing the learnings openly. Cost per task is a critical metric for our team so your results make us feel warm and fuzzy</p>]]></description>
+      <description><![CDATA[<p>Thanks @joelniklaus for burning this compute for all of us and sharing the learnings openly. Cost per task is a critical metric for our team so your results make us feel warm and fuzzy</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2118373780292874240/img/XlN2NzAPDJpW299Q.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>What have you built so far with Pi Durable? How can we make the experience of building with</title>
@@ -82,7 +90,7 @@
       <guid isPermaLink="true">https://x.com/pidotdev/status/2113285940974342204</guid>
       <pubDate>Thu, 22 Oct 2026 15:06:45 GMT</pubDate>
       <author>@pidotdev</author>
-      <description><![CDATA[<p>Thanks for spreading the good word about Pi Durable @superlinear_fm</p>]]></description>
+      <description><![CDATA[<p>Thanks for spreading the good word about Pi Durable @superlinear_fm</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2113246725078994944/img/3bOwNXDDpDHs7OIe.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>@Recursive_SI shipped its first model, Flint! Exciting to see they did extensive RL training on the Pi harness,</title>
@@ -90,7 +98,7 @@
       <guid isPermaLink="true">https://x.com/pidotdev/status/2112978311252979761</guid>
       <pubDate>Wed, 21 Oct 2026 18:44:21 GMT</pubDate>
       <author>@pidotdev</author>
-      <description><![CDATA[<p>@Recursive_SI shipped its first model, Flint! Exciting to see they did extensive RL training on the Pi harness, so it works well out of the box.<br>40B MoE (2.5B active) for fast local coding. Apache 2.0.<br><br>Available now for free in Pi via Radius.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2112941750809419776/img/MJaHRrNTo-Kg92Pb.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>@Recursive_SI shipped its first model, Flint! Exciting to see they did extensive RL training on the Pi harness, so it works well out of the box.<br>40B MoE (2.5B active) for fast local coding. Apache 2.0.<br><br>Available now for free in Pi via Radius.</p>]]></description>
     </item>
     <item>
       <title>We have huge respect for the engineering at Vercel and are excited they are building with Pi-Durable</title>
@@ -106,7 +114,7 @@
       <guid isPermaLink="true">https://x.com/pidotdev/status/2112576009509691512</guid>
       <pubDate>Tue, 20 Oct 2026 16:05:45 GMT</pubDate>
       <author>@pidotdev</author>
-      <description><![CDATA[<p>Thanks @_alejandroao for all the effort you put into helping others understand what we build</p>]]></description>
+      <description><![CDATA[<p>Thanks @_alejandroao for all the effort you put into helping others understand what we build</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2112466228027469824/img/HPJyuNmO4nIrqLzd.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Today&apos;s Monday Meditations is a photo of a rock sculpture someone at Earendil built in Austria</title>
@@ -803,14 +811,6 @@
       <pubDate>Sun, 16 Aug 2026 13:14:11 GMT</pubDate>
       <author>@pidotdev</author>
       <description><![CDATA[<p>Thanks to our friends at @syntaxfm for the fantastic conversation!</p>]]></description>
-    </item>
-    <item>
-      <title>An endorsement from Pidalf himself! People of Pi follow us and spread the word 🖤</title>
-      <link>https://x.com/pidotdev/status/2075954043654967473</link>
-      <guid isPermaLink="true">https://x.com/pidotdev/status/2075954043654967473</guid>
-      <pubDate>Sat, 11 Jul 2026 14:43:08 GMT</pubDate>
-      <author>@pidotdev</author>
-      <description><![CDATA[<p>An endorsement from Pidalf himself! People of Pi follow us and spread the word 🖤</p>]]></description>
     </item>
   </channel>
 </rss>

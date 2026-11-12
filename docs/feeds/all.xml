@@ -7,6 +7,22 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>Thanks for the Pi love @ivanrvpereira</title>
+      <link>https://x.com/pidotdev/status/2121000321488941066</link>
+      <guid isPermaLink="true">https://x.com/pidotdev/status/2121000321488941066</guid>
+      <pubDate>Thu, 12 Nov 2026 22:00:57 GMT</pubDate>
+      <author>@pidotdev</author>
+      <description><![CDATA[<p>Thanks for the Pi love @ivanrvpereira</p><p><img src="https://pbs.twimg.com/media/HW3jkGvXsAAJfA3?format=jpg&amp;name=small" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>works</title>
+      <link>https://x.com/tldraw/status/2120998881240781095</link>
+      <guid isPermaLink="true">https://x.com/tldraw/status/2120998881240781095</guid>
+      <pubDate>Thu, 12 Nov 2026 21:55:14 GMT</pubDate>
+      <author>@tldraw</author>
+      <description><![CDATA[<p>works</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2120998821115166720/img/dXvi3a0Itj4NJdee.jpg" alt=""></p>]]></description>
+    </item>
+    <item>
       <title>Thank you @benjamincanac for the Vue/Nuxt support.</title>
       <link>https://x.com/shadcn/status/2120988150772248826</link>
       <guid isPermaLink="true">https://x.com/shadcn/status/2120988150772248826</guid>
@@ -204,7 +220,7 @@
       <guid isPermaLink="true">https://x.com/pidotdev/status/2120459951491653656</guid>
       <pubDate>Wed, 11 Nov 2026 10:13:43 GMT</pubDate>
       <author>@pidotdev</author>
-      <description><![CDATA[<p>Pidalf and Clankolas are on camera again. Enjoy</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2119816697322639360/img/mp9ugZAfg4Rij9Yv.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Pidalf and Clankolas are on camera again. Enjoy</p>]]></description>
     </item>
     <item>
       <title>we build software not just to optimize, complete tasks or impose our own constraints – but to build</title>
@@ -580,7 +596,7 @@
       <guid isPermaLink="true">https://x.com/pidotdev/status/2118661763201655075</guid>
       <pubDate>Fri, 06 Nov 2026 11:08:21 GMT</pubDate>
       <author>@pidotdev</author>
-      <description><![CDATA[<p>Thanks @joelniklaus for burning this compute for all of us and sharing the learnings openly. Cost per task is a critical metric for our team so your results make us feel warm and fuzzy</p>]]></description>
+      <description><![CDATA[<p>Thanks @joelniklaus for burning this compute for all of us and sharing the learnings openly. Cost per task is a critical metric for our team so your results make us feel warm and fuzzy</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2118373780292874240/img/XlN2NzAPDJpW299Q.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>🎛️</title>
@@ -636,7 +652,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2118431424227196976</guid>
       <pubDate>Thu, 05 Nov 2026 19:53:04 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>yes, nice feature<br>but can you write &quot;hey&quot;, copy it a bunch of times, use eraser to cut it a bunch, and finally select and move individual sections? huh?</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2118431042906316801/img/RVw5ygdW6h3lT1WX.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>yes, nice feature<br>but can you write &quot;hey&quot;, copy it a bunch of times, use eraser to cut it a bunch, and finally select and move individual sections? huh?</p>]]></description>
     </item>
     <item>
       <title>slop fork our code here</title>
@@ -652,7 +668,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2118422674661625894</guid>
       <pubDate>Thu, 05 Nov 2026 19:18:18 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>guyyys</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2118343192340779010/img/a01rGT0hUFOiBCB-?format=jpg&amp;name=240x240" alt=""></p>]]></description>
+      <description><![CDATA[<p>guyyys</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2118422502389043200/img/k1DTwWf_6CBpyytN.jpg" alt=""></p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2118343192340779010/img/a01rGT0hUFOiBCB-?format=jpg&amp;name=240x240" alt=""></p>]]></description>
     </item>
     <item>
       <title>Dia browser got a new theme dial.</title>
@@ -1036,7 +1052,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2117588616180564106</guid>
       <pubDate>Tue, 03 Nov 2026 12:04:03 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>What angle should the selection box be when every shape is rotated differently?<br><br>No single angle makes sense, so tldraw falls back to a plain axis-aligned box.<br><br>It’s a small edge case, but we thought about it a lot when deciding how to build our bounding boxes.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2117588604369453057/img/pPnLWaBPi5qEizMw.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>What angle should the selection box be when every shape is rotated differently?<br><br>No single angle makes sense, so tldraw falls back to a plain axis-aligned box.<br><br>It’s a small edge case, but we thought about it a lot when deciding how to build our bounding boxes.</p>]]></description>
     </item>
     <item>
       <title>there’s a lot of people building, but not much being built</title>
@@ -1324,7 +1340,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2116213329979117677</guid>
       <pubDate>Fri, 30 Oct 2026 16:59:09 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>“Hey Claude, can you organise this moodboard by colour?”<br><br>The team at @makingendless is building a creative workspace where agents can work directly on your ideas and assets.<br><br>Their thesis: creative work needs more than a chat.</p>]]></description>
+      <description><![CDATA[<p>“Hey Claude, can you organise this moodboard by colour?”<br><br>The team at @makingendless is building a creative workspace where agents can work directly on your ideas and assets.<br><br>Their thesis: creative work needs more than a chat.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2116213294348566528/img/NJXn1HOeBKp9LfT8.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>The glowing Apple logo on hover would be the perfect little Easter egg for the new MacBook page.</title>
@@ -1589,22 +1605,6 @@
       <pubDate>Wed, 28 Oct 2026 17:40:57 GMT</pubDate>
       <author>@avstorm</author>
       <description><![CDATA[<p>A screen come true.<br><br>https://apple.com/macbook-pro/proled-xdr-display/…</p><p><img src="https://pbs.twimg.com/media/HVvDL1sX0AA8XDL?format=jpg&amp;name=small" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>Nice little touch on the Mac page.</title>
-      <link>https://x.com/avstorm/status/2115495048272130063</link>
-      <guid isPermaLink="true">https://x.com/avstorm/status/2115495048272130063</guid>
-      <pubDate>Wed, 28 Oct 2026 17:24:58 GMT</pubDate>
-      <author>@avstorm</author>
-      <description><![CDATA[<p>Nice little touch on the Mac page.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2115494897033650176/img/9p7iYDVl2gcuPkut.jpg" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>Apple unveils MacBook Pro with PROLED XDR Display and Touch for the first time on Mac.</title>
-      <link>https://x.com/avstorm/status/2115491969384186154</link>
-      <guid isPermaLink="true">https://x.com/avstorm/status/2115491969384186154</guid>
-      <pubDate>Wed, 28 Oct 2026 17:12:44 GMT</pubDate>
-      <author>@avstorm</author>
-      <description><![CDATA[<p>Apple unveils MacBook Pro with PROLED XDR Display and Touch for the first time on Mac.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2115491583285948416/img/qzxPis_2QfC7pJgX.jpg" alt=""></p>]]></description>
     </item>
   </channel>
 </rss>
