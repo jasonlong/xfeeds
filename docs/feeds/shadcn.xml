@@ -13,6 +13,30 @@
     </image>
     <ttl>120</ttl>
     <item>
+      <title>Today we’re introducing UI SDK. Agents are becoming both the builders and the users of interfaces. So we</title>
+      <link>https://x.com/shadcn/status/2121220191912710338</link>
+      <guid isPermaLink="true">https://x.com/shadcn/status/2121220191912710338</guid>
+      <pubDate>Fri, 13 Nov 2026 12:34:38 GMT</pubDate>
+      <author>@shadcn</author>
+      <description><![CDATA[<p>Today we’re introducing UI SDK.<br><br>Agents are becoming both the builders and the users of interfaces. So we asked ourselves: where should the abstraction live?<br><br>Take a Select. There’s a popup, selection logic, keyboard navigation and focus management. Those same behaviors are x.com/vercel/status/…</p>]]></description>
+    </item>
+    <item>
+      <title>Media post</title>
+      <link>https://x.com/shadcn/status/2121210955980046404</link>
+      <guid isPermaLink="true">https://x.com/shadcn/status/2121210955980046404</guid>
+      <pubDate>Fri, 13 Nov 2026 11:57:56 GMT</pubDate>
+      <author>@shadcn</author>
+      <description><![CDATA[<p></p>]]></description>
+    </item>
+    <item>
+      <title>When we started working on the concept of &quot;behavior&quot;, we wanted to try and make agents really good</title>
+      <link>https://x.com/shadcn/status/2121210951961641451</link>
+      <guid isPermaLink="true">https://x.com/shadcn/status/2121210951961641451</guid>
+      <pubDate>Fri, 13 Nov 2026 11:57:55 GMT</pubDate>
+      <author>@shadcn</author>
+      <description><![CDATA[<p>When we started working on the concept of &quot;behavior&quot;, we wanted to try and make agents really good at getting a11y right. We put a lot of thought into how the UI SDK behaviors handle and verify accessible interfaces.<br><br>So, when you ask your agent to build interfaces with UI SDK,</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2121210380030545920/img/IXgmi_ZRSuszroWi.jpg" alt=""></p>]]></description>
+    </item>
+    <item>
       <title>Thank you @benjamincanac for the Vue/Nuxt support.</title>
       <link>https://x.com/shadcn/status/2120988150772248826</link>
       <guid isPermaLink="true">https://x.com/shadcn/status/2120988150772248826</guid>
@@ -34,7 +58,7 @@
       <guid isPermaLink="true">https://x.com/shadcn/status/2120975213999358211</guid>
       <pubDate>Thu, 12 Nov 2026 20:21:11 GMT</pubDate>
       <author>@shadcn</author>
-      <description><![CDATA[<p>Absolutely amazing design work by @marijanapav (and thank you for letting me ship a grayscale color picker 😂)</p>]]></description>
+      <description><![CDATA[<p>Absolutely amazing design work by @marijanapav (and thank you for letting me ship a grayscale color picker 😂)</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2120968251924459520/img/qkvElO-EIG7ivPOh.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Media post</title>
@@ -50,7 +74,7 @@
       <guid isPermaLink="true">https://x.com/shadcn/status/2120951116682682646</guid>
       <pubDate>Thu, 12 Nov 2026 18:45:26 GMT</pubDate>
       <author>@shadcn</author>
-      <description><![CDATA[<p>Today we’re introducing UI SDK.<br><br>Agents are becoming both the builders and the users of interfaces. So we asked ourselves: where should the abstraction live?<br><br>Take a Select. There’s a popup, selection logic, keyboard navigation and focus management. Those same behaviors are</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2120949925425065984/img/4DSJbkjJAuKq0sfQ.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Today we’re introducing UI SDK.<br><br>Agents are becoming both the builders and the users of interfaces. So we asked ourselves: where should the abstraction live?<br><br>Take a Select. There’s a popup, selection logic, keyboard navigation and focus management. Those same behaviors are</p>]]></description>
     </item>
     <item>
       <title>Launch day. Era Two.</title>
@@ -66,7 +90,7 @@
       <guid isPermaLink="true">https://x.com/shadcn/status/2120042062120943904</guid>
       <pubDate>Tue, 10 Nov 2026 06:33:10 GMT</pubDate>
       <author>@shadcn</author>
-      <description><![CDATA[<p></p>]]></description>
+      <description><![CDATA[<p></p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2120041994621792256/img/fyXhYyqyuHMW1i0z.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Run /improve with Fable 5.2. I’m seeing some interesting results that Opus 5.5 missed. https://github.com/shadcn/improve</title>
@@ -74,7 +98,7 @@
       <guid isPermaLink="true">https://x.com/shadcn/status/2119879610724720702</guid>
       <pubDate>Mon, 09 Nov 2026 19:47:39 GMT</pubDate>
       <author>@shadcn</author>
-      <description><![CDATA[<p>Run /improve with Fable 5.2. I’m seeing some interesting results that Opus 5.5 missed. <br><br>https://github.com/shadcn/improve</p><p><img src="https://pbs.twimg.com/media/HWtIJNLWUAAcc7I.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Run /improve with Fable 5.2. I’m seeing some interesting results that Opus 5.5 missed. <br><br>https://github.com/shadcn/improve</p>]]></description>
     </item>
     <item>
       <title>Need Opus 5.5s</title>
@@ -106,7 +130,7 @@
       <guid isPermaLink="true">https://x.com/shadcn/status/2118355007003058503</guid>
       <pubDate>Thu, 05 Nov 2026 14:49:25 GMT</pubDate>
       <author>@shadcn</author>
-      <description><![CDATA[<p>Agents love registries. You can put pretty much anything in it. Seriously, try building one.</p>]]></description>
+      <description><![CDATA[<p>Agents love registries. You can put pretty much anything in it. Seriously, try building one.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2118302080167182336/img/8VucxUv1nUCOtQ1B.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Ocarina of Time &gt; GTA</title>
@@ -787,30 +811,6 @@
       <pubDate>Tue, 25 Aug 2026 19:29:40 GMT</pubDate>
       <author>@shadcn</author>
       <description><![CDATA[<p>Is there a way to persist this value in @googlechrome?</p><p><img src="https://pbs.twimg.com/media/HQl2CICXAAAdV71?format=png&amp;name=small" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>...is the answer, but I can&apos;t remember the question 😎</title>
-      <link>https://x.com/shadcn/status/2092274481033097290</link>
-      <guid isPermaLink="true">https://x.com/shadcn/status/2092274481033097290</guid>
-      <pubDate>Tue, 25 Aug 2026 15:34:43 GMT</pubDate>
-      <author>@shadcn</author>
-      <description><![CDATA[<p>...is the answer, but I can&apos;t remember the question 😎</p><p><img src="https://pbs.twimg.com/media/HQlAfmeXIAEMbIp?format=jpg&amp;name=small" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>One of my favorite examples of this: @JohnPhamous</title>
-      <link>https://x.com/shadcn/status/2091218208619425802</link>
-      <guid isPermaLink="true">https://x.com/shadcn/status/2091218208619425802</guid>
-      <pubDate>Sat, 22 Aug 2026 17:37:28 GMT</pubDate>
-      <author>@shadcn</author>
-      <description><![CDATA[<p>One of my favorite examples of this: @JohnPhamous</p>]]></description>
-    </item>
-    <item>
-      <title>Find one interaction. Make it simpler. Find one interaction. Make it faster. Repeat. You’re a design engineer.</title>
-      <link>https://x.com/shadcn/status/2091213667740123592</link>
-      <guid isPermaLink="true">https://x.com/shadcn/status/2091213667740123592</guid>
-      <pubDate>Sat, 22 Aug 2026 17:19:25 GMT</pubDate>
-      <author>@shadcn</author>
-      <description><![CDATA[<p>Find one interaction. Make it simpler. <br>Find one interaction. Make it faster. <br>Repeat. <br><br>You’re a design engineer.</p>]]></description>
     </item>
   </channel>
 </rss>
