@@ -7,6 +7,14 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>The annual Lord of the Rings rewatch. It’s time. Back to Middle-earth.</title>
+      <link>https://x.com/shadcn/status/2121296209549955438</link>
+      <guid isPermaLink="true">https://x.com/shadcn/status/2121296209549955438</guid>
+      <pubDate>Fri, 13 Nov 2026 17:36:42 GMT</pubDate>
+      <author>@shadcn</author>
+      <description><![CDATA[<p>The annual Lord of the Rings rewatch. It’s time. Back to Middle-earth.</p>]]></description>
+    </item>
+    <item>
       <title>Most of the work deciding what goes into a video takes place before it ever reaches a timeline.</title>
       <link>https://x.com/tldraw/status/2121287038641283184</link>
       <guid isPermaLink="true">https://x.com/tldraw/status/2121287038641283184</guid>
@@ -36,7 +44,7 @@
       <guid isPermaLink="true">https://x.com/shadcn/status/2121210951961641451</guid>
       <pubDate>Fri, 13 Nov 2026 11:57:55 GMT</pubDate>
       <author>@shadcn</author>
-      <description><![CDATA[<p>When we started working on the concept of &quot;behavior&quot;, we wanted to try and make agents really good at getting a11y right. We put a lot of thought into how the UI SDK behaviors handle and verify accessible interfaces.<br><br>So, when you ask your agent to build interfaces with UI SDK,</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2121210380030545920/img/IXgmi_ZRSuszroWi.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>When we started working on the concept of &quot;behavior&quot;, we wanted to try and make agents really good at getting a11y right. We put a lot of thought into how the UI SDK behaviors handle and verify accessible interfaces.<br><br>So, when you ask your agent to build interfaces with UI SDK,</p>]]></description>
     </item>
     <item>
       <title>Apple logos 2026</title>
@@ -92,7 +100,7 @@
       <guid isPermaLink="true">https://x.com/shadcn/status/2120975213999358211</guid>
       <pubDate>Thu, 12 Nov 2026 20:21:11 GMT</pubDate>
       <author>@shadcn</author>
-      <description><![CDATA[<p>Absolutely amazing design work by @marijanapav (and thank you for letting me ship a grayscale color picker 😂)</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2120968251924459520/img/qkvElO-EIG7ivPOh.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Absolutely amazing design work by @marijanapav (and thank you for letting me ship a grayscale color picker 😂)</p>]]></description>
     </item>
     <item>
       <title>Media post</title>
@@ -108,7 +116,7 @@
       <guid isPermaLink="true">https://x.com/shadcn/status/2120951116682682646</guid>
       <pubDate>Thu, 12 Nov 2026 18:45:26 GMT</pubDate>
       <author>@shadcn</author>
-      <description><![CDATA[<p>Today we’re introducing UI SDK.<br><br>Agents are becoming both the builders and the users of interfaces. So we asked ourselves: where should the abstraction live?<br><br>Take a Select. There’s a popup, selection logic, keyboard navigation and focus management. Those same behaviors are</p>]]></description>
+      <description><![CDATA[<p>Today we’re introducing UI SDK.<br><br>Agents are becoming both the builders and the users of interfaces. So we asked ourselves: where should the abstraction live?<br><br>Take a Select. There’s a popup, selection logic, keyboard navigation and focus management. Those same behaviors are</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2120949925425065984/img/4DSJbkjJAuKq0sfQ.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>On this day in 2020, macOS Big Sur arrived and all app icons got a uniform shape.</title>
@@ -260,7 +268,7 @@
       <guid isPermaLink="true">https://x.com/pidotdev/status/2120459951491653656</guid>
       <pubDate>Wed, 11 Nov 2026 10:13:43 GMT</pubDate>
       <author>@pidotdev</author>
-      <description><![CDATA[<p>Pidalf and Clankolas are on camera again. Enjoy</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2119816697322639360/img/mp9ugZAfg4Rij9Yv.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Pidalf and Clankolas are on camera again. Enjoy</p>]]></description>
     </item>
     <item>
       <title>we build software not just to optimize, complete tasks or impose our own constraints – but to build</title>
@@ -332,7 +340,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2120213446625308680</guid>
       <pubDate>Tue, 10 Nov 2026 17:54:11 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>whiteboards + ai are awesome together!</p><p><img src="https://pbs.twimg.com/media/HWx89ZkXMAAqMO6.png" alt=""></p>]]></description>
+      <description><![CDATA[<p>whiteboards + ai are awesome together!</p>]]></description>
     </item>
     <item>
       <title>Apple TV introduces new Sign Language interpretation feature.</title>
@@ -380,7 +388,7 @@
       <guid isPermaLink="true">https://x.com/shadcn/status/2120042062120943904</guid>
       <pubDate>Tue, 10 Nov 2026 06:33:10 GMT</pubDate>
       <author>@shadcn</author>
-      <description><![CDATA[<p></p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2120041994621792256/img/fyXhYyqyuHMW1i0z.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p></p>]]></description>
     </item>
     <item>
       <title>This is a good filter for people who I don’t want to work with. Please understand how computers</title>
@@ -436,7 +444,7 @@
       <guid isPermaLink="true">https://x.com/shadcn/status/2119879610724720702</guid>
       <pubDate>Mon, 09 Nov 2026 19:47:39 GMT</pubDate>
       <author>@shadcn</author>
-      <description><![CDATA[<p>Run /improve with Fable 5.2. I’m seeing some interesting results that Opus 5.5 missed. <br><br>https://github.com/shadcn/improve</p>]]></description>
+      <description><![CDATA[<p>Run /improve with Fable 5.2. I’m seeing some interesting results that Opus 5.5 missed. <br><br>https://github.com/shadcn/improve</p><p><img src="https://pbs.twimg.com/media/HWtIJNLWUAAcc7I.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Apple Store holiday season decorations are also featured on Apple’s homepage.</title>
@@ -636,7 +644,7 @@
       <guid isPermaLink="true">https://x.com/pidotdev/status/2118661763201655075</guid>
       <pubDate>Fri, 06 Nov 2026 11:08:21 GMT</pubDate>
       <author>@pidotdev</author>
-      <description><![CDATA[<p>Thanks @joelniklaus for burning this compute for all of us and sharing the learnings openly. Cost per task is a critical metric for our team so your results make us feel warm and fuzzy</p>]]></description>
+      <description><![CDATA[<p>Thanks @joelniklaus for burning this compute for all of us and sharing the learnings openly. Cost per task is a critical metric for our team so your results make us feel warm and fuzzy</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2118373780292874240/img/XlN2NzAPDJpW299Q.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>🎛️</title>
@@ -788,7 +796,7 @@
       <guid isPermaLink="true">https://x.com/mitchellh/status/2118352046906867927</guid>
       <pubDate>Thu, 05 Nov 2026 14:37:39 GMT</pubDate>
       <author>@mitchellh</author>
-      <description><![CDATA[<p>Surprise! We have a gorgeous, high quality windows client. We’ve been waiting to share until we have a relatively complete (but still pre alpha) client here, but we’re getting ready to start external testing. Hello, Windows.</p>]]></description>
+      <description><![CDATA[<p>Surprise! We have a gorgeous, high quality windows client. We’ve been waiting to share until we have a relatively complete (but still pre alpha) client here, but we’re getting ready to start external testing. Hello, Windows.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2118321201424572416/img/5Vc6LJAZJ8bZNPAm.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>our goal for Rex clients from the start was to build the most magical terminal app and to</title>
@@ -1092,7 +1100,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2117588616180564106</guid>
       <pubDate>Tue, 03 Nov 2026 12:04:03 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>What angle should the selection box be when every shape is rotated differently?<br><br>No single angle makes sense, so tldraw falls back to a plain axis-aligned box.<br><br>It’s a small edge case, but we thought about it a lot when deciding how to build our bounding boxes.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2117588604369453057/img/pPnLWaBPi5qEizMw.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>What angle should the selection box be when every shape is rotated differently?<br><br>No single angle makes sense, so tldraw falls back to a plain axis-aligned box.<br><br>It’s a small edge case, but we thought about it a lot when deciding how to build our bounding boxes.</p>]]></description>
     </item>
     <item>
       <title>there’s a lot of people building, but not much being built</title>
@@ -1597,14 +1605,6 @@
       <pubDate>Wed, 28 Oct 2026 18:58:07 GMT</pubDate>
       <author>@avstorm</author>
       <description><![CDATA[<p>Nice detail on the MacBook Pro with PROLED XDR Display page.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2115518182379208704/img/0U1L8r74oa0v1e16.jpg" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>Siri is still bad, like really really bad. I opened an email with my Uber Eats confirmation, there</title>
-      <link>https://x.com/mitchellh/status/2115516893813748106</link>
-      <guid isPermaLink="true">https://x.com/mitchellh/status/2115516893813748106</guid>
-      <pubDate>Wed, 28 Oct 2026 18:51:46 GMT</pubDate>
-      <author>@mitchellh</author>
-      <description><![CDATA[<p>Siri is still bad, like really really bad. I opened an email with my Uber Eats confirmation, there was a live activity on the screen with progress, and I pulled down and asked Siri &quot;what did I order for lunch?&quot; And it thought for like 2 minutes and then said it doesn&apos;t know. 🤦‍♂️</p><p><img src="https://pbs.twimg.com/media/HVvTW3BaQAAiwvR?format=jpg&amp;name=small" alt=""></p>]]></description>
     </item>
   </channel>
 </rss>

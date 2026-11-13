@@ -58,7 +58,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2120213446625308680</guid>
       <pubDate>Tue, 10 Nov 2026 17:54:11 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>whiteboards + ai are awesome together!</p><p><img src="https://pbs.twimg.com/media/HWx89ZkXMAAqMO6.png" alt=""></p>]]></description>
+      <description><![CDATA[<p>whiteboards + ai are awesome together!</p>]]></description>
     </item>
     <item>
       <title>Working with a chat box means you have to explain in words why clip 38’s background doesn’t match</title>
@@ -154,7 +154,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2117588616180564106</guid>
       <pubDate>Tue, 03 Nov 2026 12:04:03 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>What angle should the selection box be when every shape is rotated differently?<br><br>No single angle makes sense, so tldraw falls back to a plain axis-aligned box.<br><br>It’s a small edge case, but we thought about it a lot when deciding how to build our bounding boxes.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2117588604369453057/img/pPnLWaBPi5qEizMw.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>What angle should the selection box be when every shape is rotated differently?<br><br>No single angle makes sense, so tldraw falls back to a plain axis-aligned box.<br><br>It’s a small edge case, but we thought about it a lot when deciding how to build our bounding boxes.</p>]]></description>
     </item>
     <item>
       <title>arrows arrows arrows arrows in my code factory many arrows in my code factory if you need many</title>
