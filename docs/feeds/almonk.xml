@@ -13,6 +13,14 @@
     </image>
     <ttl>120</ttl>
     <item>
+      <title>particularly happy to be obsessing over software for people who build software that people are obsessed with</title>
+      <link>https://x.com/almonk/status/2121654850651922755</link>
+      <guid isPermaLink="true">https://x.com/almonk/status/2121654850651922755</guid>
+      <pubDate>Sat, 14 Nov 2026 17:21:49 GMT</pubDate>
+      <author>@almonk</author>
+      <description><![CDATA[<p>particularly happy to be obsessing over software for people who build software that people are obsessed with</p>]]></description>
+    </item>
+    <item>
       <title>_breathing intensifies_</title>
       <link>https://x.com/almonk/status/2119827687611007320</link>
       <guid isPermaLink="true">https://x.com/almonk/status/2119827687611007320</guid>
@@ -42,7 +50,7 @@
       <guid isPermaLink="true">https://x.com/almonk/status/2118322504175390881</guid>
       <pubDate>Thu, 05 Nov 2026 12:40:16 GMT</pubDate>
       <author>@almonk</author>
-      <description><![CDATA[<p>our goal for Rex clients from the start was to build the most magical terminal app and to make it feel native on every platform. to me that doesn’t mean porting the same UI around. it means embracing the norms and quirks of each platform, so the app feels at home on your system</p>]]></description>
+      <description><![CDATA[<p>our goal for Rex clients from the start was to build the most magical terminal app and to make it feel native on every platform. to me that doesn’t mean porting the same UI around. it means embracing the norms and quirks of each platform, so the app feels at home on your system</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2118321201424572416/img/5Vc6LJAZJ8bZNPAm.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>One design goal for Rex is “make any machine in the world feel like my local machine”</title>
@@ -58,7 +66,7 @@
       <guid isPermaLink="true">https://x.com/almonk/status/2118072403763048950</guid>
       <pubDate>Wed, 04 Nov 2026 20:06:27 GMT</pubDate>
       <author>@almonk</author>
-      <description><![CDATA[<p>extremely off the cuff demo of my backlog combing tui for Rex. I handoff simple bug fixes and other issues that don&apos;t need discussion to agents to implement a draft pr. It&apos;s integrated with Rex so that all work happens on my homeserver, each ticket gets a new session, each agent</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2118067279220912128/img/idcu8Q8eNxHmAGCN.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>extremely off the cuff demo of my backlog combing tui for Rex. I handoff simple bug fixes and other issues that don&apos;t need discussion to agents to implement a draft pr. It&apos;s integrated with Rex so that all work happens on my homeserver, each ticket gets a new session, each agent</p>]]></description>
     </item>
     <item>
       <title>since they started @pierrecomputer have been the ultimate company inspo for me. so happy to see them bring</title>
@@ -66,7 +74,7 @@
       <guid isPermaLink="true">https://x.com/almonk/status/2118014967370940629</guid>
       <pubDate>Wed, 04 Nov 2026 16:18:13 GMT</pubDate>
       <author>@almonk</author>
-      <description><![CDATA[<p>since they started @pierrecomputer have been the ultimate company inspo for me. so happy to see them bring the energy to @OpenAI</p>]]></description>
+      <description><![CDATA[<p>since they started @pierrecomputer have been the ultimate company inspo for me. so happy to see them bring the energy to @OpenAI</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2117998774412832769/img/UQdWE3BBn4mW1W9I.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>there’s a lot of people building, but not much being built</title>
@@ -82,7 +90,7 @@
       <guid isPermaLink="true">https://x.com/almonk/status/2116810937525272583</guid>
       <pubDate>Sun, 01 Nov 2026 08:33:50 GMT</pubDate>
       <author>@almonk</author>
-      <description><![CDATA[<p>the creativity and pace of the community has been astounding. my favourite so far is `neorex`, a plugin for neovim which gives it Rex-native splits and floating windows.<br>https://github.com/alexrlocke/neorex…</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2116810594510573568/img/8FVpJqunEgxx8O7Y.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>the creativity and pace of the community has been astounding. my favourite so far is `neorex`, a plugin for neovim which gives it Rex-native splits and floating windows.<br>https://github.com/alexrlocke/neorex…</p>]]></description>
     </item>
     <item>
       <title>had a blast recreating windows 95 this week</title>
@@ -90,7 +98,7 @@
       <guid isPermaLink="true">https://x.com/almonk/status/2116302471119491172</guid>
       <pubDate>Fri, 30 Oct 2026 22:53:22 GMT</pubDate>
       <author>@almonk</author>
-      <description><![CDATA[<p>had a blast recreating windows 95 this week</p>]]></description>
+      <description><![CDATA[<p>had a blast recreating windows 95 this week</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2116296129537245184/img/3uLeJhcssQ9SVSd2.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>this has been my 24 hour pet project. It also works seamlessly between the terminal views and appkit</title>
@@ -146,7 +154,7 @@
       <guid isPermaLink="true">https://x.com/almonk/status/2115075350203969991</guid>
       <pubDate>Tue, 27 Oct 2026 13:37:14 GMT</pubDate>
       <author>@almonk</author>
-      <description><![CDATA[<p>a little tour of the Rex UI basics 📽️<br><br>there&apos;s so much I didn&apos;t touch on in this video (I really want to show off how I work in Rex everyday, for another video), but wanted to share some of the latest and good stuff we have around pane management, process + agent activity,</p>]]></description>
+      <description><![CDATA[<p>a little tour of the Rex UI basics 📽️<br><br>there&apos;s so much I didn&apos;t touch on in this video (I really want to show off how I work in Rex everyday, for another video), but wanted to share some of the latest and good stuff we have around pane management, process + agent activity,</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2115074327318065153/img/HrEvNxMoxAWBToEF.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Media post</title>
@@ -803,14 +811,6 @@
       <pubDate>Wed, 26 Aug 2026 23:08:47 GMT</pubDate>
       <author>@almonk</author>
       <description><![CDATA[<p>lo-fi dinosaur sounds to code to https://x.com/NewsfromScienc/NewsfromScience/status/2092605720587882532…</p>]]></description>
-    </item>
-    <item>
-      <title>coding in 2026</title>
-      <link>https://x.com/almonk/status/2092519990939271347</link>
-      <guid isPermaLink="true">https://x.com/almonk/status/2092519990939271347</guid>
-      <pubDate>Wed, 26 Aug 2026 07:50:17 GMT</pubDate>
-      <author>@almonk</author>
-      <description><![CDATA[<p>coding in 2026</p><p><img src="https://pbs.twimg.com/media/HQof0COWcAAlFXD?format=png&amp;name=small" alt=""></p>]]></description>
     </item>
   </channel>
 </rss>

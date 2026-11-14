@@ -7,6 +7,22 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>Appreciate it! I think I speak for everyone at Superlogical that we’re tired of software that feels like</title>
+      <link>https://x.com/mitchellh/status/2121681502316757065</link>
+      <guid isPermaLink="true">https://x.com/mitchellh/status/2121681502316757065</guid>
+      <pubDate>Sat, 14 Nov 2026 19:07:43 GMT</pubDate>
+      <author>@mitchellh</author>
+      <description><![CDATA[<p>Appreciate it! I think I speak for everyone at Superlogical that we’re tired of software that feels like demoslop and we’re motivated to show the world what meticulously crafted software feels like again. <br><br>We use AI of course, but showing the difference between tasteless</p>]]></description>
+    </item>
+    <item>
+      <title>particularly happy to be obsessing over software for people who build software that people are obsessed with</title>
+      <link>https://x.com/almonk/status/2121654850651922755</link>
+      <guid isPermaLink="true">https://x.com/almonk/status/2121654850651922755</guid>
+      <pubDate>Sat, 14 Nov 2026 17:21:49 GMT</pubDate>
+      <author>@almonk</author>
+      <description><![CDATA[<p>particularly happy to be obsessing over software for people who build software that people are obsessed with</p>]]></description>
+    </item>
+    <item>
       <title>SPEC-01 just dropped.</title>
       <link>https://x.com/shadcn/status/2121612451200307648</link>
       <guid isPermaLink="true">https://x.com/shadcn/status/2121612451200307648</guid>
@@ -324,7 +340,7 @@
       <guid isPermaLink="true">https://x.com/pidotdev/status/2120459951491653656</guid>
       <pubDate>Wed, 11 Nov 2026 10:13:43 GMT</pubDate>
       <author>@pidotdev</author>
-      <description><![CDATA[<p>Pidalf and Clankolas are on camera again. Enjoy</p>]]></description>
+      <description><![CDATA[<p>Pidalf and Clankolas are on camera again. Enjoy</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2119816697322639360/img/mp9ugZAfg4Rij9Yv.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>we build software not just to optimize, complete tasks or impose our own constraints – but to build</title>
@@ -700,7 +716,7 @@
       <guid isPermaLink="true">https://x.com/pidotdev/status/2118661763201655075</guid>
       <pubDate>Fri, 06 Nov 2026 11:08:21 GMT</pubDate>
       <author>@pidotdev</author>
-      <description><![CDATA[<p>Thanks @joelniklaus for burning this compute for all of us and sharing the learnings openly. Cost per task is a critical metric for our team so your results make us feel warm and fuzzy</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2118373780292874240/img/XlN2NzAPDJpW299Q.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Thanks @joelniklaus for burning this compute for all of us and sharing the learnings openly. Cost per task is a critical metric for our team so your results make us feel warm and fuzzy</p>]]></description>
     </item>
     <item>
       <title>🎛️</title>
@@ -852,7 +868,7 @@
       <guid isPermaLink="true">https://x.com/mitchellh/status/2118352046906867927</guid>
       <pubDate>Thu, 05 Nov 2026 14:37:39 GMT</pubDate>
       <author>@mitchellh</author>
-      <description><![CDATA[<p>Surprise! We have a gorgeous, high quality windows client. We’ve been waiting to share until we have a relatively complete (but still pre alpha) client here, but we’re getting ready to start external testing. Hello, Windows.</p>]]></description>
+      <description><![CDATA[<p>Surprise! We have a gorgeous, high quality windows client. We’ve been waiting to share until we have a relatively complete (but still pre alpha) client here, but we’re getting ready to start external testing. Hello, Windows.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2118321201424572416/img/5Vc6LJAZJ8bZNPAm.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>our goal for Rex clients from the start was to build the most magical terminal app and to</title>
@@ -860,7 +876,7 @@
       <guid isPermaLink="true">https://x.com/almonk/status/2118322504175390881</guid>
       <pubDate>Thu, 05 Nov 2026 12:40:16 GMT</pubDate>
       <author>@almonk</author>
-      <description><![CDATA[<p>our goal for Rex clients from the start was to build the most magical terminal app and to make it feel native on every platform. to me that doesn’t mean porting the same UI around. it means embracing the norms and quirks of each platform, so the app feels at home on your system</p>]]></description>
+      <description><![CDATA[<p>our goal for Rex clients from the start was to build the most magical terminal app and to make it feel native on every platform. to me that doesn’t mean porting the same UI around. it means embracing the norms and quirks of each platform, so the app feels at home on your system</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2118321201424572416/img/5Vc6LJAZJ8bZNPAm.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>You can now leave a comment straight from the right-click menu.</title>
@@ -908,7 +924,7 @@
       <guid isPermaLink="true">https://x.com/almonk/status/2118072403763048950</guid>
       <pubDate>Wed, 04 Nov 2026 20:06:27 GMT</pubDate>
       <author>@almonk</author>
-      <description><![CDATA[<p>extremely off the cuff demo of my backlog combing tui for Rex. I handoff simple bug fixes and other issues that don&apos;t need discussion to agents to implement a draft pr. It&apos;s integrated with Rex so that all work happens on my homeserver, each ticket gets a new session, each agent</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2118067279220912128/img/idcu8Q8eNxHmAGCN.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>extremely off the cuff demo of my backlog combing tui for Rex. I handoff simple bug fixes and other issues that don&apos;t need discussion to agents to implement a draft pr. It&apos;s integrated with Rex so that all work happens on my homeserver, each ticket gets a new session, each agent</p>]]></description>
     </item>
     <item>
       <title>since they started @pierrecomputer have been the ultimate company inspo for me. so happy to see them bring</title>
@@ -916,7 +932,7 @@
       <guid isPermaLink="true">https://x.com/almonk/status/2118014967370940629</guid>
       <pubDate>Wed, 04 Nov 2026 16:18:13 GMT</pubDate>
       <author>@almonk</author>
-      <description><![CDATA[<p>since they started @pierrecomputer have been the ultimate company inspo for me. so happy to see them bring the energy to @OpenAI</p>]]></description>
+      <description><![CDATA[<p>since they started @pierrecomputer have been the ultimate company inspo for me. so happy to see them bring the energy to @OpenAI</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2117998774412832769/img/UQdWE3BBn4mW1W9I.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Congrats to Pierre! I have many great friends that work there and I’m so happy for them. I’m</title>
@@ -1324,7 +1340,7 @@
       <guid isPermaLink="true">https://x.com/almonk/status/2116810937525272583</guid>
       <pubDate>Sun, 01 Nov 2026 08:33:50 GMT</pubDate>
       <author>@almonk</author>
-      <description><![CDATA[<p>the creativity and pace of the community has been astounding. my favourite so far is `neorex`, a plugin for neovim which gives it Rex-native splits and floating windows.<br>https://github.com/alexrlocke/neorex…</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2116810594510573568/img/8FVpJqunEgxx8O7Y.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>the creativity and pace of the community has been astounding. my favourite so far is `neorex`, a plugin for neovim which gives it Rex-native splits and floating windows.<br>https://github.com/alexrlocke/neorex…</p>]]></description>
     </item>
     <item>
       <title>“Machines are tools, not persons”. - Pope Leo</title>
@@ -1380,7 +1396,7 @@
       <guid isPermaLink="true">https://x.com/almonk/status/2116302471119491172</guid>
       <pubDate>Fri, 30 Oct 2026 22:53:22 GMT</pubDate>
       <author>@almonk</author>
-      <description><![CDATA[<p>had a blast recreating windows 95 this week</p>]]></description>
+      <description><![CDATA[<p>had a blast recreating windows 95 this week</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2116296129537245184/img/3uLeJhcssQ9SVSd2.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>A quick demo of floating panes in Rex, some of their features, and how I use them in</title>
@@ -1589,22 +1605,6 @@
       <pubDate>Thu, 29 Oct 2026 05:53:16 GMT</pubDate>
       <author>@ryolu_</author>
       <description><![CDATA[<p></p>]]></description>
-    </item>
-    <item>
-      <title>augmenting human intellect when i started making software, i wasn’t dreaming of a factory. i loved that something</title>
-      <link>https://x.com/ryolu_/status/2115683228027912634</link>
-      <guid isPermaLink="true">https://x.com/ryolu_/status/2115683228027912634</guid>
-      <pubDate>Thu, 29 Oct 2026 05:52:43 GMT</pubDate>
-      <author>@ryolu_</author>
-      <description><![CDATA[<p>augmenting human intellect<br><br>when i started making software, i wasn’t dreaming of a factory.<br><br>i loved that something on a screen could become an extension of my mind. a place to put a thought before i understood it. to move things around until new connections appeared. to make</p>]]></description>
-    </item>
-    <item>
-      <title>the human behind the code is the moat. you are the moat.</title>
-      <link>https://x.com/shadcn/status/2115680563096940720</link>
-      <guid isPermaLink="true">https://x.com/shadcn/status/2115680563096940720</guid>
-      <pubDate>Thu, 29 Oct 2026 05:42:08 GMT</pubDate>
-      <author>@shadcn</author>
-      <description><![CDATA[<p>the human behind the code is the moat. <br>you are the moat.</p>]]></description>
     </item>
   </channel>
 </rss>
