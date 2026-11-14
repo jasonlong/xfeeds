@@ -13,6 +13,14 @@
     </image>
     <ttl>120</ttl>
     <item>
+      <title>SPEC-01 just dropped.</title>
+      <link>https://x.com/shadcn/status/2121612451200307648</link>
+      <guid isPermaLink="true">https://x.com/shadcn/status/2121612451200307648</guid>
+      <pubDate>Sat, 14 Nov 2026 14:33:20 GMT</pubDate>
+      <author>@shadcn</author>
+      <description><![CDATA[<p>SPEC-01 just dropped.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2121603224897761280/img/RvQL7P34fB03oVPC.jpg" alt=""></p>]]></description>
+    </item>
+    <item>
       <title>I’m seeing some incredibly amazing things being built with the UI SDK. Keep them coming.</title>
       <link>https://x.com/shadcn/status/2121475990069325917</link>
       <guid isPermaLink="true">https://x.com/shadcn/status/2121475990069325917</guid>
@@ -74,7 +82,7 @@
       <guid isPermaLink="true">https://x.com/shadcn/status/2120975213999358211</guid>
       <pubDate>Thu, 12 Nov 2026 20:21:11 GMT</pubDate>
       <author>@shadcn</author>
-      <description><![CDATA[<p>Absolutely amazing design work by @marijanapav (and thank you for letting me ship a grayscale color picker 😂)</p>]]></description>
+      <description><![CDATA[<p>Absolutely amazing design work by @marijanapav (and thank you for letting me ship a grayscale color picker 😂)</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2120968251924459520/img/qkvElO-EIG7ivPOh.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Media post</title>
@@ -106,7 +114,7 @@
       <guid isPermaLink="true">https://x.com/shadcn/status/2120042062120943904</guid>
       <pubDate>Tue, 10 Nov 2026 06:33:10 GMT</pubDate>
       <author>@shadcn</author>
-      <description><![CDATA[<p></p>]]></description>
+      <description><![CDATA[<p></p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2120041994621792256/img/fyXhYyqyuHMW1i0z.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Run /improve with Fable 5.2. I’m seeing some interesting results that Opus 5.5 missed. https://github.com/shadcn/improve</title>
@@ -803,14 +811,6 @@
       <pubDate>Sat, 29 Aug 2026 18:33:49 GMT</pubDate>
       <author>@shadcn</author>
       <description><![CDATA[<p>Copper is one month old today.<br><br>I built it to keep the prompts, answers, links and half-formed ideas that come up when working with AI.<br><br>Thank you to everyone who bought it, sent feedback and made Copper part of how they work.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2093768647101562880/img/eHyNeXwRlLATyHsk.jpg" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>generational aura loss</title>
-      <link>https://x.com/shadcn/status/2093057486076920136</link>
-      <guid isPermaLink="true">https://x.com/shadcn/status/2093057486076920136</guid>
-      <pubDate>Thu, 27 Aug 2026 19:26:06 GMT</pubDate>
-      <author>@shadcn</author>
-      <description><![CDATA[<p>generational aura loss</p><p><img src="https://pbs.twimg.com/media/HQwIiQNWcAAMxoF?format=jpg&amp;name=small" alt=""></p>]]></description>
     </item>
   </channel>
 </rss>
