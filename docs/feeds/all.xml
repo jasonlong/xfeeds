@@ -7,6 +7,14 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>You and I don’t need the same interfaces. We need the same interface behaviors. Your agent might generate</title>
+      <link>https://x.com/shadcn/status/2121778646956343344</link>
+      <guid isPermaLink="true">https://x.com/shadcn/status/2121778646956343344</guid>
+      <pubDate>Sun, 15 Nov 2026 01:33:44 GMT</pubDate>
+      <author>@shadcn</author>
+      <description><![CDATA[<p>You and I don’t need the same interfaces. We need the same interface behaviors.<br><br>Your agent might generate a calendar to pick a date. Mine might generate a simple input. Someone else’s might come up with something completely different.<br><br>That’s fine. The interfaces can be</p>]]></description>
+    </item>
+    <item>
       <title>Appreciate it! I think I speak for everyone at Superlogical that we’re tired of software that feels like</title>
       <link>https://x.com/mitchellh/status/2121681502316757065</link>
       <guid isPermaLink="true">https://x.com/mitchellh/status/2121681502316757065</guid>
@@ -52,7 +60,7 @@
       <guid isPermaLink="true">https://x.com/avstorm/status/2121379679827603579</guid>
       <pubDate>Fri, 13 Nov 2026 23:08:23 GMT</pubDate>
       <author>@avstorm</author>
-      <description><![CDATA[<p>HomeView update animation</p>]]></description>
+      <description><![CDATA[<p>HomeView update animation</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2121379494506254336/img/tiflJJVrsGWXhLIV.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>There&apos;s something really soothing about this HomeView watch face.</title>
@@ -84,7 +92,7 @@
       <guid isPermaLink="true">https://x.com/shadcn/status/2121296209549955438</guid>
       <pubDate>Fri, 13 Nov 2026 17:36:42 GMT</pubDate>
       <author>@shadcn</author>
-      <description><![CDATA[<p>The annual Lord of the Rings rewatch. It’s time. Back to Middle-earth.</p>]]></description>
+      <description><![CDATA[<p>The annual Lord of the Rings rewatch. It’s time. Back to Middle-earth.</p><p><img src="https://pbs.twimg.com/tweet_video_thumb/HXBbqF1WIAATNdp.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Most of the work deciding what goes into a video takes place before it ever reaches a timeline.</title>
@@ -116,7 +124,7 @@
       <guid isPermaLink="true">https://x.com/shadcn/status/2121210951961641451</guid>
       <pubDate>Fri, 13 Nov 2026 11:57:55 GMT</pubDate>
       <author>@shadcn</author>
-      <description><![CDATA[<p>When we started working on the concept of &quot;behavior&quot;, we wanted to try and make agents really good at getting a11y right. We put a lot of thought into how the UI SDK behaviors handle and verify accessible interfaces.<br><br>So, when you ask your agent to build interfaces with UI SDK,</p>]]></description>
+      <description><![CDATA[<p>When we started working on the concept of &quot;behavior&quot;, we wanted to try and make agents really good at getting a11y right. We put a lot of thought into how the UI SDK behaviors handle and verify accessible interfaces.<br><br>So, when you ask your agent to build interfaces with UI SDK,</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2121210380030545920/img/IXgmi_ZRSuszroWi.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Apple logos 2026</title>
@@ -188,7 +196,7 @@
       <guid isPermaLink="true">https://x.com/shadcn/status/2120951116682682646</guid>
       <pubDate>Thu, 12 Nov 2026 18:45:26 GMT</pubDate>
       <author>@shadcn</author>
-      <description><![CDATA[<p>Today we’re introducing UI SDK.<br><br>Agents are becoming both the builders and the users of interfaces. So we asked ourselves: where should the abstraction live?<br><br>Take a Select. There’s a popup, selection logic, keyboard navigation and focus management. Those same behaviors are</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2120949925425065984/img/4DSJbkjJAuKq0sfQ.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Today we’re introducing UI SDK.<br><br>Agents are becoming both the builders and the users of interfaces. So we asked ourselves: where should the abstraction live?<br><br>Take a Select. There’s a popup, selection logic, keyboard navigation and focus management. Those same behaviors are</p>]]></description>
     </item>
     <item>
       <title>On this day in 2020, macOS Big Sur arrived and all app icons got a uniform shape.</title>
@@ -1340,7 +1348,7 @@
       <guid isPermaLink="true">https://x.com/almonk/status/2116810937525272583</guid>
       <pubDate>Sun, 01 Nov 2026 08:33:50 GMT</pubDate>
       <author>@almonk</author>
-      <description><![CDATA[<p>the creativity and pace of the community has been astounding. my favourite so far is `neorex`, a plugin for neovim which gives it Rex-native splits and floating windows.<br>https://github.com/alexrlocke/neorex…</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2116810594510573568/img/8FVpJqunEgxx8O7Y.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>the creativity and pace of the community has been astounding. my favourite so far is `neorex`, a plugin for neovim which gives it Rex-native splits and floating windows.<br>https://github.com/alexrlocke/neorex…</p>]]></description>
     </item>
     <item>
       <title>“Machines are tools, not persons”. - Pope Leo</title>
@@ -1396,7 +1404,7 @@
       <guid isPermaLink="true">https://x.com/almonk/status/2116302471119491172</guid>
       <pubDate>Fri, 30 Oct 2026 22:53:22 GMT</pubDate>
       <author>@almonk</author>
-      <description><![CDATA[<p>had a blast recreating windows 95 this week</p>]]></description>
+      <description><![CDATA[<p>had a blast recreating windows 95 this week</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2116296129537245184/img/3uLeJhcssQ9SVSd2.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>A quick demo of floating panes in Rex, some of their features, and how I use them in</title>
@@ -1597,14 +1605,6 @@
       <pubDate>Thu, 29 Oct 2026 07:37:56 GMT</pubDate>
       <author>@almonk</author>
       <description><![CDATA[<p>I really don&apos;t get who this is for. macOS is embarassingly unoptimised for a touch interface - so much so that your finger will obscure most UI items if they&apos;re even large enough to reliably drag</p>]]></description>
-    </item>
-    <item>
-      <title>Media post</title>
-      <link>https://x.com/ryolu_/status/2115683366389559464</link>
-      <guid isPermaLink="true">https://x.com/ryolu_/status/2115683366389559464</guid>
-      <pubDate>Thu, 29 Oct 2026 05:53:16 GMT</pubDate>
-      <author>@ryolu_</author>
-      <description><![CDATA[<p></p>]]></description>
     </item>
   </channel>
 </rss>
