@@ -7,6 +7,14 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>This is a great overview of Rex right now and the multiplexer for all work we’re building. Regardless</title>
+      <link>https://x.com/almonk/status/2121936261925539992</link>
+      <guid isPermaLink="true">https://x.com/almonk/status/2121936261925539992</guid>
+      <pubDate>Sun, 15 Nov 2026 12:00:03 GMT</pubDate>
+      <author>@almonk</author>
+      <description><![CDATA[<p>This is a great overview of Rex right now and the multiplexer for all work we’re building. Regardless of Rex, a great exercise in illustrative design and storytelling.</p>]]></description>
+    </item>
+    <item>
       <title>👉 @uisdk</title>
       <link>https://x.com/shadcn/status/2121843747076157765</link>
       <guid isPermaLink="true">https://x.com/shadcn/status/2121843747076157765</guid>
@@ -100,7 +108,7 @@
       <guid isPermaLink="true">https://x.com/shadcn/status/2121296209549955438</guid>
       <pubDate>Fri, 13 Nov 2026 17:36:42 GMT</pubDate>
       <author>@shadcn</author>
-      <description><![CDATA[<p>The annual Lord of the Rings rewatch. It’s time. Back to Middle-earth.</p>]]></description>
+      <description><![CDATA[<p>The annual Lord of the Rings rewatch. It’s time. Back to Middle-earth.</p><p><img src="https://pbs.twimg.com/tweet_video_thumb/HXBbqF1WIAATNdp.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Most of the work deciding what goes into a video takes place before it ever reaches a timeline.</title>
@@ -356,7 +364,7 @@
       <guid isPermaLink="true">https://x.com/pidotdev/status/2120459951491653656</guid>
       <pubDate>Wed, 11 Nov 2026 10:13:43 GMT</pubDate>
       <author>@pidotdev</author>
-      <description><![CDATA[<p>Pidalf and Clankolas are on camera again. Enjoy</p>]]></description>
+      <description><![CDATA[<p>Pidalf and Clankolas are on camera again. Enjoy</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2119816697322639360/img/mp9ugZAfg4Rij9Yv.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>we build software not just to optimize, complete tasks or impose our own constraints – but to build</title>
@@ -548,7 +556,7 @@
       <guid isPermaLink="true">https://x.com/almonk/status/2119827687611007320</guid>
       <pubDate>Mon, 09 Nov 2026 16:21:19 GMT</pubDate>
       <author>@almonk</author>
-      <description><![CDATA[<p>_breathing intensifies_</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2119783356300746752/img/sJ4iRTPOrfSmmrxM.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>_breathing intensifies_</p>]]></description>
     </item>
     <item>
       <title>Olivia Dean is Apple Music’s Artist of the Year for 2026</title>
@@ -732,7 +740,7 @@
       <guid isPermaLink="true">https://x.com/pidotdev/status/2118661763201655075</guid>
       <pubDate>Fri, 06 Nov 2026 11:08:21 GMT</pubDate>
       <author>@pidotdev</author>
-      <description><![CDATA[<p>Thanks @joelniklaus for burning this compute for all of us and sharing the learnings openly. Cost per task is a critical metric for our team so your results make us feel warm and fuzzy</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2118373780292874240/img/XlN2NzAPDJpW299Q.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Thanks @joelniklaus for burning this compute for all of us and sharing the learnings openly. Cost per task is a critical metric for our team so your results make us feel warm and fuzzy</p>]]></description>
     </item>
     <item>
       <title>🎛️</title>
@@ -1356,7 +1364,7 @@
       <guid isPermaLink="true">https://x.com/almonk/status/2116810937525272583</guid>
       <pubDate>Sun, 01 Nov 2026 08:33:50 GMT</pubDate>
       <author>@almonk</author>
-      <description><![CDATA[<p>the creativity and pace of the community has been astounding. my favourite so far is `neorex`, a plugin for neovim which gives it Rex-native splits and floating windows.<br>https://github.com/alexrlocke/neorex…</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2116810594510573568/img/8FVpJqunEgxx8O7Y.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>the creativity and pace of the community has been astounding. my favourite so far is `neorex`, a plugin for neovim which gives it Rex-native splits and floating windows.<br>https://github.com/alexrlocke/neorex…</p>]]></description>
     </item>
     <item>
       <title>“Machines are tools, not persons”. - Pope Leo</title>
@@ -1412,7 +1420,7 @@
       <guid isPermaLink="true">https://x.com/almonk/status/2116302471119491172</guid>
       <pubDate>Fri, 30 Oct 2026 22:53:22 GMT</pubDate>
       <author>@almonk</author>
-      <description><![CDATA[<p>had a blast recreating windows 95 this week</p>]]></description>
+      <description><![CDATA[<p>had a blast recreating windows 95 this week</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2116296129537245184/img/3uLeJhcssQ9SVSd2.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>A quick demo of floating panes in Rex, some of their features, and how I use them in</title>
@@ -1597,14 +1605,6 @@
       <pubDate>Thu, 29 Oct 2026 09:21:01 GMT</pubDate>
       <author>@tldraw</author>
       <description><![CDATA[<p>Full interview at</p>]]></description>
-    </item>
-    <item>
-      <title>“A good creative tool doesn’t fight you, but it doesn’t give you everything you want either.” @steveruizok on</title>
-      <link>https://x.com/tldraw/status/2115735643703623776</link>
-      <guid isPermaLink="true">https://x.com/tldraw/status/2115735643703623776</guid>
-      <pubDate>Thu, 29 Oct 2026 09:21:00 GMT</pubDate>
-      <author>@tldraw</author>
-      <description><![CDATA[<p>“A good creative tool doesn’t fight you, but it doesn’t give you everything you want either.”<br><br>@steveruizok on building good tools in service of creativity, sharing unfinished work, and why people thinking deeply about AI UX should probably read some fairy lore.</p>]]></description>
     </item>
   </channel>
 </rss>

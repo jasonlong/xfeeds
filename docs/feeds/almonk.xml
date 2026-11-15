@@ -13,6 +13,14 @@
     </image>
     <ttl>120</ttl>
     <item>
+      <title>This is a great overview of Rex right now and the multiplexer for all work we’re building. Regardless</title>
+      <link>https://x.com/almonk/status/2121936261925539992</link>
+      <guid isPermaLink="true">https://x.com/almonk/status/2121936261925539992</guid>
+      <pubDate>Sun, 15 Nov 2026 12:00:03 GMT</pubDate>
+      <author>@almonk</author>
+      <description><![CDATA[<p>This is a great overview of Rex right now and the multiplexer for all work we’re building. Regardless of Rex, a great exercise in illustrative design and storytelling.</p>]]></description>
+    </item>
+    <item>
       <title>particularly happy to be obsessing over software for people who build software that people are obsessed with</title>
       <link>https://x.com/almonk/status/2121654850651922755</link>
       <guid isPermaLink="true">https://x.com/almonk/status/2121654850651922755</guid>
@@ -26,7 +34,7 @@
       <guid isPermaLink="true">https://x.com/almonk/status/2119827687611007320</guid>
       <pubDate>Mon, 09 Nov 2026 16:21:19 GMT</pubDate>
       <author>@almonk</author>
-      <description><![CDATA[<p>_breathing intensifies_</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2119783356300746752/img/sJ4iRTPOrfSmmrxM.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>_breathing intensifies_</p>]]></description>
     </item>
     <item>
       <title>We just added the ability to drag and drop and copy/paste files between devices on Rex. It&apos;s amazing.</title>
@@ -90,7 +98,7 @@
       <guid isPermaLink="true">https://x.com/almonk/status/2116810937525272583</guid>
       <pubDate>Sun, 01 Nov 2026 08:33:50 GMT</pubDate>
       <author>@almonk</author>
-      <description><![CDATA[<p>the creativity and pace of the community has been astounding. my favourite so far is `neorex`, a plugin for neovim which gives it Rex-native splits and floating windows.<br>https://github.com/alexrlocke/neorex…</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2116810594510573568/img/8FVpJqunEgxx8O7Y.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>the creativity and pace of the community has been astounding. my favourite so far is `neorex`, a plugin for neovim which gives it Rex-native splits and floating windows.<br>https://github.com/alexrlocke/neorex…</p>]]></description>
     </item>
     <item>
       <title>had a blast recreating windows 95 this week</title>
@@ -98,7 +106,7 @@
       <guid isPermaLink="true">https://x.com/almonk/status/2116302471119491172</guid>
       <pubDate>Fri, 30 Oct 2026 22:53:22 GMT</pubDate>
       <author>@almonk</author>
-      <description><![CDATA[<p>had a blast recreating windows 95 this week</p>]]></description>
+      <description><![CDATA[<p>had a blast recreating windows 95 this week</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2116296129537245184/img/3uLeJhcssQ9SVSd2.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>this has been my 24 hour pet project. It also works seamlessly between the terminal views and appkit</title>
@@ -130,7 +138,7 @@
       <guid isPermaLink="true">https://x.com/almonk/status/2115709707117854872</guid>
       <pubDate>Thu, 29 Oct 2026 07:37:56 GMT</pubDate>
       <author>@almonk</author>
-      <description><![CDATA[<p>I really don&apos;t get who this is for. macOS is embarassingly unoptimised for a touch interface - so much so that your finger will obscure most UI items if they&apos;re even large enough to reliably drag</p>]]></description>
+      <description><![CDATA[<p>I really don&apos;t get who this is for. macOS is embarassingly unoptimised for a touch interface - so much so that your finger will obscure most UI items if they&apos;re even large enough to reliably drag</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2115495536585486336/img/VVdPVgoq3yBD6lyu.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>life is short, run unauthorised software</title>
@@ -803,14 +811,6 @@
       <pubDate>Thu, 27 Aug 2026 08:33:05 GMT</pubDate>
       <author>@almonk</author>
       <description><![CDATA[<p>you either die a yolo mode or live long enough to become auto allow</p>]]></description>
-    </item>
-    <item>
-      <title>lo-fi dinosaur sounds to code to https://x.com/NewsfromScienc/NewsfromScience/status/2092605720587882532…</title>
-      <link>https://x.com/almonk/status/2092751139124969675</link>
-      <guid isPermaLink="true">https://x.com/almonk/status/2092751139124969675</guid>
-      <pubDate>Wed, 26 Aug 2026 23:08:47 GMT</pubDate>
-      <author>@almonk</author>
-      <description><![CDATA[<p>lo-fi dinosaur sounds to code to https://x.com/NewsfromScienc/NewsfromScience/status/2092605720587882532…</p>]]></description>
     </item>
   </channel>
 </rss>
