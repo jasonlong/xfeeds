@@ -13,6 +13,14 @@
     </image>
     <ttl>120</ttl>
     <item>
+      <title>👉 @uisdk</title>
+      <link>https://x.com/shadcn/status/2121843747076157765</link>
+      <guid isPermaLink="true">https://x.com/shadcn/status/2121843747076157765</guid>
+      <pubDate>Sun, 15 Nov 2026 05:52:25 GMT</pubDate>
+      <author>@shadcn</author>
+      <description><![CDATA[<p>👉 @uisdk</p>]]></description>
+    </item>
+    <item>
       <title>You and I don’t need the same interfaces. We need the same interface behaviors. Your agent might generate</title>
       <link>https://x.com/shadcn/status/2121778646956343344</link>
       <guid isPermaLink="true">https://x.com/shadcn/status/2121778646956343344</guid>
@@ -66,7 +74,7 @@
       <guid isPermaLink="true">https://x.com/shadcn/status/2121210951961641451</guid>
       <pubDate>Fri, 13 Nov 2026 11:57:55 GMT</pubDate>
       <author>@shadcn</author>
-      <description><![CDATA[<p>When we started working on the concept of &quot;behavior&quot;, we wanted to try and make agents really good at getting a11y right. We put a lot of thought into how the UI SDK behaviors handle and verify accessible interfaces.<br><br>So, when you ask your agent to build interfaces with UI SDK,</p>]]></description>
+      <description><![CDATA[<p>When we started working on the concept of &quot;behavior&quot;, we wanted to try and make agents really good at getting a11y right. We put a lot of thought into how the UI SDK behaviors handle and verify accessible interfaces.<br><br>So, when you ask your agent to build interfaces with UI SDK,</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2121210380030545920/img/IXgmi_ZRSuszroWi.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Thank you @benjamincanac for the Vue/Nuxt support.</title>
@@ -90,7 +98,7 @@
       <guid isPermaLink="true">https://x.com/shadcn/status/2120975213999358211</guid>
       <pubDate>Thu, 12 Nov 2026 20:21:11 GMT</pubDate>
       <author>@shadcn</author>
-      <description><![CDATA[<p>Absolutely amazing design work by @marijanapav (and thank you for letting me ship a grayscale color picker 😂)</p>]]></description>
+      <description><![CDATA[<p>Absolutely amazing design work by @marijanapav (and thank you for letting me ship a grayscale color picker 😂)</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2120968251924459520/img/qkvElO-EIG7ivPOh.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Media post</title>
@@ -122,7 +130,7 @@
       <guid isPermaLink="true">https://x.com/shadcn/status/2120042062120943904</guid>
       <pubDate>Tue, 10 Nov 2026 06:33:10 GMT</pubDate>
       <author>@shadcn</author>
-      <description><![CDATA[<p></p>]]></description>
+      <description><![CDATA[<p></p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2120041994621792256/img/fyXhYyqyuHMW1i0z.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Run /improve with Fable 5.2. I’m seeing some interesting results that Opus 5.5 missed. https://github.com/shadcn/improve</title>
@@ -130,7 +138,7 @@
       <guid isPermaLink="true">https://x.com/shadcn/status/2119879610724720702</guid>
       <pubDate>Mon, 09 Nov 2026 19:47:39 GMT</pubDate>
       <author>@shadcn</author>
-      <description><![CDATA[<p>Run /improve with Fable 5.2. I’m seeing some interesting results that Opus 5.5 missed. <br><br>https://github.com/shadcn/improve</p>]]></description>
+      <description><![CDATA[<p>Run /improve with Fable 5.2. I’m seeing some interesting results that Opus 5.5 missed. <br><br>https://github.com/shadcn/improve</p><p><img src="https://pbs.twimg.com/media/HWtIJNLWUAAcc7I.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Need Opus 5.5s</title>
@@ -162,7 +170,7 @@
       <guid isPermaLink="true">https://x.com/shadcn/status/2118355007003058503</guid>
       <pubDate>Thu, 05 Nov 2026 14:49:25 GMT</pubDate>
       <author>@shadcn</author>
-      <description><![CDATA[<p>Agents love registries. You can put pretty much anything in it. Seriously, try building one.</p>]]></description>
+      <description><![CDATA[<p>Agents love registries. You can put pretty much anything in it. Seriously, try building one.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2118302080167182336/img/8VucxUv1nUCOtQ1B.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Ocarina of Time &gt; GTA</title>
@@ -803,14 +811,6 @@
       <pubDate>Wed, 02 Sep 2026 15:56:25 GMT</pubDate>
       <author>@shadcn</author>
       <description><![CDATA[<p>We are open sourcing `cn`, a new engine for Tailwind class merging and conflict resolution. It is a drop-in replacement for tailwind-merge and clsx.<br><br>It works with all frameworks, runs everywhere and is 30x faster.<br><br>Brought to you by @aidenybai and me.</p>]]></description>
-    </item>
-    <item>
-      <title>Media post</title>
-      <link>https://x.com/shadcn/status/2093769107141165229</link>
-      <guid isPermaLink="true">https://x.com/shadcn/status/2093769107141165229</guid>
-      <pubDate>Sat, 29 Aug 2026 18:33:50 GMT</pubDate>
-      <author>@shadcn</author>
-      <description><![CDATA[<p></p>]]></description>
     </item>
   </channel>
 </rss>
