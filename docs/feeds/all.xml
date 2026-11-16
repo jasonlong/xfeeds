@@ -7,6 +7,14 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>learn to be like pidalf, learn to be durable</title>
+      <link>https://x.com/pidotdev/status/2122344982053085308</link>
+      <guid isPermaLink="true">https://x.com/pidotdev/status/2122344982053085308</guid>
+      <pubDate>Mon, 16 Nov 2026 15:04:09 GMT</pubDate>
+      <author>@pidotdev</author>
+      <description><![CDATA[<p>learn to be like pidalf, learn to be durable</p>]]></description>
+    </item>
+    <item>
       <title>aw shucks</title>
       <link>https://x.com/pidotdev/status/2122229739402190980</link>
       <guid isPermaLink="true">https://x.com/pidotdev/status/2122229739402190980</guid>
@@ -1597,14 +1605,6 @@
       <pubDate>Thu, 29 Oct 2026 19:18:15 GMT</pubDate>
       <author>@almonk</author>
       <description><![CDATA[<p>Agents are an implementation detail</p>]]></description>
-    </item>
-    <item>
-      <title>dark mode explorations were sooo exciting 🔥 we just had to drop them because of print and visibility</title>
-      <link>https://x.com/agusegui/status/2115821471893192770</link>
-      <guid isPermaLink="true">https://x.com/agusegui/status/2115821471893192770</guid>
-      <pubDate>Thu, 29 Oct 2026 15:02:03 GMT</pubDate>
-      <author>@agusegui</author>
-      <description><![CDATA[<p>dark mode explorations were sooo exciting 🔥<br><br>we just had to drop them because of print and visibility issues on the newsstands</p><p><img src="https://pbs.twimg.com/media/HVzacr2WAAAXsbQ?format=jpg&amp;name=small" alt=""></p><p><img src="https://pbs.twimg.com/media/HVvW1nmWwAAAIRI?format=jpg&amp;name=240x240" alt=""></p>]]></description>
     </item>
   </channel>
 </rss>

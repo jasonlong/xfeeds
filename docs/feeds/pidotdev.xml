@@ -13,6 +13,14 @@
     </image>
     <ttl>120</ttl>
     <item>
+      <title>learn to be like pidalf, learn to be durable</title>
+      <link>https://x.com/pidotdev/status/2122344982053085308</link>
+      <guid isPermaLink="true">https://x.com/pidotdev/status/2122344982053085308</guid>
+      <pubDate>Mon, 16 Nov 2026 15:04:09 GMT</pubDate>
+      <author>@pidotdev</author>
+      <description><![CDATA[<p>learn to be like pidalf, learn to be durable</p>]]></description>
+    </item>
+    <item>
       <title>aw shucks</title>
       <link>https://x.com/pidotdev/status/2122229739402190980</link>
       <guid isPermaLink="true">https://x.com/pidotdev/status/2122229739402190980</guid>
@@ -803,14 +811,6 @@
       <pubDate>Tue, 18 Aug 2026 11:30:00 GMT</pubDate>
       <author>@pidotdev</author>
       <description><![CDATA[<p>Last week Pi v0.84.2 came out This version comes with<br><br>- fullscreen transcript search: hit Ctrl+Shift+F to search your whole session<br>- Configurable default tools: pick your startup built-ins, globally or per project <br><br>And more! Run ‘pi update’ to get the latest!</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2089664090872446976/img/DyCGhDP845g29D0B.jpg" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>One way you can you extend Pi is by building extensions for event interception. An example of this</title>
-      <link>https://x.com/pidotdev/status/2089313792014381321</link>
-      <guid isPermaLink="true">https://x.com/pidotdev/status/2089313792014381321</guid>
-      <pubDate>Mon, 17 Aug 2026 11:30:00 GMT</pubDate>
-      <author>@pidotdev</author>
-      <description><![CDATA[<p>One way you can you extend Pi is by building extensions for event interception. <br><br>An example of this is adding guardrail permission gates that block or modify dangerous tool calls. <br><br>Here’s the code you can use to ensure your agent confirms with you before running ‘rm -rf’</p><p><img src="https://pbs.twimg.com/media/HP6lIG1XUAAQYC2?format=jpg&amp;name=small" alt=""></p>]]></description>
     </item>
   </channel>
 </rss>
