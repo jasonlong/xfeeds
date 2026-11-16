@@ -7,6 +7,14 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>@amadeus gonna hate me for this</title>
+      <link>https://x.com/almonk/status/2122443020331024412</link>
+      <guid isPermaLink="true">https://x.com/almonk/status/2122443020331024412</guid>
+      <pubDate>Mon, 16 Nov 2026 21:33:43 GMT</pubDate>
+      <author>@almonk</author>
+      <description><![CDATA[<p>@amadeus gonna hate me for this</p>]]></description>
+    </item>
+    <item>
       <title>Paper from your desktop launcher 🤯 Paper × Raycast, that&apos;s cool</title>
       <link>https://x.com/paper/status/2122437256191619523</link>
       <guid isPermaLink="true">https://x.com/paper/status/2122437256191619523</guid>
@@ -900,7 +908,7 @@
       <guid isPermaLink="true">https://x.com/pidotdev/status/2118661763201655075</guid>
       <pubDate>Fri, 06 Nov 2026 11:08:21 GMT</pubDate>
       <author>@pidotdev</author>
-      <description><![CDATA[<p>Thanks @joelniklaus for burning this compute for all of us and sharing the learnings openly. Cost per task is a critical metric for our team so your results make us feel warm and fuzzy</p>]]></description>
+      <description><![CDATA[<p>Thanks @joelniklaus for burning this compute for all of us and sharing the learnings openly. Cost per task is a critical metric for our team so your results make us feel warm and fuzzy</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2118373780292874240/img/XlN2NzAPDJpW299Q.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>🎛️</title>
@@ -1597,14 +1605,6 @@
       <pubDate>Fri, 30 Oct 2026 21:48:09 GMT</pubDate>
       <author>@zerocam_app</author>
       <description><![CDATA[<p>Thank you for mentioning us 🫶</p><p><img src="https://pbs.twimg.com/media/HVx1cQNXgAAwUbJ?format=jpg&amp;name=small" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>And we love these photos 👏</title>
-      <link>https://x.com/zerocam_app/status/2116284524976091368</link>
-      <guid isPermaLink="true">https://x.com/zerocam_app/status/2116284524976091368</guid>
-      <pubDate>Fri, 30 Oct 2026 21:42:04 GMT</pubDate>
-      <author>@zerocam_app</author>
-      <description><![CDATA[<p>And we love these photos 👏</p><p><img src="https://pbs.twimg.com/media/HV5xO_zXEAEvO8v?format=jpg&amp;name=360x360" alt=""></p><p><img src="https://pbs.twimg.com/media/HV5xO_qWoAAPoog?format=jpg&amp;name=360x360" alt=""></p><p><img src="https://pbs.twimg.com/media/HV5xO_uXcAAmm9e?format=jpg&amp;name=360x360" alt=""></p><p><img src="https://pbs.twimg.com/media/HV5xO_5XAAAz_8k?format=jpg&amp;name=360x360" alt=""></p>]]></description>
     </item>
   </channel>
 </rss>
