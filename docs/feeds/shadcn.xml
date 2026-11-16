@@ -13,6 +13,14 @@
     </image>
     <ttl>120</ttl>
     <item>
+      <title>underrated tip: before your agent writes any code, ask “are you sure?” Better APIs. Cleaner code. Every time.</title>
+      <link>https://x.com/shadcn/status/2122415203623350662</link>
+      <guid isPermaLink="true">https://x.com/shadcn/status/2122415203623350662</guid>
+      <pubDate>Mon, 16 Nov 2026 19:43:11 GMT</pubDate>
+      <author>@shadcn</author>
+      <description><![CDATA[<p>underrated tip: before your agent writes any code, ask “are you sure?” Better APIs. Cleaner code. Every time.</p>]]></description>
+    </item>
+    <item>
       <title>👉 @uisdk</title>
       <link>https://x.com/shadcn/status/2121843747076157765</link>
       <guid isPermaLink="true">https://x.com/shadcn/status/2121843747076157765</guid>
@@ -803,14 +811,6 @@
       <pubDate>Wed, 02 Sep 2026 15:56:27 GMT</pubDate>
       <author>@shadcn</author>
       <description><![CDATA[<p>cn has full parity, identical output and a smaller bundle.<br><br>You can migrate your project today in one command: `npx shadcn migrate cn`<br><br>It works with any Tailwind project (not limited to shadcn/ui).</p><p><img src="https://pbs.twimg.com/media/HROQ1ixbEAAh-Hw?format=png&amp;name=small" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>We are open sourcing `cn`, a new engine for Tailwind class merging and conflict resolution. It is a</title>
-      <link>https://x.com/shadcn/status/2095179046904607092</link>
-      <guid isPermaLink="true">https://x.com/shadcn/status/2095179046904607092</guid>
-      <pubDate>Wed, 02 Sep 2026 15:56:25 GMT</pubDate>
-      <author>@shadcn</author>
-      <description><![CDATA[<p>We are open sourcing `cn`, a new engine for Tailwind class merging and conflict resolution. It is a drop-in replacement for tailwind-merge and clsx.<br><br>It works with all frameworks, runs everywhere and is 30x faster.<br><br>Brought to you by @aidenybai and me.</p>]]></description>
     </item>
   </channel>
 </rss>
