@@ -7,6 +7,14 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>aw shucks</title>
+      <link>https://x.com/pidotdev/status/2122229739402190980</link>
+      <guid isPermaLink="true">https://x.com/pidotdev/status/2122229739402190980</guid>
+      <pubDate>Mon, 16 Nov 2026 07:26:13 GMT</pubDate>
+      <author>@pidotdev</author>
+      <description><![CDATA[<p>aw shucks</p>]]></description>
+    </item>
+    <item>
       <title>Do not try this</title>
       <link>https://x.com/avstorm/status/2122018599091241175</link>
       <guid isPermaLink="true">https://x.com/avstorm/status/2122018599091241175</guid>
@@ -1597,14 +1605,6 @@
       <pubDate>Thu, 29 Oct 2026 15:02:03 GMT</pubDate>
       <author>@agusegui</author>
       <description><![CDATA[<p>dark mode explorations were sooo exciting 🔥<br><br>we just had to drop them because of print and visibility issues on the newsstands</p><p><img src="https://pbs.twimg.com/media/HVzacr2WAAAXsbQ?format=jpg&amp;name=small" alt=""></p><p><img src="https://pbs.twimg.com/media/HVvW1nmWwAAAIRI?format=jpg&amp;name=240x240" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>ok to be fair, if the alternative is speaking to Siri AI to do things on the Mac,</title>
-      <link>https://x.com/shadcn/status/2115789582117838889</link>
-      <guid isPermaLink="true">https://x.com/shadcn/status/2115789582117838889</guid>
-      <pubDate>Thu, 29 Oct 2026 12:55:20 GMT</pubDate>
-      <author>@shadcn</author>
-      <description><![CDATA[<p>ok to be fair, if the alternative is speaking to Siri AI to do things on the Mac, then yes give me a touchscreen give me a stylus and a foot pedal. 🤣</p>]]></description>
     </item>
   </channel>
 </rss>

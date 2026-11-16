@@ -13,6 +13,14 @@
     </image>
     <ttl>120</ttl>
     <item>
+      <title>aw shucks</title>
+      <link>https://x.com/pidotdev/status/2122229739402190980</link>
+      <guid isPermaLink="true">https://x.com/pidotdev/status/2122229739402190980</guid>
+      <pubDate>Mon, 16 Nov 2026 07:26:13 GMT</pubDate>
+      <author>@pidotdev</author>
+      <description><![CDATA[<p>aw shucks</p>]]></description>
+    </item>
+    <item>
       <title>Thanks for the Pi love @ivanrvpereira</title>
       <link>https://x.com/pidotdev/status/2121000321488941066</link>
       <guid isPermaLink="true">https://x.com/pidotdev/status/2121000321488941066</guid>
@@ -803,14 +811,6 @@
       <pubDate>Mon, 17 Aug 2026 11:30:00 GMT</pubDate>
       <author>@pidotdev</author>
       <description><![CDATA[<p>One way you can you extend Pi is by building extensions for event interception. <br><br>An example of this is adding guardrail permission gates that block or modify dangerous tool calls. <br><br>Here’s the code you can use to ensure your agent confirms with you before running ‘rm -rf’</p><p><img src="https://pbs.twimg.com/media/HP6lIG1XUAAQYC2?format=jpg&amp;name=small" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>Thanks to our friends at @syntaxfm for the fantastic conversation!</title>
-      <link>https://x.com/pidotdev/status/2088977623552561544</link>
-      <guid isPermaLink="true">https://x.com/pidotdev/status/2088977623552561544</guid>
-      <pubDate>Sun, 16 Aug 2026 13:14:11 GMT</pubDate>
-      <author>@pidotdev</author>
-      <description><![CDATA[<p>Thanks to our friends at @syntaxfm for the fantastic conversation!</p>]]></description>
     </item>
   </channel>
 </rss>
