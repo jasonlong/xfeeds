@@ -13,6 +13,22 @@
     </image>
     <ttl>120</ttl>
     <item>
+      <title>Media post</title>
+      <link>https://x.com/shadcn/status/2122611447545127065</link>
+      <guid isPermaLink="true">https://x.com/shadcn/status/2122611447545127065</guid>
+      <pubDate>Tue, 17 Nov 2026 08:42:59 GMT</pubDate>
+      <author>@shadcn</author>
+      <description><![CDATA[<p></p>]]></description>
+    </item>
+    <item>
+      <title>I&apos;ve always tried to write docs that are easy for humans to read. @uisdk is the first project</title>
+      <link>https://x.com/shadcn/status/2122611355085857155</link>
+      <guid isPermaLink="true">https://x.com/shadcn/status/2122611355085857155</guid>
+      <pubDate>Tue, 17 Nov 2026 08:42:37 GMT</pubDate>
+      <author>@shadcn</author>
+      <description><![CDATA[<p>I&apos;ve always tried to write docs that are easy for humans to read. @uisdk is the first project where I went agent-first.<br><br>But good docs for agents aren&apos;t that different from good docs for humans. Except in a few cases where you can skip the &quot;progressive disclosure of complexity&quot;</p><p><img src="https://pbs.twimg.com/media/HXQKI53XMAApXUI?format=jpg&amp;name=small" alt=""></p>]]></description>
+    </item>
+    <item>
       <title>underrated tip: before your agent writes any code, ask “are you sure?” Better APIs. Cleaner code. Every time.</title>
       <link>https://x.com/shadcn/status/2122415203623350662</link>
       <guid isPermaLink="true">https://x.com/shadcn/status/2122415203623350662</guid>
@@ -58,7 +74,7 @@
       <guid isPermaLink="true">https://x.com/shadcn/status/2121296209549955438</guid>
       <pubDate>Fri, 13 Nov 2026 17:36:42 GMT</pubDate>
       <author>@shadcn</author>
-      <description><![CDATA[<p>The annual Lord of the Rings rewatch. It’s time. Back to Middle-earth.</p>]]></description>
+      <description><![CDATA[<p>The annual Lord of the Rings rewatch. It’s time. Back to Middle-earth.</p><p><img src="https://pbs.twimg.com/tweet_video_thumb/HXBbqF1WIAATNdp.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Today we’re introducing UI SDK. Agents are becoming both the builders and the users of interfaces. So we</title>
@@ -106,7 +122,7 @@
       <guid isPermaLink="true">https://x.com/shadcn/status/2120975213999358211</guid>
       <pubDate>Thu, 12 Nov 2026 20:21:11 GMT</pubDate>
       <author>@shadcn</author>
-      <description><![CDATA[<p>Absolutely amazing design work by @marijanapav (and thank you for letting me ship a grayscale color picker 😂)</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2120968251924459520/img/qkvElO-EIG7ivPOh.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Absolutely amazing design work by @marijanapav (and thank you for letting me ship a grayscale color picker 😂)</p>]]></description>
     </item>
     <item>
       <title>Media post</title>
@@ -122,7 +138,7 @@
       <guid isPermaLink="true">https://x.com/shadcn/status/2120951116682682646</guid>
       <pubDate>Thu, 12 Nov 2026 18:45:26 GMT</pubDate>
       <author>@shadcn</author>
-      <description><![CDATA[<p>Today we’re introducing UI SDK.<br><br>Agents are becoming both the builders and the users of interfaces. So we asked ourselves: where should the abstraction live?<br><br>Take a Select. There’s a popup, selection logic, keyboard navigation and focus management. Those same behaviors are</p>]]></description>
+      <description><![CDATA[<p>Today we’re introducing UI SDK.<br><br>Agents are becoming both the builders and the users of interfaces. So we asked ourselves: where should the abstraction live?<br><br>Take a Select. There’s a popup, selection logic, keyboard navigation and focus management. Those same behaviors are</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2120949925425065984/img/4DSJbkjJAuKq0sfQ.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Launch day. Era Two.</title>
@@ -795,22 +811,6 @@
       <pubDate>Fri, 04 Sep 2026 04:28:09 GMT</pubDate>
       <author>@shadcn</author>
       <description><![CDATA[<p>I’m getting a projector. This is going to be my new office.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2095595661559574528/img/Vmb2pgEFJ6fpCUTD.jpg" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>Why a new engine? Speed yes. And we have a few interesting things built on top of coming</title>
-      <link>https://x.com/shadcn/status/2095205979906335176</link>
-      <guid isPermaLink="true">https://x.com/shadcn/status/2095205979906335176</guid>
-      <pubDate>Wed, 02 Sep 2026 17:43:27 GMT</pubDate>
-      <author>@shadcn</author>
-      <description><![CDATA[<p>Why a new engine? Speed yes. And we have a few interesting things built on top of coming soon.</p>]]></description>
-    </item>
-    <item>
-      <title>cn has full parity, identical output and a smaller bundle. You can migrate your project today in one</title>
-      <link>https://x.com/shadcn/status/2095179051681882217</link>
-      <guid isPermaLink="true">https://x.com/shadcn/status/2095179051681882217</guid>
-      <pubDate>Wed, 02 Sep 2026 15:56:27 GMT</pubDate>
-      <author>@shadcn</author>
-      <description><![CDATA[<p>cn has full parity, identical output and a smaller bundle.<br><br>You can migrate your project today in one command: `npx shadcn migrate cn`<br><br>It works with any Tailwind project (not limited to shadcn/ui).</p><p><img src="https://pbs.twimg.com/media/HROQ1ixbEAAh-Hw?format=png&amp;name=small" alt=""></p>]]></description>
     </item>
   </channel>
 </rss>
