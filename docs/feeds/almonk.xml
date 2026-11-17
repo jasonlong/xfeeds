@@ -13,6 +13,14 @@
     </image>
     <ttl>120</ttl>
     <item>
+      <title>so excited to drop the magical terminal for Windows to our first alpha users today</title>
+      <link>https://x.com/almonk/status/2122744110411108399</link>
+      <guid isPermaLink="true">https://x.com/almonk/status/2122744110411108399</guid>
+      <pubDate>Tue, 17 Nov 2026 17:30:09 GMT</pubDate>
+      <author>@almonk</author>
+      <description><![CDATA[<p>so excited to drop the magical terminal for Windows to our first alpha users today</p><p><img src="https://pbs.twimg.com/media/HXWAf0aXUAAmxIo?format=jpg&amp;name=small" alt=""></p>]]></description>
+    </item>
+    <item>
       <title>when working on Poolside, @eisokant @jasoncwarner espoused from the very beginning that “everything would collapse into the model”</title>
       <link>https://x.com/almonk/status/2122639751828168956</link>
       <guid isPermaLink="true">https://x.com/almonk/status/2122639751828168956</guid>
@@ -82,7 +90,7 @@
       <guid isPermaLink="true">https://x.com/almonk/status/2119827687611007320</guid>
       <pubDate>Mon, 09 Nov 2026 16:21:19 GMT</pubDate>
       <author>@almonk</author>
-      <description><![CDATA[<p>_breathing intensifies_</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2119783356300746752/img/sJ4iRTPOrfSmmrxM.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>_breathing intensifies_</p>]]></description>
     </item>
     <item>
       <title>We just added the ability to drag and drop and copy/paste files between devices on Rex. It&apos;s amazing.</title>
@@ -106,7 +114,7 @@
       <guid isPermaLink="true">https://x.com/almonk/status/2118322504175390881</guid>
       <pubDate>Thu, 05 Nov 2026 12:40:16 GMT</pubDate>
       <author>@almonk</author>
-      <description><![CDATA[<p>our goal for Rex clients from the start was to build the most magical terminal app and to make it feel native on every platform. to me that doesn’t mean porting the same UI around. it means embracing the norms and quirks of each platform, so the app feels at home on your system</p>]]></description>
+      <description><![CDATA[<p>our goal for Rex clients from the start was to build the most magical terminal app and to make it feel native on every platform. to me that doesn’t mean porting the same UI around. it means embracing the norms and quirks of each platform, so the app feels at home on your system</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2118321201424572416/img/5Vc6LJAZJ8bZNPAm.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>One design goal for Rex is “make any machine in the world feel like my local machine”</title>
@@ -122,7 +130,7 @@
       <guid isPermaLink="true">https://x.com/almonk/status/2118072403763048950</guid>
       <pubDate>Wed, 04 Nov 2026 20:06:27 GMT</pubDate>
       <author>@almonk</author>
-      <description><![CDATA[<p>extremely off the cuff demo of my backlog combing tui for Rex. I handoff simple bug fixes and other issues that don&apos;t need discussion to agents to implement a draft pr. It&apos;s integrated with Rex so that all work happens on my homeserver, each ticket gets a new session, each agent</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2118067279220912128/img/idcu8Q8eNxHmAGCN.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>extremely off the cuff demo of my backlog combing tui for Rex. I handoff simple bug fixes and other issues that don&apos;t need discussion to agents to implement a draft pr. It&apos;s integrated with Rex so that all work happens on my homeserver, each ticket gets a new session, each agent</p>]]></description>
     </item>
     <item>
       <title>since they started @pierrecomputer have been the ultimate company inspo for me. so happy to see them bring</title>
@@ -130,7 +138,7 @@
       <guid isPermaLink="true">https://x.com/almonk/status/2118014967370940629</guid>
       <pubDate>Wed, 04 Nov 2026 16:18:13 GMT</pubDate>
       <author>@almonk</author>
-      <description><![CDATA[<p>since they started @pierrecomputer have been the ultimate company inspo for me. so happy to see them bring the energy to @OpenAI</p>]]></description>
+      <description><![CDATA[<p>since they started @pierrecomputer have been the ultimate company inspo for me. so happy to see them bring the energy to @OpenAI</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2117998774412832769/img/UQdWE3BBn4mW1W9I.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>there’s a lot of people building, but not much being built</title>
@@ -803,14 +811,6 @@
       <pubDate>Mon, 07 Sep 2026 13:22:06 GMT</pubDate>
       <author>@almonk</author>
       <description><![CDATA[<p>Fun software is back</p>]]></description>
-    </item>
-    <item>
-      <title>One of my favourite things about building @superlogical is that we all care, a disproportionate amount, about the</title>
-      <link>https://x.com/almonk/status/2095134190631096428</link>
-      <guid isPermaLink="true">https://x.com/almonk/status/2095134190631096428</guid>
-      <pubDate>Wed, 02 Sep 2026 12:58:11 GMT</pubDate>
-      <author>@almonk</author>
-      <description><![CDATA[<p>One of my favourite things about building @superlogical is that we all care, a disproportionate amount, about the little conveniences, performance gains and UI treats that most rational people just don’t.<br><br>I&apos;m currently working on our scrollback search UI. You basically have two</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2095133930185768966/img/z5RWxH7rU_yRstfx.jpg" alt=""></p>]]></description>
     </item>
   </channel>
 </rss>
