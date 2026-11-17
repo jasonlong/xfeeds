@@ -7,6 +7,14 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>@migueldeicaza lol. (Markov robot)</title>
+      <link>https://x.com/mitchellh/status/2122524754343313783</link>
+      <guid isPermaLink="true">https://x.com/mitchellh/status/2122524754343313783</guid>
+      <pubDate>Tue, 17 Nov 2026 02:58:30 GMT</pubDate>
+      <author>@mitchellh</author>
+      <description><![CDATA[<p>@migueldeicaza lol. (Markov robot)</p>]]></description>
+    </item>
+    <item>
       <title>where art thou, reveal thy blue channel</title>
       <link>https://x.com/AREdotNA/status/2122490470437707933</link>
       <guid isPermaLink="true">https://x.com/AREdotNA/status/2122490470437707933</guid>
@@ -252,7 +260,7 @@
       <guid isPermaLink="true">https://x.com/shadcn/status/2121612451200307648</guid>
       <pubDate>Sat, 14 Nov 2026 14:33:20 GMT</pubDate>
       <author>@shadcn</author>
-      <description><![CDATA[<p>SPEC-01 just dropped.</p>]]></description>
+      <description><![CDATA[<p>SPEC-01 just dropped.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2121603224897761280/img/RvQL7P34fB03oVPC.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Media post</title>
@@ -900,7 +908,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2118750570924388433</guid>
       <pubDate>Fri, 06 Nov 2026 17:01:15 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>Clicking away from a half-written comment used to just move it. Now it closes it, and your draft is still there when you come back.</p>]]></description>
+      <description><![CDATA[<p>Clicking away from a half-written comment used to just move it. Now it closes it, and your draft is still there when you come back.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2118750523230916608/img/77_0DOD-nBkrdL6G.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Safari vs. Dia</title>
@@ -996,7 +1004,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2118431424227196976</guid>
       <pubDate>Thu, 05 Nov 2026 19:53:04 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>yes, nice feature<br>but can you write &quot;hey&quot;, copy it a bunch of times, use eraser to cut it a bunch, and finally select and move individual sections? huh?</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2118431042906316801/img/RVw5ygdW6h3lT1WX.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>yes, nice feature<br>but can you write &quot;hey&quot;, copy it a bunch of times, use eraser to cut it a bunch, and finally select and move individual sections? huh?</p>]]></description>
     </item>
     <item>
       <title>slop fork our code here</title>
@@ -1597,14 +1605,6 @@
       <pubDate>Sat, 31 Oct 2026 17:24:28 GMT</pubDate>
       <author>@pidotdev</author>
       <description><![CDATA[<p>People of Pi: Happy Halloween 🎃 and think of us if you’re having some pumpkin pie</p>]]></description>
-    </item>
-    <item>
-      <title>Media post</title>
-      <link>https://x.com/AREdotNA/status/2116573875467411578</link>
-      <guid isPermaLink="true">https://x.com/AREdotNA/status/2116573875467411578</guid>
-      <pubDate>Sat, 31 Oct 2026 16:51:50 GMT</pubDate>
-      <author>@AREdotNA</author>
-      <description><![CDATA[<p></p>]]></description>
     </item>
   </channel>
 </rss>
