@@ -13,6 +13,14 @@
     </image>
     <ttl>120</ttl>
     <item>
+      <title>The Rex for Windows alpha begins today! I think this is a better terminal than Windows Terminal, and</title>
+      <link>https://x.com/mitchellh/status/2122731286175580550</link>
+      <guid isPermaLink="true">https://x.com/mitchellh/status/2122731286175580550</guid>
+      <pubDate>Tue, 17 Nov 2026 16:39:11 GMT</pubDate>
+      <author>@mitchellh</author>
+      <description><![CDATA[<p>The Rex for Windows alpha begins today! I think this is a better terminal than Windows Terminal, and I think WT is pretty good. Nick did an amazing job here, I think you’re about to feel one of the snappiest, most beautifully rendered Windows apps ever. <br><br>This is all Nicks</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2122714417162825728/img/xhBXuBm0KyCxDnki.jpg" alt=""></p>]]></description>
+    </item>
+    <item>
       <title>@migueldeicaza lol. (Markov robot)</title>
       <link>https://x.com/mitchellh/status/2122524754343313783</link>
       <guid isPermaLink="true">https://x.com/mitchellh/status/2122524754343313783</guid>
@@ -34,7 +42,7 @@
       <guid isPermaLink="true">https://x.com/mitchellh/status/2122464126240989217</guid>
       <pubDate>Mon, 16 Nov 2026 22:57:35 GMT</pubDate>
       <author>@mitchellh</author>
-      <description><![CDATA[<p>Rex demo time: magical and automatic remote copy/paste, drag/drop, and port forwarding (e.g. open web servers running on remote machines in your local browser). Plus, showcasing some of the internal plumbing that powers this and how you can hook into it with Lua scripting.<br><br>Our</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2122463229016502272/img/4CF0IV6Xgrr7z1Ft.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Rex demo time: magical and automatic remote copy/paste, drag/drop, and port forwarding (e.g. open web servers running on remote machines in your local browser). Plus, showcasing some of the internal plumbing that powers this and how you can hook into it with Lua scripting.<br><br>Our</p>]]></description>
     </item>
     <item>
       <title>Appreciate it! I think I speak for everyone at Superlogical that we’re tired of software that feels like</title>

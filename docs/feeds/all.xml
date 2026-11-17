@@ -7,6 +7,22 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>👀</title>
+      <link>https://x.com/shadcn/status/2122738624013967470</link>
+      <guid isPermaLink="true">https://x.com/shadcn/status/2122738624013967470</guid>
+      <pubDate>Tue, 17 Nov 2026 17:08:21 GMT</pubDate>
+      <author>@shadcn</author>
+      <description><![CDATA[<p>👀</p>]]></description>
+    </item>
+    <item>
+      <title>The Rex for Windows alpha begins today! I think this is a better terminal than Windows Terminal, and</title>
+      <link>https://x.com/mitchellh/status/2122731286175580550</link>
+      <guid isPermaLink="true">https://x.com/mitchellh/status/2122731286175580550</guid>
+      <pubDate>Tue, 17 Nov 2026 16:39:11 GMT</pubDate>
+      <author>@mitchellh</author>
+      <description><![CDATA[<p>The Rex for Windows alpha begins today! I think this is a better terminal than Windows Terminal, and I think WT is pretty good. Nick did an amazing job here, I think you’re about to feel one of the snappiest, most beautifully rendered Windows apps ever. <br><br>This is all Nicks</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2122714417162825728/img/xhBXuBm0KyCxDnki.jpg" alt=""></p>]]></description>
+    </item>
+    <item>
       <title>👋 @wesbos</title>
       <link>https://x.com/tldraw/status/2122709387512873398</link>
       <guid isPermaLink="true">https://x.com/tldraw/status/2122709387512873398</guid>
@@ -76,7 +92,7 @@
       <guid isPermaLink="true">https://x.com/mitchellh/status/2122464126240989217</guid>
       <pubDate>Mon, 16 Nov 2026 22:57:35 GMT</pubDate>
       <author>@mitchellh</author>
-      <description><![CDATA[<p>Rex demo time: magical and automatic remote copy/paste, drag/drop, and port forwarding (e.g. open web servers running on remote machines in your local browser). Plus, showcasing some of the internal plumbing that powers this and how you can hook into it with Lua scripting.<br><br>Our</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2122463229016502272/img/4CF0IV6Xgrr7z1Ft.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Rex demo time: magical and automatic remote copy/paste, drag/drop, and port forwarding (e.g. open web servers running on remote machines in your local browser). Plus, showcasing some of the internal plumbing that powers this and how you can hook into it with Lua scripting.<br><br>Our</p>]]></description>
     </item>
     <item>
       <title>macOS 27.3 Beta 2 adds a new lock animation to the Full Disk Access and App Protection settings.</title>
@@ -444,7 +460,7 @@
       <guid isPermaLink="true">https://x.com/shadcn/status/2120975213999358211</guid>
       <pubDate>Thu, 12 Nov 2026 20:21:11 GMT</pubDate>
       <author>@shadcn</author>
-      <description><![CDATA[<p>Absolutely amazing design work by @marijanapav (and thank you for letting me ship a grayscale color picker 😂)</p>]]></description>
+      <description><![CDATA[<p>Absolutely amazing design work by @marijanapav (and thank you for letting me ship a grayscale color picker 😂)</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2120968251924459520/img/qkvElO-EIG7ivPOh.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Media post</title>
@@ -636,7 +652,7 @@
       <guid isPermaLink="true">https://x.com/paper/status/2120300315836817547</guid>
       <pubDate>Tue, 10 Nov 2026 23:39:23 GMT</pubDate>
       <author>@paper</author>
-      <description><![CDATA[<p>The progress never stops</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2120154008870682624/img/bicUMDYtY-2ibaK6.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>The progress never stops</p>]]></description>
     </item>
     <item>
       <title>this ain&apos;t me but it could be you</title>
@@ -988,7 +1004,7 @@
       <guid isPermaLink="true">https://x.com/pidotdev/status/2118661763201655075</guid>
       <pubDate>Fri, 06 Nov 2026 11:08:21 GMT</pubDate>
       <author>@pidotdev</author>
-      <description><![CDATA[<p>Thanks @joelniklaus for burning this compute for all of us and sharing the learnings openly. Cost per task is a critical metric for our team so your results make us feel warm and fuzzy</p>]]></description>
+      <description><![CDATA[<p>Thanks @joelniklaus for burning this compute for all of us and sharing the learnings openly. Cost per task is a critical metric for our team so your results make us feel warm and fuzzy</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2118373780292874240/img/XlN2NzAPDJpW299Q.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>🎛️</title>
@@ -1500,7 +1516,7 @@
       <guid isPermaLink="true">https://x.com/paper/status/2117338377523769721</guid>
       <pubDate>Mon, 02 Nov 2026 19:29:42 GMT</pubDate>
       <author>@paper</author>
-      <description><![CDATA[<p>This is worth a read<br><br>Alex breaks down the craft that went into the text editing in Paper<br><br>There are so many tiny details and new things you can do, check it out:</p>]]></description>
+      <description><![CDATA[<p>This is worth a read<br><br>Alex breaks down the craft that went into the text editing in Paper<br><br>There are so many tiny details and new things you can do, check it out:</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2117334313578438656/img/cCkRWgPu0vOySHYo.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>this one has been a huge task to make sure all the rich text possibilities work perfectly in</title>
@@ -1516,7 +1532,7 @@
       <guid isPermaLink="true">https://x.com/paper/status/2117333901530235098</guid>
       <pubDate>Mon, 02 Nov 2026 19:11:54 GMT</pubDate>
       <author>@paper</author>
-      <description><![CDATA[<p>Announcing a big fundamental ship in Paper today<br><br>Show us what you design!</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2117331056861020160/img/jkWA-BGFHtfC6C-j.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Announcing a big fundamental ship in Paper today<br><br>Show us what you design!</p>]]></description>
     </item>
     <item>
       <title>New: rich text editing is live in Paper! Designers have been asking for this one ✨ Plus Snapshot</title>
@@ -1589,22 +1605,6 @@
       <pubDate>Sun, 01 Nov 2026 17:10:00 GMT</pubDate>
       <author>@avstorm</author>
       <description><![CDATA[<p>The Mac startup sound at the end of the Home Theater surround setup is awesome.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2116880462563991552/img/9az48kXtmONvWpy2.jpg" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>arrows arrows arrows arrows in my code factory many arrows in my code factory if you need many</title>
-      <link>https://x.com/tldraw/status/2116928159438499862</link>
-      <guid isPermaLink="true">https://x.com/tldraw/status/2116928159438499862</guid>
-      <pubDate>Sun, 01 Nov 2026 16:19:38 GMT</pubDate>
-      <author>@tldraw</author>
-      <description><![CDATA[<p>arrows arrows arrows arrows<br>in my code factory<br>many arrows in my code factory<br><br>if you need many arrows<br>you can tell me<br>I want you to take a lot of arrows</p>]]></description>
-    </item>
-    <item>
-      <title>not all heroes wear capes</title>
-      <link>https://x.com/AREdotNA/status/2116861721667088883</link>
-      <guid isPermaLink="true">https://x.com/AREdotNA/status/2116861721667088883</guid>
-      <pubDate>Sun, 01 Nov 2026 11:55:38 GMT</pubDate>
-      <author>@AREdotNA</author>
-      <description><![CDATA[<p>not all heroes wear capes</p><p><img src="https://pbs.twimg.com/media/HWBGO5_W0AALr5B?format=jpg&amp;name=small" alt=""></p>]]></description>
     </item>
   </channel>
 </rss>
