@@ -7,6 +7,14 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>Paper with Linear agents is really promising to me You could have a canvas ready to review before</title>
+      <link>https://x.com/stephenhaney/status/2122785349634339283</link>
+      <guid isPermaLink="true">https://x.com/stephenhaney/status/2122785349634339283</guid>
+      <pubDate>Tue, 17 Nov 2026 20:14:01 GMT</pubDate>
+      <author>@stephenhaney</author>
+      <description><![CDATA[<p>Paper with Linear agents is really promising to me<br><br>You could have a canvas ready to review before you pick up a ticket, or create visual audits of work that has been done by agents. You could keep the canvas in sync with code changes.<br><br>What else? It feels like new ground</p><p><img src="https://pbs.twimg.com/media/HXWRc4ybkAA_xSC?format=jpg&amp;name=small" alt=""></p>]]></description>
+    </item>
+    <item>
       <title>This is a really good video on how we&apos;re building UI SDK to be agent-first by @orcdev</title>
       <link>https://x.com/shadcn/status/2122764933226197406</link>
       <guid isPermaLink="true">https://x.com/shadcn/status/2122764933226197406</guid>
@@ -116,7 +124,7 @@
       <guid isPermaLink="true">https://x.com/mitchellh/status/2122464126240989217</guid>
       <pubDate>Mon, 16 Nov 2026 22:57:35 GMT</pubDate>
       <author>@mitchellh</author>
-      <description><![CDATA[<p>Rex demo time: magical and automatic remote copy/paste, drag/drop, and port forwarding (e.g. open web servers running on remote machines in your local browser). Plus, showcasing some of the internal plumbing that powers this and how you can hook into it with Lua scripting.<br><br>Our</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2122463229016502272/img/4CF0IV6Xgrr7z1Ft.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Rex demo time: magical and automatic remote copy/paste, drag/drop, and port forwarding (e.g. open web servers running on remote machines in your local browser). Plus, showcasing some of the internal plumbing that powers this and how you can hook into it with Lua scripting.<br><br>Our</p>]]></description>
     </item>
     <item>
       <title>macOS 27.3 Beta 2 adds a new lock animation to the Full Disk Access and App Protection settings.</title>
@@ -1028,7 +1036,7 @@
       <guid isPermaLink="true">https://x.com/pidotdev/status/2118661763201655075</guid>
       <pubDate>Fri, 06 Nov 2026 11:08:21 GMT</pubDate>
       <author>@pidotdev</author>
-      <description><![CDATA[<p>Thanks @joelniklaus for burning this compute for all of us and sharing the learnings openly. Cost per task is a critical metric for our team so your results make us feel warm and fuzzy</p>]]></description>
+      <description><![CDATA[<p>Thanks @joelniklaus for burning this compute for all of us and sharing the learnings openly. Cost per task is a critical metric for our team so your results make us feel warm and fuzzy</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2118373780292874240/img/XlN2NzAPDJpW299Q.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>🎛️</title>
@@ -1564,7 +1572,7 @@
       <guid isPermaLink="true">https://x.com/stephenhaney/status/2117333603608932710</guid>
       <pubDate>Mon, 02 Nov 2026 19:10:43 GMT</pubDate>
       <author>@stephenhaney</author>
-      <description><![CDATA[<p>New: rich text editing is live in Paper!<br><br>Designers have been asking for this one ✨<br><br>Plus Snapshot is now more accurate: copy/paste your live site as layers<br><br>Text uses html/css so what you design is what you ship<br><br>And it&apos;s perfect with agents: code in, code out<br><br>Sound on 🔊</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2117331056861020160/img/jkWA-BGFHtfC6C-j.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>New: rich text editing is live in Paper!<br><br>Designers have been asking for this one ✨<br><br>Plus Snapshot is now more accurate: copy/paste your live site as layers<br><br>Text uses html/css so what you design is what you ship<br><br>And it&apos;s perfect with agents: code in, code out<br><br>Sound on 🔊</p>]]></description>
     </item>
     <item>
       <title>Watch out dependancies, Gramps is unleashing</title>
@@ -1597,14 +1605,6 @@
       <pubDate>Mon, 02 Nov 2026 12:07:55 GMT</pubDate>
       <author>@avstorm</author>
       <description><![CDATA[<p>Looking for a HQ version of the intro from the Apple Experience event in LA. Does anyone have it?</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2117226824987975680/img/cfUJV7QTlU_ejiyL.jpg" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>There&apos;s still so much software to build.</title>
-      <link>https://x.com/shadcn/status/2117149197098996192</link>
-      <guid isPermaLink="true">https://x.com/shadcn/status/2117149197098996192</guid>
-      <pubDate>Mon, 02 Nov 2026 06:57:57 GMT</pubDate>
-      <author>@shadcn</author>
-      <description><![CDATA[<p>There&apos;s still so much software to build.</p>]]></description>
     </item>
   </channel>
 </rss>
