@@ -13,6 +13,14 @@
     </image>
     <ttl>120</ttl>
     <item>
+      <title>This is a really good video on how we&apos;re building UI SDK to be agent-first by @orcdev</title>
+      <link>https://x.com/shadcn/status/2122764933226197406</link>
+      <guid isPermaLink="true">https://x.com/shadcn/status/2122764933226197406</guid>
+      <pubDate>Tue, 17 Nov 2026 18:52:53 GMT</pubDate>
+      <author>@shadcn</author>
+      <description><![CDATA[<p>This is a really good video on how we&apos;re building UI SDK to be agent-first by @orcdev</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2122701704529432577/img/HJZEUqCWHXXjX_Yu.jpg" alt=""></p>]]></description>
+    </item>
+    <item>
       <title>👀</title>
       <link>https://x.com/shadcn/status/2122738624013967470</link>
       <guid isPermaLink="true">https://x.com/shadcn/status/2122738624013967470</guid>
@@ -106,7 +114,7 @@
       <guid isPermaLink="true">https://x.com/shadcn/status/2121210951961641451</guid>
       <pubDate>Fri, 13 Nov 2026 11:57:55 GMT</pubDate>
       <author>@shadcn</author>
-      <description><![CDATA[<p>When we started working on the concept of &quot;behavior&quot;, we wanted to try and make agents really good at getting a11y right. We put a lot of thought into how the UI SDK behaviors handle and verify accessible interfaces.<br><br>So, when you ask your agent to build interfaces with UI SDK,</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2121210380030545920/img/IXgmi_ZRSuszroWi.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>When we started working on the concept of &quot;behavior&quot;, we wanted to try and make agents really good at getting a11y right. We put a lot of thought into how the UI SDK behaviors handle and verify accessible interfaces.<br><br>So, when you ask your agent to build interfaces with UI SDK,</p>]]></description>
     </item>
     <item>
       <title>Thank you @benjamincanac for the Vue/Nuxt support.</title>
@@ -146,7 +154,7 @@
       <guid isPermaLink="true">https://x.com/shadcn/status/2120951116682682646</guid>
       <pubDate>Thu, 12 Nov 2026 18:45:26 GMT</pubDate>
       <author>@shadcn</author>
-      <description><![CDATA[<p>Today we’re introducing UI SDK.<br><br>Agents are becoming both the builders and the users of interfaces. So we asked ourselves: where should the abstraction live?<br><br>Take a Select. There’s a popup, selection logic, keyboard navigation and focus management. Those same behaviors are</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2120949925425065984/img/4DSJbkjJAuKq0sfQ.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Today we’re introducing UI SDK.<br><br>Agents are becoming both the builders and the users of interfaces. So we asked ourselves: where should the abstraction live?<br><br>Take a Select. There’s a popup, selection logic, keyboard navigation and focus management. Those same behaviors are</p>]]></description>
     </item>
     <item>
       <title>Launch day. Era Two.</title>
@@ -803,14 +811,6 @@
       <pubDate>Fri, 04 Sep 2026 17:08:43 GMT</pubDate>
       <author>@shadcn</author>
       <description><![CDATA[<p>Here&apos;s an example. A week ago I asked an agent (frontier model) to watch a restaurant and let me know when reservations open for Dec 20. Said okay, it will ping me.<br><br>A few days later I checked (just to make sure it was working). &quot;Still closed.&quot; Two days later, same asnwer.<br><br>Then</p>]]></description>
-    </item>
-    <item>
-      <title>agents cheat too much for me to trust them with anything other than code right now.</title>
-      <link>https://x.com/shadcn/status/2095871268683759751</link>
-      <guid isPermaLink="true">https://x.com/shadcn/status/2095871268683759751</guid>
-      <pubDate>Fri, 04 Sep 2026 13:47:04 GMT</pubDate>
-      <author>@shadcn</author>
-      <description><![CDATA[<p>agents cheat too much for me to trust them with anything other than code right now.</p>]]></description>
     </item>
   </channel>
 </rss>

@@ -7,6 +7,14 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>This is a really good video on how we&apos;re building UI SDK to be agent-first by @orcdev</title>
+      <link>https://x.com/shadcn/status/2122764933226197406</link>
+      <guid isPermaLink="true">https://x.com/shadcn/status/2122764933226197406</guid>
+      <pubDate>Tue, 17 Nov 2026 18:52:53 GMT</pubDate>
+      <author>@shadcn</author>
+      <description><![CDATA[<p>This is a really good video on how we&apos;re building UI SDK to be agent-first by @orcdev</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2122701704529432577/img/HJZEUqCWHXXjX_Yu.jpg" alt=""></p>]]></description>
+    </item>
+    <item>
       <title>The header on the GPT-6.2 Astra and Sol announcement page is 🔥</title>
       <link>https://x.com/avstorm/status/2122756725476352161</link>
       <guid isPermaLink="true">https://x.com/avstorm/status/2122756725476352161</guid>
@@ -108,7 +116,7 @@
       <guid isPermaLink="true">https://x.com/mitchellh/status/2122464126240989217</guid>
       <pubDate>Mon, 16 Nov 2026 22:57:35 GMT</pubDate>
       <author>@mitchellh</author>
-      <description><![CDATA[<p>Rex demo time: magical and automatic remote copy/paste, drag/drop, and port forwarding (e.g. open web servers running on remote machines in your local browser). Plus, showcasing some of the internal plumbing that powers this and how you can hook into it with Lua scripting.<br><br>Our</p>]]></description>
+      <description><![CDATA[<p>Rex demo time: magical and automatic remote copy/paste, drag/drop, and port forwarding (e.g. open web servers running on remote machines in your local browser). Plus, showcasing some of the internal plumbing that powers this and how you can hook into it with Lua scripting.<br><br>Our</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2122463229016502272/img/4CF0IV6Xgrr7z1Ft.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>macOS 27.3 Beta 2 adds a new lock animation to the Full Disk Access and App Protection settings.</title>
@@ -340,7 +348,7 @@
       <guid isPermaLink="true">https://x.com/avstorm/status/2121515197810573377</guid>
       <pubDate>Sat, 14 Nov 2026 08:06:53 GMT</pubDate>
       <author>@avstorm</author>
-      <description><![CDATA[<p></p>]]></description>
+      <description><![CDATA[<p></p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2121515144475770880/img/OVWmtX4a7VvLqCpy.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>I’m seeing some incredibly amazing things being built with the UI SDK. Keep them coming.</title>
@@ -380,7 +388,7 @@
       <guid isPermaLink="true">https://x.com/avstorm/status/2121306461607477450</guid>
       <pubDate>Fri, 13 Nov 2026 18:17:27 GMT</pubDate>
       <author>@avstorm</author>
-      <description><![CDATA[<p>The classic Mac startup vibe in the HomeView setup sound is awesome.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2121306143955795968/img/GMOh99nQ0qRkYuw9.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>The classic Mac startup vibe in the HomeView setup sound is awesome.</p>]]></description>
     </item>
     <item>
       <title>The annual Lord of the Rings rewatch. It’s time. Back to Middle-earth.</title>
@@ -420,7 +428,7 @@
       <guid isPermaLink="true">https://x.com/shadcn/status/2121210951961641451</guid>
       <pubDate>Fri, 13 Nov 2026 11:57:55 GMT</pubDate>
       <author>@shadcn</author>
-      <description><![CDATA[<p>When we started working on the concept of &quot;behavior&quot;, we wanted to try and make agents really good at getting a11y right. We put a lot of thought into how the UI SDK behaviors handle and verify accessible interfaces.<br><br>So, when you ask your agent to build interfaces with UI SDK,</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2121210380030545920/img/IXgmi_ZRSuszroWi.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>When we started working on the concept of &quot;behavior&quot;, we wanted to try and make agents really good at getting a11y right. We put a lot of thought into how the UI SDK behaviors handle and verify accessible interfaces.<br><br>So, when you ask your agent to build interfaces with UI SDK,</p>]]></description>
     </item>
     <item>
       <title>Apple logos 2026</title>
@@ -444,7 +452,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2120998881240781095</guid>
       <pubDate>Thu, 12 Nov 2026 21:55:14 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>works</p>]]></description>
+      <description><![CDATA[<p>works</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2120998821115166720/img/dXvi3a0Itj4NJdee.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Thank you @benjamincanac for the Vue/Nuxt support.</title>
@@ -492,7 +500,7 @@
       <guid isPermaLink="true">https://x.com/shadcn/status/2120951116682682646</guid>
       <pubDate>Thu, 12 Nov 2026 18:45:26 GMT</pubDate>
       <author>@shadcn</author>
-      <description><![CDATA[<p>Today we’re introducing UI SDK.<br><br>Agents are becoming both the builders and the users of interfaces. So we asked ourselves: where should the abstraction live?<br><br>Take a Select. There’s a popup, selection logic, keyboard navigation and focus management. Those same behaviors are</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2120949925425065984/img/4DSJbkjJAuKq0sfQ.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Today we’re introducing UI SDK.<br><br>Agents are becoming both the builders and the users of interfaces. So we asked ourselves: where should the abstraction live?<br><br>Take a Select. There’s a popup, selection logic, keyboard navigation and focus management. Those same behaviors are</p>]]></description>
     </item>
     <item>
       <title>On this day in 2020, macOS Big Sur arrived and all app icons got a uniform shape.</title>
@@ -884,7 +892,7 @@
       <guid isPermaLink="true">https://x.com/avstorm/status/2119711688823877916</guid>
       <pubDate>Mon, 09 Nov 2026 08:40:23 GMT</pubDate>
       <author>@avstorm</author>
-      <description><![CDATA[<p>App icon updates since the initial releases of iOS 27/macOS 27.</p>]]></description>
+      <description><![CDATA[<p>App icon updates since the initial releases of iOS 27/macOS 27.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2119708909472477184/img/ljfQKh2U80QN4L05.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>when we can do anything, do we still know what we want? the full talk from @aiDotEngineer shanghai.</title>
@@ -956,7 +964,7 @@
       <guid isPermaLink="true">https://x.com/avstorm/status/2118807224990523857</guid>
       <pubDate>Fri, 06 Nov 2026 20:46:22 GMT</pubDate>
       <author>@avstorm</author>
-      <description><![CDATA[<p>Behind the scenes of Apple’s MacBook Pro with PROLED XDR Display launch film.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2118807122183962624/img/B67Uz4QM7-Oravyc.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Behind the scenes of Apple’s MacBook Pro with PROLED XDR Display launch film.</p>]]></description>
     </item>
     <item>
       <title>I&apos;ll be joining Tommy for a live chat about all things design, tools, and new workflows at 12PM</title>
@@ -1597,14 +1605,6 @@
       <pubDate>Mon, 02 Nov 2026 06:57:57 GMT</pubDate>
       <author>@shadcn</author>
       <description><![CDATA[<p>There&apos;s still so much software to build.</p>]]></description>
-    </item>
-    <item>
-      <title>it has been wild weekend to see @paper pricing be the topic of design twitter let me share</title>
-      <link>https://x.com/stephenhaney/status/2117000285038252110</link>
-      <guid isPermaLink="true">https://x.com/stephenhaney/status/2117000285038252110</guid>
-      <pubDate>Sun, 01 Nov 2026 21:06:14 GMT</pubDate>
-      <author>@stephenhaney</author>
-      <description><![CDATA[<p>it has been wild weekend to see @paper pricing be the topic of design twitter<br><br>let me share some of our internal discussions<br><br>first: it&apos;s really valuable feedback. we want to find the optimal way to price that creates incredible value for the design and agent communities and also</p><p><img src="https://pbs.twimg.com/media/HV-TfM4XMAAmEmE?format=jpg&amp;name=small" alt=""></p>]]></description>
     </item>
   </channel>
 </rss>
