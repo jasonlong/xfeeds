@@ -7,6 +7,14 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>It feels pretty special to see something you’ve worked on nominated for iPhone App of the Year and</title>
+      <link>https://x.com/avstorm/status/2123087412117291202</link>
+      <guid isPermaLink="true">https://x.com/avstorm/status/2123087412117291202</guid>
+      <pubDate>Wed, 18 Nov 2026 16:14:18 GMT</pubDate>
+      <author>@avstorm</author>
+      <description><![CDATA[<p>It feels pretty special to see something you’ve worked on nominated for iPhone App of the Year and iPad App of the Year ❤️<br><br>@thecosmos: custom icons<br>@elevenreader: central icons set</p>]]></description>
+    </item>
+    <item>
       <title>Wrapping up NYC with @DavidKPiano 👋</title>
       <link>https://x.com/tldraw/status/2123069224314884592</link>
       <guid isPermaLink="true">https://x.com/tldraw/status/2123069224314884592</guid>
@@ -956,7 +964,7 @@
       <guid isPermaLink="true">https://x.com/almonk/status/2119827687611007320</guid>
       <pubDate>Mon, 09 Nov 2026 16:21:19 GMT</pubDate>
       <author>@almonk</author>
-      <description><![CDATA[<p>_breathing intensifies_</p>]]></description>
+      <description><![CDATA[<p>_breathing intensifies_</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2119783356300746752/img/sJ4iRTPOrfSmmrxM.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Olivia Dean is Apple Music’s Artist of the Year for 2026</title>
@@ -1597,14 +1605,6 @@
       <pubDate>Tue, 03 Nov 2026 12:04:03 GMT</pubDate>
       <author>@tldraw</author>
       <description><![CDATA[<p>What angle should the selection box be when every shape is rotated differently?<br><br>No single angle makes sense, so tldraw falls back to a plain axis-aligned box.<br><br>It’s a small edge case, but we thought about it a lot when deciding how to build our bounding boxes.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2117588604369453057/img/pPnLWaBPi5qEizMw.jpg" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>there’s a lot of people building, but not much being built</title>
-      <link>https://x.com/almonk/status/2117546916040835142</link>
-      <guid isPermaLink="true">https://x.com/almonk/status/2117546916040835142</guid>
-      <pubDate>Tue, 03 Nov 2026 09:18:21 GMT</pubDate>
-      <author>@almonk</author>
-      <description><![CDATA[<p>there’s a lot of people building, but not much being built</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2117336516540370944/img/7fSqX0K8ObS5J11g.jpg" alt=""></p>]]></description>
     </item>
   </channel>
 </rss>
