@@ -13,12 +13,36 @@
     </image>
     <ttl>120</ttl>
     <item>
+      <title>Media post</title>
+      <link>https://x.com/shadcn/status/2123035042175959407</link>
+      <guid isPermaLink="true">https://x.com/shadcn/status/2123035042175959407</guid>
+      <pubDate>Wed, 18 Nov 2026 12:46:12 GMT</pubDate>
+      <author>@shadcn</author>
+      <description><![CDATA[<p></p>]]></description>
+    </item>
+    <item>
+      <title>Alright let&apos;s talk about how we&apos;re building @uisdk to be agent-first. UI SDK has first-class WebMCP support. UI</title>
+      <link>https://x.com/shadcn/status/2123034938211815730</link>
+      <guid isPermaLink="true">https://x.com/shadcn/status/2123034938211815730</guid>
+      <pubDate>Wed, 18 Nov 2026 12:45:48 GMT</pubDate>
+      <author>@shadcn</author>
+      <description><![CDATA[<p>Alright let&apos;s talk about how we&apos;re building @uisdk to be agent-first.<br><br>UI SDK has first-class WebMCP support. UI built with the SDK comes with its own tools. Agents read your components and call their actions directly. No screenshots. No clicking around.<br><br>In our benchmark: ~50%</p><p><img src="https://pbs.twimg.com/media/HXaIoAhbUAA_QK7?format=jpg&amp;name=small" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>There&apos;s still so much UI to build.</title>
+      <link>https://x.com/shadcn/status/2122979613689401643</link>
+      <guid isPermaLink="true">https://x.com/shadcn/status/2122979613689401643</guid>
+      <pubDate>Wed, 18 Nov 2026 09:05:57 GMT</pubDate>
+      <author>@shadcn</author>
+      <description><![CDATA[<p>There&apos;s still so much UI to build.</p>]]></description>
+    </item>
+    <item>
       <title>This is a really good video on how we&apos;re building UI SDK to be agent-first by @orcdev</title>
       <link>https://x.com/shadcn/status/2122764933226197406</link>
       <guid isPermaLink="true">https://x.com/shadcn/status/2122764933226197406</guid>
       <pubDate>Tue, 17 Nov 2026 18:52:53 GMT</pubDate>
       <author>@shadcn</author>
-      <description><![CDATA[<p>This is a really good video on how we&apos;re building UI SDK to be agent-first by @orcdev</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2122701704529432577/img/HJZEUqCWHXXjX_Yu.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>This is a really good video on how we&apos;re building UI SDK to be agent-first by @orcdev</p>]]></description>
     </item>
     <item>
       <title>👀</title>
@@ -90,7 +114,7 @@
       <guid isPermaLink="true">https://x.com/shadcn/status/2121296209549955438</guid>
       <pubDate>Fri, 13 Nov 2026 17:36:42 GMT</pubDate>
       <author>@shadcn</author>
-      <description><![CDATA[<p>The annual Lord of the Rings rewatch. It’s time. Back to Middle-earth.</p>]]></description>
+      <description><![CDATA[<p>The annual Lord of the Rings rewatch. It’s time. Back to Middle-earth.</p><p><img src="https://pbs.twimg.com/tweet_video_thumb/HXBbqF1WIAATNdp.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Today we’re introducing UI SDK. Agents are becoming both the builders and the users of interfaces. So we</title>
@@ -114,7 +138,7 @@
       <guid isPermaLink="true">https://x.com/shadcn/status/2121210951961641451</guid>
       <pubDate>Fri, 13 Nov 2026 11:57:55 GMT</pubDate>
       <author>@shadcn</author>
-      <description><![CDATA[<p>When we started working on the concept of &quot;behavior&quot;, we wanted to try and make agents really good at getting a11y right. We put a lot of thought into how the UI SDK behaviors handle and verify accessible interfaces.<br><br>So, when you ask your agent to build interfaces with UI SDK,</p>]]></description>
+      <description><![CDATA[<p>When we started working on the concept of &quot;behavior&quot;, we wanted to try and make agents really good at getting a11y right. We put a lot of thought into how the UI SDK behaviors handle and verify accessible interfaces.<br><br>So, when you ask your agent to build interfaces with UI SDK,</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2121210380030545920/img/IXgmi_ZRSuszroWi.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Thank you @benjamincanac for the Vue/Nuxt support.</title>
@@ -787,30 +811,6 @@
       <pubDate>Mon, 07 Sep 2026 17:18:05 GMT</pubDate>
       <author>@shadcn</author>
       <description><![CDATA[<p>having your own personal component library is insanely useful for agentic coding<br><br>start with shadcn/ui. ask your agent to customize the components. they’re really good at it.<br><br>then every project starts with: <br><br>npx shadcn init name/repo<br><br>your components. your defaults. every time.</p>]]></description>
-    </item>
-    <item>
-      <title>Look at macOS. Apple spent so much time designing marketing Liquid Glass. Two years in, very little of</title>
-      <link>https://x.com/shadcn/status/2096797264370950464</link>
-      <guid isPermaLink="true">https://x.com/shadcn/status/2096797264370950464</guid>
-      <pubDate>Mon, 07 Sep 2026 03:06:39 GMT</pubDate>
-      <author>@shadcn</author>
-      <description><![CDATA[<p>Look at macOS. Apple spent so much time designing marketing Liquid Glass. Two years in, very little of it has made it to the Mac.<br><br>Menus, alerts, dialogs. They open instantly. Some of the glass. Almost none of the liquid.<br><br>Where work happens, the interface should feel instant.</p>]]></description>
-    </item>
-    <item>
-      <title>To understand how little you should animate, open the app you use every day and count how many</title>
-      <link>https://x.com/shadcn/status/2096648867567608084</link>
-      <guid isPermaLink="true">https://x.com/shadcn/status/2096648867567608084</guid>
-      <pubDate>Sun, 06 Sep 2026 17:16:58 GMT</pubDate>
-      <author>@shadcn</author>
-      <description><![CDATA[<p>To understand how little you should animate, open the app you use every day and count how many things are animated. Almost none.</p>]]></description>
-    </item>
-    <item>
-      <title>Here&apos;s an example. A week ago I asked an agent (frontier model) to watch a restaurant and let</title>
-      <link>https://x.com/shadcn/status/2095922016977391938</link>
-      <guid isPermaLink="true">https://x.com/shadcn/status/2095922016977391938</guid>
-      <pubDate>Fri, 04 Sep 2026 17:08:43 GMT</pubDate>
-      <author>@shadcn</author>
-      <description><![CDATA[<p>Here&apos;s an example. A week ago I asked an agent (frontier model) to watch a restaurant and let me know when reservations open for Dec 20. Said okay, it will ping me.<br><br>A few days later I checked (just to make sure it was working). &quot;Still closed.&quot; Two days later, same asnwer.<br><br>Then</p>]]></description>
     </item>
   </channel>
 </rss>
