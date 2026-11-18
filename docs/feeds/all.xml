@@ -7,6 +7,30 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>Nice photos</title>
+      <link>https://x.com/zerocam_app/status/2123169773228036588</link>
+      <guid isPermaLink="true">https://x.com/zerocam_app/status/2123169773228036588</guid>
+      <pubDate>Wed, 18 Nov 2026 21:41:35 GMT</pubDate>
+      <author>@zerocam_app</author>
+      <description><![CDATA[<p>Nice photos</p><p><img src="https://pbs.twimg.com/media/HXcAU0Zb0AAA-VB?format=jpg&amp;name=360x360" alt=""></p><p><img src="https://pbs.twimg.com/media/HXcAU0RaUAAnOQr?format=jpg&amp;name=360x360" alt=""></p><p><img src="https://pbs.twimg.com/media/HXcAU0SbAAA7ATW?format=jpg&amp;name=360x360" alt=""></p><p><img src="https://pbs.twimg.com/media/HXcAU0NbQAAOF5O?format=jpg&amp;name=360x360" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>Rex has really powerful Lua scripting that our beta group has been using to huge effect. We expanded</title>
+      <link>https://x.com/mitchellh/status/2123167959686496690</link>
+      <guid isPermaLink="true">https://x.com/mitchellh/status/2123167959686496690</guid>
+      <pubDate>Wed, 18 Nov 2026 21:34:22 GMT</pubDate>
+      <author>@mitchellh</author>
+      <description><![CDATA[<p>Rex has really powerful Lua scripting that our beta group has been using to huge effect. We expanded it today with `rex.ui`: a way to build automations that require user interaction. <br><br>The way this works with multiple clients: the choice pops up on all attached clients. The first</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2123043561985765377/img/ExjNTsFbWc870vHz.jpg" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>as an aside I built the slides here in @paper with Claude in about 7 minutes. i fucking</title>
+      <link>https://x.com/almonk/status/2123164848070561829</link>
+      <guid isPermaLink="true">https://x.com/almonk/status/2123164848070561829</guid>
+      <pubDate>Wed, 18 Nov 2026 21:22:00 GMT</pubDate>
+      <author>@almonk</author>
+      <description><![CDATA[<p>as an aside I built the slides here in @paper with Claude in about 7 minutes. i fucking love the future.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2123043561985765377/img/ExjNTsFbWc870vHz.jpg" alt=""></p>]]></description>
+    </item>
+    <item>
       <title>As a student of design tools, this feels historic In Ramp&apos;s spend data, Paper passed Sketch in adoption</title>
       <link>https://x.com/stephenhaney/status/2123157413645984016</link>
       <guid isPermaLink="true">https://x.com/stephenhaney/status/2123157413645984016</guid>
@@ -68,7 +92,7 @@
       <guid isPermaLink="true">https://x.com/almonk/status/2123044473873588226</guid>
       <pubDate>Wed, 18 Nov 2026 13:23:41 GMT</pubDate>
       <author>@almonk</author>
-      <description><![CDATA[<p>posted this into our Rex discord today... the new `𝚛𝚎𝚡.𝚞𝚒` primitives provides a new set of simple but powerful methods to build interactive scripts within Rex that require user interaction.<br><br>Now you can build the workflow of your dreams, that little action you always wanted</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2123043561985765377/img/ExjNTsFbWc870vHz.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>posted this into our Rex discord today... the new `𝚛𝚎𝚡.𝚞𝚒` primitives provides a new set of simple but powerful methods to build interactive scripts within Rex that require user interaction.<br><br>Now you can build the workflow of your dreams, that little action you always wanted</p>]]></description>
     </item>
     <item>
       <title>Media post</title>
@@ -404,7 +428,7 @@
       <guid isPermaLink="true">https://x.com/almonk/status/2122357779365089661</guid>
       <pubDate>Mon, 16 Nov 2026 15:55:00 GMT</pubDate>
       <author>@almonk</author>
-      <description><![CDATA[<p>some playful new floating windows features in Rex</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2122357721227784193/img/0bqtUw1QlIm50vcS.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>some playful new floating windows features in Rex</p>]]></description>
     </item>
     <item>
       <title>learn to be like pidalf, learn to be durable</title>
@@ -788,7 +812,7 @@
       <guid isPermaLink="true">https://x.com/zerocam_app/status/2120479671674413404</guid>
       <pubDate>Wed, 11 Nov 2026 11:32:04 GMT</pubDate>
       <author>@zerocam_app</author>
-      <description><![CDATA[<p>Unexpected new app available in App Store. Enjoy 🕹️</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2120429633602502656/img/xpG32tGEPfeu2q0F.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Unexpected new app available in App Store. Enjoy 🕹️</p>]]></description>
     </item>
     <item>
       <title>Pidalf and Clankolas are on camera again. Enjoy</title>
@@ -1324,7 +1348,7 @@
       <guid isPermaLink="true">https://x.com/mitchellh/status/2118352046906867927</guid>
       <pubDate>Thu, 05 Nov 2026 14:37:39 GMT</pubDate>
       <author>@mitchellh</author>
-      <description><![CDATA[<p>Surprise! We have a gorgeous, high quality windows client. We’ve been waiting to share until we have a relatively complete (but still pre alpha) client here, but we’re getting ready to start external testing. Hello, Windows.</p>]]></description>
+      <description><![CDATA[<p>Surprise! We have a gorgeous, high quality windows client. We’ve been waiting to share until we have a relatively complete (but still pre alpha) client here, but we’re getting ready to start external testing. Hello, Windows.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2118321201424572416/img/5Vc6LJAZJ8bZNPAm.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>our goal for Rex clients from the start was to build the most magical terminal app and to</title>
@@ -1332,7 +1356,7 @@
       <guid isPermaLink="true">https://x.com/almonk/status/2118322504175390881</guid>
       <pubDate>Thu, 05 Nov 2026 12:40:16 GMT</pubDate>
       <author>@almonk</author>
-      <description><![CDATA[<p>our goal for Rex clients from the start was to build the most magical terminal app and to make it feel native on every platform. to me that doesn’t mean porting the same UI around. it means embracing the norms and quirks of each platform, so the app feels at home on your system</p>]]></description>
+      <description><![CDATA[<p>our goal for Rex clients from the start was to build the most magical terminal app and to make it feel native on every platform. to me that doesn’t mean porting the same UI around. it means embracing the norms and quirks of each platform, so the app feels at home on your system</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2118321201424572416/img/5Vc6LJAZJ8bZNPAm.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>You can now leave a comment straight from the right-click menu.</title>
@@ -1581,30 +1605,6 @@
       <pubDate>Tue, 03 Nov 2026 19:16:11 GMT</pubDate>
       <author>@pidotdev</author>
       <description><![CDATA[<p>Interns at Earendil also cookin’</p>]]></description>
-    </item>
-    <item>
-      <title>A quick note. On both Linux and macOS, libghostty already processes data faster than the kernel can supply</title>
-      <link>https://x.com/mitchellh/status/2117667382605005263</link>
-      <guid isPermaLink="true">https://x.com/mitchellh/status/2117667382605005263</guid>
-      <pubDate>Tue, 03 Nov 2026 17:17:03 GMT</pubDate>
-      <author>@mitchellh</author>
-      <description><![CDATA[<p>A quick note. On both Linux and macOS, libghostty already processes data faster than the kernel can supply it over a pty fd. Ghostty is literally the floor of how fast `cat` can get (over plain text). So the plain ASCII/Unicode improvements here do NOT translate to visible `cat`</p><p><img src="https://pbs.twimg.com/media/HWNzcHubgAAOF_I?format=jpg&amp;name=small" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>libghostty has always been fast, but it&apos;s also been getting significantly faster. Here are IO throughput measurements comparing</title>
-      <link>https://x.com/mitchellh/status/2117666380380274955</link>
-      <guid isPermaLink="true">https://x.com/mitchellh/status/2117666380380274955</guid>
-      <pubDate>Tue, 03 Nov 2026 17:13:04 GMT</pubDate>
-      <author>@mitchellh</author>
-      <description><![CDATA[<p>libghostty has always been fast, but it&apos;s also been getting significantly faster. Here are IO throughput measurements comparing Ghostty 1.3.1, 1.4.0, and main as of this morning. We&apos;ll be backporting most of these to a 1.4.1 release soon.<br><br>Here are some highlights of the changes</p><p><img src="https://pbs.twimg.com/media/HWNzcHubgAAOF_I?format=jpg&amp;name=small" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>the devil is in the details 🤌</title>
-      <link>https://x.com/zerocam_app/status/2117663782725882074</link>
-      <guid isPermaLink="true">https://x.com/zerocam_app/status/2117663782725882074</guid>
-      <pubDate>Tue, 03 Nov 2026 17:02:44 GMT</pubDate>
-      <author>@zerocam_app</author>
-      <description><![CDATA[<p>the devil is in the details 🤌</p>]]></description>
     </item>
   </channel>
 </rss>
