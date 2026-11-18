@@ -7,6 +7,22 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>If you&apos;re building UI with @solid_js, try UI SDK. We built it for Solid 2.0. Follow the link</title>
+      <link>https://x.com/shadcn/status/2123132082042151332</link>
+      <guid isPermaLink="true">https://x.com/shadcn/status/2123132082042151332</guid>
+      <pubDate>Wed, 18 Nov 2026 19:11:48 GMT</pubDate>
+      <author>@shadcn</author>
+      <description><![CDATA[<p>If you&apos;re building UI with @solid_js, try UI SDK. We built it for Solid 2.0. Follow the link below and copy the prompt to your agents.<br><br>https://ui-sdk.dev/docs/solid</p><p><img src="https://pbs.twimg.com/media/HXWT_UHbgAAan8j?format=jpg&amp;name=small" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>We put a LOT of work designing the behaviors. Give it a try. They are pretty cool.</title>
+      <link>https://x.com/shadcn/status/2123126831423651852</link>
+      <guid isPermaLink="true">https://x.com/shadcn/status/2123126831423651852</guid>
+      <pubDate>Wed, 18 Nov 2026 18:50:57 GMT</pubDate>
+      <author>@shadcn</author>
+      <description><![CDATA[<p>We put a LOT of work designing the behaviors. Give it a try. They are pretty cool.</p>]]></description>
+    </item>
+    <item>
       <title>It feels pretty special to see something you’ve worked on nominated for iPhone App of the Year and</title>
       <link>https://x.com/avstorm/status/2123087412117291202</link>
       <guid isPermaLink="true">https://x.com/avstorm/status/2123087412117291202</guid>
@@ -460,7 +476,7 @@
       <guid isPermaLink="true">https://x.com/shadcn/status/2121612451200307648</guid>
       <pubDate>Sat, 14 Nov 2026 14:33:20 GMT</pubDate>
       <author>@shadcn</author>
-      <description><![CDATA[<p>SPEC-01 just dropped.</p>]]></description>
+      <description><![CDATA[<p>SPEC-01 just dropped.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2121603224897761280/img/RvQL7P34fB03oVPC.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Media post</title>
@@ -548,7 +564,7 @@
       <guid isPermaLink="true">https://x.com/shadcn/status/2121210951961641451</guid>
       <pubDate>Fri, 13 Nov 2026 11:57:55 GMT</pubDate>
       <author>@shadcn</author>
-      <description><![CDATA[<p>When we started working on the concept of &quot;behavior&quot;, we wanted to try and make agents really good at getting a11y right. We put a lot of thought into how the UI SDK behaviors handle and verify accessible interfaces.<br><br>So, when you ask your agent to build interfaces with UI SDK,</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2121210380030545920/img/IXgmi_ZRSuszroWi.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>When we started working on the concept of &quot;behavior&quot;, we wanted to try and make agents really good at getting a11y right. We put a lot of thought into how the UI SDK behaviors handle and verify accessible interfaces.<br><br>So, when you ask your agent to build interfaces with UI SDK,</p>]]></description>
     </item>
     <item>
       <title>Apple logos 2026</title>
@@ -1589,22 +1605,6 @@
       <pubDate>Tue, 03 Nov 2026 12:26:34 GMT</pubDate>
       <author>@avstorm</author>
       <description><![CDATA[<p>iPhone X reveal</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2117594057698344961/img/TqZXnvJs4UrB1cOq.jpg" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>@anikrisn explores the rest of the bounding box story, including the trade-offs:</title>
-      <link>https://x.com/tldraw/status/2117588628042072151</link>
-      <guid isPermaLink="true">https://x.com/tldraw/status/2117588628042072151</guid>
-      <pubDate>Tue, 03 Nov 2026 12:04:06 GMT</pubDate>
-      <author>@tldraw</author>
-      <description><![CDATA[<p>@anikrisn explores the rest of the bounding box story, including the trade-offs:</p>]]></description>
-    </item>
-    <item>
-      <title>What angle should the selection box be when every shape is rotated differently? No single angle makes sense,</title>
-      <link>https://x.com/tldraw/status/2117588616180564106</link>
-      <guid isPermaLink="true">https://x.com/tldraw/status/2117588616180564106</guid>
-      <pubDate>Tue, 03 Nov 2026 12:04:03 GMT</pubDate>
-      <author>@tldraw</author>
-      <description><![CDATA[<p>What angle should the selection box be when every shape is rotated differently?<br><br>No single angle makes sense, so tldraw falls back to a plain axis-aligned box.<br><br>It’s a small edge case, but we thought about it a lot when deciding how to build our bounding boxes.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2117588604369453057/img/pPnLWaBPi5qEizMw.jpg" alt=""></p>]]></description>
     </item>
   </channel>
 </rss>

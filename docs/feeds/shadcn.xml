@@ -13,6 +13,22 @@
     </image>
     <ttl>120</ttl>
     <item>
+      <title>If you&apos;re building UI with @solid_js, try UI SDK. We built it for Solid 2.0. Follow the link</title>
+      <link>https://x.com/shadcn/status/2123132082042151332</link>
+      <guid isPermaLink="true">https://x.com/shadcn/status/2123132082042151332</guid>
+      <pubDate>Wed, 18 Nov 2026 19:11:48 GMT</pubDate>
+      <author>@shadcn</author>
+      <description><![CDATA[<p>If you&apos;re building UI with @solid_js, try UI SDK. We built it for Solid 2.0. Follow the link below and copy the prompt to your agents.<br><br>https://ui-sdk.dev/docs/solid</p><p><img src="https://pbs.twimg.com/media/HXWT_UHbgAAan8j?format=jpg&amp;name=small" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>We put a LOT of work designing the behaviors. Give it a try. They are pretty cool.</title>
+      <link>https://x.com/shadcn/status/2123126831423651852</link>
+      <guid isPermaLink="true">https://x.com/shadcn/status/2123126831423651852</guid>
+      <pubDate>Wed, 18 Nov 2026 18:50:57 GMT</pubDate>
+      <author>@shadcn</author>
+      <description><![CDATA[<p>We put a LOT of work designing the behaviors. Give it a try. They are pretty cool.</p>]]></description>
+    </item>
+    <item>
       <title>Media post</title>
       <link>https://x.com/shadcn/status/2123035042175959407</link>
       <guid isPermaLink="true">https://x.com/shadcn/status/2123035042175959407</guid>
@@ -98,7 +114,7 @@
       <guid isPermaLink="true">https://x.com/shadcn/status/2121612451200307648</guid>
       <pubDate>Sat, 14 Nov 2026 14:33:20 GMT</pubDate>
       <author>@shadcn</author>
-      <description><![CDATA[<p>SPEC-01 just dropped.</p>]]></description>
+      <description><![CDATA[<p>SPEC-01 just dropped.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2121603224897761280/img/RvQL7P34fB03oVPC.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>I’m seeing some incredibly amazing things being built with the UI SDK. Keep them coming.</title>
@@ -138,7 +154,7 @@
       <guid isPermaLink="true">https://x.com/shadcn/status/2121210951961641451</guid>
       <pubDate>Fri, 13 Nov 2026 11:57:55 GMT</pubDate>
       <author>@shadcn</author>
-      <description><![CDATA[<p>When we started working on the concept of &quot;behavior&quot;, we wanted to try and make agents really good at getting a11y right. We put a lot of thought into how the UI SDK behaviors handle and verify accessible interfaces.<br><br>So, when you ask your agent to build interfaces with UI SDK,</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2121210380030545920/img/IXgmi_ZRSuszroWi.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>When we started working on the concept of &quot;behavior&quot;, we wanted to try and make agents really good at getting a11y right. We put a lot of thought into how the UI SDK behaviors handle and verify accessible interfaces.<br><br>So, when you ask your agent to build interfaces with UI SDK,</p>]]></description>
     </item>
     <item>
       <title>Thank you @benjamincanac for the Vue/Nuxt support.</title>
@@ -795,22 +811,6 @@
       <pubDate>Wed, 09 Sep 2026 05:02:19 GMT</pubDate>
       <author>@shadcn</author>
       <description><![CDATA[<p>I haven&apos;t tried Omarchy yet (waiting for M support) but man &quot;We&apos;ll fix everything&quot; what a line. I can absolutely get behind this.</p>]]></description>
-    </item>
-    <item>
-      <title>Split screen. Favorite feature.</title>
-      <link>https://x.com/shadcn/status/2097137031474286595</link>
-      <guid isPermaLink="true">https://x.com/shadcn/status/2097137031474286595</guid>
-      <pubDate>Tue, 08 Sep 2026 01:36:45 GMT</pubDate>
-      <author>@shadcn</author>
-      <description><![CDATA[<p>Split screen. Favorite feature.</p>]]></description>
-    </item>
-    <item>
-      <title>having your own personal component library is insanely useful for agentic coding start with shadcn/ui. ask your agent</title>
-      <link>https://x.com/shadcn/status/2097011536367931596</link>
-      <guid isPermaLink="true">https://x.com/shadcn/status/2097011536367931596</guid>
-      <pubDate>Mon, 07 Sep 2026 17:18:05 GMT</pubDate>
-      <author>@shadcn</author>
-      <description><![CDATA[<p>having your own personal component library is insanely useful for agentic coding<br><br>start with shadcn/ui. ask your agent to customize the components. they’re really good at it.<br><br>then every project starts with: <br><br>npx shadcn init name/repo<br><br>your components. your defaults. every time.</p>]]></description>
     </item>
   </channel>
 </rss>
