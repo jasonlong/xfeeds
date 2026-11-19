@@ -7,6 +7,38 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>I had the displeasure of being introduced as a “fan of design” today</title>
+      <link>https://x.com/almonk/status/2123502684070392256</link>
+      <guid isPermaLink="true">https://x.com/almonk/status/2123502684070392256</guid>
+      <pubDate>Thu, 19 Nov 2026 19:44:27 GMT</pubDate>
+      <author>@almonk</author>
+      <description><![CDATA[<p>I had the displeasure of being introduced as a “fan of design” today</p>]]></description>
+    </item>
+    <item>
+      <title>we’ll hang this in the first @superlogical studio</title>
+      <link>https://x.com/almonk/status/2123502411516203264</link>
+      <guid isPermaLink="true">https://x.com/almonk/status/2123502411516203264</guid>
+      <pubDate>Thu, 19 Nov 2026 19:43:22 GMT</pubDate>
+      <author>@almonk</author>
+      <description><![CDATA[<p>we’ll hang this in the first @superlogical studio</p>]]></description>
+    </item>
+    <item>
+      <title>I shared a terminal specification proposal with a group of people today including people working on Claude Code</title>
+      <link>https://x.com/mitchellh/status/2123499707867766977</link>
+      <guid isPermaLink="true">https://x.com/mitchellh/status/2123499707867766977</guid>
+      <pubDate>Thu, 19 Nov 2026 19:32:37 GMT</pubDate>
+      <author>@mitchellh</author>
+      <description><![CDATA[<p>I shared a terminal specification proposal with a group of people today including people working on Claude Code and totally forgot its their IPO day so this is the current status of Slack.</p><p><img src="https://pbs.twimg.com/media/HXgvLzZawAAnJnm?format=jpg&amp;name=small" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>Media post</title>
+      <link>https://x.com/avstorm/status/2123492143105012030</link>
+      <guid isPermaLink="true">https://x.com/avstorm/status/2123492143105012030</guid>
+      <pubDate>Thu, 19 Nov 2026 19:02:34 GMT</pubDate>
+      <author>@avstorm</author>
+      <description><![CDATA[<p></p>]]></description>
+    </item>
+    <item>
       <title>A very warm welcome to @GoodnotesApp, the latest tldraw SDK customer! @stevenchan built Goodnotes as a student, launched</title>
       <link>https://x.com/tldraw/status/2123490758540062921</link>
       <guid isPermaLink="true">https://x.com/tldraw/status/2123490758540062921</guid>
@@ -172,7 +204,7 @@
       <guid isPermaLink="true">https://x.com/avstorm/status/2123057619715977440</guid>
       <pubDate>Wed, 18 Nov 2026 14:15:55 GMT</pubDate>
       <author>@avstorm</author>
-      <description><![CDATA[<p>Meet the 2026 App Store Award finalists<br><br>https://apple.com/newsroom/2026/11/meet-the-2026-app-store-award-finalists…</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2123057517500518400/img/owrmkVtKX-rOfZLU.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Meet the 2026 App Store Award finalists<br><br>https://apple.com/newsroom/2026/11/meet-the-2026-app-store-award-finalists…</p>]]></description>
     </item>
     <item>
       <title>this is also my ad for @paper i guess</title>
@@ -292,7 +324,7 @@
       <guid isPermaLink="true">https://x.com/shadcn/status/2122764933226197406</guid>
       <pubDate>Tue, 17 Nov 2026 18:52:53 GMT</pubDate>
       <author>@shadcn</author>
-      <description><![CDATA[<p>This is a really good video on how we&apos;re building UI SDK to be agent-first by @orcdev</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2122701704529432577/img/HJZEUqCWHXXjX_Yu.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>This is a really good video on how we&apos;re building UI SDK to be agent-first by @orcdev</p>]]></description>
     </item>
     <item>
       <title>The header on the GPT-6.2 Astra and Sol announcement page is 🔥</title>
@@ -324,7 +356,7 @@
       <guid isPermaLink="true">https://x.com/mitchellh/status/2122731286175580550</guid>
       <pubDate>Tue, 17 Nov 2026 16:39:11 GMT</pubDate>
       <author>@mitchellh</author>
-      <description><![CDATA[<p>The Rex for Windows alpha begins today! I think this is a better terminal than Windows Terminal, and I think WT is pretty good. Nick did an amazing job here, I think you’re about to feel one of the snappiest, most beautifully rendered Windows apps ever. <br><br>This is all Nicks</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2122714417162825728/img/xhBXuBm0KyCxDnki.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>The Rex for Windows alpha begins today! I think this is a better terminal than Windows Terminal, and I think WT is pretty good. Nick did an amazing job here, I think you’re about to feel one of the snappiest, most beautifully rendered Windows apps ever. <br><br>This is all Nicks</p>]]></description>
     </item>
     <item>
       <title>👋 @wesbos</title>
@@ -396,7 +428,7 @@
       <guid isPermaLink="true">https://x.com/mitchellh/status/2122464126240989217</guid>
       <pubDate>Mon, 16 Nov 2026 22:57:35 GMT</pubDate>
       <author>@mitchellh</author>
-      <description><![CDATA[<p>Rex demo time: magical and automatic remote copy/paste, drag/drop, and port forwarding (e.g. open web servers running on remote machines in your local browser). Plus, showcasing some of the internal plumbing that powers this and how you can hook into it with Lua scripting.<br><br>Our</p>]]></description>
+      <description><![CDATA[<p>Rex demo time: magical and automatic remote copy/paste, drag/drop, and port forwarding (e.g. open web servers running on remote machines in your local browser). Plus, showcasing some of the internal plumbing that powers this and how you can hook into it with Lua scripting.<br><br>Our</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2122463229016502272/img/4CF0IV6Xgrr7z1Ft.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>macOS 27.3 Beta 2 adds a new lock animation to the Full Disk Access and App Protection settings.</title>
@@ -492,7 +524,7 @@
       <guid isPermaLink="true">https://x.com/avstorm/status/2122408441700556884</guid>
       <pubDate>Mon, 16 Nov 2026 19:16:19 GMT</pubDate>
       <author>@avstorm</author>
-      <description><![CDATA[<p>New iPhone Duo Face Recognition animations in iOS 27.3 Beta 2.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2122406998423597056/img/PRWewdePSpFYaU0G.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>New iPhone Duo Face Recognition animations in iOS 27.3 Beta 2.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2122406991586897920/img/HjAy-WSy06dqAauE.jpg" alt=""></p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2122406998423597056/img/PRWewdePSpFYaU0G.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Good morning! Today @paper launches Remote MCP This may change the industry forever. Use Paper anywhere you work:</title>
@@ -660,7 +692,7 @@
       <guid isPermaLink="true">https://x.com/avstorm/status/2121515197810573377</guid>
       <pubDate>Sat, 14 Nov 2026 08:06:53 GMT</pubDate>
       <author>@avstorm</author>
-      <description><![CDATA[<p></p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2121515144475770880/img/OVWmtX4a7VvLqCpy.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p></p>]]></description>
     </item>
     <item>
       <title>I’m seeing some incredibly amazing things being built with the UI SDK. Keep them coming.</title>
@@ -700,7 +732,7 @@
       <guid isPermaLink="true">https://x.com/avstorm/status/2121306461607477450</guid>
       <pubDate>Fri, 13 Nov 2026 18:17:27 GMT</pubDate>
       <author>@avstorm</author>
-      <description><![CDATA[<p>The classic Mac startup vibe in the HomeView setup sound is awesome.</p>]]></description>
+      <description><![CDATA[<p>The classic Mac startup vibe in the HomeView setup sound is awesome.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2121306143955795968/img/GMOh99nQ0qRkYuw9.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>The annual Lord of the Rings rewatch. It’s time. Back to Middle-earth.</title>
@@ -892,7 +924,7 @@
       <guid isPermaLink="true">https://x.com/avstorm/status/2120837781786370447</guid>
       <pubDate>Thu, 12 Nov 2026 11:15:05 GMT</pubDate>
       <author>@avstorm</author>
-      <description><![CDATA[<p>Apple’s annual holiday film is here.<br><br>Sometimes all it takes to remember what makes us special, is someone who believes in us.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2120836580000579584/img/kCkZZDdX8rmoKn5k.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Apple’s annual holiday film is here.<br><br>Sometimes all it takes to remember what makes us special, is someone who believes in us.</p>]]></description>
     </item>
     <item>
       <title>Featuring iPhone 3GS White</title>
@@ -988,7 +1020,7 @@
       <guid isPermaLink="true">https://x.com/avstorm/status/2120520611319730205</guid>
       <pubDate>Wed, 11 Nov 2026 14:14:45 GMT</pubDate>
       <author>@avstorm</author>
-      <description><![CDATA[<p>Behind the scenes of the Polestar Formula 2030 design.</p>]]></description>
+      <description><![CDATA[<p>Behind the scenes of the Polestar Formula 2030 design.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2120520318418591744/img/R9DEz3xQ8cOTLnrn.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Unexpected new app available in App Store. Enjoy 🕹️</title>
@@ -1532,7 +1564,7 @@
       <guid isPermaLink="true">https://x.com/mitchellh/status/2118352046906867927</guid>
       <pubDate>Thu, 05 Nov 2026 14:37:39 GMT</pubDate>
       <author>@mitchellh</author>
-      <description><![CDATA[<p>Surprise! We have a gorgeous, high quality windows client. We’ve been waiting to share until we have a relatively complete (but still pre alpha) client here, but we’re getting ready to start external testing. Hello, Windows.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2118321201424572416/img/5Vc6LJAZJ8bZNPAm.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Surprise! We have a gorgeous, high quality windows client. We’ve been waiting to share until we have a relatively complete (but still pre alpha) client here, but we’re getting ready to start external testing. Hello, Windows.</p>]]></description>
     </item>
     <item>
       <title>our goal for Rex clients from the start was to build the most magical terminal app and to</title>
@@ -1573,38 +1605,6 @@
       <pubDate>Thu, 05 Nov 2026 05:09:53 GMT</pubDate>
       <author>@shadcn</author>
       <description><![CDATA[<p>My 2027 @t3dotcodes prediction: drop the Code. Just T3.</p>]]></description>
-    </item>
-    <item>
-      <title>gave a talk at @aiDotEngineer shanghai about about a question i keep coming back to: when we can</title>
-      <link>https://x.com/ryolu_/status/2118207967728451760</link>
-      <guid isPermaLink="true">https://x.com/ryolu_/status/2118207967728451760</guid>
-      <pubDate>Thu, 05 Nov 2026 05:05:08 GMT</pubDate>
-      <author>@ryolu_</author>
-      <description><![CDATA[<p>gave a talk at @aiDotEngineer shanghai about about a question i keep coming back to: when we can make anything, do we still know what we want?<br><br>i want tools that help us find our own answers, not skip the process of forming them. not just more output, but more room to think,</p><p><img src="https://pbs.twimg.com/media/HWVZQxdaoAA8qK_?format=jpg&amp;name=small" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>extremely off the cuff demo of my backlog combing tui for Rex. I handoff simple bug fixes and</title>
-      <link>https://x.com/almonk/status/2118072403763048950</link>
-      <guid isPermaLink="true">https://x.com/almonk/status/2118072403763048950</guid>
-      <pubDate>Wed, 04 Nov 2026 20:06:27 GMT</pubDate>
-      <author>@almonk</author>
-      <description><![CDATA[<p>extremely off the cuff demo of my backlog combing tui for Rex. I handoff simple bug fixes and other issues that don&apos;t need discussion to agents to implement a draft pr. It&apos;s integrated with Rex so that all work happens on my homeserver, each ticket gets a new session, each agent</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2118067279220912128/img/idcu8Q8eNxHmAGCN.jpg" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>since they started @pierrecomputer have been the ultimate company inspo for me. so happy to see them bring</title>
-      <link>https://x.com/almonk/status/2118014967370940629</link>
-      <guid isPermaLink="true">https://x.com/almonk/status/2118014967370940629</guid>
-      <pubDate>Wed, 04 Nov 2026 16:18:13 GMT</pubDate>
-      <author>@almonk</author>
-      <description><![CDATA[<p>since they started @pierrecomputer have been the ultimate company inspo for me. so happy to see them bring the energy to @OpenAI</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2117998774412832769/img/UQdWE3BBn4mW1W9I.jpg" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>Congrats to Pierre! I have many great friends that work there and I’m so happy for them. I’m</title>
-      <link>https://x.com/mitchellh/status/2118012675582280038</link>
-      <guid isPermaLink="true">https://x.com/mitchellh/status/2118012675582280038</guid>
-      <pubDate>Wed, 04 Nov 2026 16:09:07 GMT</pubDate>
-      <author>@mitchellh</author>
-      <description><![CDATA[<p>Congrats to Pierre! I have many great friends that work there and I’m so happy for them. I’m also a minor investor so I’m happy for myself. LOL.</p>]]></description>
     </item>
   </channel>
 </rss>
