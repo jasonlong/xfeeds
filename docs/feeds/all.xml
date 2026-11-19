@@ -7,6 +7,30 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>Watch the full video here:</title>
+      <link>https://x.com/paper/status/2123542050813714520</link>
+      <guid isPermaLink="true">https://x.com/paper/status/2123542050813714520</guid>
+      <pubDate>Thu, 19 Nov 2026 22:20:53 GMT</pubDate>
+      <author>@paper</author>
+      <description><![CDATA[<p>Watch the full video here:</p>]]></description>
+    </item>
+    <item>
+      <title>Did you see that Paper shipped support for Cloud Agents this week? Check out this tutorial from @harcourttt</title>
+      <link>https://x.com/paper/status/2123542010024050756</link>
+      <guid isPermaLink="true">https://x.com/paper/status/2123542010024050756</guid>
+      <pubDate>Thu, 19 Nov 2026 22:20:43 GMT</pubDate>
+      <author>@paper</author>
+      <description><![CDATA[<p>Did you see that Paper shipped support for Cloud Agents this week?<br><br>Check out this tutorial from @harcourttt on how to get the most from Paper&apos;s remote MCP<br><br>Design from any agent, any place, any time</p><p><img src="https://pbs.twimg.com/media/HXhV63UasAA0DIM?format=jpg&amp;name=small" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>Thumbs? Nailed.</title>
+      <link>https://x.com/paper/status/2123538750080962602</link>
+      <guid isPermaLink="true">https://x.com/paper/status/2123538750080962602</guid>
+      <pubDate>Thu, 19 Nov 2026 22:07:46 GMT</pubDate>
+      <author>@paper</author>
+      <description><![CDATA[<p>Thumbs? Nailed.</p><p><img src="https://pbs.twimg.com/media/HXgp18hXkAAemR8?format=jpg&amp;name=small" alt=""></p>]]></description>
+    </item>
+    <item>
       <title>This is super cool, and exposes a recently shipped feature I&apos;ve been meaning to share: Rex now works</title>
       <link>https://x.com/mitchellh/status/2123516770812387809</link>
       <guid isPermaLink="true">https://x.com/mitchellh/status/2123516770812387809</guid>
@@ -164,7 +188,7 @@
       <guid isPermaLink="true">https://x.com/almonk/status/2123164848070561829</guid>
       <pubDate>Wed, 18 Nov 2026 21:22:00 GMT</pubDate>
       <author>@almonk</author>
-      <description><![CDATA[<p>as an aside I built the slides here in @paper with Claude in about 7 minutes. i fucking love the future.</p>]]></description>
+      <description><![CDATA[<p>as an aside I built the slides here in @paper with Claude in about 7 minutes. i fucking love the future.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2123043561985765377/img/ExjNTsFbWc870vHz.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>As a student of design tools, this feels historic In Ramp&apos;s spend data, Paper passed Sketch in adoption</title>
@@ -236,7 +260,7 @@
       <guid isPermaLink="true">https://x.com/almonk/status/2123044473873588226</guid>
       <pubDate>Wed, 18 Nov 2026 13:23:41 GMT</pubDate>
       <author>@almonk</author>
-      <description><![CDATA[<p>posted this into our Rex discord today... the new `𝚛𝚎𝚡.𝚞𝚒` primitives provides a new set of simple but powerful methods to build interactive scripts within Rex that require user interaction.<br><br>Now you can build the workflow of your dreams, that little action you always wanted</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2123043561985765377/img/ExjNTsFbWc870vHz.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>posted this into our Rex discord today... the new `𝚛𝚎𝚡.𝚞𝚒` primitives provides a new set of simple but powerful methods to build interactive scripts within Rex that require user interaction.<br><br>Now you can build the workflow of your dreams, that little action you always wanted</p>]]></description>
     </item>
     <item>
       <title>Media post</title>
@@ -340,7 +364,7 @@
       <guid isPermaLink="true">https://x.com/shadcn/status/2122764933226197406</guid>
       <pubDate>Tue, 17 Nov 2026 18:52:53 GMT</pubDate>
       <author>@shadcn</author>
-      <description><![CDATA[<p>This is a really good video on how we&apos;re building UI SDK to be agent-first by @orcdev</p>]]></description>
+      <description><![CDATA[<p>This is a really good video on how we&apos;re building UI SDK to be agent-first by @orcdev</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2122701704529432577/img/HJZEUqCWHXXjX_Yu.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>The header on the GPT-6.2 Astra and Sol announcement page is 🔥</title>
@@ -1076,7 +1100,7 @@
       <guid isPermaLink="true">https://x.com/paper/status/2120300315836817547</guid>
       <pubDate>Tue, 10 Nov 2026 23:39:23 GMT</pubDate>
       <author>@paper</author>
-      <description><![CDATA[<p>The progress never stops</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2120154008870682624/img/bicUMDYtY-2ibaK6.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>The progress never stops</p>]]></description>
     </item>
     <item>
       <title>this ain&apos;t me but it could be you</title>
@@ -1581,30 +1605,6 @@
       <pubDate>Thu, 05 Nov 2026 14:37:39 GMT</pubDate>
       <author>@mitchellh</author>
       <description><![CDATA[<p>Surprise! We have a gorgeous, high quality windows client. We’ve been waiting to share until we have a relatively complete (but still pre alpha) client here, but we’re getting ready to start external testing. Hello, Windows.</p>]]></description>
-    </item>
-    <item>
-      <title>our goal for Rex clients from the start was to build the most magical terminal app and to</title>
-      <link>https://x.com/almonk/status/2118322504175390881</link>
-      <guid isPermaLink="true">https://x.com/almonk/status/2118322504175390881</guid>
-      <pubDate>Thu, 05 Nov 2026 12:40:16 GMT</pubDate>
-      <author>@almonk</author>
-      <description><![CDATA[<p>our goal for Rex clients from the start was to build the most magical terminal app and to make it feel native on every platform. to me that doesn’t mean porting the same UI around. it means embracing the norms and quirks of each platform, so the app feels at home on your system</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2118321201424572416/img/5Vc6LJAZJ8bZNPAm.jpg" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>You can now leave a comment straight from the right-click menu.</title>
-      <link>https://x.com/tldraw/status/2118312687512047816</link>
-      <guid isPermaLink="true">https://x.com/tldraw/status/2118312687512047816</guid>
-      <pubDate>Thu, 05 Nov 2026 12:01:15 GMT</pubDate>
-      <author>@tldraw</author>
-      <description><![CDATA[<p>You can now leave a comment straight from the right-click menu.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2118312629907365888/img/HRPZT2L9gNTfatoA.jpg" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>One design goal for Rex is “make any machine in the world feel like my local machine”</title>
-      <link>https://x.com/almonk/status/2118274210459996488</link>
-      <guid isPermaLink="true">https://x.com/almonk/status/2118274210459996488</guid>
-      <pubDate>Thu, 05 Nov 2026 09:28:22 GMT</pubDate>
-      <author>@almonk</author>
-      <description><![CDATA[<p>One design goal for Rex is “make any machine in the world feel like my local machine”</p>]]></description>
     </item>
   </channel>
 </rss>
