@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+  <channel>
+    <title>Shu Ding / @shuding</title>
+    <description>Recent X posts collected for @shuding</description>
+    <link>https://x.com/shuding</link>
+    <atom:link href="https://jasonlong.github.io/xfeeds/feeds/shuding.xml" rel="self" type="application/rss+xml"/>
+    <webfeeds:icon>https://pbs.twimg.com/profile_images/1653342726966980608/qNCeG9WK_200x200.jpg</webfeeds:icon>
+    <image>
+      <url>https://pbs.twimg.com/profile_images/1653342726966980608/qNCeG9WK_200x200.jpg</url>
+      <title>Shu Ding / @shuding</title>
+      <link>https://x.com/shuding</link>
+    </image>
+    <ttl>120</ttl>
+    <item>
+      <title>If you’re wondering what UI SDK behaviors look like in real components, we’ve put together some examples you</title>
+      <link>https://x.com/shuding/status/2123414608413364579</link>
+      <guid isPermaLink="true">https://x.com/shuding/status/2123414608413364579</guid>
+      <pubDate>Thu, 19 Nov 2026 13:54:28 GMT</pubDate>
+      <author>@shuding</author>
+      <description><![CDATA[<p>If you’re wondering what UI SDK behaviors look like in real components, we’ve put together some examples you can try:<br><br>https://ui-sdk.dev/sink</p><p><img src="https://pbs.twimg.com/media/HXfiONgaEAAK-3Y.jpg" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>Books that keep coming back to me</title>
+      <link>https://x.com/shuding/status/2123123695602553081</link>
+      <guid isPermaLink="true">https://x.com/shuding/status/2123123695602553081</guid>
+      <pubDate>Wed, 18 Nov 2026 18:38:29 GMT</pubDate>
+      <author>@shuding</author>
+      <description><![CDATA[<p>Books that keep coming back to me</p><p><img src="https://pbs.twimg.com/media/HXbZvQvbUAABlFJ?format=jpg&amp;name=small" alt=""></p><p><img src="https://pbs.twimg.com/media/HXbZvR0acAE0FSx?format=jpg&amp;name=small" alt=""></p><p><img src="https://pbs.twimg.com/media/HXbZvQyaYAA1zss?format=jpg&amp;name=small" alt=""></p><p><img src="https://pbs.twimg.com/media/HXbZvRDbMAExZpM?format=jpg&amp;name=small" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>Langs with &gt;5% accuracy improvements this time: cmake, rust (95~100%) hlsl, docker, powershell, make, coffeescript, wasm, wgsl (90~95%)</title>
+      <link>https://x.com/shuding/status/2123018153899049300</link>
+      <guid isPermaLink="true">https://x.com/shuding/status/2123018153899049300</guid>
+      <pubDate>Wed, 18 Nov 2026 11:39:06 GMT</pubDate>
+      <author>@shuding</author>
+      <description><![CDATA[<p>Langs with &gt;5% accuracy improvements this time:<br><br>cmake, rust (95~100%)<br>hlsl, docker, powershell, make, coffeescript, wasm, wgsl (90~95%)<br>haxe, bat, objective-c, less, nim (80~90%)</p>]]></description>
+    </item>
+    <item>
+      <title>gpu-lexer@v0.0.6 Top 25 lang accuracy: 92.20% → 93.88% Size: 28.5KB → 30.3KB Time for three.min.js (×10): 220.5ms →</title>
+      <link>https://x.com/shuding/status/2123004359114146137</link>
+      <guid isPermaLink="true">https://x.com/shuding/status/2123004359114146137</guid>
+      <pubDate>Wed, 18 Nov 2026 10:44:17 GMT</pubDate>
+      <author>@shuding</author>
+      <description><![CDATA[<p>gpu-lexer@v0.0.6<br><br>Top 25 lang accuracy: 92.20% → 93.88%<br>Size: 28.5KB → 30.3KB<br>Time for three.min.js (×10): 220.5ms → 187.0ms</p><p><img src="https://pbs.twimg.com/media/HXJz68yaUAAACbd?format=jpg&amp;name=small" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>If you see a failing case feel free to create an issue on https://github.com/vercel-labs/gpu-lexer…, and I will try</title>
+      <link>https://x.com/shuding/status/2121887418370679012</link>
+      <guid isPermaLink="true">https://x.com/shuding/status/2121887418370679012</guid>
+      <pubDate>Sun, 15 Nov 2026 08:45:57 GMT</pubDate>
+      <author>@shuding</author>
+      <description><![CDATA[<p>If you see a failing case feel free to create an issue on https://github.com/vercel-labs/gpu-lexer…, and I will try to fine tune!</p>]]></description>
+    </item>
+    <item>
+      <title>Retrained GPU Lexer (https://gpu-lexer.vercel.app) and published v0.0.5. Top 25 weighted language accuracy increased from 86.77% to 92.20% now:</title>
+      <link>https://x.com/shuding/status/2121885837562695808</link>
+      <guid isPermaLink="true">https://x.com/shuding/status/2121885837562695808</guid>
+      <pubDate>Sun, 15 Nov 2026 08:39:41 GMT</pubDate>
+      <author>@shuding</author>
+      <description><![CDATA[<p>Retrained GPU Lexer (https://gpu-lexer.vercel.app) and published v0.0.5. Top 25 weighted language accuracy increased from 86.77% to 92.20% now:</p><p><img src="https://pbs.twimg.com/media/HXJz68yaUAAACbd?format=jpg&amp;name=small" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>Why UI SDK? I spent 99% of my time only polishing the feel: the look, sound, haptics, words.</title>
+      <link>https://x.com/shuding/status/2121609462293409941</link>
+      <guid isPermaLink="true">https://x.com/shuding/status/2121609462293409941</guid>
+      <pubDate>Sat, 14 Nov 2026 14:21:28 GMT</pubDate>
+      <author>@shuding</author>
+      <description><![CDATA[<p>Why UI SDK?<br><br>I spent 99% of my time only polishing the feel: the look, sound, haptics, words. Agents handled the code.<br><br>The components worked perfectly, plus great accessibility, aria labels, announcements, and full keyboard control. These all came for free with UI SDK.</p><p><img src="https://pbs.twimg.com/media/HXFzS2kbQAAgHSg?format=png&amp;name=small" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>SPEC-01/HARDWARE Themed components built with @Vercel UI SDK https://spec-01.vercel.app Sound on</title>
+      <link>https://x.com/shuding/status/2121609458325594188</link>
+      <guid isPermaLink="true">https://x.com/shuding/status/2121609458325594188</guid>
+      <pubDate>Sat, 14 Nov 2026 14:21:27 GMT</pubDate>
+      <author>@shuding</author>
+      <description><![CDATA[<p>SPEC-01/HARDWARE<br><br>Themed components built with @Vercel UI SDK<br>https://spec-01.vercel.app<br><br>Sound on</p>]]></description>
+    </item>
+    <item>
+      <title>There are tons of details like that in UI SDK, to make you &amp; your agent ship better</title>
+      <link>https://x.com/shuding/status/2121248198157390155</link>
+      <guid isPermaLink="true">https://x.com/shuding/status/2121248198157390155</guid>
+      <pubDate>Fri, 13 Nov 2026 14:25:55 GMT</pubDate>
+      <author>@shuding</author>
+      <description><![CDATA[<p>There are tons of details like that in UI SDK, to make you &amp; your agent ship better components. Will share more over time!</p>]]></description>
+    </item>
+    <item>
+      <title>One small detail of UI SDK that we’ve put a lot of effort into, to make it more</title>
+      <link>https://x.com/shuding/status/2121164265931579823</link>
+      <guid isPermaLink="true">https://x.com/shuding/status/2121164265931579823</guid>
+      <pubDate>Fri, 13 Nov 2026 08:52:24 GMT</pubDate>
+      <author>@shuding</author>
+      <description><![CDATA[<p>One small detail of UI SDK that we’ve put a lot of effort into, to make it more accessible:<br><br>A `findable` option to make native search (Ctrl/Cmd+F) work with virtualized lists. Works in both Safari and Chrome.<br><br>https://ui-sdk.dev/docs/core/behaviors/lists#find-in-page…</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2121161743993114624/img/AleRHzEosyDoKOwf.jpg" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>@shadcn is truly a visionary, and it’s been a pleasure to collaborate with him and @benjamincanac on this</title>
+      <link>https://x.com/shuding/status/2121005856145957076</link>
+      <guid isPermaLink="true">https://x.com/shuding/status/2121005856145957076</guid>
+      <pubDate>Thu, 12 Nov 2026 22:22:57 GMT</pubDate>
+      <author>@shuding</author>
+      <description><![CDATA[<p>@shadcn is truly a visionary, and it’s been a pleasure to collaborate with him and @benjamincanac on this project.</p>]]></description>
+    </item>
+    <item>
+      <title>UI behaviors → we’re here + Stateful coordination → element logic + React/Vue/Svelte/… → components + Tailwind/StyleX/… →</title>
+      <link>https://x.com/shuding/status/2121004607732384042</link>
+      <guid isPermaLink="true">https://x.com/shuding/status/2121004607732384042</guid>
+      <pubDate>Thu, 12 Nov 2026 22:17:59 GMT</pubDate>
+      <author>@shuding</author>
+      <description><![CDATA[<p>UI behaviors → we’re here<br>+ Stateful coordination → element logic<br>+ React/Vue/Svelte/… → components <br>+ Tailwind/StyleX/… → design systems<br><br>Lower level, accessible, atomic units. Faster to build systems on top with focus on your design.<br><br>The periodic table of UIs.</p>]]></description>
+    </item>
+    <item>
+      <title>One day you wake up and see this in your DM</title>
+      <link>https://x.com/shuding/status/2120925705622151675</link>
+      <guid isPermaLink="true">https://x.com/shuding/status/2120925705622151675</guid>
+      <pubDate>Thu, 12 Nov 2026 17:04:27 GMT</pubDate>
+      <author>@shuding</author>
+      <description><![CDATA[<p>One day you wake up and see this in your DM</p><p><img src="https://pbs.twimg.com/media/HW8Kr6MbwAADZ5r?format=jpg&amp;name=small" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>I asked @bot to go through my original post’s replies and quotes to see the savings: ~9.49 MB,</title>
+      <link>https://x.com/shuding/status/2117979016816963760</link>
+      <guid isPermaLink="true">https://x.com/shuding/status/2117979016816963760</guid>
+      <pubDate>Wed, 04 Nov 2026 13:55:22 GMT</pubDate>
+      <author>@shuding</author>
+      <description><![CDATA[<p>I asked @bot to go through my original post’s replies and quotes to see the savings: ~9.49 MB, avg -79%, for these 12 sites!</p><p><img src="https://pbs.twimg.com/media/HWSQqlZbMAEjk1t?format=png&amp;name=small" alt=""></p><p><img src="https://pbs.twimg.com/media/HV0FoA_bYAAw2VB?format=png&amp;name=240x240" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>While I thought it’s fast enough, Vercel:</title>
+      <link>https://x.com/shuding/status/2117540513603883057</link>
+      <guid isPermaLink="true">https://x.com/shuding/status/2117540513603883057</guid>
+      <pubDate>Tue, 03 Nov 2026 08:52:55 GMT</pubDate>
+      <author>@shuding</author>
+      <description><![CDATA[<p>While I thought it’s fast enough, Vercel:</p><p><img src="https://pbs.twimg.com/media/HWMDwr7b0AAVNDF?format=jpg&amp;name=small" alt=""></p><p><img src="https://pbs.twimg.com/media/G9L25t1bgAEzrIj?format=jpg&amp;name=240x240" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>● ■ ▲ ♥</title>
+      <link>https://x.com/shuding/status/2116196639765569894</link>
+      <guid isPermaLink="true">https://x.com/shuding/status/2116196639765569894</guid>
+      <pubDate>Fri, 30 Oct 2026 15:52:50 GMT</pubDate>
+      <author>@shuding</author>
+      <description><![CDATA[<p>● ■ ▲ ♥</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2116195240159916032/img/2GDe9k19XeDKvOiy.jpg" alt=""></p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2116179269168902144/img/xhLt0-x8ilRpHmWm?format=jpg&amp;name=120x120" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>Before/after for https://shud.in (3G network, no cache, intentionally no swap):</title>
+      <link>https://x.com/shuding/status/2115855035452281039</link>
+      <guid isPermaLink="true">https://x.com/shuding/status/2115855035452281039</guid>
+      <pubDate>Thu, 29 Oct 2026 17:15:25 GMT</pubDate>
+      <author>@shuding</author>
+      <description><![CDATA[<p>Before/after for https://shud.in (3G network, no cache, intentionally no swap):</p>]]></description>
+    </item>
+    <item>
+      <title>Tell your agent to optimize your site’s web fonts. I’m seeing a huge difference on my blog. Full</title>
+      <link>https://x.com/shuding/status/2115855028737200211</link>
+      <guid isPermaLink="true">https://x.com/shuding/status/2115855028737200211</guid>
+      <pubDate>Thu, 29 Oct 2026 17:15:24 GMT</pubDate>
+      <author>@shuding</author>
+      <description><![CDATA[<p>Tell your agent to optimize your site’s web fonts. I’m seeing a huge difference on my blog.<br><br>Full prompt:<br><br>Make this site&apos;s web fonts load faster without changing how anything looks. Shrink font bytes as far as possible, keep rendering identical, and prove it with before/after</p><p><img src="https://pbs.twimg.com/media/HV0FoA_bYAAw2VB?format=png&amp;name=small" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>*The dashboard is compiled once as a straight list of 2,608 operations with no branches or loops, following</title>
+      <link>https://x.com/shuding/status/2115082816123973728</link>
+      <guid isPermaLink="true">https://x.com/shuding/status/2115082816123973728</guid>
+      <pubDate>Tue, 27 Oct 2026 14:06:54 GMT</pubDate>
+      <author>@shuding</author>
+      <description><![CDATA[<p>*The dashboard is compiled once as a straight list of 2,608 operations with no branches or loops, following the approach of Handwired. Every JS operation is now a weighted sum, a product, a ReLU, or a step function.</p><p><img src="https://pbs.twimg.com/media/HVoEMIaagAAZzpq?format=jpg&amp;name=small" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>UI and math time! UI = f(props) is the most famous line in React. But that f is</title>
+      <link>https://x.com/shuding/status/2115082810738479363</link>
+      <guid isPermaLink="true">https://x.com/shuding/status/2115082810738479363</guid>
+      <pubDate>Tue, 27 Oct 2026 14:06:53 GMT</pubDate>
+      <author>@shuding</author>
+      <description><![CDATA[<p>UI and math time! UI = f(props) is the most famous line in React. But that f is JavaScript, not math.<br><br>Inspired by @_chenglou’s Handwired project, I compiled a &lt;Dashboard/&gt; component into a real math function, and asked what becomes possible.<br><br>https://calculus-of-interfaces.vercel.app</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2115003734799552512/img/B3p_B8_mwnwGyjmz.jpg" alt=""></p>]]></description>
+    </item>
+  </channel>
+</rss>

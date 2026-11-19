@@ -31,6 +31,14 @@
       <description><![CDATA[<p>More AI video tools are moving onto a canvas. Love to see how @ltx_io is using it to map out scenes, angles, and shots before any video gets generated.<br><br>Disney’s story artists figured this out with pins and a wall in the 1930s. Good ideas come back around.</p><p><img src="https://pbs.twimg.com/media/HXfyQXOaEAEeTEF?format=jpg&amp;name=small" alt=""></p>]]></description>
     </item>
     <item>
+      <title>If you’re wondering what UI SDK behaviors look like in real components, we’ve put together some examples you</title>
+      <link>https://x.com/shuding/status/2123414608413364579</link>
+      <guid isPermaLink="true">https://x.com/shuding/status/2123414608413364579</guid>
+      <pubDate>Thu, 19 Nov 2026 13:54:28 GMT</pubDate>
+      <author>@shuding</author>
+      <description><![CDATA[<p>If you’re wondering what UI SDK behaviors look like in real components, we’ve put together some examples you can try:<br><br>https://ui-sdk.dev/sink</p><p><img src="https://pbs.twimg.com/media/HXfiONgaEAAK-3Y.jpg" alt=""></p>]]></description>
+    </item>
+    <item>
       <title>Beautiful 🙌</title>
       <link>https://x.com/zerocam_app/status/2123372429607063655</link>
       <guid isPermaLink="true">https://x.com/zerocam_app/status/2123372429607063655</guid>
@@ -103,6 +111,14 @@
       <description><![CDATA[<p>We put a LOT of work designing the behaviors. Give it a try. They are pretty cool.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2123121550840705026/img/t0JOeJhF4fz8rmvk.jpg" alt=""></p>]]></description>
     </item>
     <item>
+      <title>Books that keep coming back to me</title>
+      <link>https://x.com/shuding/status/2123123695602553081</link>
+      <guid isPermaLink="true">https://x.com/shuding/status/2123123695602553081</guid>
+      <pubDate>Wed, 18 Nov 2026 18:38:29 GMT</pubDate>
+      <author>@shuding</author>
+      <description><![CDATA[<p>Books that keep coming back to me</p><p><img src="https://pbs.twimg.com/media/HXbZvQvbUAABlFJ?format=jpg&amp;name=small" alt=""></p><p><img src="https://pbs.twimg.com/media/HXbZvR0acAE0FSx?format=jpg&amp;name=small" alt=""></p><p><img src="https://pbs.twimg.com/media/HXbZvQyaYAA1zss?format=jpg&amp;name=small" alt=""></p><p><img src="https://pbs.twimg.com/media/HXbZvRDbMAExZpM?format=jpg&amp;name=small" alt=""></p>]]></description>
+    </item>
+    <item>
       <title>It feels pretty special to see something you’ve worked on nominated for iPhone App of the Year and</title>
       <link>https://x.com/avstorm/status/2123087412117291202</link>
       <guid isPermaLink="true">https://x.com/avstorm/status/2123087412117291202</guid>
@@ -157,6 +173,22 @@
       <pubDate>Wed, 18 Nov 2026 12:45:48 GMT</pubDate>
       <author>@shadcn</author>
       <description><![CDATA[<p>Alright let&apos;s talk about how we&apos;re building @uisdk to be agent-first.<br><br>UI SDK has first-class WebMCP support. UI built with the SDK comes with its own tools. Agents read your components and call their actions directly. No screenshots. No clicking around.<br><br>In our benchmark: ~50%</p><p><img src="https://pbs.twimg.com/media/HXaIoAhbUAA_QK7?format=jpg&amp;name=small" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>Langs with &gt;5% accuracy improvements this time: cmake, rust (95~100%) hlsl, docker, powershell, make, coffeescript, wasm, wgsl (90~95%)</title>
+      <link>https://x.com/shuding/status/2123018153899049300</link>
+      <guid isPermaLink="true">https://x.com/shuding/status/2123018153899049300</guid>
+      <pubDate>Wed, 18 Nov 2026 11:39:06 GMT</pubDate>
+      <author>@shuding</author>
+      <description><![CDATA[<p>Langs with &gt;5% accuracy improvements this time:<br><br>cmake, rust (95~100%)<br>hlsl, docker, powershell, make, coffeescript, wasm, wgsl (90~95%)<br>haxe, bat, objective-c, less, nim (80~90%)</p>]]></description>
+    </item>
+    <item>
+      <title>gpu-lexer@v0.0.6 Top 25 lang accuracy: 92.20% → 93.88% Size: 28.5KB → 30.3KB Time for three.min.js (×10): 220.5ms →</title>
+      <link>https://x.com/shuding/status/2123004359114146137</link>
+      <guid isPermaLink="true">https://x.com/shuding/status/2123004359114146137</guid>
+      <pubDate>Wed, 18 Nov 2026 10:44:17 GMT</pubDate>
+      <author>@shuding</author>
+      <description><![CDATA[<p>gpu-lexer@v0.0.6<br><br>Top 25 lang accuracy: 92.20% → 93.88%<br>Size: 28.5KB → 30.3KB<br>Time for three.min.js (×10): 220.5ms → 187.0ms</p><p><img src="https://pbs.twimg.com/media/HXJz68yaUAAACbd?format=jpg&amp;name=small" alt=""></p>]]></description>
     </item>
     <item>
       <title>zerocam 7 soon on App Store</title>
@@ -519,6 +551,22 @@
       <description><![CDATA[<p>This is a great overview of Rex right now and the multiplexer for all work we’re building. Regardless of Rex, a great exercise in illustrative design and storytelling.</p>]]></description>
     </item>
     <item>
+      <title>If you see a failing case feel free to create an issue on https://github.com/vercel-labs/gpu-lexer…, and I will try</title>
+      <link>https://x.com/shuding/status/2121887418370679012</link>
+      <guid isPermaLink="true">https://x.com/shuding/status/2121887418370679012</guid>
+      <pubDate>Sun, 15 Nov 2026 08:45:57 GMT</pubDate>
+      <author>@shuding</author>
+      <description><![CDATA[<p>If you see a failing case feel free to create an issue on https://github.com/vercel-labs/gpu-lexer…, and I will try to fine tune!</p>]]></description>
+    </item>
+    <item>
+      <title>Retrained GPU Lexer (https://gpu-lexer.vercel.app) and published v0.0.5. Top 25 weighted language accuracy increased from 86.77% to 92.20% now:</title>
+      <link>https://x.com/shuding/status/2121885837562695808</link>
+      <guid isPermaLink="true">https://x.com/shuding/status/2121885837562695808</guid>
+      <pubDate>Sun, 15 Nov 2026 08:39:41 GMT</pubDate>
+      <author>@shuding</author>
+      <description><![CDATA[<p>Retrained GPU Lexer (https://gpu-lexer.vercel.app) and published v0.0.5. Top 25 weighted language accuracy increased from 86.77% to 92.20% now:</p><p><img src="https://pbs.twimg.com/media/HXJz68yaUAAACbd?format=jpg&amp;name=small" alt=""></p>]]></description>
+    </item>
+    <item>
       <title>👉 @uisdk</title>
       <link>https://x.com/shadcn/status/2121843747076157765</link>
       <guid isPermaLink="true">https://x.com/shadcn/status/2121843747076157765</guid>
@@ -557,6 +605,22 @@
       <pubDate>Sat, 14 Nov 2026 14:33:20 GMT</pubDate>
       <author>@shadcn</author>
       <description><![CDATA[<p>SPEC-01 just dropped.</p>]]></description>
+    </item>
+    <item>
+      <title>Why UI SDK? I spent 99% of my time only polishing the feel: the look, sound, haptics, words.</title>
+      <link>https://x.com/shuding/status/2121609462293409941</link>
+      <guid isPermaLink="true">https://x.com/shuding/status/2121609462293409941</guid>
+      <pubDate>Sat, 14 Nov 2026 14:21:28 GMT</pubDate>
+      <author>@shuding</author>
+      <description><![CDATA[<p>Why UI SDK?<br><br>I spent 99% of my time only polishing the feel: the look, sound, haptics, words. Agents handled the code.<br><br>The components worked perfectly, plus great accessibility, aria labels, announcements, and full keyboard control. These all came for free with UI SDK.</p><p><img src="https://pbs.twimg.com/media/HXFzS2kbQAAgHSg?format=png&amp;name=small" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>SPEC-01/HARDWARE Themed components built with @Vercel UI SDK https://spec-01.vercel.app Sound on</title>
+      <link>https://x.com/shuding/status/2121609458325594188</link>
+      <guid isPermaLink="true">https://x.com/shuding/status/2121609458325594188</guid>
+      <pubDate>Sat, 14 Nov 2026 14:21:27 GMT</pubDate>
+      <author>@shuding</author>
+      <description><![CDATA[<p>SPEC-01/HARDWARE<br><br>Themed components built with @Vercel UI SDK<br>https://spec-01.vercel.app<br><br>Sound on</p>]]></description>
     </item>
     <item>
       <title>Media post</title>
@@ -623,6 +687,14 @@
       <description><![CDATA[<p>Most of the work deciding what goes into a video takes place before it ever reaches a timeline. It happens in a notepad, a shot list, a folder of screenshots with arrows drawn on them.<br><br>More and more, it happens on a canvas.<br><br>Here are six examples, from previz to post:</p>]]></description>
     </item>
     <item>
+      <title>There are tons of details like that in UI SDK, to make you &amp; your agent ship better</title>
+      <link>https://x.com/shuding/status/2121248198157390155</link>
+      <guid isPermaLink="true">https://x.com/shuding/status/2121248198157390155</guid>
+      <pubDate>Fri, 13 Nov 2026 14:25:55 GMT</pubDate>
+      <author>@shuding</author>
+      <description><![CDATA[<p>There are tons of details like that in UI SDK, to make you &amp; your agent ship better components. Will share more over time!</p>]]></description>
+    </item>
+    <item>
       <title>Today we’re introducing UI SDK. Agents are becoming both the builders and the users of interfaces. So we</title>
       <link>https://x.com/shadcn/status/2121220191912710338</link>
       <guid isPermaLink="true">https://x.com/shadcn/status/2121220191912710338</guid>
@@ -647,12 +719,36 @@
       <description><![CDATA[<p>When we started working on the concept of &quot;behavior&quot;, we wanted to try and make agents really good at getting a11y right. We put a lot of thought into how the UI SDK behaviors handle and verify accessible interfaces.<br><br>So, when you ask your agent to build interfaces with UI SDK,</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2121210380030545920/img/IXgmi_ZRSuszroWi.jpg" alt=""></p>]]></description>
     </item>
     <item>
+      <title>One small detail of UI SDK that we’ve put a lot of effort into, to make it more</title>
+      <link>https://x.com/shuding/status/2121164265931579823</link>
+      <guid isPermaLink="true">https://x.com/shuding/status/2121164265931579823</guid>
+      <pubDate>Fri, 13 Nov 2026 08:52:24 GMT</pubDate>
+      <author>@shuding</author>
+      <description><![CDATA[<p>One small detail of UI SDK that we’ve put a lot of effort into, to make it more accessible:<br><br>A `findable` option to make native search (Ctrl/Cmd+F) work with virtualized lists. Works in both Safari and Chrome.<br><br>https://ui-sdk.dev/docs/core/behaviors/lists#find-in-page…</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2121161743993114624/img/AleRHzEosyDoKOwf.jpg" alt=""></p>]]></description>
+    </item>
+    <item>
       <title>Apple logos 2026</title>
       <link>https://x.com/avstorm/status/2121162696976662619</link>
       <guid isPermaLink="true">https://x.com/avstorm/status/2121162696976662619</guid>
       <pubDate>Fri, 13 Nov 2026 08:46:10 GMT</pubDate>
       <author>@avstorm</author>
       <description><![CDATA[<p>Apple logos 2026</p><p><img src="https://pbs.twimg.com/media/HW_h7A-W8AAaSfi?format=jpg&amp;name=360x360" alt=""></p><p><img src="https://pbs.twimg.com/media/HW_h7BCWEAAeZac?format=jpg&amp;name=360x360" alt=""></p><p><img src="https://pbs.twimg.com/media/HW_h7DoXEAAYUsx?format=jpg&amp;name=360x360" alt=""></p><p><img src="https://pbs.twimg.com/media/HW_h7BAXIAAbCtX?format=jpg&amp;name=360x360" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>@shadcn is truly a visionary, and it’s been a pleasure to collaborate with him and @benjamincanac on this</title>
+      <link>https://x.com/shuding/status/2121005856145957076</link>
+      <guid isPermaLink="true">https://x.com/shuding/status/2121005856145957076</guid>
+      <pubDate>Thu, 12 Nov 2026 22:22:57 GMT</pubDate>
+      <author>@shuding</author>
+      <description><![CDATA[<p>@shadcn is truly a visionary, and it’s been a pleasure to collaborate with him and @benjamincanac on this project.</p>]]></description>
+    </item>
+    <item>
+      <title>UI behaviors → we’re here + Stateful coordination → element logic + React/Vue/Svelte/… → components + Tailwind/StyleX/… →</title>
+      <link>https://x.com/shuding/status/2121004607732384042</link>
+      <guid isPermaLink="true">https://x.com/shuding/status/2121004607732384042</guid>
+      <pubDate>Thu, 12 Nov 2026 22:17:59 GMT</pubDate>
+      <author>@shuding</author>
+      <description><![CDATA[<p>UI behaviors → we’re here<br>+ Stateful coordination → element logic<br>+ React/Vue/Svelte/… → components <br>+ Tailwind/StyleX/… → design systems<br><br>Lower level, accessible, atomic units. Faster to build systems on top with focus on your design.<br><br>The periodic table of UIs.</p>]]></description>
     </item>
     <item>
       <title>Thanks for the Pi love @ivanrvpereira</title>
@@ -725,6 +821,14 @@
       <pubDate>Thu, 12 Nov 2026 17:34:24 GMT</pubDate>
       <author>@avstorm</author>
       <description><![CDATA[<p>On this day in 2020, macOS Big Sur arrived and all app icons got a uniform shape.</p>]]></description>
+    </item>
+    <item>
+      <title>One day you wake up and see this in your DM</title>
+      <link>https://x.com/shuding/status/2120925705622151675</link>
+      <guid isPermaLink="true">https://x.com/shuding/status/2120925705622151675</guid>
+      <pubDate>Thu, 12 Nov 2026 17:04:27 GMT</pubDate>
+      <author>@shuding</author>
+      <description><![CDATA[<p>One day you wake up and see this in your DM</p><p><img src="https://pbs.twimg.com/media/HW8Kr6MbwAADZ5r?format=jpg&amp;name=small" alt=""></p>]]></description>
     </item>
     <item>
       <title>Meet the artist behind the artwork. @HEBRUBRANTLEY</title>
@@ -1487,124 +1591,20 @@
       <description><![CDATA[<p>We’re thrilled to welcome @Aries on board as our newest SDK customer!<br><br>Aries used the tldraw SDK to rethink trading. Instead of building a wall of monitors, Aries Infinite provides a borderless space where traders can drag live charts, order entry, news, and video onto one canvas</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2117980465193967616/img/KjlaLAnDMSq8dphH.jpg" alt=""></p>]]></description>
     </item>
     <item>
+      <title>I asked @bot to go through my original post’s replies and quotes to see the savings: ~9.49 MB,</title>
+      <link>https://x.com/shuding/status/2117979016816963760</link>
+      <guid isPermaLink="true">https://x.com/shuding/status/2117979016816963760</guid>
+      <pubDate>Wed, 04 Nov 2026 13:55:22 GMT</pubDate>
+      <author>@shuding</author>
+      <description><![CDATA[<p>I asked @bot to go through my original post’s replies and quotes to see the savings: ~9.49 MB, avg -79%, for these 12 sites!</p><p><img src="https://pbs.twimg.com/media/HWSQqlZbMAEjk1t?format=png&amp;name=small" alt=""></p><p><img src="https://pbs.twimg.com/media/HV0FoA_bYAAw2VB?format=png&amp;name=240x240" alt=""></p>]]></description>
+    </item>
+    <item>
       <title>Apple’s new Live Rewind sound and icon animation.</title>
       <link>https://x.com/avstorm/status/2117946352168501757</link>
       <guid isPermaLink="true">https://x.com/avstorm/status/2117946352168501757</guid>
       <pubDate>Wed, 04 Nov 2026 11:45:34 GMT</pubDate>
       <author>@avstorm</author>
       <description><![CDATA[<p>Apple’s new Live Rewind sound and icon animation.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2117945768237494272/img/sikpGsciZeinYN32.jpg" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>c&apos;mon I know Opus has been out for a while. But what we call &quot;taste&quot; is not something</title>
-      <link>https://x.com/shadcn/status/2117933775871168893</link>
-      <guid isPermaLink="true">https://x.com/shadcn/status/2117933775871168893</guid>
-      <pubDate>Wed, 04 Nov 2026 10:55:36 GMT</pubDate>
-      <author>@shadcn</author>
-      <description><![CDATA[<p>c&apos;mon I know Opus has been out for a while. But what we call &quot;taste&quot; is not something you can benchmark the next day or week. It takes time. It takes a lot of prompting and product building.</p>]]></description>
-    </item>
-    <item>
-      <title>Media post</title>
-      <link>https://x.com/heliumbrowser/status/2117932385933181344</link>
-      <guid isPermaLink="true">https://x.com/heliumbrowser/status/2117932385933181344</guid>
-      <pubDate>Wed, 04 Nov 2026 10:50:04 GMT</pubDate>
-      <author>@heliumbrowser</author>
-      <description><![CDATA[<p></p>]]></description>
-    </item>
-    <item>
-      <title>helium was one of top open source projects on github in 2026 :D</title>
-      <link>https://x.com/heliumbrowser/status/2117932380388241846</link>
-      <guid isPermaLink="true">https://x.com/heliumbrowser/status/2117932380388241846</guid>
-      <pubDate>Wed, 04 Nov 2026 10:50:03 GMT</pubDate>
-      <author>@heliumbrowser</author>
-      <description><![CDATA[<p>helium was one of top open source projects on github in 2026 :D</p><p><img src="https://pbs.twimg.com/media/HWRoRRBWIAAFGVx?format=jpg&amp;name=small" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>Media post</title>
-      <link>https://x.com/shadcn/status/2117869775065882794</link>
-      <guid isPermaLink="true">https://x.com/shadcn/status/2117869775065882794</guid>
-      <pubDate>Wed, 04 Nov 2026 06:41:17 GMT</pubDate>
-      <author>@shadcn</author>
-      <description><![CDATA[<p></p><p><img src="https://pbs.twimg.com/media/HWQvUZWWcAE6pmJ?format=jpg&amp;name=small" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>We&apos;ve been waiting for this. Opus 5.5 is the first model with &quot;taste&quot;. They did it.</title>
-      <link>https://x.com/shadcn/status/2117856245101019250</link>
-      <guid isPermaLink="true">https://x.com/shadcn/status/2117856245101019250</guid>
-      <pubDate>Wed, 04 Nov 2026 05:47:31 GMT</pubDate>
-      <author>@shadcn</author>
-      <description><![CDATA[<p>We&apos;ve been waiting for this. Opus 5.5 is the first model with &quot;taste&quot;. They did it.</p>]]></description>
-    </item>
-    <item>
-      <title>please</title>
-      <link>https://x.com/AREdotNA/status/2117831413646913776</link>
-      <guid isPermaLink="true">https://x.com/AREdotNA/status/2117831413646913776</guid>
-      <pubDate>Wed, 04 Nov 2026 04:08:51 GMT</pubDate>
-      <author>@AREdotNA</author>
-      <description><![CDATA[<p>please</p>]]></description>
-    </item>
-    <item>
-      <title>Everyone is an expert on mach tuck and the aerodynamic effects of icing now I guess. Their stated</title>
-      <link>https://x.com/mitchellh/status/2117748713275973991</link>
-      <guid isPermaLink="true">https://x.com/mitchellh/status/2117748713275973991</guid>
-      <pubDate>Tue, 03 Nov 2026 22:40:13 GMT</pubDate>
-      <author>@mitchellh</author>
-      <description><![CDATA[<p>Everyone is an expert on mach tuck and the aerodynamic effects of icing now I guess. Their stated qualifications are that they&apos;ve been Delta Platinum Medallion for 8 years and got to shake hands with the pilot one time. Alright.</p>]]></description>
-    </item>
-    <item>
-      <title>As a pilot*, I find it really fucking annoying that every non-qualified Dunning-Krugered armchair critic comes out for</title>
-      <link>https://x.com/mitchellh/status/2117746615670939751</link>
-      <guid isPermaLink="true">https://x.com/mitchellh/status/2117746615670939751</guid>
-      <pubDate>Tue, 03 Nov 2026 22:31:53 GMT</pubDate>
-      <author>@mitchellh</author>
-      <description><![CDATA[<p>As a pilot*, I find it really fucking annoying that every non-qualified Dunning-Krugered armchair critic comes out for every aviation accident to provide their uneducated and often embarrassingly wrong takes on aviation in general. Even I refrain, and I&apos;m more qualified than</p>]]></description>
-    </item>
-    <item>
-      <title>StandBy mode watch face transitions in iOS 27.3 Beta 1</title>
-      <link>https://x.com/avstorm/status/2117744664346247248</link>
-      <guid isPermaLink="true">https://x.com/avstorm/status/2117744664346247248</guid>
-      <pubDate>Tue, 03 Nov 2026 22:24:08 GMT</pubDate>
-      <author>@avstorm</author>
-      <description><![CDATA[<p>StandBy mode watch face transitions in iOS 27.3 Beta 1</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2117744034319839232/img/mOgwVXIyUZhX8BMB.jpg" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>is this a fever dream</title>
-      <link>https://x.com/AREdotNA/status/2117741831207461290</link>
-      <guid isPermaLink="true">https://x.com/AREdotNA/status/2117741831207461290</guid>
-      <pubDate>Tue, 03 Nov 2026 22:12:52 GMT</pubDate>
-      <author>@AREdotNA</author>
-      <description><![CDATA[<p>is this a fever dream</p>]]></description>
-    </item>
-    <item>
-      <title>Music SF Symbols (old vs. new)</title>
-      <link>https://x.com/avstorm/status/2117739606514848037</link>
-      <guid isPermaLink="true">https://x.com/avstorm/status/2117739606514848037</guid>
-      <pubDate>Tue, 03 Nov 2026 22:04:02 GMT</pubDate>
-      <author>@avstorm</author>
-      <description><![CDATA[<p>Music SF Symbols (old vs. new)</p><p><img src="https://pbs.twimg.com/media/HWO4Ee2WgAAaKLj?format=png&amp;name=small" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>this is not a big deal at all, its totally fine</title>
-      <link>https://x.com/AREdotNA/status/2117731129683738823</link>
-      <guid isPermaLink="true">https://x.com/AREdotNA/status/2117731129683738823</guid>
-      <pubDate>Tue, 03 Nov 2026 21:30:21 GMT</pubDate>
-      <author>@AREdotNA</author>
-      <description><![CDATA[<p>this is not a big deal at all, its totally fine</p>]]></description>
-    </item>
-    <item>
-      <title>Media post</title>
-      <link>https://x.com/avstorm/status/2117727668724478353</link>
-      <guid isPermaLink="true">https://x.com/avstorm/status/2117727668724478353</guid>
-      <pubDate>Tue, 03 Nov 2026 21:16:36 GMT</pubDate>
-      <author>@avstorm</author>
-      <description><![CDATA[<p></p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2117727553855070208/img/a_sp3MNjU-U8B9oJ.jpg" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>look what they did to my boy</title>
-      <link>https://x.com/tldraw/status/2117719646661177638</link>
-      <guid isPermaLink="true">https://x.com/tldraw/status/2117719646661177638</guid>
-      <pubDate>Tue, 03 Nov 2026 20:44:43 GMT</pubDate>
-      <author>@tldraw</author>
-      <description><![CDATA[<p>look what they did to my boy</p><p><img src="https://pbs.twimg.com/media/HWHJoDubAAAnih0?format=jpg&amp;name=small" alt=""></p>]]></description>
     </item>
   </channel>
 </rss>
