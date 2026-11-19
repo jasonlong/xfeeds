@@ -13,6 +13,14 @@
     </image>
     <ttl>120</ttl>
     <item>
+      <title>This is super cool, and exposes a recently shipped feature I&apos;ve been meaning to share: Rex now works</title>
+      <link>https://x.com/mitchellh/status/2123516770812387809</link>
+      <guid isPermaLink="true">https://x.com/mitchellh/status/2123516770812387809</guid>
+      <pubDate>Thu, 19 Nov 2026 20:40:25 GMT</pubDate>
+      <author>@mitchellh</author>
+      <description><![CDATA[<p>This is super cool, and exposes a recently shipped feature I&apos;ve been meaning to share: Rex now works across SSH, including one command to install over SSH: `rex server install ssh://&lt;address&gt;` and then you&apos;re up and running! Works in all our clients too.</p>]]></description>
+    </item>
+    <item>
       <title>I shared a terminal specification proposal with a group of people today including people working on Claude Code</title>
       <link>https://x.com/mitchellh/status/2123499707867766977</link>
       <guid isPermaLink="true">https://x.com/mitchellh/status/2123499707867766977</guid>
@@ -58,7 +66,7 @@
       <guid isPermaLink="true">https://x.com/mitchellh/status/2122464126240989217</guid>
       <pubDate>Mon, 16 Nov 2026 22:57:35 GMT</pubDate>
       <author>@mitchellh</author>
-      <description><![CDATA[<p>Rex demo time: magical and automatic remote copy/paste, drag/drop, and port forwarding (e.g. open web servers running on remote machines in your local browser). Plus, showcasing some of the internal plumbing that powers this and how you can hook into it with Lua scripting.<br><br>Our</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2122463229016502272/img/4CF0IV6Xgrr7z1Ft.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Rex demo time: magical and automatic remote copy/paste, drag/drop, and port forwarding (e.g. open web servers running on remote machines in your local browser). Plus, showcasing some of the internal plumbing that powers this and how you can hook into it with Lua scripting.<br><br>Our</p>]]></description>
     </item>
     <item>
       <title>Appreciate it! I think I speak for everyone at Superlogical that we’re tired of software that feels like</title>
