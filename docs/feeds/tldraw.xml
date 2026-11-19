@@ -13,6 +13,14 @@
     </image>
     <ttl>120</ttl>
     <item>
+      <title>A very warm welcome to @GoodnotesApp, the latest tldraw SDK customer! @stevenchan built Goodnotes as a student, launched</title>
+      <link>https://x.com/tldraw/status/2123490758540062921</link>
+      <guid isPermaLink="true">https://x.com/tldraw/status/2123490758540062921</guid>
+      <pubDate>Thu, 19 Nov 2026 18:57:04 GMT</pubDate>
+      <author>@tldraw</author>
+      <description><![CDATA[<p>A very warm welcome to @GoodnotesApp, the latest tldraw SDK customer!<br><br>@stevenchan built Goodnotes as a student, launched it in 2011 and ran it alone for five years. 25M+ people now use it monthly, and we’re excited to help as the team builds the @GoodSystemsHQ productivity OS.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2123490745692938240/img/qfneC_0948-1H9is.jpg" alt=""></p>]]></description>
+    </item>
+    <item>
       <title>We looked at six stages of video production where canvases are already showing up: storyboarding, sketching, node pipelines,</title>
       <link>https://x.com/tldraw/status/2123432131976425891</link>
       <guid isPermaLink="true">https://x.com/tldraw/status/2123432131976425891</guid>
@@ -106,7 +114,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2120850107793129851</guid>
       <pubDate>Thu, 12 Nov 2026 12:04:03 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>We&apos;re thrilled to welcome Tooning on board as our newest SDK customer!<br><br>Tooning used the tldraw SDK to rethink how webtoons get made. Instead of drawing every panel by hand, Tooning Plus lets anyone write a story with AI, pose characters in 3D, and lay out whole episodes on one</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2120850094979448832/img/rHs4DxrdDE1P6ag3.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>We&apos;re thrilled to welcome Tooning on board as our newest SDK customer!<br><br>Tooning used the tldraw SDK to rethink how webtoons get made. Instead of drawing every panel by hand, Tooning Plus lets anyone write a story with AI, pose characters in 3D, and lay out whole episodes on one</p>]]></description>
     </item>
     <item>
       <title>We’ll be in New York next week for @thejsnation, @ReactSummit and @AICodingSummit! Catch us in the expo hall</title>
@@ -803,14 +811,6 @@
       <pubDate>Wed, 30 Sep 2026 20:34:18 GMT</pubDate>
       <author>@tldraw</author>
       <description><![CDATA[<p></p>]]></description>
-    </item>
-    <item>
-      <title>This month we sent off our most expensive AI agent to find bugs and inconsistencies in the tldraw</title>
-      <link>https://x.com/tldraw/status/2105357270523724237</link>
-      <guid isPermaLink="true">https://x.com/tldraw/status/2105357270523724237</guid>
-      <pubDate>Wed, 30 Sep 2026 18:01:03 GMT</pubDate>
-      <author>@tldraw</author>
-      <description><![CDATA[<p>This month we sent off our most expensive AI agent to find bugs and inconsistencies in the tldraw SDK. We’ve spent the last month working through the findings, many of which were rare and special, some of which were even impossible to perform alone.</p>]]></description>
     </item>
   </channel>
 </rss>

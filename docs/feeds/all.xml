@@ -7,6 +7,14 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>A very warm welcome to @GoodnotesApp, the latest tldraw SDK customer! @stevenchan built Goodnotes as a student, launched</title>
+      <link>https://x.com/tldraw/status/2123490758540062921</link>
+      <guid isPermaLink="true">https://x.com/tldraw/status/2123490758540062921</guid>
+      <pubDate>Thu, 19 Nov 2026 18:57:04 GMT</pubDate>
+      <author>@tldraw</author>
+      <description><![CDATA[<p>A very warm welcome to @GoodnotesApp, the latest tldraw SDK customer!<br><br>@stevenchan built Goodnotes as a student, launched it in 2011 and ran it alone for five years. 25M+ people now use it monthly, and we’re excited to help as the team builds the @GoodSystemsHQ productivity OS.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2123490745692938240/img/qfneC_0948-1H9is.jpg" alt=""></p>]]></description>
+    </item>
+    <item>
       <title>Media post</title>
       <link>https://x.com/shadcn/status/2123473769369047102</link>
       <guid isPermaLink="true">https://x.com/shadcn/status/2123473769369047102</guid>
@@ -876,7 +884,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2120850107793129851</guid>
       <pubDate>Thu, 12 Nov 2026 12:04:03 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>We&apos;re thrilled to welcome Tooning on board as our newest SDK customer!<br><br>Tooning used the tldraw SDK to rethink how webtoons get made. Instead of drawing every panel by hand, Tooning Plus lets anyone write a story with AI, pose characters in 3D, and lay out whole episodes on one</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2120850094979448832/img/rHs4DxrdDE1P6ag3.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>We&apos;re thrilled to welcome Tooning on board as our newest SDK customer!<br><br>Tooning used the tldraw SDK to rethink how webtoons get made. Instead of drawing every panel by hand, Tooning Plus lets anyone write a story with AI, pose characters in 3D, and lay out whole episodes on one</p>]]></description>
     </item>
     <item>
       <title>Apple’s annual holiday film is here. Sometimes all it takes to remember what makes us special, is someone</title>
@@ -1597,14 +1605,6 @@
       <pubDate>Wed, 04 Nov 2026 16:09:07 GMT</pubDate>
       <author>@mitchellh</author>
       <description><![CDATA[<p>Congrats to Pierre! I have many great friends that work there and I’m so happy for them. I’m also a minor investor so I’m happy for myself. LOL.</p>]]></description>
-    </item>
-    <item>
-      <title>We’re thrilled to welcome @Aries on board as our newest SDK customer! Aries used the tldraw SDK to</title>
-      <link>https://x.com/tldraw/status/2117987475603730510</link>
-      <guid isPermaLink="true">https://x.com/tldraw/status/2117987475603730510</guid>
-      <pubDate>Wed, 04 Nov 2026 14:28:59 GMT</pubDate>
-      <author>@tldraw</author>
-      <description><![CDATA[<p>We’re thrilled to welcome @Aries on board as our newest SDK customer!<br><br>Aries used the tldraw SDK to rethink trading. Instead of building a wall of monitors, Aries Infinite provides a borderless space where traders can drag live charts, order entry, news, and video onto one canvas</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2117980465193967616/img/KjlaLAnDMSq8dphH.jpg" alt=""></p>]]></description>
     </item>
   </channel>
 </rss>
