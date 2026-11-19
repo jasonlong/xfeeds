@@ -13,6 +13,14 @@
     </image>
     <ttl>120</ttl>
     <item>
+      <title>Gemini is pretty big outside the X bubble. I see a lot of people defaulting from Google Search</title>
+      <link>https://x.com/shadcn/status/2123334518669033843</link>
+      <guid isPermaLink="true">https://x.com/shadcn/status/2123334518669033843</guid>
+      <pubDate>Thu, 19 Nov 2026 08:36:13 GMT</pubDate>
+      <author>@shadcn</author>
+      <description><![CDATA[<p>Gemini is pretty big outside the X bubble. I see a lot of people defaulting from Google Search (and other services like docs) to Gemini.</p><p><img src="https://pbs.twimg.com/media/HXb9c3sbEAA9-y7?format=png&amp;name=small" alt=""></p>]]></description>
+    </item>
+    <item>
       <title>If you&apos;re building UI with @solid_js, try UI SDK. We built it for Solid 2.0. Follow the link</title>
       <link>https://x.com/shadcn/status/2123132082042151332</link>
       <guid isPermaLink="true">https://x.com/shadcn/status/2123132082042151332</guid>
@@ -26,7 +34,7 @@
       <guid isPermaLink="true">https://x.com/shadcn/status/2123126831423651852</guid>
       <pubDate>Wed, 18 Nov 2026 18:50:57 GMT</pubDate>
       <author>@shadcn</author>
-      <description><![CDATA[<p>We put a LOT of work designing the behaviors. Give it a try. They are pretty cool.</p>]]></description>
+      <description><![CDATA[<p>We put a LOT of work designing the behaviors. Give it a try. They are pretty cool.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2123121550840705026/img/t0JOeJhF4fz8rmvk.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Media post</title>
@@ -58,7 +66,7 @@
       <guid isPermaLink="true">https://x.com/shadcn/status/2122764933226197406</guid>
       <pubDate>Tue, 17 Nov 2026 18:52:53 GMT</pubDate>
       <author>@shadcn</author>
-      <description><![CDATA[<p>This is a really good video on how we&apos;re building UI SDK to be agent-first by @orcdev</p>]]></description>
+      <description><![CDATA[<p>This is a really good video on how we&apos;re building UI SDK to be agent-first by @orcdev</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2122701704529432577/img/HJZEUqCWHXXjX_Yu.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>👀</title>
@@ -114,7 +122,7 @@
       <guid isPermaLink="true">https://x.com/shadcn/status/2121612451200307648</guid>
       <pubDate>Sat, 14 Nov 2026 14:33:20 GMT</pubDate>
       <author>@shadcn</author>
-      <description><![CDATA[<p>SPEC-01 just dropped.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2121603224897761280/img/RvQL7P34fB03oVPC.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>SPEC-01 just dropped.</p>]]></description>
     </item>
     <item>
       <title>I’m seeing some incredibly amazing things being built with the UI SDK. Keep them coming.</title>
@@ -154,7 +162,7 @@
       <guid isPermaLink="true">https://x.com/shadcn/status/2121210951961641451</guid>
       <pubDate>Fri, 13 Nov 2026 11:57:55 GMT</pubDate>
       <author>@shadcn</author>
-      <description><![CDATA[<p>When we started working on the concept of &quot;behavior&quot;, we wanted to try and make agents really good at getting a11y right. We put a lot of thought into how the UI SDK behaviors handle and verify accessible interfaces.<br><br>So, when you ask your agent to build interfaces with UI SDK,</p>]]></description>
+      <description><![CDATA[<p>When we started working on the concept of &quot;behavior&quot;, we wanted to try and make agents really good at getting a11y right. We put a lot of thought into how the UI SDK behaviors handle and verify accessible interfaces.<br><br>So, when you ask your agent to build interfaces with UI SDK,</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2121210380030545920/img/IXgmi_ZRSuszroWi.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Thank you @benjamincanac for the Vue/Nuxt support.</title>
@@ -803,14 +811,6 @@
       <pubDate>Wed, 09 Sep 2026 17:31:48 GMT</pubDate>
       <author>@shadcn</author>
       <description><![CDATA[<p>Let me know if the new iPhone goes like this.</p>]]></description>
-    </item>
-    <item>
-      <title>I haven&apos;t tried Omarchy yet (waiting for M support) but man &quot;We&apos;ll fix everything&quot; what a line. I</title>
-      <link>https://x.com/shadcn/status/2097551148618064314</link>
-      <guid isPermaLink="true">https://x.com/shadcn/status/2097551148618064314</guid>
-      <pubDate>Wed, 09 Sep 2026 05:02:19 GMT</pubDate>
-      <author>@shadcn</author>
-      <description><![CDATA[<p>I haven&apos;t tried Omarchy yet (waiting for M support) but man &quot;We&apos;ll fix everything&quot; what a line. I can absolutely get behind this.</p>]]></description>
     </item>
   </channel>
 </rss>
