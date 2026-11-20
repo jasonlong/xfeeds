@@ -14,6 +14,22 @@
     <ttl>120</ttl>
     <item>
       <title>Media post</title>
+      <link>https://x.com/shadcn/status/2123813709047087254</link>
+      <guid isPermaLink="true">https://x.com/shadcn/status/2123813709047087254</guid>
+      <pubDate>Fri, 20 Nov 2026 16:20:21 GMT</pubDate>
+      <author>@shadcn</author>
+      <description><![CDATA[<p></p>]]></description>
+    </item>
+    <item>
+      <title>How we&apos;re building UI SDK to be agent-first, part 3: We&apos;ve built in observability and history. Every change</title>
+      <link>https://x.com/shadcn/status/2123813706396205232</link>
+      <guid isPermaLink="true">https://x.com/shadcn/status/2123813706396205232</guid>
+      <pubDate>Fri, 20 Nov 2026 16:20:20 GMT</pubDate>
+      <author>@shadcn</author>
+      <description><![CDATA[<p>How we&apos;re building UI SDK to be agent-first, part 3:<br><br>We&apos;ve built in observability and history. Every change in your UI tells you what changed and who made it, you or the agent.<br><br>That gives you seek and undo for free. Go back to any point, or undo only the agent’s work.</p><p><img src="https://pbs.twimg.com/media/HXlNF4wbgAAo-u7?format=jpg&amp;name=small" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>Media post</title>
       <link>https://x.com/shadcn/status/2123473769369047102</link>
       <guid isPermaLink="true">https://x.com/shadcn/status/2123473769369047102</guid>
       <pubDate>Thu, 19 Nov 2026 17:49:33 GMT</pubDate>
@@ -58,7 +74,7 @@
       <guid isPermaLink="true">https://x.com/shadcn/status/2123126831423651852</guid>
       <pubDate>Wed, 18 Nov 2026 18:50:57 GMT</pubDate>
       <author>@shadcn</author>
-      <description><![CDATA[<p>We put a LOT of work designing the behaviors. Give it a try. They are pretty cool.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2123121550840705026/img/t0JOeJhF4fz8rmvk.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>We put a LOT of work designing the behaviors. Give it a try. They are pretty cool.</p>]]></description>
     </item>
     <item>
       <title>Media post</title>
@@ -90,7 +106,7 @@
       <guid isPermaLink="true">https://x.com/shadcn/status/2122764933226197406</guid>
       <pubDate>Tue, 17 Nov 2026 18:52:53 GMT</pubDate>
       <author>@shadcn</author>
-      <description><![CDATA[<p>This is a really good video on how we&apos;re building UI SDK to be agent-first by @orcdev</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2122701704529432577/img/HJZEUqCWHXXjX_Yu.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>This is a really good video on how we&apos;re building UI SDK to be agent-first by @orcdev</p>]]></description>
     </item>
     <item>
       <title>👀</title>
@@ -793,22 +809,6 @@
       <link>https://x.com/shadcn/status/2099677803125903379</link>
       <guid isPermaLink="true">https://x.com/shadcn/status/2099677803125903379</guid>
       <pubDate>Tue, 15 Sep 2026 01:52:53 GMT</pubDate>
-      <author>@shadcn</author>
-      <description><![CDATA[<p>Introducing shadcn/lint. An agent-first linter for Tailwind design systems.<br><br>You define what’s allowed. When an agent breaks a rule, the error explains what’s wrong and how to fix it using your components, variants and theme.<br><br>There’s a lot you can do with this. Let me show you</p>]]></description>
-    </item>
-    <item>
-      <title>Agents write good code. When the code can be verified. An agent adds p-4 to a Button that</title>
-      <link>https://x.com/shadcn/status/2099534239272177747</link>
-      <guid isPermaLink="true">https://x.com/shadcn/status/2099534239272177747</guid>
-      <pubDate>Mon, 14 Sep 2026 16:22:24 GMT</pubDate>
-      <author>@shadcn</author>
-      <description><![CDATA[<p>Agents write good code. When the code can be verified. <br><br>An agent adds p-4 to a Button that already has a size prop. The code compiles. The button renders.<br><br>But it just broke your design system.</p><p><img src="https://pbs.twimg.com/media/HSMGWVjXEAAXIFX?format=jpg&amp;name=small" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>Introducing shadcn/lint. An agent-first linter for Tailwind design systems. You define what’s allowed. When an agent breaks a</title>
-      <link>https://x.com/shadcn/status/2099534231114314145</link>
-      <guid isPermaLink="true">https://x.com/shadcn/status/2099534231114314145</guid>
-      <pubDate>Mon, 14 Sep 2026 16:22:22 GMT</pubDate>
       <author>@shadcn</author>
       <description><![CDATA[<p>Introducing shadcn/lint. An agent-first linter for Tailwind design systems.<br><br>You define what’s allowed. When an agent breaks a rule, the error explains what’s wrong and how to fix it using your components, variants and theme.<br><br>There’s a lot you can do with this. Let me show you</p>]]></description>
     </item>
