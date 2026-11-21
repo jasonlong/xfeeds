@@ -7,6 +7,14 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>In @uisdk, you don&apos;t wrap components. You import a primitive (with behaviors) and create its parts in your</title>
+      <link>https://x.com/shadcn/status/2124152543727243399</link>
+      <guid isPermaLink="true">https://x.com/shadcn/status/2124152543727243399</guid>
+      <pubDate>Sat, 21 Nov 2026 14:46:45 GMT</pubDate>
+      <author>@shadcn</author>
+      <description><![CDATA[<p>In @uisdk, you don&apos;t wrap components. You import a primitive (with behaviors) and create its parts in your framework, with your own tags and names.<br><br>The same code works in React, Vue, Svelte, Solid and Web Components. <br><br>Ask your agent to build you a component library.</p><p><img src="https://pbs.twimg.com/media/HXqBA6BboAAXwEE?format=jpg&amp;name=small" alt=""></p>]]></description>
+    </item>
+    <item>
       <title>Media post</title>
       <link>https://x.com/shadcn/status/2124149088702914946</link>
       <guid isPermaLink="true">https://x.com/shadcn/status/2124149088702914946</guid>
@@ -28,7 +36,7 @@
       <guid isPermaLink="true">https://x.com/shadcn/status/2124037630224679269</guid>
       <pubDate>Sat, 21 Nov 2026 07:10:08 GMT</pubDate>
       <author>@shadcn</author>
-      <description><![CDATA[<p>This guy 🤯</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2124035823402135553/img/4Xp7cx_NkLpqI166.jpg" alt=""></p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2124035823385350145/img/TIHqZMaDcpN3QeCV.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>This guy 🤯</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2124035823389593600/img/9HzxCeGNG3UyUJQs.jpg" alt=""></p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2124035823402135553/img/4Xp7cx_NkLpqI166.jpg" alt=""></p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2124035823385350145/img/TIHqZMaDcpN3QeCV.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>And if you&apos;re in NYC on December 11th, come celebrate with us at Index Space in Chinatown</title>
@@ -452,7 +460,7 @@
       <guid isPermaLink="true">https://x.com/shadcn/status/2122764933226197406</guid>
       <pubDate>Tue, 17 Nov 2026 18:52:53 GMT</pubDate>
       <author>@shadcn</author>
-      <description><![CDATA[<p>This is a really good video on how we&apos;re building UI SDK to be agent-first by @orcdev</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2122701704529432577/img/HJZEUqCWHXXjX_Yu.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>This is a really good video on how we&apos;re building UI SDK to be agent-first by @orcdev</p>]]></description>
     </item>
     <item>
       <title>The header on the GPT-6.2 Astra and Sol announcement page is 🔥</title>
@@ -1597,14 +1605,6 @@
       <pubDate>Thu, 05 Nov 2026 19:53:04 GMT</pubDate>
       <author>@tldraw</author>
       <description><![CDATA[<p>yes, nice feature<br>but can you write &quot;hey&quot;, copy it a bunch of times, use eraser to cut it a bunch, and finally select and move individual sections? huh?</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2118431042906316801/img/RVw5ygdW6h3lT1WX.jpg" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>slop fork our code here</title>
-      <link>https://x.com/tldraw/status/2118422902114562169</link>
-      <guid isPermaLink="true">https://x.com/tldraw/status/2118422902114562169</guid>
-      <pubDate>Thu, 05 Nov 2026 19:19:12 GMT</pubDate>
-      <author>@tldraw</author>
-      <description><![CDATA[<p>slop fork our code here</p>]]></description>
     </item>
   </channel>
 </rss>
