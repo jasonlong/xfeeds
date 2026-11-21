@@ -7,6 +7,14 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>This guy 🤯</title>
+      <link>https://x.com/shadcn/status/2124037630224679269</link>
+      <guid isPermaLink="true">https://x.com/shadcn/status/2124037630224679269</guid>
+      <pubDate>Sat, 21 Nov 2026 07:10:08 GMT</pubDate>
+      <author>@shadcn</author>
+      <description><![CDATA[<p>This guy 🤯</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2124035823389593600/img/9HzxCeGNG3UyUJQs.jpg" alt=""></p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2124035823402135553/img/4Xp7cx_NkLpqI166.jpg" alt=""></p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2124035823385350145/img/TIHqZMaDcpN3QeCV.jpg" alt=""></p>]]></description>
+    </item>
+    <item>
       <title>And if you&apos;re in NYC on December 11th, come celebrate with us at Index Space in Chinatown</title>
       <link>https://x.com/AREdotNA/status/2123844054152511858</link>
       <guid isPermaLink="true">https://x.com/AREdotNA/status/2123844054152511858</guid>
@@ -204,7 +212,7 @@
       <guid isPermaLink="true">https://x.com/shuding/status/2123414608413364579</guid>
       <pubDate>Thu, 19 Nov 2026 13:54:28 GMT</pubDate>
       <author>@shuding</author>
-      <description><![CDATA[<p>If you’re wondering what UI SDK behaviors look like in real components, we’ve put together some examples you can try:<br><br>https://ui-sdk.dev/sink</p>]]></description>
+      <description><![CDATA[<p>If you’re wondering what UI SDK behaviors look like in real components, we’ve put together some examples you can try:<br><br>https://ui-sdk.dev/sink</p><p><img src="https://pbs.twimg.com/media/HXfiONgaEAAK-3Y.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Beautiful 🙌</title>
@@ -276,7 +284,7 @@
       <guid isPermaLink="true">https://x.com/shadcn/status/2123126831423651852</guid>
       <pubDate>Wed, 18 Nov 2026 18:50:57 GMT</pubDate>
       <author>@shadcn</author>
-      <description><![CDATA[<p>We put a LOT of work designing the behaviors. Give it a try. They are pretty cool.</p>]]></description>
+      <description><![CDATA[<p>We put a LOT of work designing the behaviors. Give it a try. They are pretty cool.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2123121550840705026/img/t0JOeJhF4fz8rmvk.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Books that keep coming back to me</title>
@@ -532,7 +540,7 @@
       <guid isPermaLink="true">https://x.com/mitchellh/status/2122464126240989217</guid>
       <pubDate>Mon, 16 Nov 2026 22:57:35 GMT</pubDate>
       <author>@mitchellh</author>
-      <description><![CDATA[<p>Rex demo time: magical and automatic remote copy/paste, drag/drop, and port forwarding (e.g. open web servers running on remote machines in your local browser). Plus, showcasing some of the internal plumbing that powers this and how you can hook into it with Lua scripting.<br><br>Our</p>]]></description>
+      <description><![CDATA[<p>Rex demo time: magical and automatic remote copy/paste, drag/drop, and port forwarding (e.g. open web servers running on remote machines in your local browser). Plus, showcasing some of the internal plumbing that powers this and how you can hook into it with Lua scripting.<br><br>Our</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2122463229016502272/img/4CF0IV6Xgrr7z1Ft.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>macOS 27.3 Beta 2 adds a new lock animation to the Full Disk Access and App Protection settings.</title>
@@ -1516,7 +1524,7 @@
       <guid isPermaLink="true">https://x.com/pidotdev/status/2118661763201655075</guid>
       <pubDate>Fri, 06 Nov 2026 11:08:21 GMT</pubDate>
       <author>@pidotdev</author>
-      <description><![CDATA[<p>Thanks @joelniklaus for burning this compute for all of us and sharing the learnings openly. Cost per task is a critical metric for our team so your results make us feel warm and fuzzy</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2118373780292874240/img/XlN2NzAPDJpW299Q.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Thanks @joelniklaus for burning this compute for all of us and sharing the learnings openly. Cost per task is a critical metric for our team so your results make us feel warm and fuzzy</p>]]></description>
     </item>
     <item>
       <title>🎛️</title>
@@ -1597,14 +1605,6 @@
       <pubDate>Thu, 05 Nov 2026 18:42:23 GMT</pubDate>
       <author>@avstorm</author>
       <description><![CDATA[<p>Dia browser got a new theme dial.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2118413377206669312/img/mATz9k9ZPN8YinO-.jpg" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>That&apos;s great</title>
-      <link>https://x.com/avstorm/status/2118412334603424066</link>
-      <guid isPermaLink="true">https://x.com/avstorm/status/2118412334603424066</guid>
-      <pubDate>Thu, 05 Nov 2026 18:37:13 GMT</pubDate>
-      <author>@avstorm</author>
-      <description><![CDATA[<p>That&apos;s great</p><p><img src="https://pbs.twimg.com/media/HWYcql-WUAAcKA3?format=jpg&amp;name=small" alt=""></p>]]></description>
     </item>
   </channel>
 </rss>

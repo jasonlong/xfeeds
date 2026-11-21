@@ -13,6 +13,14 @@
     </image>
     <ttl>120</ttl>
     <item>
+      <title>This guy 🤯</title>
+      <link>https://x.com/shadcn/status/2124037630224679269</link>
+      <guid isPermaLink="true">https://x.com/shadcn/status/2124037630224679269</guid>
+      <pubDate>Sat, 21 Nov 2026 07:10:08 GMT</pubDate>
+      <author>@shadcn</author>
+      <description><![CDATA[<p>This guy 🤯</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2124035823389593600/img/9HzxCeGNG3UyUJQs.jpg" alt=""></p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2124035823402135553/img/4Xp7cx_NkLpqI166.jpg" alt=""></p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2124035823385350145/img/TIHqZMaDcpN3QeCV.jpg" alt=""></p>]]></description>
+    </item>
+    <item>
       <title>Media post</title>
       <link>https://x.com/shadcn/status/2123813709047087254</link>
       <guid isPermaLink="true">https://x.com/shadcn/status/2123813709047087254</guid>
@@ -74,7 +82,7 @@
       <guid isPermaLink="true">https://x.com/shadcn/status/2123126831423651852</guid>
       <pubDate>Wed, 18 Nov 2026 18:50:57 GMT</pubDate>
       <author>@shadcn</author>
-      <description><![CDATA[<p>We put a LOT of work designing the behaviors. Give it a try. They are pretty cool.</p>]]></description>
+      <description><![CDATA[<p>We put a LOT of work designing the behaviors. Give it a try. They are pretty cool.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2123121550840705026/img/t0JOeJhF4fz8rmvk.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Media post</title>
@@ -803,14 +811,6 @@
       <pubDate>Tue, 15 Sep 2026 17:45:02 GMT</pubDate>
       <author>@shadcn</author>
       <description><![CDATA[<p>Why a rules file and not collocated with your components:<br><br>→ You can have one design system but different rules. Think a workspace with marketing site and a dashboard. You could allow `motion` classes on the marketing site but not the dashboard.<br><br>→ You can write rules for</p>]]></description>
-    </item>
-    <item>
-      <title>Introducing shadcn/lint. An agent-first linter for Tailwind design systems. You define what’s allowed. When an agent breaks a</title>
-      <link>https://x.com/shadcn/status/2099677803125903379</link>
-      <guid isPermaLink="true">https://x.com/shadcn/status/2099677803125903379</guid>
-      <pubDate>Tue, 15 Sep 2026 01:52:53 GMT</pubDate>
-      <author>@shadcn</author>
-      <description><![CDATA[<p>Introducing shadcn/lint. An agent-first linter for Tailwind design systems.<br><br>You define what’s allowed. When an agent breaks a rule, the error explains what’s wrong and how to fix it using your components, variants and theme.<br><br>There’s a lot you can do with this. Let me show you</p>]]></description>
     </item>
   </channel>
 </rss>
