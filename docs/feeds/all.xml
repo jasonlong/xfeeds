@@ -7,6 +7,14 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>new in helium&apos;s latest update: persistent pins, something arc refugees will enjoy pinned tabs now sync across all</title>
+      <link>https://x.com/heliumbrowser/status/2124236460471820692</link>
+      <guid isPermaLink="true">https://x.com/heliumbrowser/status/2124236460471820692</guid>
+      <pubDate>Sat, 21 Nov 2026 20:20:13 GMT</pubDate>
+      <author>@heliumbrowser</author>
+      <description><![CDATA[<p>new in helium&apos;s latest update: persistent pins, something arc refugees will enjoy<br><br>pinned tabs now sync across all sessions and windows within the profile, hibernate and go back to pinned url on close. plus a bunch of tiny details that make them feel &quot;right&quot;<br><br>drag and drop to</p><p><img src="https://pbs.twimg.com/media/HXrMvqRXAAA0TCr?format=png&amp;name=small" alt=""></p>]]></description>
+    </item>
+    <item>
       <title>In @uisdk, you don&apos;t wrap components. You import a primitive (with behaviors) and create its parts in your</title>
       <link>https://x.com/shadcn/status/2124152543727243399</link>
       <guid isPermaLink="true">https://x.com/shadcn/status/2124152543727243399</guid>
@@ -564,7 +572,7 @@
       <guid isPermaLink="true">https://x.com/mitchellh/status/2122464126240989217</guid>
       <pubDate>Mon, 16 Nov 2026 22:57:35 GMT</pubDate>
       <author>@mitchellh</author>
-      <description><![CDATA[<p>Rex demo time: magical and automatic remote copy/paste, drag/drop, and port forwarding (e.g. open web servers running on remote machines in your local browser). Plus, showcasing some of the internal plumbing that powers this and how you can hook into it with Lua scripting.<br><br>Our</p>]]></description>
+      <description><![CDATA[<p>Rex demo time: magical and automatic remote copy/paste, drag/drop, and port forwarding (e.g. open web servers running on remote machines in your local browser). Plus, showcasing some of the internal plumbing that powers this and how you can hook into it with Lua scripting.<br><br>Our</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2122463229016502272/img/4CF0IV6Xgrr7z1Ft.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>macOS 27.3 Beta 2 adds a new lock animation to the Full Disk Access and App Protection settings.</title>
@@ -1597,14 +1605,6 @@
       <pubDate>Thu, 05 Nov 2026 20:07:02 GMT</pubDate>
       <author>@paper</author>
       <description><![CDATA[<p>Lovable × Paper, 🐐 combo<br><br>Check out how Lovable designs with Paper in this detailed breakdown</p>]]></description>
-    </item>
-    <item>
-      <title>yes, nice feature but can you write &quot;hey&quot;, copy it a bunch of times, use eraser to cut</title>
-      <link>https://x.com/tldraw/status/2118431424227196976</link>
-      <guid isPermaLink="true">https://x.com/tldraw/status/2118431424227196976</guid>
-      <pubDate>Thu, 05 Nov 2026 19:53:04 GMT</pubDate>
-      <author>@tldraw</author>
-      <description><![CDATA[<p>yes, nice feature<br>but can you write &quot;hey&quot;, copy it a bunch of times, use eraser to cut it a bunch, and finally select and move individual sections? huh?</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2118431042906316801/img/RVw5ygdW6h3lT1WX.jpg" alt=""></p>]]></description>
     </item>
   </channel>
 </rss>

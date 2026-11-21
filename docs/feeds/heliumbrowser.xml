@@ -13,6 +13,14 @@
     </image>
     <ttl>120</ttl>
     <item>
+      <title>new in helium&apos;s latest update: persistent pins, something arc refugees will enjoy pinned tabs now sync across all</title>
+      <link>https://x.com/heliumbrowser/status/2124236460471820692</link>
+      <guid isPermaLink="true">https://x.com/heliumbrowser/status/2124236460471820692</guid>
+      <pubDate>Sat, 21 Nov 2026 20:20:13 GMT</pubDate>
+      <author>@heliumbrowser</author>
+      <description><![CDATA[<p>new in helium&apos;s latest update: persistent pins, something arc refugees will enjoy<br><br>pinned tabs now sync across all sessions and windows within the profile, hibernate and go back to pinned url on close. plus a bunch of tiny details that make them feel &quot;right&quot;<br><br>drag and drop to</p><p><img src="https://pbs.twimg.com/media/HXrMvqRXAAA0TCr?format=png&amp;name=small" alt=""></p>]]></description>
+    </item>
+    <item>
       <title>Media post</title>
       <link>https://x.com/heliumbrowser/status/2117932385933181344</link>
       <guid isPermaLink="true">https://x.com/heliumbrowser/status/2117932385933181344</guid>
@@ -122,7 +130,7 @@
       <guid isPermaLink="true">https://x.com/heliumbrowser/status/2068238234866659661</guid>
       <pubDate>Sat, 20 Jun 2026 07:43:15 GMT</pubDate>
       <author>@heliumbrowser</author>
-      <description><![CDATA[<p>native selection translation is now available in helium on macOS<br><br>it uses apple&apos;s translation service, which can be used offline if you download the models in system settings</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2068236254593064961/img/EUyFcZ184se5PUgp.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>native selection translation is now available in helium on macOS<br><br>it uses apple&apos;s translation service, which can be used offline if you download the models in system settings</p>]]></description>
     </item>
     <item>
       <title>long time no posting, here&apos;s some of the stuff we released in helium recently: - customizable keyboard shortcuts</title>
@@ -130,7 +138,7 @@
       <guid isPermaLink="true">https://x.com/heliumbrowser/status/2064634566246072542</guid>
       <pubDate>Wed, 10 Jun 2026 09:03:34 GMT</pubDate>
       <author>@heliumbrowser</author>
-      <description><![CDATA[<p>long time no posting, here&apos;s some of the stuff we released in helium recently:<br>- customizable keyboard shortcuts on all platforms<br>- automatic updates on windows<br>- frameless mode (previously zen mode), with floating sidebar, is now out of beta and included in settings by default<br>-</p>]]></description>
+      <description><![CDATA[<p>long time no posting, here&apos;s some of the stuff we released in helium recently:<br>- customizable keyboard shortcuts on all platforms<br>- automatic updates on windows<br>- frameless mode (previously zen mode), with floating sidebar, is now out of beta and included in settings by default<br>-</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2064630111995904000/img/CvxJaabRhiYEsd55.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>you can get helium at https://helium.computer or from releases on github: https://github.com/imputnet/helium#downloads… helium is open source, developed in</title>
