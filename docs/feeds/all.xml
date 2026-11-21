@@ -7,6 +7,14 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>Media post</title>
+      <link>https://x.com/shadcn/status/2124149088702914946</link>
+      <guid isPermaLink="true">https://x.com/shadcn/status/2124149088702914946</guid>
+      <pubDate>Sat, 21 Nov 2026 14:33:02 GMT</pubDate>
+      <author>@shadcn</author>
+      <description><![CDATA[<p></p>]]></description>
+    </item>
+    <item>
       <title>UI SDK. For your agent. For your framework.</title>
       <link>https://x.com/shadcn/status/2124112971949601181</link>
       <guid isPermaLink="true">https://x.com/shadcn/status/2124112971949601181</guid>
@@ -196,7 +204,7 @@
       <guid isPermaLink="true">https://x.com/shadcn/status/2123439071536316609</guid>
       <pubDate>Thu, 19 Nov 2026 15:31:40 GMT</pubDate>
       <author>@shadcn</author>
-      <description><![CDATA[<p>You can build pretty much everything with @uisdk. Check it out.</p><p><img src="https://pbs.twimg.com/media/HXfiONgaEAAK-3Y.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>You can build pretty much everything with @uisdk. Check it out.</p>]]></description>
     </item>
     <item>
       <title>We looked at six stages of video production where canvases are already showing up: storyboarding, sketching, node pipelines,</title>
@@ -268,7 +276,7 @@
       <guid isPermaLink="true">https://x.com/almonk/status/2123164848070561829</guid>
       <pubDate>Wed, 18 Nov 2026 21:22:00 GMT</pubDate>
       <author>@almonk</author>
-      <description><![CDATA[<p>as an aside I built the slides here in @paper with Claude in about 7 minutes. i fucking love the future.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2123043561985765377/img/ExjNTsFbWc870vHz.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>as an aside I built the slides here in @paper with Claude in about 7 minutes. i fucking love the future.</p>]]></description>
     </item>
     <item>
       <title>As a student of design tools, this feels historic In Ramp&apos;s spend data, Paper passed Sketch in adoption</title>
@@ -292,7 +300,7 @@
       <guid isPermaLink="true">https://x.com/shadcn/status/2123126831423651852</guid>
       <pubDate>Wed, 18 Nov 2026 18:50:57 GMT</pubDate>
       <author>@shadcn</author>
-      <description><![CDATA[<p>We put a LOT of work designing the behaviors. Give it a try. They are pretty cool.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2123121550840705026/img/t0JOeJhF4fz8rmvk.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>We put a LOT of work designing the behaviors. Give it a try. They are pretty cool.</p>]]></description>
     </item>
     <item>
       <title>Books that keep coming back to me</title>
@@ -340,7 +348,7 @@
       <guid isPermaLink="true">https://x.com/almonk/status/2123044473873588226</guid>
       <pubDate>Wed, 18 Nov 2026 13:23:41 GMT</pubDate>
       <author>@almonk</author>
-      <description><![CDATA[<p>posted this into our Rex discord today... the new `𝚛𝚎𝚡.𝚞𝚒` primitives provides a new set of simple but powerful methods to build interactive scripts within Rex that require user interaction.<br><br>Now you can build the workflow of your dreams, that little action you always wanted</p>]]></description>
+      <description><![CDATA[<p>posted this into our Rex discord today... the new `𝚛𝚎𝚡.𝚞𝚒` primitives provides a new set of simple but powerful methods to build interactive scripts within Rex that require user interaction.<br><br>Now you can build the workflow of your dreams, that little action you always wanted</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2123043561985765377/img/ExjNTsFbWc870vHz.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Media post</title>
@@ -1597,14 +1605,6 @@
       <pubDate>Thu, 05 Nov 2026 19:19:12 GMT</pubDate>
       <author>@tldraw</author>
       <description><![CDATA[<p>slop fork our code here</p>]]></description>
-    </item>
-    <item>
-      <title>guyyys</title>
-      <link>https://x.com/tldraw/status/2118422674661625894</link>
-      <guid isPermaLink="true">https://x.com/tldraw/status/2118422674661625894</guid>
-      <pubDate>Thu, 05 Nov 2026 19:18:18 GMT</pubDate>
-      <author>@tldraw</author>
-      <description><![CDATA[<p>guyyys</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2118422502389043200/img/k1DTwWf_6CBpyytN.jpg" alt=""></p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2118343192340779010/img/a01rGT0hUFOiBCB-?format=jpg&amp;name=240x240" alt=""></p>]]></description>
     </item>
   </channel>
 </rss>

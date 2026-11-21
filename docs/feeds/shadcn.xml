@@ -13,6 +13,14 @@
     </image>
     <ttl>120</ttl>
     <item>
+      <title>Media post</title>
+      <link>https://x.com/shadcn/status/2124149088702914946</link>
+      <guid isPermaLink="true">https://x.com/shadcn/status/2124149088702914946</guid>
+      <pubDate>Sat, 21 Nov 2026 14:33:02 GMT</pubDate>
+      <author>@shadcn</author>
+      <description><![CDATA[<p></p>]]></description>
+    </item>
+    <item>
       <title>UI SDK. For your agent. For your framework.</title>
       <link>https://x.com/shadcn/status/2124112971949601181</link>
       <guid isPermaLink="true">https://x.com/shadcn/status/2124112971949601181</guid>
@@ -66,7 +74,7 @@
       <guid isPermaLink="true">https://x.com/shadcn/status/2123439071536316609</guid>
       <pubDate>Thu, 19 Nov 2026 15:31:40 GMT</pubDate>
       <author>@shadcn</author>
-      <description><![CDATA[<p>You can build pretty much everything with @uisdk. Check it out.</p><p><img src="https://pbs.twimg.com/media/HXfiONgaEAAK-3Y.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>You can build pretty much everything with @uisdk. Check it out.</p>]]></description>
     </item>
     <item>
       <title>Gemini is pretty big outside the X bubble. I see a lot of people defaulting from Google Search</title>
@@ -90,7 +98,7 @@
       <guid isPermaLink="true">https://x.com/shadcn/status/2123126831423651852</guid>
       <pubDate>Wed, 18 Nov 2026 18:50:57 GMT</pubDate>
       <author>@shadcn</author>
-      <description><![CDATA[<p>We put a LOT of work designing the behaviors. Give it a try. They are pretty cool.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2123121550840705026/img/t0JOeJhF4fz8rmvk.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>We put a LOT of work designing the behaviors. Give it a try. They are pretty cool.</p>]]></description>
     </item>
     <item>
       <title>Media post</title>
@@ -803,14 +811,6 @@
       <pubDate>Wed, 16 Sep 2026 17:03:28 GMT</pubDate>
       <author>@shadcn</author>
       <description><![CDATA[<p>Someone explain this.<br><br>I pay for Netflix, HBO, Disney+, Prime. Unlimited movies. I never watch anything.<br><br>I buy one movie for $19 on Apple TV. I watch that.</p>]]></description>
-    </item>
-    <item>
-      <title>agent came through. got me the reservation.</title>
-      <link>https://x.com/shadcn/status/2099928961891307605</link>
-      <guid isPermaLink="true">https://x.com/shadcn/status/2099928961891307605</guid>
-      <pubDate>Tue, 15 Sep 2026 18:30:53 GMT</pubDate>
-      <author>@shadcn</author>
-      <description><![CDATA[<p>agent came through. got me the reservation.</p>]]></description>
     </item>
   </channel>
 </rss>
