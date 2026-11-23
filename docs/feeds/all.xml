@@ -7,6 +7,22 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>Some folks are shocked we&apos;re doing Windows (client) before Linux (client) for Rex. Note we will publicly ship</title>
+      <link>https://x.com/mitchellh/status/2125005793883980054</link>
+      <guid isPermaLink="true">https://x.com/mitchellh/status/2125005793883980054</guid>
+      <pubDate>Mon, 23 Nov 2026 23:17:16 GMT</pubDate>
+      <author>@mitchellh</author>
+      <description><![CDATA[<p>Some folks are shocked we&apos;re doing Windows (client) before Linux (client) for Rex. Note we will publicly ship with full Linux and FreeBSD server support soon, but clients will come later. Why? Let&apos;s talk about it!<br><br>If you don&apos;t want to watch a [short] video, here is some</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2125005315276218369/img/fUK0a3CIqjGJwlb6.jpg" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>It&apos;s magic being able to easily connect to a Windows Rex server from macOS (or vice versa), and</title>
+      <link>https://x.com/mitchellh/status/2124991296138072149</link>
+      <guid isPermaLink="true">https://x.com/mitchellh/status/2124991296138072149</guid>
+      <pubDate>Mon, 23 Nov 2026 22:19:40 GMT</pubDate>
+      <author>@mitchellh</author>
+      <description><![CDATA[<p>It&apos;s magic being able to easily connect to a Windows Rex server from macOS (or vice versa), and more importantly for the `rex` CLI to be able to see it for automations, testing, etc. The Rex Server for Windows expanded from alpha (limited) to beta (full Discord) testing today.</p><p><img src="https://pbs.twimg.com/media/HX16g87bMAAGTEW?format=jpg&amp;name=small" alt=""></p>]]></description>
+    </item>
+    <item>
       <title>I&apos;m really excited about this: your design tool can now be a real, integrated, part of your product-making</title>
       <link>https://x.com/stephenhaney/status/2124941439515996474</link>
       <guid isPermaLink="true">https://x.com/stephenhaney/status/2124941439515996474</guid>
@@ -396,7 +412,7 @@
       <guid isPermaLink="true">https://x.com/mitchellh/status/2123167959686496690</guid>
       <pubDate>Wed, 18 Nov 2026 21:34:22 GMT</pubDate>
       <author>@mitchellh</author>
-      <description><![CDATA[<p>Rex has really powerful Lua scripting that our beta group has been using to huge effect. We expanded it today with `rex.ui`: a way to build automations that require user interaction. <br><br>The way this works with multiple clients: the choice pops up on all attached clients. The first</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2123043561985765377/img/ExjNTsFbWc870vHz.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Rex has really powerful Lua scripting that our beta group has been using to huge effect. We expanded it today with `rex.ui`: a way to build automations that require user interaction. <br><br>The way this works with multiple clients: the choice pops up on all attached clients. The first</p>]]></description>
     </item>
     <item>
       <title>as an aside I built the slides here in @paper with Claude in about 7 minutes. i fucking</title>
@@ -1589,22 +1605,6 @@
       <pubDate>Sat, 07 Nov 2026 19:10:42 GMT</pubDate>
       <author>@almonk</author>
       <description><![CDATA[<p>We just added the ability to drag and drop and copy/paste files between devices on Rex. It&apos;s amazing.<br><br>I can build binaries on my Mac Studio then send them to any device for testing instantly. I can send screenshots to remote agents running on Linux, macOS or Windows.<br><br>It&apos;s built</p>]]></description>
-    </item>
-    <item>
-      <title>Earlier this week Tristan published his top YouTube channels: https://thume.ca/2026/11/01/youtube-tier-list-2026/… Which looked excellent so clearly I had to</title>
-      <link>https://x.com/karpathy/status/2119114537442189652</link>
-      <guid isPermaLink="true">https://x.com/karpathy/status/2119114537442189652</guid>
-      <pubDate>Sat, 07 Nov 2026 17:07:31 GMT</pubDate>
-      <author>@karpathy</author>
-      <description><![CDATA[<p>Earlier this week Tristan published his top YouTube channels:<br>https://thume.ca/2026/11/01/youtube-tier-list-2026/…<br>Which looked excellent so clearly I had to turn it into TristanTube:<br>https://karpathy.ai/tristan-tube/<br>47K super nerdy videos +TV mode for laid back watching. (One-shotted with Claude Code in 3 minutes)</p><p><img src="https://pbs.twimg.com/media/HWDnuuCaIAA__wa?format=jpg&amp;name=small" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>Weird things are happening in my evals right now.</title>
-      <link>https://x.com/shadcn/status/2119032206186471918</link>
-      <guid isPermaLink="true">https://x.com/shadcn/status/2119032206186471918</guid>
-      <pubDate>Sat, 07 Nov 2026 11:40:22 GMT</pubDate>
-      <author>@shadcn</author>
-      <description><![CDATA[<p>Weird things are happening in my evals right now.</p><p><img src="https://pbs.twimg.com/media/HWhQg6XXQAAi4nx?format=png&amp;name=small" alt=""></p>]]></description>
     </item>
   </channel>
 </rss>
