@@ -13,6 +13,14 @@
     </image>
     <ttl>120</ttl>
     <item>
+      <title>If you get the foundation right, your agents get to have fun. UI SDK handles the hard part.</title>
+      <link>https://x.com/shadcn/status/2124880771404169429</link>
+      <guid isPermaLink="true">https://x.com/shadcn/status/2124880771404169429</guid>
+      <pubDate>Mon, 23 Nov 2026 15:00:28 GMT</pubDate>
+      <author>@shadcn</author>
+      <description><![CDATA[<p>If you get the foundation right, your agents get to have fun. UI SDK handles the hard part.<br><br>Bring the whimsy back to interfaces.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2124758753861910528/img/RO9GMsKQSK3Y1Q6s.jpg" alt=""></p>]]></description>
+    </item>
+    <item>
       <title>In @uisdk, you don&apos;t wrap components. You import a primitive (with behaviors) and create its parts in your</title>
       <link>https://x.com/shadcn/status/2124152543727243399</link>
       <guid isPermaLink="true">https://x.com/shadcn/status/2124152543727243399</guid>
@@ -42,7 +50,7 @@
       <guid isPermaLink="true">https://x.com/shadcn/status/2124037630224679269</guid>
       <pubDate>Sat, 21 Nov 2026 07:10:08 GMT</pubDate>
       <author>@shadcn</author>
-      <description><![CDATA[<p>This guy 🤯</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2124035823389593600/img/9HzxCeGNG3UyUJQs.jpg" alt=""></p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2124035823402135553/img/4Xp7cx_NkLpqI166.jpg" alt=""></p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2124035823385350145/img/TIHqZMaDcpN3QeCV.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>This guy 🤯</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2124035823402135553/img/4Xp7cx_NkLpqI166.jpg" alt=""></p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2124035823385350145/img/TIHqZMaDcpN3QeCV.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Media post</title>
@@ -82,7 +90,7 @@
       <guid isPermaLink="true">https://x.com/shadcn/status/2123439071536316609</guid>
       <pubDate>Thu, 19 Nov 2026 15:31:40 GMT</pubDate>
       <author>@shadcn</author>
-      <description><![CDATA[<p>You can build pretty much everything with @uisdk. Check it out.</p>]]></description>
+      <description><![CDATA[<p>You can build pretty much everything with @uisdk. Check it out.</p><p><img src="https://pbs.twimg.com/media/HXfiONgaEAAK-3Y.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Gemini is pretty big outside the X bubble. I see a lot of people defaulting from Google Search</title>
@@ -106,7 +114,7 @@
       <guid isPermaLink="true">https://x.com/shadcn/status/2123126831423651852</guid>
       <pubDate>Wed, 18 Nov 2026 18:50:57 GMT</pubDate>
       <author>@shadcn</author>
-      <description><![CDATA[<p>We put a LOT of work designing the behaviors. Give it a try. They are pretty cool.</p>]]></description>
+      <description><![CDATA[<p>We put a LOT of work designing the behaviors. Give it a try. They are pretty cool.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2123121550840705026/img/t0JOeJhF4fz8rmvk.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Media post</title>
@@ -138,7 +146,7 @@
       <guid isPermaLink="true">https://x.com/shadcn/status/2122764933226197406</guid>
       <pubDate>Tue, 17 Nov 2026 18:52:53 GMT</pubDate>
       <author>@shadcn</author>
-      <description><![CDATA[<p>This is a really good video on how we&apos;re building UI SDK to be agent-first by @orcdev</p>]]></description>
+      <description><![CDATA[<p>This is a really good video on how we&apos;re building UI SDK to be agent-first by @orcdev</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2122701704529432577/img/HJZEUqCWHXXjX_Yu.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>👀</title>
@@ -803,14 +811,6 @@
       <pubDate>Tue, 22 Sep 2026 14:43:28 GMT</pubDate>
       <author>@shadcn</author>
       <description><![CDATA[<p>shadcn/lint now supports Vue and Svelte.</p><p><img src="https://pbs.twimg.com/media/HS1BSdJXIAAnIky?format=jpg&amp;name=small" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>yes @typesafeai is built using shadcn/ui ⚡</title>
-      <link>https://x.com/shadcn/status/2100600969536930130</link>
-      <guid isPermaLink="true">https://x.com/shadcn/status/2100600969536930130</guid>
-      <pubDate>Thu, 17 Sep 2026 15:01:13 GMT</pubDate>
-      <author>@shadcn</author>
-      <description><![CDATA[<p>yes @typesafeai is built using shadcn/ui ⚡</p>]]></description>
     </item>
   </channel>
 </rss>
