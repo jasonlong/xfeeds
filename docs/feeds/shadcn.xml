@@ -13,6 +13,22 @@
     </image>
     <ttl>120</ttl>
     <item>
+      <title>thanks for the heads up @IAmTuomo</title>
+      <link>https://x.com/shadcn/status/2125199178057875807</link>
+      <guid isPermaLink="true">https://x.com/shadcn/status/2125199178057875807</guid>
+      <pubDate>Tue, 24 Nov 2026 12:05:42 GMT</pubDate>
+      <author>@shadcn</author>
+      <description><![CDATA[<p>thanks for the heads up @IAmTuomo</p>]]></description>
+    </item>
+    <item>
+      <title>psa: this is not from us. I don&apos;t sell any paid shadcn/ui products. Everything we build for shadcn/ui</title>
+      <link>https://x.com/shadcn/status/2125198133164655081</link>
+      <guid isPermaLink="true">https://x.com/shadcn/status/2125198133164655081</guid>
+      <pubDate>Tue, 24 Nov 2026 12:01:33 GMT</pubDate>
+      <author>@shadcn</author>
+      <description><![CDATA[<p>psa: this is not from us. I don&apos;t sell any paid shadcn/ui products. Everything we build for shadcn/ui is free and open source.<br><br>The official website is https://ui.shadcn.com.</p><p><img src="https://pbs.twimg.com/media/HXy91vdWEAAKtn1?format=jpg&amp;name=small" alt=""></p>]]></description>
+    </item>
+    <item>
       <title>I&apos;ve got so many things to show you with @uisdk. It&apos;s kind of amazing how well it fits</title>
       <link>https://x.com/shadcn/status/2125132747094339822</link>
       <guid isPermaLink="true">https://x.com/shadcn/status/2125132747094339822</guid>
@@ -42,7 +58,7 @@
       <guid isPermaLink="true">https://x.com/shadcn/status/2124880771404169429</guid>
       <pubDate>Mon, 23 Nov 2026 15:00:28 GMT</pubDate>
       <author>@shadcn</author>
-      <description><![CDATA[<p>If you get the foundation right, your agents get to have fun. UI SDK handles the hard part.<br><br>Bring the whimsy back to interfaces.</p>]]></description>
+      <description><![CDATA[<p>If you get the foundation right, your agents get to have fun. UI SDK handles the hard part.<br><br>Bring the whimsy back to interfaces.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2124758753861910528/img/RO9GMsKQSK3Y1Q6s.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>In @uisdk, you don&apos;t wrap components. You import a primitive (with behaviors) and create its parts in your</title>
@@ -74,7 +90,7 @@
       <guid isPermaLink="true">https://x.com/shadcn/status/2124037630224679269</guid>
       <pubDate>Sat, 21 Nov 2026 07:10:08 GMT</pubDate>
       <author>@shadcn</author>
-      <description><![CDATA[<p>This guy 🤯</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2124035823389593600/img/9HzxCeGNG3UyUJQs.jpg" alt=""></p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2124035823402135553/img/4Xp7cx_NkLpqI166.jpg" alt=""></p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2124035823385350145/img/TIHqZMaDcpN3QeCV.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>This guy 🤯</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2124035823402135553/img/4Xp7cx_NkLpqI166.jpg" alt=""></p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2124035823385350145/img/TIHqZMaDcpN3QeCV.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Media post</title>
@@ -114,7 +130,7 @@
       <guid isPermaLink="true">https://x.com/shadcn/status/2123439071536316609</guid>
       <pubDate>Thu, 19 Nov 2026 15:31:40 GMT</pubDate>
       <author>@shadcn</author>
-      <description><![CDATA[<p>You can build pretty much everything with @uisdk. Check it out.</p>]]></description>
+      <description><![CDATA[<p>You can build pretty much everything with @uisdk. Check it out.</p><p><img src="https://pbs.twimg.com/media/HXfiONgaEAAK-3Y.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Gemini is pretty big outside the X bubble. I see a lot of people defaulting from Google Search</title>
@@ -138,7 +154,7 @@
       <guid isPermaLink="true">https://x.com/shadcn/status/2123126831423651852</guid>
       <pubDate>Wed, 18 Nov 2026 18:50:57 GMT</pubDate>
       <author>@shadcn</author>
-      <description><![CDATA[<p>We put a LOT of work designing the behaviors. Give it a try. They are pretty cool.</p>]]></description>
+      <description><![CDATA[<p>We put a LOT of work designing the behaviors. Give it a try. They are pretty cool.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2123121550840705026/img/t0JOeJhF4fz8rmvk.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Media post</title>
@@ -795,22 +811,6 @@
       <pubDate>Mon, 28 Sep 2026 13:14:19 GMT</pubDate>
       <author>@shadcn</author>
       <description><![CDATA[<p>Updated the chatbot-template to latest next, ai-sdk, shadcn/react, cn and some bug fixes. More soon.</p>]]></description>
-    </item>
-    <item>
-      <title>We&apos;ve added dark mode support for drawings.</title>
-      <link>https://x.com/shadcn/status/2104546218689049022</link>
-      <guid isPermaLink="true">https://x.com/shadcn/status/2104546218689049022</guid>
-      <pubDate>Mon, 28 Sep 2026 12:18:13 GMT</pubDate>
-      <author>@shadcn</author>
-      <description><![CDATA[<p>We&apos;ve added dark mode support for drawings.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2089361286987468800/img/-voOR_BgBTDDc5_3.jpg" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>Liquid Glass on iOS and MacOS 27 is much better. Siri is better. Keyboard still not great for</title>
-      <link>https://x.com/shadcn/status/2104455689355890843</link>
-      <guid isPermaLink="true">https://x.com/shadcn/status/2104455689355890843</guid>
-      <pubDate>Mon, 28 Sep 2026 06:18:29 GMT</pubDate>
-      <author>@shadcn</author>
-      <description><![CDATA[<p>Liquid Glass on iOS and MacOS 27 is much better. Siri is better. Keyboard still not great for me though. And I think we still regressed in terms of UX compared to pre-liquid glass.</p>]]></description>
     </item>
   </channel>
 </rss>
