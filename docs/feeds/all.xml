@@ -7,6 +7,22 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>You can now use ⌘K to search on https://tldraw.com.</title>
+      <link>https://x.com/tldraw/status/2125302716000084235</link>
+      <guid isPermaLink="true">https://x.com/tldraw/status/2125302716000084235</guid>
+      <pubDate>Tue, 24 Nov 2026 18:57:08 GMT</pubDate>
+      <author>@tldraw</author>
+      <description><![CDATA[<p>You can now use ⌘K to search on https://tldraw.com.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2125302686140784640/img/q62ztKdfftEvJyqQ.jpg" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>libghostty-vt 1.0.2 released: correct widths for skin tone emoji, insert/delete line (IL/DL) fixes, up to 1.8x faster scrolling</title>
+      <link>https://x.com/mitchellh/status/2125299061020610770</link>
+      <guid isPermaLink="true">https://x.com/mitchellh/status/2125299061020610770</guid>
+      <pubDate>Tue, 24 Nov 2026 18:42:36 GMT</pubDate>
+      <author>@mitchellh</author>
+      <description><![CDATA[<p>libghostty-vt 1.0.2 released: correct widths for skin tone emoji, insert/delete line (IL/DL) fixes, up to 1.8x faster scrolling inside left/right margins (think tmux side-by-side panes or Neovim vertical splits), and more. Release notes below.<br><br>https://lib.ghostty.org/vt/release-notes.html…<br><br>Bug Fixes:</p>]]></description>
+    </item>
+    <item>
       <title>The Rex integration for terminal browser is really good. Point at an element, and the browser sends the</title>
       <link>https://x.com/almonk/status/2125294789298188324</link>
       <guid isPermaLink="true">https://x.com/almonk/status/2125294789298188324</guid>
@@ -524,7 +540,7 @@
       <guid isPermaLink="true">https://x.com/mitchellh/status/2123167959686496690</guid>
       <pubDate>Wed, 18 Nov 2026 21:34:22 GMT</pubDate>
       <author>@mitchellh</author>
-      <description><![CDATA[<p>Rex has really powerful Lua scripting that our beta group has been using to huge effect. We expanded it today with `rex.ui`: a way to build automations that require user interaction. <br><br>The way this works with multiple clients: the choice pops up on all attached clients. The first</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2123043561985765377/img/ExjNTsFbWc870vHz.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Rex has really powerful Lua scripting that our beta group has been using to huge effect. We expanded it today with `rex.ui`: a way to build automations that require user interaction. <br><br>The way this works with multiple clients: the choice pops up on all attached clients. The first</p>]]></description>
     </item>
     <item>
       <title>as an aside I built the slides here in @paper with Claude in about 7 minutes. i fucking</title>
@@ -532,7 +548,7 @@
       <guid isPermaLink="true">https://x.com/almonk/status/2123164848070561829</guid>
       <pubDate>Wed, 18 Nov 2026 21:22:00 GMT</pubDate>
       <author>@almonk</author>
-      <description><![CDATA[<p>as an aside I built the slides here in @paper with Claude in about 7 minutes. i fucking love the future.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2123043561985765377/img/ExjNTsFbWc870vHz.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>as an aside I built the slides here in @paper with Claude in about 7 minutes. i fucking love the future.</p>]]></description>
     </item>
     <item>
       <title>As a student of design tools, this feels historic In Ramp&apos;s spend data, Paper passed Sketch in adoption</title>
@@ -708,7 +724,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2122791783360868524</guid>
       <pubDate>Tue, 17 Nov 2026 20:39:35 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>build your whiteboard app with the tldraw SDK and never waste a token implementing crops for rotated images</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2122791405978324992/img/JlqHVWrInom95AVr.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>build your whiteboard app with the tldraw SDK and never waste a token implementing crops for rotated images</p>]]></description>
     </item>
     <item>
       <title>Paper with Linear agents is really promising to me You could have a canvas ready to review before</title>
@@ -756,7 +772,7 @@
       <guid isPermaLink="true">https://x.com/mitchellh/status/2122731286175580550</guid>
       <pubDate>Tue, 17 Nov 2026 16:39:11 GMT</pubDate>
       <author>@mitchellh</author>
-      <description><![CDATA[<p>The Rex for Windows alpha begins today! I think this is a better terminal than Windows Terminal, and I think WT is pretty good. Nick did an amazing job here, I think you’re about to feel one of the snappiest, most beautifully rendered Windows apps ever. <br><br>This is all Nicks</p>]]></description>
+      <description><![CDATA[<p>The Rex for Windows alpha begins today! I think this is a better terminal than Windows Terminal, and I think WT is pretty good. Nick did an amazing job here, I think you’re about to feel one of the snappiest, most beautifully rendered Windows apps ever. <br><br>This is all Nicks</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2122714417162825728/img/xhBXuBm0KyCxDnki.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>👋 @wesbos</title>
@@ -828,7 +844,7 @@
       <guid isPermaLink="true">https://x.com/mitchellh/status/2122464126240989217</guid>
       <pubDate>Mon, 16 Nov 2026 22:57:35 GMT</pubDate>
       <author>@mitchellh</author>
-      <description><![CDATA[<p>Rex demo time: magical and automatic remote copy/paste, drag/drop, and port forwarding (e.g. open web servers running on remote machines in your local browser). Plus, showcasing some of the internal plumbing that powers this and how you can hook into it with Lua scripting.<br><br>Our</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2122463229016502272/img/4CF0IV6Xgrr7z1Ft.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Rex demo time: magical and automatic remote copy/paste, drag/drop, and port forwarding (e.g. open web servers running on remote machines in your local browser). Plus, showcasing some of the internal plumbing that powers this and how you can hook into it with Lua scripting.<br><br>Our</p>]]></description>
     </item>
     <item>
       <title>macOS 27.3 Beta 2 adds a new lock animation to the Full Disk Access and App Protection settings.</title>
@@ -1092,7 +1108,7 @@
       <guid isPermaLink="true">https://x.com/avstorm/status/2121515197810573377</guid>
       <pubDate>Sat, 14 Nov 2026 08:06:53 GMT</pubDate>
       <author>@avstorm</author>
-      <description><![CDATA[<p></p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2121515144475770880/img/OVWmtX4a7VvLqCpy.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p></p>]]></description>
     </item>
     <item>
       <title>I’m seeing some incredibly amazing things being built with the UI SDK. Keep them coming.</title>
@@ -1132,7 +1148,7 @@
       <guid isPermaLink="true">https://x.com/avstorm/status/2121306461607477450</guid>
       <pubDate>Fri, 13 Nov 2026 18:17:27 GMT</pubDate>
       <author>@avstorm</author>
-      <description><![CDATA[<p>The classic Mac startup vibe in the HomeView setup sound is awesome.</p>]]></description>
+      <description><![CDATA[<p>The classic Mac startup vibe in the HomeView setup sound is awesome.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2121306143955795968/img/GMOh99nQ0qRkYuw9.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>The annual Lord of the Rings rewatch. It’s time. Back to Middle-earth.</title>
@@ -1324,7 +1340,7 @@
       <guid isPermaLink="true">https://x.com/avstorm/status/2120837781786370447</guid>
       <pubDate>Thu, 12 Nov 2026 11:15:05 GMT</pubDate>
       <author>@avstorm</author>
-      <description><![CDATA[<p>Apple’s annual holiday film is here.<br><br>Sometimes all it takes to remember what makes us special, is someone who believes in us.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2120836580000579584/img/kCkZZDdX8rmoKn5k.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Apple’s annual holiday film is here.<br><br>Sometimes all it takes to remember what makes us special, is someone who believes in us.</p>]]></description>
     </item>
     <item>
       <title>Featuring iPhone 3GS White</title>
@@ -1420,7 +1436,7 @@
       <guid isPermaLink="true">https://x.com/avstorm/status/2120520611319730205</guid>
       <pubDate>Wed, 11 Nov 2026 14:14:45 GMT</pubDate>
       <author>@avstorm</author>
-      <description><![CDATA[<p>Behind the scenes of the Polestar Formula 2030 design.</p>]]></description>
+      <description><![CDATA[<p>Behind the scenes of the Polestar Formula 2030 design.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2120520318418591744/img/R9DEz3xQ8cOTLnrn.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Unexpected new app available in App Store. Enjoy 🕹️</title>
@@ -1589,22 +1605,6 @@
       <pubDate>Mon, 09 Nov 2026 22:08:48 GMT</pubDate>
       <author>@stephenhaney</author>
       <description><![CDATA[<p>We&apos;re starting a benchmark to measure design ability and quality across AI models<br><br>Which categories do you think are most important to measure? Code to design? Accuracy? Fundamentals?<br><br>What&apos;s your favorite model for design work and what makes it the strongest?<br><br>(I&apos;m not picturing</p>]]></description>
-    </item>
-    <item>
-      <title>Media post</title>
-      <link>https://x.com/AREdotNA/status/2119888081809702958</link>
-      <guid isPermaLink="true">https://x.com/AREdotNA/status/2119888081809702958</guid>
-      <pubDate>Mon, 09 Nov 2026 20:21:18 GMT</pubDate>
-      <author>@AREdotNA</author>
-      <description><![CDATA[<p></p>]]></description>
-    </item>
-    <item>
-      <title>Media post</title>
-      <link>https://x.com/AREdotNA/status/2119887879103255012</link>
-      <guid isPermaLink="true">https://x.com/AREdotNA/status/2119887879103255012</guid>
-      <pubDate>Mon, 09 Nov 2026 20:20:30 GMT</pubDate>
-      <author>@AREdotNA</author>
-      <description><![CDATA[<p></p><p><img src="https://pbs.twimg.com/media/HWtau5nW4AA7opp?format=jpg&amp;name=small" alt=""></p>]]></description>
     </item>
   </channel>
 </rss>

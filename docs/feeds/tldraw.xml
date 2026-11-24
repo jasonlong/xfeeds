@@ -13,6 +13,14 @@
     </image>
     <ttl>120</ttl>
     <item>
+      <title>You can now use ⌘K to search on https://tldraw.com.</title>
+      <link>https://x.com/tldraw/status/2125302716000084235</link>
+      <guid isPermaLink="true">https://x.com/tldraw/status/2125302716000084235</guid>
+      <pubDate>Tue, 24 Nov 2026 18:57:08 GMT</pubDate>
+      <author>@tldraw</author>
+      <description><![CDATA[<p>You can now use ⌘K to search on https://tldraw.com.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2125302686140784640/img/q62ztKdfftEvJyqQ.jpg" alt=""></p>]]></description>
+    </item>
+    <item>
       <title>“Code has become cheap, but software remains incredibly expensive,&quot; said @codestirring back in January. What makes it expensive</title>
       <link>https://x.com/tldraw/status/2125258394055663797</link>
       <guid isPermaLink="true">https://x.com/tldraw/status/2125258394055663797</guid>
@@ -74,7 +82,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2122791783360868524</guid>
       <pubDate>Tue, 17 Nov 2026 20:39:35 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>build your whiteboard app with the tldraw SDK and never waste a token implementing crops for rotated images</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2122791405978324992/img/JlqHVWrInom95AVr.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>build your whiteboard app with the tldraw SDK and never waste a token implementing crops for rotated images</p>]]></description>
     </item>
     <item>
       <title>👋 @wesbos</title>
@@ -803,14 +811,6 @@
       <pubDate>Thu, 01 Oct 2026 16:04:11 GMT</pubDate>
       <author>@tldraw</author>
       <description><![CDATA[<p>&quot;Hey Codex, show me how you&apos;d fix this bug&quot;<br><br>The new tldraw plugin lets ChatGPT map a problem on the canvas and sketch a few fixes. Comment on the drawing to ask for changes and watch it update live. Here&apos;s Max trying it on one of our bugs:</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2105690206804529152/img/h3366TfajXEC525M.jpg" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>In https://tldraw.com, cropping an image inside a rotated frame or group used to move the crop along the</title>
-      <link>https://x.com/tldraw/status/2105675060652773503</link>
-      <guid isPermaLink="true">https://x.com/tldraw/status/2105675060652773503</guid>
-      <pubDate>Thu, 01 Oct 2026 15:03:50 GMT</pubDate>
-      <author>@tldraw</author>
-      <description><![CDATA[<p>In https://tldraw.com, cropping an image inside a rotated frame or group used to move the crop along the wrong axis. The handles and arrow-key nudges now follow the axis you see.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2105674994286247936/img/VwQwM16oAucWuRYE.jpg" alt=""></p>]]></description>
     </item>
   </channel>
 </rss>
