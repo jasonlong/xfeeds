@@ -7,6 +7,14 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>examples</title>
+      <link>https://x.com/tldraw/status/2125241398442217708</link>
+      <guid isPermaLink="true">https://x.com/tldraw/status/2125241398442217708</guid>
+      <pubDate>Tue, 24 Nov 2026 14:53:29 GMT</pubDate>
+      <author>@tldraw</author>
+      <description><![CDATA[<p>examples</p><p><img src="https://pbs.twimg.com/media/HX5fw4WXsAAJ7I4?format=jpg&amp;name=small" alt=""></p>]]></description>
+    </item>
+    <item>
       <title>hell yeah</title>
       <link>https://x.com/AREdotNA/status/2125227692991647875</link>
       <guid isPermaLink="true">https://x.com/AREdotNA/status/2125227692991647875</guid>
@@ -644,7 +652,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2122791783360868524</guid>
       <pubDate>Tue, 17 Nov 2026 20:39:35 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>build your whiteboard app with the tldraw SDK and never waste a token implementing crops for rotated images</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2122791405978324992/img/JlqHVWrInom95AVr.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>build your whiteboard app with the tldraw SDK and never waste a token implementing crops for rotated images</p>]]></description>
     </item>
     <item>
       <title>Paper with Linear agents is really promising to me You could have a canvas ready to review before</title>
@@ -1164,7 +1172,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2120998881240781095</guid>
       <pubDate>Thu, 12 Nov 2026 21:55:14 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>works</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2120998821115166720/img/dXvi3a0Itj4NJdee.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>works</p>]]></description>
     </item>
     <item>
       <title>Thank you @benjamincanac for the Vue/Nuxt support.</title>
@@ -1252,7 +1260,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2120850107793129851</guid>
       <pubDate>Thu, 12 Nov 2026 12:04:03 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>We&apos;re thrilled to welcome Tooning on board as our newest SDK customer!<br><br>Tooning used the tldraw SDK to rethink how webtoons get made. Instead of drawing every panel by hand, Tooning Plus lets anyone write a story with AI, pose characters in 3D, and lay out whole episodes on one</p>]]></description>
+      <description><![CDATA[<p>We&apos;re thrilled to welcome Tooning on board as our newest SDK customer!<br><br>Tooning used the tldraw SDK to rethink how webtoons get made. Instead of drawing every panel by hand, Tooning Plus lets anyone write a story with AI, pose characters in 3D, and lay out whole episodes on one</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2120850094979448832/img/rHs4DxrdDE1P6ag3.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Apple’s annual holiday film is here. Sometimes all it takes to remember what makes us special, is someone</title>
@@ -1444,7 +1452,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2120213446625308680</guid>
       <pubDate>Tue, 10 Nov 2026 17:54:11 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>whiteboards + ai are awesome together!</p><p><img src="https://pbs.twimg.com/media/HWx89ZkXMAAqMO6.png" alt=""></p>]]></description>
+      <description><![CDATA[<p>whiteboards + ai are awesome together!</p>]]></description>
     </item>
     <item>
       <title>Apple TV introduces new Sign Language interpretation feature.</title>
@@ -1597,14 +1605,6 @@
       <pubDate>Mon, 09 Nov 2026 15:00:14 GMT</pubDate>
       <author>@avstorm</author>
       <description><![CDATA[<p>The OFFF Sevilla 2026 visuals are fire</p><p><img src="https://pbs.twimg.com/media/HWsQsY2WgAAExVB?format=jpg&amp;name=small" alt=""></p><p><img src="https://pbs.twimg.com/media/HWsQtKrXAAA2fB7?format=jpg&amp;name=small" alt=""></p><p><img src="https://pbs.twimg.com/media/HWsRedkXwAAA66u?format=jpg&amp;name=small" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>Link previews with og:video in Messages are awesome.</title>
-      <link>https://x.com/avstorm/status/2119778512081215552</link>
-      <guid isPermaLink="true">https://x.com/avstorm/status/2119778512081215552</guid>
-      <pubDate>Mon, 09 Nov 2026 13:05:55 GMT</pubDate>
-      <author>@avstorm</author>
-      <description><![CDATA[<p>Link previews with og:video in Messages are awesome.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2119776155775483904/img/wlW2nIdGgBHzsntu.jpg" alt=""></p>]]></description>
     </item>
   </channel>
 </rss>
