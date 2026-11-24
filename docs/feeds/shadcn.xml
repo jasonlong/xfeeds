@@ -13,6 +13,22 @@
     </image>
     <ttl>120</ttl>
     <item>
+      <title>Media post</title>
+      <link>https://x.com/shadcn/status/2125276180790301010</link>
+      <guid isPermaLink="true">https://x.com/shadcn/status/2125276180790301010</guid>
+      <pubDate>Tue, 24 Nov 2026 17:11:41 GMT</pubDate>
+      <author>@shadcn</author>
+      <description><![CDATA[<p></p>]]></description>
+    </item>
+    <item>
+      <title>If you&apos;re building UI today, it has to work for agents, not only humans. Maybe even built for</title>
+      <link>https://x.com/shadcn/status/2125276175828476011</link>
+      <guid isPermaLink="true">https://x.com/shadcn/status/2125276175828476011</guid>
+      <pubDate>Tue, 24 Nov 2026 17:11:40 GMT</pubDate>
+      <author>@shadcn</author>
+      <description><![CDATA[<p>If you&apos;re building UI today, it has to work for agents, not only humans. Maybe even built for agents first.<br><br>That&apos;s what we created @uisdk for. And we just made it even faster and cheaper.<br><br>This means an agent using an interface built with UI SDK is 4x faster and 85% cheaper.</p><p><img src="https://pbs.twimg.com/media/HX59E-tWgAAdKf5?format=jpg&amp;name=small" alt=""></p>]]></description>
+    </item>
+    <item>
       <title>thanks for the heads up @IAmTuomo</title>
       <link>https://x.com/shadcn/status/2125199178057875807</link>
       <guid isPermaLink="true">https://x.com/shadcn/status/2125199178057875807</guid>
@@ -58,7 +74,7 @@
       <guid isPermaLink="true">https://x.com/shadcn/status/2124880771404169429</guid>
       <pubDate>Mon, 23 Nov 2026 15:00:28 GMT</pubDate>
       <author>@shadcn</author>
-      <description><![CDATA[<p>If you get the foundation right, your agents get to have fun. UI SDK handles the hard part.<br><br>Bring the whimsy back to interfaces.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2124758753861910528/img/RO9GMsKQSK3Y1Q6s.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>If you get the foundation right, your agents get to have fun. UI SDK handles the hard part.<br><br>Bring the whimsy back to interfaces.</p>]]></description>
     </item>
     <item>
       <title>In @uisdk, you don&apos;t wrap components. You import a primitive (with behaviors) and create its parts in your</title>
@@ -90,7 +106,7 @@
       <guid isPermaLink="true">https://x.com/shadcn/status/2124037630224679269</guid>
       <pubDate>Sat, 21 Nov 2026 07:10:08 GMT</pubDate>
       <author>@shadcn</author>
-      <description><![CDATA[<p>This guy 🤯</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2124035823402135553/img/4Xp7cx_NkLpqI166.jpg" alt=""></p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2124035823385350145/img/TIHqZMaDcpN3QeCV.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>This guy 🤯</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2124035823389593600/img/9HzxCeGNG3UyUJQs.jpg" alt=""></p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2124035823402135553/img/4Xp7cx_NkLpqI166.jpg" alt=""></p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2124035823385350145/img/TIHqZMaDcpN3QeCV.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Media post</title>
@@ -795,22 +811,6 @@
       <pubDate>Tue, 29 Sep 2026 17:26:10 GMT</pubDate>
       <author>@shadcn</author>
       <description><![CDATA[<p>✔️</p>]]></description>
-    </item>
-    <item>
-      <title>Why horizontal tabs? Vertical is navigation. Organizational. Hierarchical. A tree. It&apos;s &quot;history&quot;. You don&apos;t need it on screen</title>
-      <link>https://x.com/shadcn/status/2104873649702387819</link>
-      <guid isPermaLink="true">https://x.com/shadcn/status/2104873649702387819</guid>
-      <pubDate>Tue, 29 Sep 2026 09:59:19 GMT</pubDate>
-      <author>@shadcn</author>
-      <description><![CDATA[<p>Why horizontal tabs? <br><br>Vertical is navigation. Organizational. Hierarchical. A tree. It&apos;s &quot;history&quot;. You don&apos;t need it on screen all the time.<br><br>Horizontal is the working set. The threads that are live. Always visible. Give it icons, colors, status. Context at a glance.<br><br>In apps</p><p><img src="https://pbs.twimg.com/media/HTYB7nXXIAA5vDm?format=jpg&amp;name=small" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>Updated the chatbot-template to latest next, ai-sdk, shadcn/react, cn and some bug fixes. More soon.</title>
-      <link>https://x.com/shadcn/status/2104560334535086488</link>
-      <guid isPermaLink="true">https://x.com/shadcn/status/2104560334535086488</guid>
-      <pubDate>Mon, 28 Sep 2026 13:14:19 GMT</pubDate>
-      <author>@shadcn</author>
-      <description><![CDATA[<p>Updated the chatbot-template to latest next, ai-sdk, shadcn/react, cn and some bug fixes. More soon.</p>]]></description>
     </item>
   </channel>
 </rss>

@@ -13,6 +13,14 @@
     </image>
     <ttl>120</ttl>
     <item>
+      <title>Better, not more software</title>
+      <link>https://x.com/pidotdev/status/2125273253191331860</link>
+      <guid isPermaLink="true">https://x.com/pidotdev/status/2125273253191331860</guid>
+      <pubDate>Tue, 24 Nov 2026 17:00:03 GMT</pubDate>
+      <author>@pidotdev</author>
+      <description><![CDATA[<p>Better, not more software</p>]]></description>
+    </item>
+    <item>
       <title>Is it VSCode? Is it Cursor? Nope. It&apos;s pi-durable in Pi Desktop built by @cristinaponcela Or, as Gramps</title>
       <link>https://x.com/pidotdev/status/2125163415966790124</link>
       <guid isPermaLink="true">https://x.com/pidotdev/status/2125163415966790124</guid>
@@ -122,7 +130,7 @@
       <guid isPermaLink="true">https://x.com/pidotdev/status/2113285940974342204</guid>
       <pubDate>Thu, 22 Oct 2026 15:06:45 GMT</pubDate>
       <author>@pidotdev</author>
-      <description><![CDATA[<p>Thanks for spreading the good word about Pi Durable @superlinear_fm</p>]]></description>
+      <description><![CDATA[<p>Thanks for spreading the good word about Pi Durable @superlinear_fm</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2113246725078994944/img/3bOwNXDDpDHs7OIe.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>@Recursive_SI shipped its first model, Flint! Exciting to see they did extensive RL training on the Pi harness,</title>
@@ -130,7 +138,7 @@
       <guid isPermaLink="true">https://x.com/pidotdev/status/2112978311252979761</guid>
       <pubDate>Wed, 21 Oct 2026 18:44:21 GMT</pubDate>
       <author>@pidotdev</author>
-      <description><![CDATA[<p>@Recursive_SI shipped its first model, Flint! Exciting to see they did extensive RL training on the Pi harness, so it works well out of the box.<br>40B MoE (2.5B active) for fast local coding. Apache 2.0.<br><br>Available now for free in Pi via Radius.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2112941750809419776/img/MJaHRrNTo-Kg92Pb.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>@Recursive_SI shipped its first model, Flint! Exciting to see they did extensive RL training on the Pi harness, so it works well out of the box.<br>40B MoE (2.5B active) for fast local coding. Apache 2.0.<br><br>Available now for free in Pi via Radius.</p>]]></description>
     </item>
     <item>
       <title>We have huge respect for the engineering at Vercel and are excited they are building with Pi-Durable</title>
@@ -146,7 +154,7 @@
       <guid isPermaLink="true">https://x.com/pidotdev/status/2112576009509691512</guid>
       <pubDate>Tue, 20 Oct 2026 16:05:45 GMT</pubDate>
       <author>@pidotdev</author>
-      <description><![CDATA[<p>Thanks @_alejandroao for all the effort you put into helping others understand what we build</p>]]></description>
+      <description><![CDATA[<p>Thanks @_alejandroao for all the effort you put into helping others understand what we build</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2112466228027469824/img/HPJyuNmO4nIrqLzd.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Today&apos;s Monday Meditations is a photo of a rock sculpture someone at Earendil built in Austria</title>
@@ -803,14 +811,6 @@
       <pubDate>Thu, 20 Aug 2026 12:30:00 GMT</pubDate>
       <author>@pidotdev</author>
       <description><![CDATA[<p>A harness turns a model into an agent. At it’s core it provides 4 things:<br><br>- a system prompt<br>- tools<br>- an agentic loop <br>- a translation layer across models <br><br>New blog post from Earendil co-founder @colindaymond on what a harness is, and how you can own yours. Full post below</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2090412016506695680/img/Y8bKh5p43u7vcpFo.jpg" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>Skills are often more context efficient than other tools and can be customized easily. Learn more about building</title>
-      <link>https://x.com/pidotdev/status/2090050322697752925</link>
-      <guid isPermaLink="true">https://x.com/pidotdev/status/2090050322697752925</guid>
-      <pubDate>Wed, 19 Aug 2026 12:16:42 GMT</pubDate>
-      <author>@pidotdev</author>
-      <description><![CDATA[<p>Skills are often more context efficient than other tools and can be customized easily. Learn more about building and using them in Pi here</p>]]></description>
     </item>
   </channel>
 </rss>
