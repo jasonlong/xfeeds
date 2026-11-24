@@ -7,6 +7,14 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>“Code has become cheap, but software remains incredibly expensive,&quot; said @codestirring back in January. What makes it expensive</title>
+      <link>https://x.com/tldraw/status/2125258394055663797</link>
+      <guid isPermaLink="true">https://x.com/tldraw/status/2125258394055663797</guid>
+      <pubDate>Tue, 24 Nov 2026 16:01:01 GMT</pubDate>
+      <author>@tldraw</author>
+      <description><![CDATA[<p>“Code has become cheap, but software remains incredibly expensive,&quot; said @codestirring back in January.<br><br>What makes it expensive is the maintenance. But what would you build if you were never planning on keeping it?</p>]]></description>
+    </item>
+    <item>
       <title>examples</title>
       <link>https://x.com/tldraw/status/2125241398442217708</link>
       <guid isPermaLink="true">https://x.com/tldraw/status/2125241398442217708</guid>
@@ -652,7 +660,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2122791783360868524</guid>
       <pubDate>Tue, 17 Nov 2026 20:39:35 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>build your whiteboard app with the tldraw SDK and never waste a token implementing crops for rotated images</p>]]></description>
+      <description><![CDATA[<p>build your whiteboard app with the tldraw SDK and never waste a token implementing crops for rotated images</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2122791405978324992/img/JlqHVWrInom95AVr.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Paper with Linear agents is really promising to me You could have a canvas ready to review before</title>
@@ -1036,7 +1044,7 @@
       <guid isPermaLink="true">https://x.com/avstorm/status/2121515197810573377</guid>
       <pubDate>Sat, 14 Nov 2026 08:06:53 GMT</pubDate>
       <author>@avstorm</author>
-      <description><![CDATA[<p></p>]]></description>
+      <description><![CDATA[<p></p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2121515144475770880/img/OVWmtX4a7VvLqCpy.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>I’m seeing some incredibly amazing things being built with the UI SDK. Keep them coming.</title>
@@ -1076,7 +1084,7 @@
       <guid isPermaLink="true">https://x.com/avstorm/status/2121306461607477450</guid>
       <pubDate>Fri, 13 Nov 2026 18:17:27 GMT</pubDate>
       <author>@avstorm</author>
-      <description><![CDATA[<p>The classic Mac startup vibe in the HomeView setup sound is awesome.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2121306143955795968/img/GMOh99nQ0qRkYuw9.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>The classic Mac startup vibe in the HomeView setup sound is awesome.</p>]]></description>
     </item>
     <item>
       <title>The annual Lord of the Rings rewatch. It’s time. Back to Middle-earth.</title>
@@ -1172,7 +1180,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2120998881240781095</guid>
       <pubDate>Thu, 12 Nov 2026 21:55:14 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>works</p>]]></description>
+      <description><![CDATA[<p>works</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2120998821115166720/img/dXvi3a0Itj4NJdee.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Thank you @benjamincanac for the Vue/Nuxt support.</title>
@@ -1268,7 +1276,7 @@
       <guid isPermaLink="true">https://x.com/avstorm/status/2120837781786370447</guid>
       <pubDate>Thu, 12 Nov 2026 11:15:05 GMT</pubDate>
       <author>@avstorm</author>
-      <description><![CDATA[<p>Apple’s annual holiday film is here.<br><br>Sometimes all it takes to remember what makes us special, is someone who believes in us.</p>]]></description>
+      <description><![CDATA[<p>Apple’s annual holiday film is here.<br><br>Sometimes all it takes to remember what makes us special, is someone who believes in us.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2120836580000579584/img/kCkZZDdX8rmoKn5k.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Featuring iPhone 3GS White</title>
@@ -1364,7 +1372,7 @@
       <guid isPermaLink="true">https://x.com/avstorm/status/2120520611319730205</guid>
       <pubDate>Wed, 11 Nov 2026 14:14:45 GMT</pubDate>
       <author>@avstorm</author>
-      <description><![CDATA[<p>Behind the scenes of the Polestar Formula 2030 design.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2120520318418591744/img/R9DEz3xQ8cOTLnrn.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Behind the scenes of the Polestar Formula 2030 design.</p>]]></description>
     </item>
     <item>
       <title>Unexpected new app available in App Store. Enjoy 🕹️</title>
@@ -1597,14 +1605,6 @@
       <pubDate>Mon, 09 Nov 2026 15:02:36 GMT</pubDate>
       <author>@shadcn</author>
       <description><![CDATA[<p>Need Opus 5.5s</p>]]></description>
-    </item>
-    <item>
-      <title>The OFFF Sevilla 2026 visuals are fire</title>
-      <link>https://x.com/avstorm/status/2119807282116452494</link>
-      <guid isPermaLink="true">https://x.com/avstorm/status/2119807282116452494</guid>
-      <pubDate>Mon, 09 Nov 2026 15:00:14 GMT</pubDate>
-      <author>@avstorm</author>
-      <description><![CDATA[<p>The OFFF Sevilla 2026 visuals are fire</p><p><img src="https://pbs.twimg.com/media/HWsQsY2WgAAExVB?format=jpg&amp;name=small" alt=""></p><p><img src="https://pbs.twimg.com/media/HWsQtKrXAAA2fB7?format=jpg&amp;name=small" alt=""></p><p><img src="https://pbs.twimg.com/media/HWsRedkXwAAA66u?format=jpg&amp;name=small" alt=""></p>]]></description>
     </item>
   </channel>
 </rss>

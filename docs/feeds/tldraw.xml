@@ -13,6 +13,14 @@
     </image>
     <ttl>120</ttl>
     <item>
+      <title>“Code has become cheap, but software remains incredibly expensive,&quot; said @codestirring back in January. What makes it expensive</title>
+      <link>https://x.com/tldraw/status/2125258394055663797</link>
+      <guid isPermaLink="true">https://x.com/tldraw/status/2125258394055663797</guid>
+      <pubDate>Tue, 24 Nov 2026 16:01:01 GMT</pubDate>
+      <author>@tldraw</author>
+      <description><![CDATA[<p>“Code has become cheap, but software remains incredibly expensive,&quot; said @codestirring back in January.<br><br>What makes it expensive is the maintenance. But what would you build if you were never planning on keeping it?</p>]]></description>
+    </item>
+    <item>
       <title>examples</title>
       <link>https://x.com/tldraw/status/2125241398442217708</link>
       <guid isPermaLink="true">https://x.com/tldraw/status/2125241398442217708</guid>
@@ -66,7 +74,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2122791783360868524</guid>
       <pubDate>Tue, 17 Nov 2026 20:39:35 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>build your whiteboard app with the tldraw SDK and never waste a token implementing crops for rotated images</p>]]></description>
+      <description><![CDATA[<p>build your whiteboard app with the tldraw SDK and never waste a token implementing crops for rotated images</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2122791405978324992/img/JlqHVWrInom95AVr.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>👋 @wesbos</title>
@@ -122,7 +130,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2120998881240781095</guid>
       <pubDate>Thu, 12 Nov 2026 21:55:14 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>works</p>]]></description>
+      <description><![CDATA[<p>works</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2120998821115166720/img/dXvi3a0Itj4NJdee.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>We&apos;re thrilled to welcome Tooning on board as our newest SDK customer! Tooning used the tldraw SDK to</title>
@@ -803,14 +811,6 @@
       <pubDate>Thu, 01 Oct 2026 15:03:50 GMT</pubDate>
       <author>@tldraw</author>
       <description><![CDATA[<p>In https://tldraw.com, cropping an image inside a rotated frame or group used to move the crop along the wrong axis. The handles and arrow-key nudges now follow the axis you see.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2105674994286247936/img/VwQwM16oAucWuRYE.jpg" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>Welcome to tldraw sleep, a series of videos on topics we think are interesting. Tonight&apos;s episode is about</title>
-      <link>https://x.com/tldraw/status/2105431495662018996</link>
-      <guid isPermaLink="true">https://x.com/tldraw/status/2105431495662018996</guid>
-      <pubDate>Wed, 30 Sep 2026 22:56:00 GMT</pubDate>
-      <author>@tldraw</author>
-      <description><![CDATA[<p>Welcome to tldraw sleep, a series of videos on topics we think are interesting. Tonight&apos;s episode is about the domestication of horses.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2104332876527398912/img/F5_ZmeVuq1ALI7Rt.jpg" alt=""></p>]]></description>
     </item>
   </channel>
 </rss>
