@@ -7,6 +7,14 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>we spent a little while figuring out how we could do migrations from various products during onboarding for</title>
+      <link>https://x.com/almonk/status/2125177769726243241</link>
+      <guid isPermaLink="true">https://x.com/almonk/status/2125177769726243241</guid>
+      <pubDate>Tue, 24 Nov 2026 10:40:38 GMT</pubDate>
+      <author>@almonk</author>
+      <description><![CDATA[<p>we spent a little while figuring out how we could do migrations from various products during onboarding for Rex, but decided that really the best experience is just letting agents do it. <br><br>users have migrated from all sorts of apps and terminals  that we would never have been</p><p><img src="https://pbs.twimg.com/media/HX4lpf6XMAAA1YT?format=jpg&amp;name=small" alt=""></p>]]></description>
+    </item>
+    <item>
       <title>Is it VSCode? Is it Cursor? Nope. It&apos;s pi-durable in Pi Desktop built by @cristinaponcela Or, as Gramps</title>
       <link>https://x.com/pidotdev/status/2125163415966790124</link>
       <guid isPermaLink="true">https://x.com/pidotdev/status/2125163415966790124</guid>
@@ -436,7 +444,7 @@
       <guid isPermaLink="true">https://x.com/almonk/status/2123164848070561829</guid>
       <pubDate>Wed, 18 Nov 2026 21:22:00 GMT</pubDate>
       <author>@almonk</author>
-      <description><![CDATA[<p>as an aside I built the slides here in @paper with Claude in about 7 minutes. i fucking love the future.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2123043561985765377/img/ExjNTsFbWc870vHz.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>as an aside I built the slides here in @paper with Claude in about 7 minutes. i fucking love the future.</p>]]></description>
     </item>
     <item>
       <title>As a student of design tools, this feels historic In Ramp&apos;s spend data, Paper passed Sketch in adoption</title>
@@ -516,7 +524,7 @@
       <guid isPermaLink="true">https://x.com/almonk/status/2123044473873588226</guid>
       <pubDate>Wed, 18 Nov 2026 13:23:41 GMT</pubDate>
       <author>@almonk</author>
-      <description><![CDATA[<p>posted this into our Rex discord today... the new `𝚛𝚎𝚡.𝚞𝚒` primitives provides a new set of simple but powerful methods to build interactive scripts within Rex that require user interaction.<br><br>Now you can build the workflow of your dreams, that little action you always wanted</p>]]></description>
+      <description><![CDATA[<p>posted this into our Rex discord today... the new `𝚛𝚎𝚡.𝚞𝚒` primitives provides a new set of simple but powerful methods to build interactive scripts within Rex that require user interaction.<br><br>Now you can build the workflow of your dreams, that little action you always wanted</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2123043561985765377/img/ExjNTsFbWc870vHz.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Media post</title>
@@ -876,7 +884,7 @@
       <guid isPermaLink="true">https://x.com/almonk/status/2122357779365089661</guid>
       <pubDate>Mon, 16 Nov 2026 15:55:00 GMT</pubDate>
       <author>@almonk</author>
-      <description><![CDATA[<p>some playful new floating windows features in Rex</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2122357721227784193/img/0bqtUw1QlIm50vcS.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>some playful new floating windows features in Rex</p>]]></description>
     </item>
     <item>
       <title>learn to be like pidalf, learn to be durable</title>
@@ -1597,14 +1605,6 @@
       <pubDate>Mon, 09 Nov 2026 00:24:18 GMT</pubDate>
       <author>@ryolu_</author>
       <description><![CDATA[<p>when we can do anything,<br>do we still know what we want?<br><br>the full talk from @aiDotEngineer shanghai. every slide handmade in keynote, subs in 中文 and english</p>]]></description>
-    </item>
-    <item>
-      <title>Your Mac has weather now. https://koiart.app by @TheSpacerr</title>
-      <link>https://x.com/avstorm/status/2119344263007740276</link>
-      <guid isPermaLink="true">https://x.com/avstorm/status/2119344263007740276</guid>
-      <pubDate>Sun, 08 Nov 2026 08:20:22 GMT</pubDate>
-      <author>@avstorm</author>
-      <description><![CDATA[<p>Your Mac has weather now.<br><br>https://koiart.app by @TheSpacerr</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2119343041622282240/img/9Ngd43wiHvoCItvx.jpg" alt=""></p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2119343060219736064/img/ykHkAbHYGiDK6DlG.jpg" alt=""></p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2119343073373077504/img/bbU1WPCIjXMwxAbP.jpg" alt=""></p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2119343085029101568/img/qTsq77B7DILblBDk.jpg" alt=""></p>]]></description>
     </item>
   </channel>
 </rss>

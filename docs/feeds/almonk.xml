@@ -13,6 +13,14 @@
     </image>
     <ttl>120</ttl>
     <item>
+      <title>we spent a little while figuring out how we could do migrations from various products during onboarding for</title>
+      <link>https://x.com/almonk/status/2125177769726243241</link>
+      <guid isPermaLink="true">https://x.com/almonk/status/2125177769726243241</guid>
+      <pubDate>Tue, 24 Nov 2026 10:40:38 GMT</pubDate>
+      <author>@almonk</author>
+      <description><![CDATA[<p>we spent a little while figuring out how we could do migrations from various products during onboarding for Rex, but decided that really the best experience is just letting agents do it. <br><br>users have migrated from all sorts of apps and terminals  that we would never have been</p><p><img src="https://pbs.twimg.com/media/HX4lpf6XMAAA1YT?format=jpg&amp;name=small" alt=""></p>]]></description>
+    </item>
+    <item>
       <title>@ladybirdbrowser is so exciting. after a year of chromium wrappers, Arc-knockoffs of varying quality and many lacklustre launches,</title>
       <link>https://x.com/almonk/status/2124927901288042776</link>
       <guid isPermaLink="true">https://x.com/almonk/status/2124927901288042776</guid>
@@ -58,7 +66,7 @@
       <guid isPermaLink="true">https://x.com/almonk/status/2123164848070561829</guid>
       <pubDate>Wed, 18 Nov 2026 21:22:00 GMT</pubDate>
       <author>@almonk</author>
-      <description><![CDATA[<p>as an aside I built the slides here in @paper with Claude in about 7 minutes. i fucking love the future.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2123043561985765377/img/ExjNTsFbWc870vHz.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>as an aside I built the slides here in @paper with Claude in about 7 minutes. i fucking love the future.</p>]]></description>
     </item>
     <item>
       <title>this is also my ad for @paper i guess</title>
@@ -74,7 +82,7 @@
       <guid isPermaLink="true">https://x.com/almonk/status/2123044473873588226</guid>
       <pubDate>Wed, 18 Nov 2026 13:23:41 GMT</pubDate>
       <author>@almonk</author>
-      <description><![CDATA[<p>posted this into our Rex discord today... the new `𝚛𝚎𝚡.𝚞𝚒` primitives provides a new set of simple but powerful methods to build interactive scripts within Rex that require user interaction.<br><br>Now you can build the workflow of your dreams, that little action you always wanted</p>]]></description>
+      <description><![CDATA[<p>posted this into our Rex discord today... the new `𝚛𝚎𝚡.𝚞𝚒` primitives provides a new set of simple but powerful methods to build interactive scripts within Rex that require user interaction.<br><br>Now you can build the workflow of your dreams, that little action you always wanted</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2123043561985765377/img/ExjNTsFbWc870vHz.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>the world we live in now: extremely smart and aggressive hacking agents and poorly written slop services. gonna</title>
@@ -138,7 +146,7 @@
       <guid isPermaLink="true">https://x.com/almonk/status/2122357779365089661</guid>
       <pubDate>Mon, 16 Nov 2026 15:55:00 GMT</pubDate>
       <author>@almonk</author>
-      <description><![CDATA[<p>some playful new floating windows features in Rex</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2122357721227784193/img/0bqtUw1QlIm50vcS.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>some playful new floating windows features in Rex</p>]]></description>
     </item>
     <item>
       <title>This is a great overview of Rex right now and the multiplexer for all work we’re building. Regardless</title>
@@ -803,14 +811,6 @@
       <pubDate>Mon, 14 Sep 2026 22:39:57 GMT</pubDate>
       <author>@almonk</author>
       <description><![CDATA[<p>Anything you can do in the ui you can do in the cli (and actually more). I&apos;m using our cli every day to automate all sorts of stuff in our terminal multiplexer: creating environment workspaces, populating layouts, orchestrating multiple agents...</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2099620779042480128/img/fCUSEzKBJdKiH8OG.jpg" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>idk about anyone else, but I find it really hard to dictate what I&apos;m thinking. typing unlocks something</title>
-      <link>https://x.com/almonk/status/2099477840777363820</link>
-      <guid isPermaLink="true">https://x.com/almonk/status/2099477840777363820</guid>
-      <pubDate>Mon, 14 Sep 2026 12:38:18 GMT</pubDate>
-      <author>@almonk</author>
-      <description><![CDATA[<p>idk about anyone else, but I find it really hard to dictate what I&apos;m thinking. typing unlocks something in my brain that speaking just doesn&apos;t.</p>]]></description>
     </item>
   </channel>
 </rss>
