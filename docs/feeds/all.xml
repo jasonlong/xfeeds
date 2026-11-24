@@ -7,6 +7,22 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>The Rex integration for terminal browser is really good. Point at an element, and the browser sends the</title>
+      <link>https://x.com/almonk/status/2125294789298188324</link>
+      <guid isPermaLink="true">https://x.com/almonk/status/2125294789298188324</guid>
+      <pubDate>Tue, 24 Nov 2026 18:25:38 GMT</pubDate>
+      <author>@almonk</author>
+      <description><![CDATA[<p>The Rex integration for terminal browser is really good. Point at an element, and the browser sends the Rex pane agent useful context for your next change.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2125294588902453248/img/tqPrNW2q0HQ-qjWx.jpg" alt=""></p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2125271361215963136/img/MaCOCNjxyCuBDtcZ?format=jpg&amp;name=240x240" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>I&apos;ve seen Rob in Discord relentlessly improving terminal-browser in Rex! Note that some of his experience also resulted</title>
+      <link>https://x.com/mitchellh/status/2125290821394276589</link>
+      <guid isPermaLink="true">https://x.com/mitchellh/status/2125290821394276589</guid>
+      <pubDate>Tue, 24 Nov 2026 18:09:52 GMT</pubDate>
+      <author>@mitchellh</author>
+      <description><![CDATA[<p>I&apos;ve seen Rob in Discord relentlessly improving terminal-browser in Rex! Note that some of his experience also resulted in finding issues in Rex as well (mainly performance issues in some of our Kitty graphics stack). It&apos;s been a good benchmark for us.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2125271361215963136/img/MaCOCNjxyCuBDtcZ.jpg" alt=""></p>]]></description>
+    </item>
+    <item>
       <title>7 weeks since Paper Mono launched, and so many folks have been DMing me beautiful artwork with the</title>
       <link>https://x.com/agusegui/status/2125279198726041636</link>
       <guid isPermaLink="true">https://x.com/agusegui/status/2125279198726041636</guid>
@@ -508,7 +524,7 @@
       <guid isPermaLink="true">https://x.com/mitchellh/status/2123167959686496690</guid>
       <pubDate>Wed, 18 Nov 2026 21:34:22 GMT</pubDate>
       <author>@mitchellh</author>
-      <description><![CDATA[<p>Rex has really powerful Lua scripting that our beta group has been using to huge effect. We expanded it today with `rex.ui`: a way to build automations that require user interaction. <br><br>The way this works with multiple clients: the choice pops up on all attached clients. The first</p>]]></description>
+      <description><![CDATA[<p>Rex has really powerful Lua scripting that our beta group has been using to huge effect. We expanded it today with `rex.ui`: a way to build automations that require user interaction. <br><br>The way this works with multiple clients: the choice pops up on all attached clients. The first</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2123043561985765377/img/ExjNTsFbWc870vHz.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>as an aside I built the slides here in @paper with Claude in about 7 minutes. i fucking</title>
@@ -516,7 +532,7 @@
       <guid isPermaLink="true">https://x.com/almonk/status/2123164848070561829</guid>
       <pubDate>Wed, 18 Nov 2026 21:22:00 GMT</pubDate>
       <author>@almonk</author>
-      <description><![CDATA[<p>as an aside I built the slides here in @paper with Claude in about 7 minutes. i fucking love the future.</p>]]></description>
+      <description><![CDATA[<p>as an aside I built the slides here in @paper with Claude in about 7 minutes. i fucking love the future.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2123043561985765377/img/ExjNTsFbWc870vHz.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>As a student of design tools, this feels historic In Ramp&apos;s spend data, Paper passed Sketch in adoption</title>
@@ -956,7 +972,7 @@
       <guid isPermaLink="true">https://x.com/almonk/status/2122357779365089661</guid>
       <pubDate>Mon, 16 Nov 2026 15:55:00 GMT</pubDate>
       <author>@almonk</author>
-      <description><![CDATA[<p>some playful new floating windows features in Rex</p>]]></description>
+      <description><![CDATA[<p>some playful new floating windows features in Rex</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2122357721227784193/img/0bqtUw1QlIm50vcS.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>learn to be like pidalf, learn to be durable</title>
@@ -1076,7 +1092,7 @@
       <guid isPermaLink="true">https://x.com/avstorm/status/2121515197810573377</guid>
       <pubDate>Sat, 14 Nov 2026 08:06:53 GMT</pubDate>
       <author>@avstorm</author>
-      <description><![CDATA[<p></p>]]></description>
+      <description><![CDATA[<p></p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2121515144475770880/img/OVWmtX4a7VvLqCpy.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>I’m seeing some incredibly amazing things being built with the UI SDK. Keep them coming.</title>
@@ -1116,7 +1132,7 @@
       <guid isPermaLink="true">https://x.com/avstorm/status/2121306461607477450</guid>
       <pubDate>Fri, 13 Nov 2026 18:17:27 GMT</pubDate>
       <author>@avstorm</author>
-      <description><![CDATA[<p>The classic Mac startup vibe in the HomeView setup sound is awesome.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2121306143955795968/img/GMOh99nQ0qRkYuw9.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>The classic Mac startup vibe in the HomeView setup sound is awesome.</p>]]></description>
     </item>
     <item>
       <title>The annual Lord of the Rings rewatch. It’s time. Back to Middle-earth.</title>
@@ -1308,7 +1324,7 @@
       <guid isPermaLink="true">https://x.com/avstorm/status/2120837781786370447</guid>
       <pubDate>Thu, 12 Nov 2026 11:15:05 GMT</pubDate>
       <author>@avstorm</author>
-      <description><![CDATA[<p>Apple’s annual holiday film is here.<br><br>Sometimes all it takes to remember what makes us special, is someone who believes in us.</p>]]></description>
+      <description><![CDATA[<p>Apple’s annual holiday film is here.<br><br>Sometimes all it takes to remember what makes us special, is someone who believes in us.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2120836580000579584/img/kCkZZDdX8rmoKn5k.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Featuring iPhone 3GS White</title>
@@ -1404,7 +1420,7 @@
       <guid isPermaLink="true">https://x.com/avstorm/status/2120520611319730205</guid>
       <pubDate>Wed, 11 Nov 2026 14:14:45 GMT</pubDate>
       <author>@avstorm</author>
-      <description><![CDATA[<p>Behind the scenes of the Polestar Formula 2030 design.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2120520318418591744/img/R9DEz3xQ8cOTLnrn.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Behind the scenes of the Polestar Formula 2030 design.</p>]]></description>
     </item>
     <item>
       <title>Unexpected new app available in App Store. Enjoy 🕹️</title>
@@ -1589,22 +1605,6 @@
       <pubDate>Mon, 09 Nov 2026 20:20:30 GMT</pubDate>
       <author>@AREdotNA</author>
       <description><![CDATA[<p></p><p><img src="https://pbs.twimg.com/media/HWtau5nW4AA7opp?format=jpg&amp;name=small" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>Most trading platforms end where your monitor ends. So traders buy more monitors. @Aries built a trading desk</title>
-      <link>https://x.com/tldraw/status/2119882971494969406</link>
-      <guid isPermaLink="true">https://x.com/tldraw/status/2119882971494969406</guid>
-      <pubDate>Mon, 09 Nov 2026 20:01:00 GMT</pubDate>
-      <author>@tldraw</author>
-      <description><![CDATA[<p>Most trading platforms end where your monitor ends. So traders buy more monitors.<br><br>@Aries built a trading desk with no edges: live charts, order entry, news and AI-made widgets, all built with the tldraw SDK.<br><br>Read the full story here:</p>]]></description>
-    </item>
-    <item>
-      <title>Run /improve with Fable 5.2. I’m seeing some interesting results that Opus 5.5 missed. https://github.com/shadcn/improve</title>
-      <link>https://x.com/shadcn/status/2119879610724720702</link>
-      <guid isPermaLink="true">https://x.com/shadcn/status/2119879610724720702</guid>
-      <pubDate>Mon, 09 Nov 2026 19:47:39 GMT</pubDate>
-      <author>@shadcn</author>
-      <description><![CDATA[<p>Run /improve with Fable 5.2. I’m seeing some interesting results that Opus 5.5 missed. <br><br>https://github.com/shadcn/improve</p><p><img src="https://pbs.twimg.com/media/HWtIJNLWUAAcc7I.jpg" alt=""></p>]]></description>
     </item>
   </channel>
 </rss>

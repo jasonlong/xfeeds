@@ -13,6 +13,14 @@
     </image>
     <ttl>120</ttl>
     <item>
+      <title>The Rex integration for terminal browser is really good. Point at an element, and the browser sends the</title>
+      <link>https://x.com/almonk/status/2125294789298188324</link>
+      <guid isPermaLink="true">https://x.com/almonk/status/2125294789298188324</guid>
+      <pubDate>Tue, 24 Nov 2026 18:25:38 GMT</pubDate>
+      <author>@almonk</author>
+      <description><![CDATA[<p>The Rex integration for terminal browser is really good. Point at an element, and the browser sends the Rex pane agent useful context for your next change.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2125294588902453248/img/tqPrNW2q0HQ-qjWx.jpg" alt=""></p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2125271361215963136/img/MaCOCNjxyCuBDtcZ?format=jpg&amp;name=240x240" alt=""></p>]]></description>
+    </item>
+    <item>
       <title>we spent a little while figuring out how we could do migrations from various products during onboarding for</title>
       <link>https://x.com/almonk/status/2125177769726243241</link>
       <guid isPermaLink="true">https://x.com/almonk/status/2125177769726243241</guid>
@@ -66,7 +74,7 @@
       <guid isPermaLink="true">https://x.com/almonk/status/2123164848070561829</guid>
       <pubDate>Wed, 18 Nov 2026 21:22:00 GMT</pubDate>
       <author>@almonk</author>
-      <description><![CDATA[<p>as an aside I built the slides here in @paper with Claude in about 7 minutes. i fucking love the future.</p>]]></description>
+      <description><![CDATA[<p>as an aside I built the slides here in @paper with Claude in about 7 minutes. i fucking love the future.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2123043561985765377/img/ExjNTsFbWc870vHz.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>this is also my ad for @paper i guess</title>
@@ -146,7 +154,7 @@
       <guid isPermaLink="true">https://x.com/almonk/status/2122357779365089661</guid>
       <pubDate>Mon, 16 Nov 2026 15:55:00 GMT</pubDate>
       <author>@almonk</author>
-      <description><![CDATA[<p>some playful new floating windows features in Rex</p>]]></description>
+      <description><![CDATA[<p>some playful new floating windows features in Rex</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2122357721227784193/img/0bqtUw1QlIm50vcS.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>This is a great overview of Rex right now and the multiplexer for all work we’re building. Regardless</title>
@@ -803,14 +811,6 @@
       <pubDate>Tue, 15 Sep 2026 12:05:20 GMT</pubDate>
       <author>@almonk</author>
       <description><![CDATA[<p>almost, but the entire loop is “design it”</p>]]></description>
-    </item>
-    <item>
-      <title>Anything you can do in the ui you can do in the cli (and actually more). I&apos;m using</title>
-      <link>https://x.com/almonk/status/2099629252710678875</link>
-      <guid isPermaLink="true">https://x.com/almonk/status/2099629252710678875</guid>
-      <pubDate>Mon, 14 Sep 2026 22:39:57 GMT</pubDate>
-      <author>@almonk</author>
-      <description><![CDATA[<p>Anything you can do in the ui you can do in the cli (and actually more). I&apos;m using our cli every day to automate all sorts of stuff in our terminal multiplexer: creating environment workspaces, populating layouts, orchestrating multiple agents...</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2099620779042480128/img/fCUSEzKBJdKiH8OG.jpg" alt=""></p>]]></description>
     </item>
   </channel>
 </rss>

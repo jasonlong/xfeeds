@@ -13,6 +13,14 @@
     </image>
     <ttl>120</ttl>
     <item>
+      <title>I&apos;ve seen Rob in Discord relentlessly improving terminal-browser in Rex! Note that some of his experience also resulted</title>
+      <link>https://x.com/mitchellh/status/2125290821394276589</link>
+      <guid isPermaLink="true">https://x.com/mitchellh/status/2125290821394276589</guid>
+      <pubDate>Tue, 24 Nov 2026 18:09:52 GMT</pubDate>
+      <author>@mitchellh</author>
+      <description><![CDATA[<p>I&apos;ve seen Rob in Discord relentlessly improving terminal-browser in Rex! Note that some of his experience also resulted in finding issues in Rex as well (mainly performance issues in some of our Kitty graphics stack). It&apos;s been a good benchmark for us.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2125271361215963136/img/MaCOCNjxyCuBDtcZ.jpg" alt=""></p>]]></description>
+    </item>
+    <item>
       <title>Some folks are shocked we&apos;re doing Windows (client) before Linux (client) for Rex. Note we will publicly ship</title>
       <link>https://x.com/mitchellh/status/2125005793883980054</link>
       <guid isPermaLink="true">https://x.com/mitchellh/status/2125005793883980054</guid>
@@ -50,7 +58,7 @@
       <guid isPermaLink="true">https://x.com/mitchellh/status/2123167959686496690</guid>
       <pubDate>Wed, 18 Nov 2026 21:34:22 GMT</pubDate>
       <author>@mitchellh</author>
-      <description><![CDATA[<p>Rex has really powerful Lua scripting that our beta group has been using to huge effect. We expanded it today with `rex.ui`: a way to build automations that require user interaction. <br><br>The way this works with multiple clients: the choice pops up on all attached clients. The first</p>]]></description>
+      <description><![CDATA[<p>Rex has really powerful Lua scripting that our beta group has been using to huge effect. We expanded it today with `rex.ui`: a way to build automations that require user interaction. <br><br>The way this works with multiple clients: the choice pops up on all attached clients. The first</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2123043561985765377/img/ExjNTsFbWc870vHz.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>The Rex for Windows alpha begins today! I think this is a better terminal than Windows Terminal, and</title>
