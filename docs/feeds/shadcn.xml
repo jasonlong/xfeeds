@@ -13,6 +13,14 @@
     </image>
     <ttl>120</ttl>
     <item>
+      <title>I&apos;ve got so many things to show you with @uisdk. It&apos;s kind of amazing how well it fits</title>
+      <link>https://x.com/shadcn/status/2125132747094339822</link>
+      <guid isPermaLink="true">https://x.com/shadcn/status/2125132747094339822</guid>
+      <pubDate>Tue, 24 Nov 2026 07:41:44 GMT</pubDate>
+      <author>@shadcn</author>
+      <description><![CDATA[<p>I&apos;ve got so many things to show you with @uisdk. It&apos;s kind of amazing how well it fits the way we build now. Perfect for agents, artifacts, generative ui, voice, any framework…</p>]]></description>
+    </item>
+    <item>
       <title>Yes. We are working on UI SDK for @angular. It will be here soon.</title>
       <link>https://x.com/shadcn/status/2124935489459261726</link>
       <guid isPermaLink="true">https://x.com/shadcn/status/2124935489459261726</guid>
@@ -803,14 +811,6 @@
       <pubDate>Mon, 28 Sep 2026 06:18:29 GMT</pubDate>
       <author>@shadcn</author>
       <description><![CDATA[<p>Liquid Glass on iOS and MacOS 27 is much better. Siri is better. Keyboard still not great for me though. And I think we still regressed in terms of UX compared to pre-liquid glass.</p>]]></description>
-    </item>
-    <item>
-      <title>Have to say, ChatGPT is a beautiful app. @edbayes and team amazing job again ✔️ sidebar is goated.</title>
-      <link>https://x.com/shadcn/status/2103764235876450734</link>
-      <guid isPermaLink="true">https://x.com/shadcn/status/2103764235876450734</guid>
-      <pubDate>Sat, 26 Sep 2026 08:30:54 GMT</pubDate>
-      <author>@shadcn</author>
-      <description><![CDATA[<p>Have to say, ChatGPT is a beautiful app. @edbayes and team amazing job again<br><br>✔️ sidebar is goated.<br>✔️ we are moving closer to the slack layout. told ya.<br>✔️ I saw a bookmark action. thank you<br><br>wishlist<br>→ horizontal tabs. trust me.<br>→ chatgpt/codex to be replaced<br>→ chatgpt = new</p>]]></description>
     </item>
   </channel>
 </rss>

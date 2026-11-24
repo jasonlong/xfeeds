@@ -7,6 +7,14 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>I&apos;ve got so many things to show you with @uisdk. It&apos;s kind of amazing how well it fits</title>
+      <link>https://x.com/shadcn/status/2125132747094339822</link>
+      <guid isPermaLink="true">https://x.com/shadcn/status/2125132747094339822</guid>
+      <pubDate>Tue, 24 Nov 2026 07:41:44 GMT</pubDate>
+      <author>@shadcn</author>
+      <description><![CDATA[<p>I&apos;ve got so many things to show you with @uisdk. It&apos;s kind of amazing how well it fits the way we build now. Perfect for agents, artifacts, generative ui, voice, any framework…</p>]]></description>
+    </item>
+    <item>
       <title>Some folks are shocked we&apos;re doing Windows (client) before Linux (client) for Rex. Note we will publicly ship</title>
       <link>https://x.com/mitchellh/status/2125005793883980054</link>
       <guid isPermaLink="true">https://x.com/mitchellh/status/2125005793883980054</guid>
@@ -1597,14 +1605,6 @@
       <pubDate>Sun, 08 Nov 2026 07:47:47 GMT</pubDate>
       <author>@shadcn</author>
       <description><![CDATA[<p>I switched to Rex by @superlogical</p>]]></description>
-    </item>
-    <item>
-      <title>We just added the ability to drag and drop and copy/paste files between devices on Rex. It&apos;s amazing.</title>
-      <link>https://x.com/almonk/status/2119145535580012732</link>
-      <guid isPermaLink="true">https://x.com/almonk/status/2119145535580012732</guid>
-      <pubDate>Sat, 07 Nov 2026 19:10:42 GMT</pubDate>
-      <author>@almonk</author>
-      <description><![CDATA[<p>We just added the ability to drag and drop and copy/paste files between devices on Rex. It&apos;s amazing.<br><br>I can build binaries on my Mac Studio then send them to any device for testing instantly. I can send screenshots to remote agents running on Linux, macOS or Windows.<br><br>It&apos;s built</p>]]></description>
     </item>
   </channel>
 </rss>
