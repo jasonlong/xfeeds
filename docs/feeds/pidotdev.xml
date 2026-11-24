@@ -13,6 +13,14 @@
     </image>
     <ttl>120</ttl>
     <item>
+      <title>Is it VSCode? Is it Cursor? Nope. It&apos;s pi-durable in Pi Desktop built by @cristinaponcela Or, as Gramps</title>
+      <link>https://x.com/pidotdev/status/2125163415966790124</link>
+      <guid isPermaLink="true">https://x.com/pidotdev/status/2125163415966790124</guid>
+      <pubDate>Tue, 24 Nov 2026 09:43:36 GMT</pubDate>
+      <author>@pidotdev</author>
+      <description><![CDATA[<p>Is it VSCode? Is it Cursor? Nope. It&apos;s pi-durable in Pi Desktop built by @cristinaponcela <br><br>Or, as Gramps put it &quot;yo dawg, i heard you like IDEs, so i put an IDE in your ADE&quot;</p><p><img src="https://pbs.twimg.com/media/HX4EOE3X0AAjPXA?format=jpg&amp;name=small" alt=""></p>]]></description>
+    </item>
+    <item>
       <title>Thanks @ClementDelangue, I feel like sometimes you know me better than I know myself</title>
       <link>https://x.com/pidotdev/status/2122950771285385694</link>
       <guid isPermaLink="true">https://x.com/pidotdev/status/2122950771285385694</guid>
@@ -50,7 +58,7 @@
       <guid isPermaLink="true">https://x.com/pidotdev/status/2120459951491653656</guid>
       <pubDate>Wed, 11 Nov 2026 10:13:43 GMT</pubDate>
       <author>@pidotdev</author>
-      <description><![CDATA[<p>Pidalf and Clankolas are on camera again. Enjoy</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2119816697322639360/img/mp9ugZAfg4Rij9Yv.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Pidalf and Clankolas are on camera again. Enjoy</p>]]></description>
     </item>
     <item>
       <title>Thanks @joelniklaus for burning this compute for all of us and sharing the learnings openly. Cost per task</title>
@@ -58,7 +66,7 @@
       <guid isPermaLink="true">https://x.com/pidotdev/status/2118661763201655075</guid>
       <pubDate>Fri, 06 Nov 2026 11:08:21 GMT</pubDate>
       <author>@pidotdev</author>
-      <description><![CDATA[<p>Thanks @joelniklaus for burning this compute for all of us and sharing the learnings openly. Cost per task is a critical metric for our team so your results make us feel warm and fuzzy</p>]]></description>
+      <description><![CDATA[<p>Thanks @joelniklaus for burning this compute for all of us and sharing the learnings openly. Cost per task is a critical metric for our team so your results make us feel warm and fuzzy</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2118373780292874240/img/XlN2NzAPDJpW299Q.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>What have you built so far with Pi Durable? How can we make the experience of building with</title>
@@ -114,7 +122,7 @@
       <guid isPermaLink="true">https://x.com/pidotdev/status/2113285940974342204</guid>
       <pubDate>Thu, 22 Oct 2026 15:06:45 GMT</pubDate>
       <author>@pidotdev</author>
-      <description><![CDATA[<p>Thanks for spreading the good word about Pi Durable @superlinear_fm</p>]]></description>
+      <description><![CDATA[<p>Thanks for spreading the good word about Pi Durable @superlinear_fm</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2113246725078994944/img/3bOwNXDDpDHs7OIe.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>@Recursive_SI shipped its first model, Flint! Exciting to see they did extensive RL training on the Pi harness,</title>
@@ -803,14 +811,6 @@
       <pubDate>Wed, 19 Aug 2026 12:16:42 GMT</pubDate>
       <author>@pidotdev</author>
       <description><![CDATA[<p>Skills are often more context efficient than other tools and can be customized easily. Learn more about building and using them in Pi here</p>]]></description>
-    </item>
-    <item>
-      <title>Pi can create skills! At startup, Pi scans skill locations and extracts their names and descriptions. When a</title>
-      <link>https://x.com/pidotdev/status/2090049615408119947</link>
-      <guid isPermaLink="true">https://x.com/pidotdev/status/2090049615408119947</guid>
-      <pubDate>Wed, 19 Aug 2026 12:13:54 GMT</pubDate>
-      <author>@pidotdev</author>
-      <description><![CDATA[<p>Pi can create skills! At startup, Pi scans skill locations and extracts their names and descriptions. When a task matches, the agent loads the full SKILL.md into its context. This is progressive disclosure. <br><br>Here’s an example of a commit skill. What skills have you made in Pi?</p><p><img src="https://pbs.twimg.com/media/HQFXBIkW8AAdDc4?format=jpg&amp;name=small" alt=""></p>]]></description>
     </item>
   </channel>
 </rss>

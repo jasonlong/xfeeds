@@ -7,6 +7,14 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>Is it VSCode? Is it Cursor? Nope. It&apos;s pi-durable in Pi Desktop built by @cristinaponcela Or, as Gramps</title>
+      <link>https://x.com/pidotdev/status/2125163415966790124</link>
+      <guid isPermaLink="true">https://x.com/pidotdev/status/2125163415966790124</guid>
+      <pubDate>Tue, 24 Nov 2026 09:43:36 GMT</pubDate>
+      <author>@pidotdev</author>
+      <description><![CDATA[<p>Is it VSCode? Is it Cursor? Nope. It&apos;s pi-durable in Pi Desktop built by @cristinaponcela <br><br>Or, as Gramps put it &quot;yo dawg, i heard you like IDEs, so i put an IDE in your ADE&quot;</p><p><img src="https://pbs.twimg.com/media/HX4EOE3X0AAjPXA?format=jpg&amp;name=small" alt=""></p>]]></description>
+    </item>
+    <item>
       <title>I&apos;ve got so many things to show you with @uisdk. It&apos;s kind of amazing how well it fits</title>
       <link>https://x.com/shadcn/status/2125132747094339822</link>
       <guid isPermaLink="true">https://x.com/shadcn/status/2125132747094339822</guid>
@@ -1332,7 +1340,7 @@
       <guid isPermaLink="true">https://x.com/pidotdev/status/2120459951491653656</guid>
       <pubDate>Wed, 11 Nov 2026 10:13:43 GMT</pubDate>
       <author>@pidotdev</author>
-      <description><![CDATA[<p>Pidalf and Clankolas are on camera again. Enjoy</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2119816697322639360/img/mp9ugZAfg4Rij9Yv.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Pidalf and Clankolas are on camera again. Enjoy</p>]]></description>
     </item>
     <item>
       <title>we build software not just to optimize, complete tasks or impose our own constraints – but to build</title>
@@ -1597,14 +1605,6 @@
       <pubDate>Sun, 08 Nov 2026 08:20:22 GMT</pubDate>
       <author>@avstorm</author>
       <description><![CDATA[<p>Your Mac has weather now.<br><br>https://koiart.app by @TheSpacerr</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2119343041622282240/img/9Ngd43wiHvoCItvx.jpg" alt=""></p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2119343060219736064/img/ykHkAbHYGiDK6DlG.jpg" alt=""></p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2119343073373077504/img/bbU1WPCIjXMwxAbP.jpg" alt=""></p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2119343085029101568/img/qTsq77B7DILblBDk.jpg" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>I switched to Rex by @superlogical</title>
-      <link>https://x.com/shadcn/status/2119336061939679657</link>
-      <guid isPermaLink="true">https://x.com/shadcn/status/2119336061939679657</guid>
-      <pubDate>Sun, 08 Nov 2026 07:47:47 GMT</pubDate>
-      <author>@shadcn</author>
-      <description><![CDATA[<p>I switched to Rex by @superlogical</p>]]></description>
     </item>
   </channel>
 </rss>
