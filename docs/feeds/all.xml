@@ -7,6 +7,46 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>The tldraw MCP server is live. Connect your agent to your tldraw account, and it can create boards,</title>
+      <link>https://x.com/tldraw/status/2125658304143884788</link>
+      <guid isPermaLink="true">https://x.com/tldraw/status/2125658304143884788</guid>
+      <pubDate>Wed, 25 Nov 2026 18:30:07 GMT</pubDate>
+      <author>@tldraw</author>
+      <description><![CDATA[<p>The tldraw MCP server is live.<br><br>Connect your agent to your tldraw account, and it can create boards, read your files, draw on the canvas, and comment.<br><br>Full spec here: https://mcp.tldraw.com</p><p><img src="https://pbs.twimg.com/media/HX_a9qOagAASj_c?format=png&amp;name=small" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>mcp dot tldraw dot com</title>
+      <link>https://x.com/tldraw/status/2125658287127584791</link>
+      <guid isPermaLink="true">https://x.com/tldraw/status/2125658287127584791</guid>
+      <pubDate>Wed, 25 Nov 2026 18:30:03 GMT</pubDate>
+      <author>@tldraw</author>
+      <description><![CDATA[<p>mcp dot tldraw dot com</p>]]></description>
+    </item>
+    <item>
+      <title>Paper is proud to sponsor Tokyo Design Forum this year in Tokyo!</title>
+      <link>https://x.com/paper/status/2125651978206490680</link>
+      <guid isPermaLink="true">https://x.com/paper/status/2125651978206490680</guid>
+      <pubDate>Wed, 25 Nov 2026 18:04:58 GMT</pubDate>
+      <author>@paper</author>
+      <description><![CDATA[<p>Paper is proud to sponsor Tokyo Design Forum this year in Tokyo!</p><p><img src="https://pbs.twimg.com/media/HX-thRLbkAAld0p?format=jpg&amp;name=small" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>So stoked for my first ever trip to Japan to visit Tokyo Design Forum! We&apos;re bringing the entire</title>
+      <link>https://x.com/stephenhaney/status/2125651224511045974</link>
+      <guid isPermaLink="true">https://x.com/stephenhaney/status/2125651224511045974</guid>
+      <pubDate>Wed, 25 Nov 2026 18:01:59 GMT</pubDate>
+      <author>@stephenhaney</author>
+      <description><![CDATA[<p>So stoked for my first ever trip to Japan to visit Tokyo Design Forum!<br><br>We&apos;re bringing the entire Paper team, so if you&apos;re interested in cool design conferences, check out TDF</p><p><img src="https://pbs.twimg.com/media/HX-thRLbkAAld0p?format=jpg&amp;name=small" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>Why do we need agent-first UI or why agents still need UI? Handing an agent a task and</title>
+      <link>https://x.com/shadcn/status/2125650883761332700</link>
+      <guid isPermaLink="true">https://x.com/shadcn/status/2125650883761332700</guid>
+      <pubDate>Wed, 25 Nov 2026 18:00:38 GMT</pubDate>
+      <author>@shadcn</author>
+      <description><![CDATA[<p>Why do we need agent-first UI or why agents still need UI?<br><br>Handing an agent a task and waiting works for a lot of things. But some work you want to see, and do together. Like tweaking a design, trying fonts until one feels right, or filling out a form and fixing one field before</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2125648567733821440/img/LP3mnV_cRaM6f41h.jpg" alt=""></p>]]></description>
+    </item>
+    <item>
       <title>name is 實實 shíshí means truth also a pun on 寶寶</title>
       <link>https://x.com/ryolu_/status/2125640785588871579</link>
       <guid isPermaLink="true">https://x.com/ryolu_/status/2125640785588871579</guid>
@@ -44,7 +84,7 @@
       <guid isPermaLink="true">https://x.com/avstorm/status/2125578194548117828</guid>
       <pubDate>Wed, 25 Nov 2026 13:11:47 GMT</pubDate>
       <author>@avstorm</author>
-      <description><![CDATA[<p>Peek has landed in Dia.</p><p><img src="https://pbs.twimg.com/media/HX-Rm7SXkAABaaM?format=jpg&amp;name=small" alt=""></p>]]></description>
+      <description><![CDATA[<p>Peek has landed in Dia.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2125577643210805248/img/uplt9gG72brE8Zgs.jpg" alt=""></p><p><img src="https://pbs.twimg.com/media/HX-Rm7SXkAABaaM?format=jpg&amp;name=small" alt=""></p>]]></description>
     </item>
     <item>
       <title>We pulled all our telemetry data on @theo. Disappointed. Not enough usage</title>
@@ -92,7 +132,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2125302716000084235</guid>
       <pubDate>Tue, 24 Nov 2026 18:57:08 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>You can now use ⌘K to search on https://tldraw.com.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2125302686140784640/img/q62ztKdfftEvJyqQ.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>You can now use ⌘K to search on https://tldraw.com.</p>]]></description>
     </item>
     <item>
       <title>libghostty-vt 1.0.2 released: correct widths for skin tone emoji, insert/delete line (IL/DL) fixes, up to 1.8x faster scrolling</title>
@@ -292,7 +332,7 @@
       <guid isPermaLink="true">https://x.com/shadcn/status/2124880771404169429</guid>
       <pubDate>Mon, 23 Nov 2026 15:00:28 GMT</pubDate>
       <author>@shadcn</author>
-      <description><![CDATA[<p>If you get the foundation right, your agents get to have fun. UI SDK handles the hard part.<br><br>Bring the whimsy back to interfaces.</p>]]></description>
+      <description><![CDATA[<p>If you get the foundation right, your agents get to have fun. UI SDK handles the hard part.<br><br>Bring the whimsy back to interfaces.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2124758753861910528/img/RO9GMsKQSK3Y1Q6s.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>love letters in my DMs</title>
@@ -948,7 +988,7 @@
       <guid isPermaLink="true">https://x.com/paper/status/2122437256191619523</guid>
       <pubDate>Mon, 16 Nov 2026 21:10:49 GMT</pubDate>
       <author>@paper</author>
-      <description><![CDATA[<p>Paper from your desktop launcher 🤯<br><br>Paper × Raycast, that&apos;s cool</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2122433475059871744/img/zywXKnsIK2lCanfh.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Paper from your desktop launcher 🤯<br><br>Paper × Raycast, that&apos;s cool</p>]]></description>
     </item>
     <item>
       <title>I have tried many keyboards and this is still true</title>
@@ -1012,7 +1052,7 @@
       <guid isPermaLink="true">https://x.com/paper/status/2122409140349968887</guid>
       <pubDate>Mon, 16 Nov 2026 19:19:06 GMT</pubDate>
       <author>@paper</author>
-      <description><![CDATA[<p>To launch Paper Desktop, we built the fastest, most accurate, most efficient local design MCP.<br><br>But we heard you need to use it everywhere.<br><br>So we&apos;re launching Remote MCP: support for Paper with cloud agents. Available today.</p>]]></description>
+      <description><![CDATA[<p>To launch Paper Desktop, we built the fastest, most accurate, most efficient local design MCP.<br><br>But we heard you need to use it everywhere.<br><br>So we&apos;re launching Remote MCP: support for Paper with cloud agents. Available today.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2122407619013083136/img/lBWKLRjdO4GSubrh.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>New iPhone Duo Face Recognition animations in iOS 27.3 Beta 2.</title>
@@ -1020,7 +1060,7 @@
       <guid isPermaLink="true">https://x.com/avstorm/status/2122408441700556884</guid>
       <pubDate>Mon, 16 Nov 2026 19:16:19 GMT</pubDate>
       <author>@avstorm</author>
-      <description><![CDATA[<p>New iPhone Duo Face Recognition animations in iOS 27.3 Beta 2.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2122406998423597056/img/PRWewdePSpFYaU0G.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>New iPhone Duo Face Recognition animations in iOS 27.3 Beta 2.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2122406991586897920/img/HjAy-WSy06dqAauE.jpg" alt=""></p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2122406998423597056/img/PRWewdePSpFYaU0G.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Good morning! Today @paper launches Remote MCP This may change the industry forever. Use Paper anywhere you work:</title>
@@ -1100,7 +1140,7 @@
       <guid isPermaLink="true">https://x.com/avstorm/status/2121960136914956459</guid>
       <pubDate>Sun, 15 Nov 2026 13:34:55 GMT</pubDate>
       <author>@avstorm</author>
-      <description><![CDATA[<p>Apple HomeView’s Snoopy animations adapt to the date and the placement of the digits.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2121957755036577792/img/0cvfKn4fnY9Lgxqg.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Apple HomeView’s Snoopy animations adapt to the date and the placement of the digits.</p>]]></description>
     </item>
     <item>
       <title>This is a great overview of Rex right now and the multiplexer for all work we’re building. Regardless</title>
@@ -1188,7 +1228,7 @@
       <guid isPermaLink="true">https://x.com/avstorm/status/2121515197810573377</guid>
       <pubDate>Sat, 14 Nov 2026 08:06:53 GMT</pubDate>
       <author>@avstorm</author>
-      <description><![CDATA[<p></p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2121515144475770880/img/OVWmtX4a7VvLqCpy.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p></p>]]></description>
     </item>
     <item>
       <title>I’m seeing some incredibly amazing things being built with the UI SDK. Keep them coming.</title>
@@ -1204,7 +1244,7 @@
       <guid isPermaLink="true">https://x.com/avstorm/status/2121379679827603579</guid>
       <pubDate>Fri, 13 Nov 2026 23:08:23 GMT</pubDate>
       <author>@avstorm</author>
-      <description><![CDATA[<p>HomeView update animation</p>]]></description>
+      <description><![CDATA[<p>HomeView update animation</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2121379494506254336/img/tiflJJVrsGWXhLIV.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>There&apos;s something really soothing about this HomeView watch face.</title>
@@ -1412,7 +1452,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2120850107793129851</guid>
       <pubDate>Thu, 12 Nov 2026 12:04:03 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>We&apos;re thrilled to welcome Tooning on board as our newest SDK customer!<br><br>Tooning used the tldraw SDK to rethink how webtoons get made. Instead of drawing every panel by hand, Tooning Plus lets anyone write a story with AI, pose characters in 3D, and lay out whole episodes on one</p>]]></description>
+      <description><![CDATA[<p>We&apos;re thrilled to welcome Tooning on board as our newest SDK customer!<br><br>Tooning used the tldraw SDK to rethink how webtoons get made. Instead of drawing every panel by hand, Tooning Plus lets anyone write a story with AI, pose characters in 3D, and lay out whole episodes on one</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2120850094979448832/img/rHs4DxrdDE1P6ag3.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Apple’s annual holiday film is here. Sometimes all it takes to remember what makes us special, is someone</title>
@@ -1484,7 +1524,7 @@
       <guid isPermaLink="true">https://x.com/paper/status/2120558475994710046</guid>
       <pubDate>Wed, 11 Nov 2026 16:45:13 GMT</pubDate>
       <author>@paper</author>
-      <description><![CDATA[<p>The canvas? Undefeated.<br><br>Since Sketchpad in the 1960&apos;s, a 2D canvas has been the interface for creativity, spatial thinking, and dialing in the details.<br><br>We see designers, engineers, and sales teams using a canvas with agents more than ever.<br><br>Long live design tools!</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2120556517309267973/img/sEFGwt81KfZC165r.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>The canvas? Undefeated.<br><br>Since Sketchpad in the 1960&apos;s, a 2D canvas has been the interface for creativity, spatial thinking, and dialing in the details.<br><br>We see designers, engineers, and sales teams using a canvas with agents more than ever.<br><br>Long live design tools!</p>]]></description>
     </item>
     <item>
       <title>From Roboto to YouTube Marquee</title>
@@ -1556,7 +1596,7 @@
       <guid isPermaLink="true">https://x.com/paper/status/2120300315836817547</guid>
       <pubDate>Tue, 10 Nov 2026 23:39:23 GMT</pubDate>
       <author>@paper</author>
-      <description><![CDATA[<p>The progress never stops</p>]]></description>
+      <description><![CDATA[<p>The progress never stops</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2120154008870682624/img/bicUMDYtY-2ibaK6.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>this ain&apos;t me but it could be you</title>
@@ -1565,46 +1605,6 @@
       <pubDate>Tue, 10 Nov 2026 19:40:41 GMT</pubDate>
       <author>@tldraw</author>
       <description><![CDATA[<p>this ain&apos;t me but it could be you</p>]]></description>
-    </item>
-    <item>
-      <title>we&apos;re growing the growth team at Paper! fast growth, elite team, Paper is the place to do deep</title>
-      <link>https://x.com/stephenhaney/status/2120225386445627861</link>
-      <guid isPermaLink="true">https://x.com/stephenhaney/status/2120225386445627861</guid>
-      <pubDate>Tue, 10 Nov 2026 18:41:38 GMT</pubDate>
-      <author>@stephenhaney</author>
-      <description><![CDATA[<p>we&apos;re growing the growth team at Paper!<br><br>fast growth, elite team, Paper is the place to do deep and meaningful work<br><br>check out the careers page for more detail</p><p><img src="https://pbs.twimg.com/media/HWx__zAaoAAFu0q?format=jpg&amp;name=small" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>👋</title>
-      <link>https://x.com/avstorm/status/2120221770246734171</link>
-      <guid isPermaLink="true">https://x.com/avstorm/status/2120221770246734171</guid>
-      <pubDate>Tue, 10 Nov 2026 18:27:16 GMT</pubDate>
-      <author>@avstorm</author>
-      <description><![CDATA[<p>👋</p><p><img src="https://pbs.twimg.com/media/HWyKWEsXoAEcu7K?format=jpg&amp;name=small" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>We&apos;re still so small but I&apos;m loving the team we&apos;ve got at Superlogical. They&apos;re so talented and kind</title>
-      <link>https://x.com/mitchellh/status/2120221244478083249</link>
-      <guid isPermaLink="true">https://x.com/mitchellh/status/2120221244478083249</guid>
-      <pubDate>Tue, 10 Nov 2026 18:25:11 GMT</pubDate>
-      <author>@mitchellh</author>
-      <description><![CDATA[<p>We&apos;re still so small but I&apos;m loving the team we&apos;ve got at Superlogical. They&apos;re so talented and kind and love their craft. It&apos;s a different era of software development and our expectations and practices reflect that. I want to share a bit about how we work.<br><br>First, everyone is</p>]]></description>
-    </item>
-    <item>
-      <title>set as wallpaper 👌</title>
-      <link>https://x.com/agusegui/status/2120220995806019790</link>
-      <guid isPermaLink="true">https://x.com/agusegui/status/2120220995806019790</guid>
-      <pubDate>Tue, 10 Nov 2026 18:24:11 GMT</pubDate>
-      <author>@agusegui</author>
-      <description><![CDATA[<p>set as wallpaper 👌</p><p><img src="https://pbs.twimg.com/media/HWvc1tOacAEGkxh?format=jpg&amp;name=small" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>whiteboards + ai are awesome together!</title>
-      <link>https://x.com/tldraw/status/2120213446625308680</link>
-      <guid isPermaLink="true">https://x.com/tldraw/status/2120213446625308680</guid>
-      <pubDate>Tue, 10 Nov 2026 17:54:11 GMT</pubDate>
-      <author>@tldraw</author>
-      <description><![CDATA[<p>whiteboards + ai are awesome together!</p><p><img src="https://pbs.twimg.com/media/HWx89ZkXMAAqMO6.png" alt=""></p>]]></description>
     </item>
   </channel>
 </rss>

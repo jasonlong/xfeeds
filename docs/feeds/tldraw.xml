@@ -13,6 +13,22 @@
     </image>
     <ttl>120</ttl>
     <item>
+      <title>The tldraw MCP server is live. Connect your agent to your tldraw account, and it can create boards,</title>
+      <link>https://x.com/tldraw/status/2125658304143884788</link>
+      <guid isPermaLink="true">https://x.com/tldraw/status/2125658304143884788</guid>
+      <pubDate>Wed, 25 Nov 2026 18:30:07 GMT</pubDate>
+      <author>@tldraw</author>
+      <description><![CDATA[<p>The tldraw MCP server is live.<br><br>Connect your agent to your tldraw account, and it can create boards, read your files, draw on the canvas, and comment.<br><br>Full spec here: https://mcp.tldraw.com</p><p><img src="https://pbs.twimg.com/media/HX_a9qOagAASj_c?format=png&amp;name=small" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>mcp dot tldraw dot com</title>
+      <link>https://x.com/tldraw/status/2125658287127584791</link>
+      <guid isPermaLink="true">https://x.com/tldraw/status/2125658287127584791</guid>
+      <pubDate>Wed, 25 Nov 2026 18:30:03 GMT</pubDate>
+      <author>@tldraw</author>
+      <description><![CDATA[<p>mcp dot tldraw dot com</p>]]></description>
+    </item>
+    <item>
       <title>We pulled all our telemetry data on @theo. Disappointed. Not enough usage</title>
       <link>https://x.com/tldraw/status/2125571571511374014</link>
       <guid isPermaLink="true">https://x.com/tldraw/status/2125571571511374014</guid>
@@ -26,7 +42,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2125302716000084235</guid>
       <pubDate>Tue, 24 Nov 2026 18:57:08 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>You can now use ⌘K to search on https://tldraw.com.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2125302686140784640/img/q62ztKdfftEvJyqQ.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>You can now use ⌘K to search on https://tldraw.com.</p>]]></description>
     </item>
     <item>
       <title>“Code has become cheap, but software remains incredibly expensive,&quot; said @codestirring back in January. What makes it expensive</title>
@@ -154,7 +170,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2120850107793129851</guid>
       <pubDate>Thu, 12 Nov 2026 12:04:03 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>We&apos;re thrilled to welcome Tooning on board as our newest SDK customer!<br><br>Tooning used the tldraw SDK to rethink how webtoons get made. Instead of drawing every panel by hand, Tooning Plus lets anyone write a story with AI, pose characters in 3D, and lay out whole episodes on one</p>]]></description>
+      <description><![CDATA[<p>We&apos;re thrilled to welcome Tooning on board as our newest SDK customer!<br><br>Tooning used the tldraw SDK to rethink how webtoons get made. Instead of drawing every panel by hand, Tooning Plus lets anyone write a story with AI, pose characters in 3D, and lay out whole episodes on one</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2120850094979448832/img/rHs4DxrdDE1P6ag3.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>We’ll be in New York next week for @thejsnation, @ReactSummit and @AICodingSummit! Catch us in the expo hall</title>
@@ -795,22 +811,6 @@
       <pubDate>Thu, 01 Oct 2026 18:00:39 GMT</pubDate>
       <author>@tldraw</author>
       <description><![CDATA[<p>get the new tldraw plugin for ChatGPT here →</p>]]></description>
-    </item>
-    <item>
-      <title>infinite playlists</title>
-      <link>https://x.com/tldraw/status/2105719544891514890</link>
-      <guid isPermaLink="true">https://x.com/tldraw/status/2105719544891514890</guid>
-      <pubDate>Thu, 01 Oct 2026 18:00:36 GMT</pubDate>
-      <author>@tldraw</author>
-      <description><![CDATA[<p>infinite playlists</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2105719522338738176/img/4WefwcpgDt8jaqqh.jpg" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>Now in the ChatGPT plugin store →</title>
-      <link>https://x.com/tldraw/status/2105690259816329569</link>
-      <guid isPermaLink="true">https://x.com/tldraw/status/2105690259816329569</guid>
-      <pubDate>Thu, 01 Oct 2026 16:04:14 GMT</pubDate>
-      <author>@tldraw</author>
-      <description><![CDATA[<p>Now in the ChatGPT plugin store →</p>]]></description>
     </item>
   </channel>
 </rss>

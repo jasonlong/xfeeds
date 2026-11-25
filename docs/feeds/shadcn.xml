@@ -13,6 +13,14 @@
     </image>
     <ttl>120</ttl>
     <item>
+      <title>Why do we need agent-first UI or why agents still need UI? Handing an agent a task and</title>
+      <link>https://x.com/shadcn/status/2125650883761332700</link>
+      <guid isPermaLink="true">https://x.com/shadcn/status/2125650883761332700</guid>
+      <pubDate>Wed, 25 Nov 2026 18:00:38 GMT</pubDate>
+      <author>@shadcn</author>
+      <description><![CDATA[<p>Why do we need agent-first UI or why agents still need UI?<br><br>Handing an agent a task and waiting works for a lot of things. But some work you want to see, and do together. Like tweaking a design, trying fonts until one feels right, or filling out a form and fixing one field before</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2125648567733821440/img/LP3mnV_cRaM6f41h.jpg" alt=""></p>]]></description>
+    </item>
+    <item>
       <title>You need both. MCP and WebMCP. Not all work happens in the backend or via API. I&apos;ll explain.</title>
       <link>https://x.com/shadcn/status/2125499427158642917</link>
       <guid isPermaLink="true">https://x.com/shadcn/status/2125499427158642917</guid>
@@ -98,7 +106,7 @@
       <guid isPermaLink="true">https://x.com/shadcn/status/2124880771404169429</guid>
       <pubDate>Mon, 23 Nov 2026 15:00:28 GMT</pubDate>
       <author>@shadcn</author>
-      <description><![CDATA[<p>If you get the foundation right, your agents get to have fun. UI SDK handles the hard part.<br><br>Bring the whimsy back to interfaces.</p>]]></description>
+      <description><![CDATA[<p>If you get the foundation right, your agents get to have fun. UI SDK handles the hard part.<br><br>Bring the whimsy back to interfaces.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2124758753861910528/img/RO9GMsKQSK3Y1Q6s.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>In @uisdk, you don&apos;t wrap components. You import a primitive (with behaviors) and create its parts in your</title>
@@ -803,14 +811,6 @@
       <pubDate>Thu, 01 Oct 2026 11:35:10 GMT</pubDate>
       <author>@shadcn</author>
       <description><![CDATA[<p>No tech has embarrassed me in front of people more than Siri.</p><p><img src="https://pbs.twimg.com/tweet_video_thumb/HTisiyVXoAAm49E.jpg" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>shadcn/react was deployed to millions yesterday.</title>
-      <link>https://x.com/shadcn/status/2105522245791817757</link>
-      <guid isPermaLink="true">https://x.com/shadcn/status/2105522245791817757</guid>
-      <pubDate>Thu, 01 Oct 2026 04:56:36 GMT</pubDate>
-      <author>@shadcn</author>
-      <description><![CDATA[<p>shadcn/react was deployed to millions yesterday.</p>]]></description>
     </item>
   </channel>
 </rss>
