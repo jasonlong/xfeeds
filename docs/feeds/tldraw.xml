@@ -13,6 +13,14 @@
     </image>
     <ttl>120</ttl>
     <item>
+      <title>We pulled all our telemetry data on @theo. Disappointed. Not enough usage</title>
+      <link>https://x.com/tldraw/status/2125571571511374014</link>
+      <guid isPermaLink="true">https://x.com/tldraw/status/2125571571511374014</guid>
+      <pubDate>Wed, 25 Nov 2026 12:45:28 GMT</pubDate>
+      <author>@tldraw</author>
+      <description><![CDATA[<p>We pulled all our telemetry data on @theo. Disappointed. Not enough usage</p>]]></description>
+    </item>
+    <item>
       <title>You can now use ⌘K to search on https://tldraw.com.</title>
       <link>https://x.com/tldraw/status/2125302716000084235</link>
       <guid isPermaLink="true">https://x.com/tldraw/status/2125302716000084235</guid>
@@ -146,7 +154,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2120850107793129851</guid>
       <pubDate>Thu, 12 Nov 2026 12:04:03 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>We&apos;re thrilled to welcome Tooning on board as our newest SDK customer!<br><br>Tooning used the tldraw SDK to rethink how webtoons get made. Instead of drawing every panel by hand, Tooning Plus lets anyone write a story with AI, pose characters in 3D, and lay out whole episodes on one</p>]]></description>
+      <description><![CDATA[<p>We&apos;re thrilled to welcome Tooning on board as our newest SDK customer!<br><br>Tooning used the tldraw SDK to rethink how webtoons get made. Instead of drawing every panel by hand, Tooning Plus lets anyone write a story with AI, pose characters in 3D, and lay out whole episodes on one</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2120850094979448832/img/rHs4DxrdDE1P6ag3.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>We’ll be in New York next week for @thejsnation, @ReactSummit and @AICodingSummit! Catch us in the expo hall</title>
@@ -803,14 +811,6 @@
       <pubDate>Thu, 01 Oct 2026 16:04:14 GMT</pubDate>
       <author>@tldraw</author>
       <description><![CDATA[<p>Now in the ChatGPT plugin store →</p>]]></description>
-    </item>
-    <item>
-      <title>&quot;Hey Codex, show me how you&apos;d fix this bug&quot; The new tldraw plugin lets ChatGPT map a problem</title>
-      <link>https://x.com/tldraw/status/2105690247854272834</link>
-      <guid isPermaLink="true">https://x.com/tldraw/status/2105690247854272834</guid>
-      <pubDate>Thu, 01 Oct 2026 16:04:11 GMT</pubDate>
-      <author>@tldraw</author>
-      <description><![CDATA[<p>&quot;Hey Codex, show me how you&apos;d fix this bug&quot;<br><br>The new tldraw plugin lets ChatGPT map a problem on the canvas and sketch a few fixes. Comment on the drawing to ask for changes and watch it update live. Here&apos;s Max trying it on one of our bugs:</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2105690206804529152/img/h3366TfajXEC525M.jpg" alt=""></p>]]></description>
     </item>
   </channel>
 </rss>
