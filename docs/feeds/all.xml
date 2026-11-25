@@ -7,6 +7,14 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>You need both. MCP and WebMCP. Not all work happens in the backend or via API. I&apos;ll explain.</title>
+      <link>https://x.com/shadcn/status/2125499427158642917</link>
+      <guid isPermaLink="true">https://x.com/shadcn/status/2125499427158642917</guid>
+      <pubDate>Wed, 25 Nov 2026 07:58:47 GMT</pubDate>
+      <author>@shadcn</author>
+      <description><![CDATA[<p>You need both. MCP and WebMCP. Not all work happens in the backend or via API. I&apos;ll explain.<br><br>WebMCP is the opposite of clicking around btw</p>]]></description>
+    </item>
+    <item>
       <title>Media post</title>
       <link>https://x.com/shadcn/status/2125396783564284010</link>
       <guid isPermaLink="true">https://x.com/shadcn/status/2125396783564284010</guid>
@@ -20,7 +28,7 @@
       <guid isPermaLink="true">https://x.com/shadcn/status/2125396779591925850</guid>
       <pubDate>Wed, 25 Nov 2026 01:10:54 GMT</pubDate>
       <author>@shadcn</author>
-      <description><![CDATA[<p>AI SDK just added WebMCP support. So we tried it with @uisdk.<br><br>You say &quot;add two mugs&quot;. The model calls the page&apos;s WebMCP tools and the components update. No screenshots. No clicking around. It&apos;s really fast.<br><br>UI built with UI SDK comes with its own tools. The MCP client reads</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2125395962281570304/img/0_Gb1MnFlww8rUNY.jpg" alt=""></p><p><img src="https://pbs.twimg.com/media/HX6LZtjakAA7IgH?format=jpg&amp;name=240x240" alt=""></p>]]></description>
+      <description><![CDATA[<p>AI SDK just added WebMCP support. So we tried it with @uisdk.<br><br>You say &quot;add two mugs&quot;. The model calls the page&apos;s WebMCP tools and the components update. No screenshots. No clicking around. It&apos;s really fast.<br><br>UI built with UI SDK comes with its own tools. The MCP client reads</p><p><img src="https://pbs.twimg.com/media/HX6LZtjakAA7IgH?format=jpg&amp;name=240x240" alt=""></p>]]></description>
     </item>
     <item>
       <title>So beautiful, thank you!</title>
@@ -300,7 +308,7 @@
       <guid isPermaLink="true">https://x.com/shadcn/status/2124037630224679269</guid>
       <pubDate>Sat, 21 Nov 2026 07:10:08 GMT</pubDate>
       <author>@shadcn</author>
-      <description><![CDATA[<p>This guy 🤯</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2124035823402135553/img/4Xp7cx_NkLpqI166.jpg" alt=""></p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2124035823385350145/img/TIHqZMaDcpN3QeCV.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>This guy 🤯</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2124035823389593600/img/9HzxCeGNG3UyUJQs.jpg" alt=""></p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2124035823402135553/img/4Xp7cx_NkLpqI166.jpg" alt=""></p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2124035823385350145/img/TIHqZMaDcpN3QeCV.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Excited to ship some CarPlay updates. Now you can call your Dot from CarPlay 📞</title>
@@ -1597,14 +1605,6 @@
       <pubDate>Tue, 10 Nov 2026 06:33:10 GMT</pubDate>
       <author>@shadcn</author>
       <description><![CDATA[<p></p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2120041994621792256/img/fyXhYyqyuHMW1i0z.jpg" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>👏 Much appresh</title>
-      <link>https://x.com/tinkadoic/status/2119952028701257908</link>
-      <guid isPermaLink="true">https://x.com/tinkadoic/status/2119952028701257908</guid>
-      <pubDate>Tue, 10 Nov 2026 00:35:25 GMT</pubDate>
-      <author>@tinkadoic</author>
-      <description><![CDATA[<p>👏 Much appresh</p>]]></description>
     </item>
   </channel>
 </rss>
