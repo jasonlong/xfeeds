@@ -14,6 +14,22 @@
     <ttl>120</ttl>
     <item>
       <title>Media post</title>
+      <link>https://x.com/shadcn/status/2125396783564284010</link>
+      <guid isPermaLink="true">https://x.com/shadcn/status/2125396783564284010</guid>
+      <pubDate>Wed, 25 Nov 2026 01:10:55 GMT</pubDate>
+      <author>@shadcn</author>
+      <description><![CDATA[<p></p>]]></description>
+    </item>
+    <item>
+      <title>AI SDK just added WebMCP support. So we tried it with @uisdk. You say &quot;add two mugs&quot;. The</title>
+      <link>https://x.com/shadcn/status/2125396779591925850</link>
+      <guid isPermaLink="true">https://x.com/shadcn/status/2125396779591925850</guid>
+      <pubDate>Wed, 25 Nov 2026 01:10:54 GMT</pubDate>
+      <author>@shadcn</author>
+      <description><![CDATA[<p>AI SDK just added WebMCP support. So we tried it with @uisdk.<br><br>You say &quot;add two mugs&quot;. The model calls the page&apos;s WebMCP tools and the components update. No screenshots. No clicking around. It&apos;s really fast.<br><br>UI built with UI SDK comes with its own tools. The MCP client reads</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2125395962281570304/img/0_Gb1MnFlww8rUNY.jpg" alt=""></p><p><img src="https://pbs.twimg.com/media/HX6LZtjakAA7IgH?format=jpg&amp;name=240x240" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>Media post</title>
       <link>https://x.com/shadcn/status/2125276180790301010</link>
       <guid isPermaLink="true">https://x.com/shadcn/status/2125276180790301010</guid>
       <pubDate>Tue, 24 Nov 2026 17:11:41 GMT</pubDate>
@@ -106,7 +122,7 @@
       <guid isPermaLink="true">https://x.com/shadcn/status/2124037630224679269</guid>
       <pubDate>Sat, 21 Nov 2026 07:10:08 GMT</pubDate>
       <author>@shadcn</author>
-      <description><![CDATA[<p>This guy 🤯</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2124035823389593600/img/9HzxCeGNG3UyUJQs.jpg" alt=""></p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2124035823402135553/img/4Xp7cx_NkLpqI166.jpg" alt=""></p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2124035823385350145/img/TIHqZMaDcpN3QeCV.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>This guy 🤯</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2124035823402135553/img/4Xp7cx_NkLpqI166.jpg" alt=""></p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2124035823385350145/img/TIHqZMaDcpN3QeCV.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Media post</title>
@@ -795,22 +811,6 @@
       <pubDate>Wed, 30 Sep 2026 16:57:45 GMT</pubDate>
       <author>@shadcn</author>
       <description><![CDATA[<p>The models are getting really good at shadcn/ui. Not just knowing about it. They understand how it works: the open code format, the registry, the tokens, cli, presets. All of it.</p>]]></description>
-    </item>
-    <item>
-      <title>psa: copy the components. that’s what they’re built for. but please don’t copy the actual shadcn/ui website, docs,</title>
-      <link>https://x.com/shadcn/status/2105255313196937240</link>
-      <guid isPermaLink="true">https://x.com/shadcn/status/2105255313196937240</guid>
-      <pubDate>Wed, 30 Sep 2026 11:15:55 GMT</pubDate>
-      <author>@shadcn</author>
-      <description><![CDATA[<p>psa: copy the components. that’s what they’re built for.<br><br>but please don’t copy the actual shadcn/ui website, docs, and examples word for word 😅</p>]]></description>
-    </item>
-    <item>
-      <title>✔️</title>
-      <link>https://x.com/shadcn/status/2104986104575504478</link>
-      <guid isPermaLink="true">https://x.com/shadcn/status/2104986104575504478</guid>
-      <pubDate>Tue, 29 Sep 2026 17:26:10 GMT</pubDate>
-      <author>@shadcn</author>
-      <description><![CDATA[<p>✔️</p>]]></description>
     </item>
   </channel>
 </rss>
