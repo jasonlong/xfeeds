@@ -13,12 +13,20 @@
     </image>
     <ttl>120</ttl>
     <item>
+      <title>OSC7577 is our new, open protocol that allows any app to tell the runtime (Rex, in our case)</title>
+      <link>https://x.com/almonk/status/2125858278999761161</link>
+      <guid isPermaLink="true">https://x.com/almonk/status/2125858278999761161</guid>
+      <pubDate>Thu, 26 Nov 2026 07:44:44 GMT</pubDate>
+      <author>@almonk</author>
+      <description><![CDATA[<p>OSC7577 is our new, open protocol that allows any app to tell the runtime (Rex, in our case) how to safely restart it. This has already been excellent, not just for agent TUIs, but also web servers, and personal apps.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2125712417690910720/img/FXS_6AaTz9bpqGBV.jpg" alt=""></p>]]></description>
+    </item>
+    <item>
       <title>The Rex integration for terminal browser is really good. Point at an element, and the browser sends the</title>
       <link>https://x.com/almonk/status/2125294789298188324</link>
       <guid isPermaLink="true">https://x.com/almonk/status/2125294789298188324</guid>
       <pubDate>Tue, 24 Nov 2026 18:25:38 GMT</pubDate>
       <author>@almonk</author>
-      <description><![CDATA[<p>The Rex integration for terminal browser is really good. Point at an element, and the browser sends the Rex pane agent useful context for your next change.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2125294588902453248/img/tqPrNW2q0HQ-qjWx.jpg" alt=""></p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2125271361215963136/img/MaCOCNjxyCuBDtcZ?format=jpg&amp;name=240x240" alt=""></p>]]></description>
+      <description><![CDATA[<p>The Rex integration for terminal browser is really good. Point at an element, and the browser sends the Rex pane agent useful context for your next change.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2125271361215963136/img/MaCOCNjxyCuBDtcZ?format=jpg&amp;name=240x240" alt=""></p>]]></description>
     </item>
     <item>
       <title>we spent a little while figuring out how we could do migrations from various products during onboarding for</title>
@@ -90,7 +98,7 @@
       <guid isPermaLink="true">https://x.com/almonk/status/2123044473873588226</guid>
       <pubDate>Wed, 18 Nov 2026 13:23:41 GMT</pubDate>
       <author>@almonk</author>
-      <description><![CDATA[<p>posted this into our Rex discord today... the new `𝚛𝚎𝚡.𝚞𝚒` primitives provides a new set of simple but powerful methods to build interactive scripts within Rex that require user interaction.<br><br>Now you can build the workflow of your dreams, that little action you always wanted</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2123043561985765377/img/ExjNTsFbWc870vHz.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>posted this into our Rex discord today... the new `𝚛𝚎𝚡.𝚞𝚒` primitives provides a new set of simple but powerful methods to build interactive scripts within Rex that require user interaction.<br><br>Now you can build the workflow of your dreams, that little action you always wanted</p>]]></description>
     </item>
     <item>
       <title>the world we live in now: extremely smart and aggressive hacking agents and poorly written slop services. gonna</title>
@@ -803,14 +811,6 @@
       <pubDate>Thu, 17 Sep 2026 18:52:14 GMT</pubDate>
       <author>@almonk</author>
       <description><![CDATA[<p>Have some fun stuff to share for fellow light mode terminal lovers: we call it Automatic Contrast Correction.<br><br>Users of light themes will have felt my pain. Developers have generally designed text interfaces for dark mode terminals.<br><br>There are many examples in the tui apps I use</p><p><img src="https://pbs.twimg.com/media/HScI8d0W4AAaIkn?format=jpg&amp;name=small" alt=""></p><p><img src="https://pbs.twimg.com/media/HScI9EmXoAEz8oB?format=jpg&amp;name=small" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>almost, but the entire loop is “design it”</title>
-      <link>https://x.com/almonk/status/2099831933345689693</link>
-      <guid isPermaLink="true">https://x.com/almonk/status/2099831933345689693</guid>
-      <pubDate>Tue, 15 Sep 2026 12:05:20 GMT</pubDate>
-      <author>@almonk</author>
-      <description><![CDATA[<p>almost, but the entire loop is “design it”</p>]]></description>
     </item>
   </channel>
 </rss>

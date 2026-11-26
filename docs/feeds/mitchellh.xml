@@ -13,6 +13,14 @@
     </image>
     <ttl>120</ttl>
     <item>
+      <title>Rex can now resume your programs through a server restart! This is based on a brand new terminal</title>
+      <link>https://x.com/mitchellh/status/2125713695233970521</link>
+      <guid isPermaLink="true">https://x.com/mitchellh/status/2125713695233970521</guid>
+      <pubDate>Wed, 25 Nov 2026 22:10:13 GMT</pubDate>
+      <author>@mitchellh</author>
+      <description><![CDATA[<p>Rex can now resume your programs through a server restart! This is based on a brand new terminal protocol we&apos;re also publishing today (OSC 7577) that we worked on in collaboration with @herdrdev with review from multiple terminal emulator and terminal program authors. Link:</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2125712417690910720/img/FXS_6AaTz9bpqGBV.jpg" alt=""></p>]]></description>
+    </item>
+    <item>
       <title>libghostty-vt 1.0.2 released: correct widths for skin tone emoji, insert/delete line (IL/DL) fixes, up to 1.8x faster scrolling</title>
       <link>https://x.com/mitchellh/status/2125299061020610770</link>
       <guid isPermaLink="true">https://x.com/mitchellh/status/2125299061020610770</guid>
@@ -34,7 +42,7 @@
       <guid isPermaLink="true">https://x.com/mitchellh/status/2125005793883980054</guid>
       <pubDate>Mon, 23 Nov 2026 23:17:16 GMT</pubDate>
       <author>@mitchellh</author>
-      <description><![CDATA[<p>Some folks are shocked we&apos;re doing Windows (client) before Linux (client) for Rex. Note we will publicly ship with full Linux and FreeBSD server support soon, but clients will come later. Why? Let&apos;s talk about it!<br><br>If you don&apos;t want to watch a [short] video, here is some</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2125005315276218369/img/fUK0a3CIqjGJwlb6.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Some folks are shocked we&apos;re doing Windows (client) before Linux (client) for Rex. Note we will publicly ship with full Linux and FreeBSD server support soon, but clients will come later. Why? Let&apos;s talk about it!<br><br>If you don&apos;t want to watch a [short] video, here is some</p>]]></description>
     </item>
     <item>
       <title>It&apos;s magic being able to easily connect to a Windows Rex server from macOS (or vice versa), and</title>
@@ -146,7 +154,7 @@
       <guid isPermaLink="true">https://x.com/mitchellh/status/2118352046906867927</guid>
       <pubDate>Thu, 05 Nov 2026 14:37:39 GMT</pubDate>
       <author>@mitchellh</author>
-      <description><![CDATA[<p>Surprise! We have a gorgeous, high quality windows client. We’ve been waiting to share until we have a relatively complete (but still pre alpha) client here, but we’re getting ready to start external testing. Hello, Windows.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2118321201424572416/img/5Vc6LJAZJ8bZNPAm.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Surprise! We have a gorgeous, high quality windows client. We’ve been waiting to share until we have a relatively complete (but still pre alpha) client here, but we’re getting ready to start external testing. Hello, Windows.</p>]]></description>
     </item>
     <item>
       <title>Congrats to Pierre! I have many great friends that work there and I’m so happy for them. I’m</title>

@@ -13,6 +13,14 @@
     </image>
     <ttl>120</ttl>
     <item>
+      <title>One of those invisible details: accessibility isn’t only screen readers. it’s also “can someone in Tokyo type into</title>
+      <link>https://x.com/shuding/status/2125938673820856469</link>
+      <guid isPermaLink="true">https://x.com/shuding/status/2125938673820856469</guid>
+      <pubDate>Thu, 26 Nov 2026 13:04:12 GMT</pubDate>
+      <author>@shuding</author>
+      <description><![CDATA[<p>One of those invisible details: accessibility isn’t only screen readers. it’s also “can someone in Tokyo type into your search box without it picking the wrong thing.” <br><br>@uisdk handles Input Method Editor (IME) input so keystroke/Enter/Escape/arrows don’t fire mid-word.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2125938008125829120/img/OB97BCoCFQT6gVXL.jpg" alt=""></p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2121161743993114624/img/AleRHzEosyDoKOwf?format=jpg&amp;name=240x240" alt=""></p>]]></description>
+    </item>
+    <item>
       <title>If you’re wondering what UI SDK behaviors look like in real components, we’ve put together some examples you</title>
       <link>https://x.com/shuding/status/2123414608413364579</link>
       <guid isPermaLink="true">https://x.com/shuding/status/2123414608413364579</guid>
@@ -74,7 +82,7 @@
       <guid isPermaLink="true">https://x.com/shuding/status/2121609458325594188</guid>
       <pubDate>Sat, 14 Nov 2026 14:21:27 GMT</pubDate>
       <author>@shuding</author>
-      <description><![CDATA[<p>SPEC-01/HARDWARE<br><br>Themed components built with @Vercel UI SDK<br>https://spec-01.vercel.app<br><br>Sound on</p>]]></description>
+      <description><![CDATA[<p>SPEC-01/HARDWARE<br><br>Themed components built with @Vercel UI SDK<br>https://spec-01.vercel.app<br><br>Sound on</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2121603224897761280/img/RvQL7P34fB03oVPC.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>There are tons of details like that in UI SDK, to make you &amp; your agent ship better</title>
@@ -90,7 +98,7 @@
       <guid isPermaLink="true">https://x.com/shuding/status/2121164265931579823</guid>
       <pubDate>Fri, 13 Nov 2026 08:52:24 GMT</pubDate>
       <author>@shuding</author>
-      <description><![CDATA[<p>One small detail of UI SDK that we’ve put a lot of effort into, to make it more accessible:<br><br>A `findable` option to make native search (Ctrl/Cmd+F) work with virtualized lists. Works in both Safari and Chrome.<br><br>https://ui-sdk.dev/docs/core/behaviors/lists#find-in-page…</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2121161743993114624/img/AleRHzEosyDoKOwf.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>One small detail of UI SDK that we’ve put a lot of effort into, to make it more accessible:<br><br>A `findable` option to make native search (Ctrl/Cmd+F) work with virtualized lists. Works in both Safari and Chrome.<br><br>https://ui-sdk.dev/docs/core/behaviors/lists#find-in-page…</p>]]></description>
     </item>
     <item>
       <title>@shadcn is truly a visionary, and it’s been a pleasure to collaborate with him and @benjamincanac on this</title>
@@ -106,7 +114,7 @@
       <guid isPermaLink="true">https://x.com/shuding/status/2121004607732384042</guid>
       <pubDate>Thu, 12 Nov 2026 22:17:59 GMT</pubDate>
       <author>@shuding</author>
-      <description><![CDATA[<p>UI behaviors → we’re here<br>+ Stateful coordination → element logic<br>+ React/Vue/Svelte/… → components <br>+ Tailwind/StyleX/… → design systems<br><br>Lower level, accessible, atomic units. Faster to build systems on top with focus on your design.<br><br>The periodic table of UIs.</p>]]></description>
+      <description><![CDATA[<p>UI behaviors → we’re here<br>+ Stateful coordination → element logic<br>+ React/Vue/Svelte/… → components <br>+ Tailwind/StyleX/… → design systems<br><br>Lower level, accessible, atomic units. Faster to build systems on top with focus on your design.<br><br>The periodic table of UIs.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2120949925425065984/img/4DSJbkjJAuKq0sfQ.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>One day you wake up and see this in your DM</title>
@@ -138,7 +146,7 @@
       <guid isPermaLink="true">https://x.com/shuding/status/2116196639765569894</guid>
       <pubDate>Fri, 30 Oct 2026 15:52:50 GMT</pubDate>
       <author>@shuding</author>
-      <description><![CDATA[<p>● ■ ▲ ♥</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2116195240159916032/img/2GDe9k19XeDKvOiy.jpg" alt=""></p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2116179269168902144/img/xhLt0-x8ilRpHmWm?format=jpg&amp;name=120x120" alt=""></p>]]></description>
+      <description><![CDATA[<p>● ■ ▲ ♥</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2116179269168902144/img/xhLt0-x8ilRpHmWm?format=jpg&amp;name=120x120" alt=""></p>]]></description>
     </item>
     <item>
       <title>Before/after for https://shud.in (3G network, no cache, intentionally no swap):</title>
@@ -146,7 +154,7 @@
       <guid isPermaLink="true">https://x.com/shuding/status/2115855035452281039</guid>
       <pubDate>Thu, 29 Oct 2026 17:15:25 GMT</pubDate>
       <author>@shuding</author>
-      <description><![CDATA[<p>Before/after for https://shud.in (3G network, no cache, intentionally no swap):</p>]]></description>
+      <description><![CDATA[<p>Before/after for https://shud.in (3G network, no cache, intentionally no swap):</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2115850463728017409/img/r2CeMKJMbH-We93F.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Tell your agent to optimize your site’s web fonts. I’m seeing a huge difference on my blog. Full</title>

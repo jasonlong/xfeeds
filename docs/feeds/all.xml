@@ -7,6 +7,102 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>Introducing the tldraw MCP. Connect any agent to your tldraw account, and it can create boards, search your</title>
+      <link>https://x.com/tldraw/status/2125967066574516423</link>
+      <guid isPermaLink="true">https://x.com/tldraw/status/2125967066574516423</guid>
+      <pubDate>Thu, 26 Nov 2026 14:57:01 GMT</pubDate>
+      <author>@tldraw</author>
+      <description><![CDATA[<p>Introducing the tldraw MCP.<br><br>Connect any agent to your tldraw account, and it can create boards, search your files, and edit them. Every file is a real tldraw file, saved to your account.<br><br>Here&apos;s how we&apos;ve been using it already:</p>]]></description>
+    </item>
+    <item>
+      <title>damn</title>
+      <link>https://x.com/agusegui/status/2125944048024260777</link>
+      <guid isPermaLink="true">https://x.com/agusegui/status/2125944048024260777</guid>
+      <pubDate>Thu, 26 Nov 2026 13:25:33 GMT</pubDate>
+      <author>@agusegui</author>
+      <description><![CDATA[<p>damn</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2125836520393441280/img/Bw5Xk-rO31PpL1ri.jpg" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>One of those invisible details: accessibility isn’t only screen readers. it’s also “can someone in Tokyo type into</title>
+      <link>https://x.com/shuding/status/2125938673820856469</link>
+      <guid isPermaLink="true">https://x.com/shuding/status/2125938673820856469</guid>
+      <pubDate>Thu, 26 Nov 2026 13:04:12 GMT</pubDate>
+      <author>@shuding</author>
+      <description><![CDATA[<p>One of those invisible details: accessibility isn’t only screen readers. it’s also “can someone in Tokyo type into your search box without it picking the wrong thing.” <br><br>@uisdk handles Input Method Editor (IME) input so keystroke/Enter/Escape/arrows don’t fire mid-word.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2125938008125829120/img/OB97BCoCFQT6gVXL.jpg" alt=""></p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2121161743993114624/img/AleRHzEosyDoKOwf?format=jpg&amp;name=240x240" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>`cn` is now 100M downloads per month. thank you.</title>
+      <link>https://x.com/shadcn/status/2125924498264428901</link>
+      <guid isPermaLink="true">https://x.com/shadcn/status/2125924498264428901</guid>
+      <pubDate>Thu, 26 Nov 2026 12:07:52 GMT</pubDate>
+      <author>@shadcn</author>
+      <description><![CDATA[<p>`cn` is now 100M downloads per month. thank you.</p>]]></description>
+    </item>
+    <item>
+      <title>If code is &quot;free, ephemeral, malleable, discardable after single use,&quot; the question stops being about what to build</title>
+      <link>https://x.com/tldraw/status/2125903741408682051</link>
+      <guid isPermaLink="true">https://x.com/tldraw/status/2125903741408682051</guid>
+      <pubDate>Thu, 26 Nov 2026 10:45:23 GMT</pubDate>
+      <author>@tldraw</author>
+      <description><![CDATA[<p>If code is &quot;free, ephemeral, malleable, discardable after single use,&quot; the question stops being about what to build and becomes about what to maintain. <br><br>Our thoughts on disposable software, and the throwaway tools we build on a canvas in tldraw office:</p>]]></description>
+    </item>
+    <item>
+      <title>OSC7577 is our new, open protocol that allows any app to tell the runtime (Rex, in our case)</title>
+      <link>https://x.com/almonk/status/2125858278999761161</link>
+      <guid isPermaLink="true">https://x.com/almonk/status/2125858278999761161</guid>
+      <pubDate>Thu, 26 Nov 2026 07:44:44 GMT</pubDate>
+      <author>@almonk</author>
+      <description><![CDATA[<p>OSC7577 is our new, open protocol that allows any app to tell the runtime (Rex, in our case) how to safely restart it. This has already been excellent, not just for agent TUIs, but also web servers, and personal apps.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2125712417690910720/img/FXS_6AaTz9bpqGBV.jpg" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>oh in @uisdk you can make any popup responsive by using the presentation=auto prop. Popover on desktop and</title>
+      <link>https://x.com/shadcn/status/2125840476817269029</link>
+      <guid isPermaLink="true">https://x.com/shadcn/status/2125840476817269029</guid>
+      <pubDate>Thu, 26 Nov 2026 06:34:00 GMT</pubDate>
+      <author>@shadcn</author>
+      <description><![CDATA[<p>oh in @uisdk you can make any popup responsive by using the presentation=auto prop. Popover on desktop and sheet on mobile.</p>]]></description>
+    </item>
+    <item>
+      <title>I asked Claude to populate a Civilization-style game map with real data from the US. Opus 5.5 downloaded</title>
+      <link>https://x.com/karpathy/status/2125779541952246039</link>
+      <guid isPermaLink="true">https://x.com/karpathy/status/2125779541952246039</guid>
+      <pubDate>Thu, 26 Nov 2026 02:31:52 GMT</pubDate>
+      <author>@karpathy</author>
+      <description><![CDATA[<p>I asked Claude to populate a Civilization-style game map with real data from the US. Opus 5.5 downloaded and parse a ton of public data and 7 hours and 45K lines of code later... it works :)<br><br>- 31 real data sources including Census, BEA, BLS, EIA, NOAA, USGS, DoD, NPS, FAA, FEMA,</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2125775560517570561/img/GDE8h47dSgwy5uSy.jpg" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>Rex can now resume your programs through a server restart! This is based on a brand new terminal</title>
+      <link>https://x.com/mitchellh/status/2125713695233970521</link>
+      <guid isPermaLink="true">https://x.com/mitchellh/status/2125713695233970521</guid>
+      <pubDate>Wed, 25 Nov 2026 22:10:13 GMT</pubDate>
+      <author>@mitchellh</author>
+      <description><![CDATA[<p>Rex can now resume your programs through a server restart! This is based on a brand new terminal protocol we&apos;re also publishing today (OSC 7577) that we worked on in collaboration with @herdrdev with review from multiple terminal emulator and terminal program authors. Link:</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2125712417690910720/img/FXS_6AaTz9bpqGBV.jpg" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>Time to watch Project Hail Mary again.</title>
+      <link>https://x.com/shadcn/status/2125678858674262260</link>
+      <guid isPermaLink="true">https://x.com/shadcn/status/2125678858674262260</guid>
+      <pubDate>Wed, 25 Nov 2026 19:51:47 GMT</pubDate>
+      <author>@shadcn</author>
+      <description><![CDATA[<p>Time to watch Project Hail Mary again.</p>]]></description>
+    </item>
+    <item>
+      <title>Your agents can now send feedback to the team from the canvas. A new send_feedback tool means your</title>
+      <link>https://x.com/tldraw/status/2125666621708755209</link>
+      <guid isPermaLink="true">https://x.com/tldraw/status/2125666621708755209</guid>
+      <pubDate>Wed, 25 Nov 2026 19:03:10 GMT</pubDate>
+      <author>@tldraw</author>
+      <description><![CDATA[<p>Your agents can now send feedback to the team from the canvas.<br><br>A new send_feedback tool means your agents can report bugs and file feature requests directly to us.</p>]]></description>
+    </item>
+    <item>
+      <title>Agents now keep working on your files in the background when you switch tabs. Set an agent to</title>
+      <link>https://x.com/tldraw/status/2125666609889149421</link>
+      <guid isPermaLink="true">https://x.com/tldraw/status/2125666609889149421</guid>
+      <pubDate>Wed, 25 Nov 2026 19:03:07 GMT</pubDate>
+      <author>@tldraw</author>
+      <description><![CDATA[<p>Agents now keep working on your files in the background when you switch tabs.<br><br>Set an agent to work on https://tldraw.com, and leave it running in the background while you do other things. It&apos;ll still be working when you come back.<br><br>Here&apos;s what else is new on</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2125666583406415872/img/EhwpVAgd0zOdu41c.jpg" alt=""></p>]]></description>
+    </item>
+    <item>
       <title>The tldraw MCP server is live. Connect your agent to your tldraw account, and it can create boards,</title>
       <link>https://x.com/tldraw/status/2125658304143884788</link>
       <guid isPermaLink="true">https://x.com/tldraw/status/2125658304143884788</guid>
@@ -132,7 +228,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2125302716000084235</guid>
       <pubDate>Tue, 24 Nov 2026 18:57:08 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>You can now use ⌘K to search on https://tldraw.com.</p>]]></description>
+      <description><![CDATA[<p>You can now use ⌘K to search on https://tldraw.com.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2125302686140784640/img/q62ztKdfftEvJyqQ.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>libghostty-vt 1.0.2 released: correct widths for skin tone emoji, insert/delete line (IL/DL) fixes, up to 1.8x faster scrolling</title>
@@ -148,7 +244,7 @@
       <guid isPermaLink="true">https://x.com/almonk/status/2125294789298188324</guid>
       <pubDate>Tue, 24 Nov 2026 18:25:38 GMT</pubDate>
       <author>@almonk</author>
-      <description><![CDATA[<p>The Rex integration for terminal browser is really good. Point at an element, and the browser sends the Rex pane agent useful context for your next change.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2125294588902453248/img/tqPrNW2q0HQ-qjWx.jpg" alt=""></p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2125271361215963136/img/MaCOCNjxyCuBDtcZ?format=jpg&amp;name=240x240" alt=""></p>]]></description>
+      <description><![CDATA[<p>The Rex integration for terminal browser is really good. Point at an element, and the browser sends the Rex pane agent useful context for your next change.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2125271361215963136/img/MaCOCNjxyCuBDtcZ?format=jpg&amp;name=240x240" alt=""></p>]]></description>
     </item>
     <item>
       <title>I&apos;ve seen Rob in Discord relentlessly improving terminal-browser in Rex! Note that some of his experience also resulted</title>
@@ -260,7 +356,7 @@
       <guid isPermaLink="true">https://x.com/mitchellh/status/2125005793883980054</guid>
       <pubDate>Mon, 23 Nov 2026 23:17:16 GMT</pubDate>
       <author>@mitchellh</author>
-      <description><![CDATA[<p>Some folks are shocked we&apos;re doing Windows (client) before Linux (client) for Rex. Note we will publicly ship with full Linux and FreeBSD server support soon, but clients will come later. Why? Let&apos;s talk about it!<br><br>If you don&apos;t want to watch a [short] video, here is some</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2125005315276218369/img/fUK0a3CIqjGJwlb6.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Some folks are shocked we&apos;re doing Windows (client) before Linux (client) for Rex. Note we will publicly ship with full Linux and FreeBSD server support soon, but clients will come later. Why? Let&apos;s talk about it!<br><br>If you don&apos;t want to watch a [short] video, here is some</p>]]></description>
     </item>
     <item>
       <title>It&apos;s magic being able to easily connect to a Windows Rex server from macOS (or vice versa), and</title>
@@ -332,7 +428,7 @@
       <guid isPermaLink="true">https://x.com/shadcn/status/2124880771404169429</guid>
       <pubDate>Mon, 23 Nov 2026 15:00:28 GMT</pubDate>
       <author>@shadcn</author>
-      <description><![CDATA[<p>If you get the foundation right, your agents get to have fun. UI SDK handles the hard part.<br><br>Bring the whimsy back to interfaces.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2124758753861910528/img/RO9GMsKQSK3Y1Q6s.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>If you get the foundation right, your agents get to have fun. UI SDK handles the hard part.<br><br>Bring the whimsy back to interfaces.</p>]]></description>
     </item>
     <item>
       <title>love letters in my DMs</title>
@@ -356,7 +452,7 @@
       <guid isPermaLink="true">https://x.com/ryolu_/status/2124473853858725907</guid>
       <pubDate>Sun, 22 Nov 2026 12:03:32 GMT</pubDate>
       <author>@ryolu_</author>
-      <description><![CDATA[<p>ryOS Karaoke, native on iOS, almost one-shotted with @airbuild<br><br>half fold the iPhone Duo and it&apos;s a tiny karaoke machine 🎤</p>]]></description>
+      <description><![CDATA[<p>ryOS Karaoke, native on iOS, almost one-shotted with @airbuild<br><br>half fold the iPhone Duo and it&apos;s a tiny karaoke machine 🎤</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2124473775895056384/img/gUMD23yqrd8IQ_pz.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>new in helium&apos;s latest update: persistent pins, something arc refugees will enjoy pinned tabs now sync across all</title>
@@ -748,7 +844,7 @@
       <guid isPermaLink="true">https://x.com/almonk/status/2123044473873588226</guid>
       <pubDate>Wed, 18 Nov 2026 13:23:41 GMT</pubDate>
       <author>@almonk</author>
-      <description><![CDATA[<p>posted this into our Rex discord today... the new `𝚛𝚎𝚡.𝚞𝚒` primitives provides a new set of simple but powerful methods to build interactive scripts within Rex that require user interaction.<br><br>Now you can build the workflow of your dreams, that little action you always wanted</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2123043561985765377/img/ExjNTsFbWc870vHz.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>posted this into our Rex discord today... the new `𝚛𝚎𝚡.𝚞𝚒` primitives provides a new set of simple but powerful methods to build interactive scripts within Rex that require user interaction.<br><br>Now you can build the workflow of your dreams, that little action you always wanted</p>]]></description>
     </item>
     <item>
       <title>Media post</title>
@@ -844,7 +940,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2122791783360868524</guid>
       <pubDate>Tue, 17 Nov 2026 20:39:35 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>build your whiteboard app with the tldraw SDK and never waste a token implementing crops for rotated images</p>]]></description>
+      <description><![CDATA[<p>build your whiteboard app with the tldraw SDK and never waste a token implementing crops for rotated images</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2122791405978324992/img/JlqHVWrInom95AVr.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Paper with Linear agents is really promising to me You could have a canvas ready to review before</title>
@@ -908,7 +1004,7 @@
       <guid isPermaLink="true">https://x.com/agusegui/status/2122698629010145365</guid>
       <pubDate>Tue, 17 Nov 2026 14:29:25 GMT</pubDate>
       <author>@agusegui</author>
-      <description><![CDATA[<p>super happy to announce I’ll be speaking at @forum_tokyo 2027 🗼 it’s going to be RAD</p>]]></description>
+      <description><![CDATA[<p>super happy to announce I’ll be speaking at @forum_tokyo 2027 🗼 it’s going to be RAD</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2122694922897645568/img/BsOndedsNkxCjL7p.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>when working on Poolside, @eisokant @jasoncwarner espoused from the very beginning that “everything would collapse into the model”</title>
@@ -1060,7 +1156,7 @@
       <guid isPermaLink="true">https://x.com/avstorm/status/2122408441700556884</guid>
       <pubDate>Mon, 16 Nov 2026 19:16:19 GMT</pubDate>
       <author>@avstorm</author>
-      <description><![CDATA[<p>New iPhone Duo Face Recognition animations in iOS 27.3 Beta 2.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2122406991586897920/img/HjAy-WSy06dqAauE.jpg" alt=""></p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2122406998423597056/img/PRWewdePSpFYaU0G.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>New iPhone Duo Face Recognition animations in iOS 27.3 Beta 2.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2122406998423597056/img/PRWewdePSpFYaU0G.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Good morning! Today @paper launches Remote MCP This may change the industry forever. Use Paper anywhere you work:</title>
@@ -1140,7 +1236,7 @@
       <guid isPermaLink="true">https://x.com/avstorm/status/2121960136914956459</guid>
       <pubDate>Sun, 15 Nov 2026 13:34:55 GMT</pubDate>
       <author>@avstorm</author>
-      <description><![CDATA[<p>Apple HomeView’s Snoopy animations adapt to the date and the placement of the digits.</p>]]></description>
+      <description><![CDATA[<p>Apple HomeView’s Snoopy animations adapt to the date and the placement of the digits.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2121957755036577792/img/0cvfKn4fnY9Lgxqg.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>This is a great overview of Rex right now and the multiplexer for all work we’re building. Regardless</title>
@@ -1220,7 +1316,7 @@
       <guid isPermaLink="true">https://x.com/shuding/status/2121609458325594188</guid>
       <pubDate>Sat, 14 Nov 2026 14:21:27 GMT</pubDate>
       <author>@shuding</author>
-      <description><![CDATA[<p>SPEC-01/HARDWARE<br><br>Themed components built with @Vercel UI SDK<br>https://spec-01.vercel.app<br><br>Sound on</p>]]></description>
+      <description><![CDATA[<p>SPEC-01/HARDWARE<br><br>Themed components built with @Vercel UI SDK<br>https://spec-01.vercel.app<br><br>Sound on</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2121603224897761280/img/RvQL7P34fB03oVPC.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Media post</title>
@@ -1228,7 +1324,7 @@
       <guid isPermaLink="true">https://x.com/avstorm/status/2121515197810573377</guid>
       <pubDate>Sat, 14 Nov 2026 08:06:53 GMT</pubDate>
       <author>@avstorm</author>
-      <description><![CDATA[<p></p>]]></description>
+      <description><![CDATA[<p></p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2121515144475770880/img/OVWmtX4a7VvLqCpy.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>I’m seeing some incredibly amazing things being built with the UI SDK. Keep them coming.</title>
@@ -1244,7 +1340,7 @@
       <guid isPermaLink="true">https://x.com/avstorm/status/2121379679827603579</guid>
       <pubDate>Fri, 13 Nov 2026 23:08:23 GMT</pubDate>
       <author>@avstorm</author>
-      <description><![CDATA[<p>HomeView update animation</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2121379494506254336/img/tiflJJVrsGWXhLIV.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>HomeView update animation</p>]]></description>
     </item>
     <item>
       <title>There&apos;s something really soothing about this HomeView watch face.</title>
@@ -1324,7 +1420,7 @@
       <guid isPermaLink="true">https://x.com/shuding/status/2121164265931579823</guid>
       <pubDate>Fri, 13 Nov 2026 08:52:24 GMT</pubDate>
       <author>@shuding</author>
-      <description><![CDATA[<p>One small detail of UI SDK that we’ve put a lot of effort into, to make it more accessible:<br><br>A `findable` option to make native search (Ctrl/Cmd+F) work with virtualized lists. Works in both Safari and Chrome.<br><br>https://ui-sdk.dev/docs/core/behaviors/lists#find-in-page…</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2121161743993114624/img/AleRHzEosyDoKOwf.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>One small detail of UI SDK that we’ve put a lot of effort into, to make it more accessible:<br><br>A `findable` option to make native search (Ctrl/Cmd+F) work with virtualized lists. Works in both Safari and Chrome.<br><br>https://ui-sdk.dev/docs/core/behaviors/lists#find-in-page…</p>]]></description>
     </item>
     <item>
       <title>Apple logos 2026</title>
@@ -1348,7 +1444,7 @@
       <guid isPermaLink="true">https://x.com/shuding/status/2121004607732384042</guid>
       <pubDate>Thu, 12 Nov 2026 22:17:59 GMT</pubDate>
       <author>@shuding</author>
-      <description><![CDATA[<p>UI behaviors → we’re here<br>+ Stateful coordination → element logic<br>+ React/Vue/Svelte/… → components <br>+ Tailwind/StyleX/… → design systems<br><br>Lower level, accessible, atomic units. Faster to build systems on top with focus on your design.<br><br>The periodic table of UIs.</p>]]></description>
+      <description><![CDATA[<p>UI behaviors → we’re here<br>+ Stateful coordination → element logic<br>+ React/Vue/Svelte/… → components <br>+ Tailwind/StyleX/… → design systems<br><br>Lower level, accessible, atomic units. Faster to build systems on top with focus on your design.<br><br>The periodic table of UIs.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2120949925425065984/img/4DSJbkjJAuKq0sfQ.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Thanks for the Pi love @ivanrvpereira</title>
@@ -1509,102 +1605,6 @@
       <pubDate>Wed, 11 Nov 2026 17:26:53 GMT</pubDate>
       <author>@tldraw</author>
       <description><![CDATA[<p>We’ll be in New York next week for @thejsnation, @ReactSummit and @AICodingSummit! Catch us in the expo hall for live demos and snag some new tldraw apparel.<br><br>Want more time with the team? Send us a DM.</p><p><img src="https://pbs.twimg.com/media/HW3FuJAXYAA4a3Q?format=jpg&amp;name=small" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>Speed + code + freedom of exploration Check out @harcourttt&apos;s full video here:</title>
-      <link>https://x.com/paper/status/2120558721323675664</link>
-      <guid isPermaLink="true">https://x.com/paper/status/2120558721323675664</guid>
-      <pubDate>Wed, 11 Nov 2026 16:46:11 GMT</pubDate>
-      <author>@paper</author>
-      <description><![CDATA[<p>Speed + code + freedom of exploration<br><br>Check out @harcourttt&apos;s full video here:</p>]]></description>
-    </item>
-    <item>
-      <title>The canvas? Undefeated. Since Sketchpad in the 1960&apos;s, a 2D canvas has been the interface for creativity, spatial</title>
-      <link>https://x.com/paper/status/2120558475994710046</link>
-      <guid isPermaLink="true">https://x.com/paper/status/2120558475994710046</guid>
-      <pubDate>Wed, 11 Nov 2026 16:45:13 GMT</pubDate>
-      <author>@paper</author>
-      <description><![CDATA[<p>The canvas? Undefeated.<br><br>Since Sketchpad in the 1960&apos;s, a 2D canvas has been the interface for creativity, spatial thinking, and dialing in the details.<br><br>We see designers, engineers, and sales teams using a canvas with agents more than ever.<br><br>Long live design tools!</p>]]></description>
-    </item>
-    <item>
-      <title>From Roboto to YouTube Marquee</title>
-      <link>https://x.com/avstorm/status/2120548444263878911</link>
-      <guid isPermaLink="true">https://x.com/avstorm/status/2120548444263878911</guid>
-      <pubDate>Wed, 11 Nov 2026 16:05:21 GMT</pubDate>
-      <author>@avstorm</author>
-      <description><![CDATA[<p>From Roboto to YouTube Marquee</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2120548364244697090/img/0nE8qb5jEYV3CWyE.jpg" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>YouTube has changed the font for video titles.</title>
-      <link>https://x.com/avstorm/status/2120544972177125570</link>
-      <guid isPermaLink="true">https://x.com/avstorm/status/2120544972177125570</guid>
-      <pubDate>Wed, 11 Nov 2026 15:51:33 GMT</pubDate>
-      <author>@avstorm</author>
-      <description><![CDATA[<p>YouTube has changed the font for video titles.</p><p><img src="https://pbs.twimg.com/media/HW2wCTqWAAAUAW8?format=png&amp;name=small" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>Foster + Partners is designing Oracle&apos;s new global headquarters in Nashville. https://fosterandpartners.com/news/designs-for-oracle-s-future-global-headquarters-revealed-at-groundbreaking-ceremony-in-nashville…</title>
-      <link>https://x.com/avstorm/status/2120541729703227446</link>
-      <guid isPermaLink="true">https://x.com/avstorm/status/2120541729703227446</guid>
-      <pubDate>Wed, 11 Nov 2026 15:38:40 GMT</pubDate>
-      <author>@avstorm</author>
-      <description><![CDATA[<p>Foster + Partners is designing Oracle&apos;s new global headquarters in Nashville.<br><br>https://fosterandpartners.com/news/designs-for-oracle-s-future-global-headquarters-revealed-at-groundbreaking-ceremony-in-nashville…</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2120540890611511296/img/CbvkCys6Sh2uZfAP.jpg" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>Behind the scenes of the Polestar Formula 2030 design.</title>
-      <link>https://x.com/avstorm/status/2120520611319730205</link>
-      <guid isPermaLink="true">https://x.com/avstorm/status/2120520611319730205</guid>
-      <pubDate>Wed, 11 Nov 2026 14:14:45 GMT</pubDate>
-      <author>@avstorm</author>
-      <description><![CDATA[<p>Behind the scenes of the Polestar Formula 2030 design.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2120520318418591744/img/R9DEz3xQ8cOTLnrn.jpg" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>Unexpected new app available in App Store. Enjoy 🕹️</title>
-      <link>https://x.com/zerocam_app/status/2120479671674413404</link>
-      <guid isPermaLink="true">https://x.com/zerocam_app/status/2120479671674413404</guid>
-      <pubDate>Wed, 11 Nov 2026 11:32:04 GMT</pubDate>
-      <author>@zerocam_app</author>
-      <description><![CDATA[<p>Unexpected new app available in App Store. Enjoy 🕹️</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2120429633602502656/img/xpG32tGEPfeu2q0F.jpg" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>Pidalf and Clankolas are on camera again. Enjoy</title>
-      <link>https://x.com/pidotdev/status/2120459951491653656</link>
-      <guid isPermaLink="true">https://x.com/pidotdev/status/2120459951491653656</guid>
-      <pubDate>Wed, 11 Nov 2026 10:13:43 GMT</pubDate>
-      <author>@pidotdev</author>
-      <description><![CDATA[<p>Pidalf and Clankolas are on camera again. Enjoy</p>]]></description>
-    </item>
-    <item>
-      <title>we build software not just to optimize, complete tasks or impose our own constraints – but to build</title>
-      <link>https://x.com/ryolu_/status/2120380317429350654</link>
-      <guid isPermaLink="true">https://x.com/ryolu_/status/2120380317429350654</guid>
-      <pubDate>Wed, 11 Nov 2026 04:57:17 GMT</pubDate>
-      <author>@ryolu_</author>
-      <description><![CDATA[<p>we build software not just to optimize, complete tasks or impose our own constraints – but to build a world where we let people in, aspire to things they couldn’t do before, to create, and find ourselves – just like filmmakers and musicians<br><br>a great read:</p>]]></description>
-    </item>
-    <item>
-      <title>working together with other humans is where the magic happens, not each of us running our own army</title>
-      <link>https://x.com/ryolu_/status/2120337691661443081</link>
-      <guid isPermaLink="true">https://x.com/ryolu_/status/2120337691661443081</guid>
-      <pubDate>Wed, 11 Nov 2026 02:07:54 GMT</pubDate>
-      <author>@ryolu_</author>
-      <description><![CDATA[<p>working together with other humans is where the magic happens, not each of us running our own army of agents in silos<br><br>glad to see this come alive 💛</p>]]></description>
-    </item>
-    <item>
-      <title>The progress never stops</title>
-      <link>https://x.com/paper/status/2120300315836817547</link>
-      <guid isPermaLink="true">https://x.com/paper/status/2120300315836817547</guid>
-      <pubDate>Tue, 10 Nov 2026 23:39:23 GMT</pubDate>
-      <author>@paper</author>
-      <description><![CDATA[<p>The progress never stops</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2120154008870682624/img/bicUMDYtY-2ibaK6.jpg" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>this ain&apos;t me but it could be you</title>
-      <link>https://x.com/tldraw/status/2120240246378078223</link>
-      <guid isPermaLink="true">https://x.com/tldraw/status/2120240246378078223</guid>
-      <pubDate>Tue, 10 Nov 2026 19:40:41 GMT</pubDate>
-      <author>@tldraw</author>
-      <description><![CDATA[<p>this ain&apos;t me but it could be you</p>]]></description>
     </item>
   </channel>
 </rss>
