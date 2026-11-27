@@ -13,6 +13,14 @@
     </image>
     <ttl>120</ttl>
     <item>
+      <title>Real. &quot;The overthinking of a designer&quot; as @pablostanley puts it in his latest video. A must watch. https://youtube.com/watch?v=8q0pwh98qmU…</title>
+      <link>https://x.com/shadcn/status/2126340151831875675</link>
+      <guid isPermaLink="true">https://x.com/shadcn/status/2126340151831875675</guid>
+      <pubDate>Fri, 27 Nov 2026 15:39:32 GMT</pubDate>
+      <author>@shadcn</author>
+      <description><![CDATA[<p>Real. &quot;The overthinking of a designer&quot; as @pablostanley puts it in his latest video. A must watch. https://youtube.com/watch?v=8q0pwh98qmU…</p>]]></description>
+    </item>
+    <item>
       <title>We added a Report a Bug section to the ui-sdk skill. When your agent hits a bug in</title>
       <link>https://x.com/shadcn/status/2126304450239496636</link>
       <guid isPermaLink="true">https://x.com/shadcn/status/2126304450239496636</guid>
@@ -82,7 +90,7 @@
       <guid isPermaLink="true">https://x.com/shadcn/status/2125396779591925850</guid>
       <pubDate>Wed, 25 Nov 2026 01:10:54 GMT</pubDate>
       <author>@shadcn</author>
-      <description><![CDATA[<p>AI SDK just added WebMCP support. So we tried it with @uisdk.<br><br>You say &quot;add two mugs&quot;. The model calls the page&apos;s WebMCP tools and the components update. No screenshots. No clicking around. It&apos;s really fast.<br><br>UI built with UI SDK comes with its own tools. The MCP client reads</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2125395962281570304/img/0_Gb1MnFlww8rUNY.jpg" alt=""></p><p><img src="https://pbs.twimg.com/media/HX6LZtjakAA7IgH?format=jpg&amp;name=240x240" alt=""></p>]]></description>
+      <description><![CDATA[<p>AI SDK just added WebMCP support. So we tried it with @uisdk.<br><br>You say &quot;add two mugs&quot;. The model calls the page&apos;s WebMCP tools and the components update. No screenshots. No clicking around. It&apos;s really fast.<br><br>UI built with UI SDK comes with its own tools. The MCP client reads</p><p><img src="https://pbs.twimg.com/media/HX6LZtjakAA7IgH?format=jpg&amp;name=240x240" alt=""></p>]]></description>
     </item>
     <item>
       <title>Media post</title>
@@ -803,14 +811,6 @@
       <pubDate>Thu, 08 Oct 2026 11:52:31 GMT</pubDate>
       <author>@shadcn</author>
       <description><![CDATA[<p>450 is such a good font weight.</p>]]></description>
-    </item>
-    <item>
-      <title>We’ve made it. I just talked to someone who has no idea what shadcn/ui is. Their app is</title>
-      <link>https://x.com/shadcn/status/2107750590742757427</link>
-      <guid isPermaLink="true">https://x.com/shadcn/status/2107750590742757427</guid>
-      <pubDate>Wed, 07 Oct 2026 08:31:15 GMT</pubDate>
-      <author>@shadcn</author>
-      <description><![CDATA[<p>We’ve made it. I just talked to someone who has no idea what shadcn/ui is. Their app is built with shadcn/ui.</p>]]></description>
     </item>
   </channel>
 </rss>
