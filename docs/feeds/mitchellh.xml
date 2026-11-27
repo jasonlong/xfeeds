@@ -13,6 +13,14 @@
     </image>
     <ttl>120</ttl>
     <item>
+      <title>Rex is live in the App Store. It requires a Rex Server running on another device so maybe</title>
+      <link>https://x.com/mitchellh/status/2126047712596631876</link>
+      <guid isPermaLink="true">https://x.com/mitchellh/status/2126047712596631876</guid>
+      <pubDate>Thu, 26 Nov 2026 20:17:29 GMT</pubDate>
+      <author>@mitchellh</author>
+      <description><![CDATA[<p>Rex is live in the App Store. It requires a Rex Server running on another device so maybe a hint that a full public release is imminent… in the meantime enjoy the startup animation and screenshots. 😎 https://apps.apple.com/us/app/rex-by-superlogical/id6813649254…</p>]]></description>
+    </item>
+    <item>
       <title>Rex can now resume your programs through a server restart! This is based on a brand new terminal</title>
       <link>https://x.com/mitchellh/status/2125713695233970521</link>
       <guid isPermaLink="true">https://x.com/mitchellh/status/2125713695233970521</guid>
@@ -74,7 +82,7 @@
       <guid isPermaLink="true">https://x.com/mitchellh/status/2123167959686496690</guid>
       <pubDate>Wed, 18 Nov 2026 21:34:22 GMT</pubDate>
       <author>@mitchellh</author>
-      <description><![CDATA[<p>Rex has really powerful Lua scripting that our beta group has been using to huge effect. We expanded it today with `rex.ui`: a way to build automations that require user interaction. <br><br>The way this works with multiple clients: the choice pops up on all attached clients. The first</p>]]></description>
+      <description><![CDATA[<p>Rex has really powerful Lua scripting that our beta group has been using to huge effect. We expanded it today with `rex.ui`: a way to build automations that require user interaction. <br><br>The way this works with multiple clients: the choice pops up on all attached clients. The first</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2123043561985765377/img/ExjNTsFbWc870vHz.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>The Rex for Windows alpha begins today! I think this is a better terminal than Windows Terminal, and</title>
@@ -154,7 +162,7 @@
       <guid isPermaLink="true">https://x.com/mitchellh/status/2118352046906867927</guid>
       <pubDate>Thu, 05 Nov 2026 14:37:39 GMT</pubDate>
       <author>@mitchellh</author>
-      <description><![CDATA[<p>Surprise! We have a gorgeous, high quality windows client. We’ve been waiting to share until we have a relatively complete (but still pre alpha) client here, but we’re getting ready to start external testing. Hello, Windows.</p>]]></description>
+      <description><![CDATA[<p>Surprise! We have a gorgeous, high quality windows client. We’ve been waiting to share until we have a relatively complete (but still pre alpha) client here, but we’re getting ready to start external testing. Hello, Windows.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2118321201424572416/img/5Vc6LJAZJ8bZNPAm.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Congrats to Pierre! I have many great friends that work there and I’m so happy for them. I’m</title>

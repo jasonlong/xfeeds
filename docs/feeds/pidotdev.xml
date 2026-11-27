@@ -13,6 +13,14 @@
     </image>
     <ttl>120</ttl>
     <item>
+      <title>Happy Thanksgiving all and don’t forget to bring the Pi ❤️ 🦃</title>
+      <link>https://x.com/pidotdev/status/2126008812083507261</link>
+      <guid isPermaLink="true">https://x.com/pidotdev/status/2126008812083507261</guid>
+      <pubDate>Thu, 26 Nov 2026 17:42:54 GMT</pubDate>
+      <author>@pidotdev</author>
+      <description><![CDATA[<p>Happy Thanksgiving all and don’t forget to bring the Pi<br><br>❤️ 🦃</p>]]></description>
+    </item>
+    <item>
       <title>Better, not more software</title>
       <link>https://x.com/pidotdev/status/2125273253191331860</link>
       <guid isPermaLink="true">https://x.com/pidotdev/status/2125273253191331860</guid>
@@ -138,7 +146,7 @@
       <guid isPermaLink="true">https://x.com/pidotdev/status/2112978311252979761</guid>
       <pubDate>Wed, 21 Oct 2026 18:44:21 GMT</pubDate>
       <author>@pidotdev</author>
-      <description><![CDATA[<p>@Recursive_SI shipped its first model, Flint! Exciting to see they did extensive RL training on the Pi harness, so it works well out of the box.<br>40B MoE (2.5B active) for fast local coding. Apache 2.0.<br><br>Available now for free in Pi via Radius.</p>]]></description>
+      <description><![CDATA[<p>@Recursive_SI shipped its first model, Flint! Exciting to see they did extensive RL training on the Pi harness, so it works well out of the box.<br>40B MoE (2.5B active) for fast local coding. Apache 2.0.<br><br>Available now for free in Pi via Radius.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2112941750809419776/img/MJaHRrNTo-Kg92Pb.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>We have huge respect for the engineering at Vercel and are excited they are building with Pi-Durable</title>
@@ -803,14 +811,6 @@
       <pubDate>Thu, 20 Aug 2026 12:30:18 GMT</pubDate>
       <author>@pidotdev</author>
       <description><![CDATA[<p>This blog post was written for those who may be curious to know what an agent harness is, but don’t, and might not know where to start. Read the full post here</p>]]></description>
-    </item>
-    <item>
-      <title>A harness turns a model into an agent. At it’s core it provides 4 things: - a system</title>
-      <link>https://x.com/pidotdev/status/2090416055273542141</link>
-      <guid isPermaLink="true">https://x.com/pidotdev/status/2090416055273542141</guid>
-      <pubDate>Thu, 20 Aug 2026 12:30:00 GMT</pubDate>
-      <author>@pidotdev</author>
-      <description><![CDATA[<p>A harness turns a model into an agent. At it’s core it provides 4 things:<br><br>- a system prompt<br>- tools<br>- an agentic loop <br>- a translation layer across models <br><br>New blog post from Earendil co-founder @colindaymond on what a harness is, and how you can own yours. Full post below</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2090412016506695680/img/Y8bKh5p43u7vcpFo.jpg" alt=""></p>]]></description>
     </item>
   </channel>
 </rss>

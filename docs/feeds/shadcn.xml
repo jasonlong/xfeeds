@@ -13,6 +13,22 @@
     </image>
     <ttl>120</ttl>
     <item>
+      <title>We added a Report a Bug section to the ui-sdk skill. When your agent hits a bug in</title>
+      <link>https://x.com/shadcn/status/2126304450239496636</link>
+      <guid isPermaLink="true">https://x.com/shadcn/status/2126304450239496636</guid>
+      <pubDate>Fri, 27 Nov 2026 13:17:40 GMT</pubDate>
+      <author>@shadcn</author>
+      <description><![CDATA[<p>We added a Report a Bug section to the ui-sdk skill.<br><br>When your agent hits a bug in the SDK, it confirms it, searches existing issues, and writes a report in the format our triage and coding agents understand.<br><br>It&apos;s opt-in. Your agent asks you before it files anything.</p><p><img src="https://pbs.twimg.com/media/HYImju0WsAAuIvU?format=jpg&amp;name=small" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>Alright, let&apos;s talk about shadcn/ui, Base UI and why we&apos;re building UI SDK.</title>
+      <link>https://x.com/shadcn/status/2126032449582813307</link>
+      <guid isPermaLink="true">https://x.com/shadcn/status/2126032449582813307</guid>
+      <pubDate>Thu, 26 Nov 2026 19:16:50 GMT</pubDate>
+      <author>@shadcn</author>
+      <description><![CDATA[<p>Alright, let&apos;s talk about shadcn/ui, Base UI and why we&apos;re building UI SDK.</p>]]></description>
+    </item>
+    <item>
       <title>`cn` is now 100M downloads per month. thank you.</title>
       <link>https://x.com/shadcn/status/2125924498264428901</link>
       <guid isPermaLink="true">https://x.com/shadcn/status/2125924498264428901</guid>
@@ -26,7 +42,7 @@
       <guid isPermaLink="true">https://x.com/shadcn/status/2125840476817269029</guid>
       <pubDate>Thu, 26 Nov 2026 06:34:00 GMT</pubDate>
       <author>@shadcn</author>
-      <description><![CDATA[<p>oh in @uisdk you can make any popup responsive by using the presentation=auto prop. Popover on desktop and sheet on mobile.</p>]]></description>
+      <description><![CDATA[<p>oh in @uisdk you can make any popup responsive by using the presentation=auto prop. Popover on desktop and sheet on mobile.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2125840302413852672/img/kHYTe0cQNfS3SXXo.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Time to watch Project Hail Mary again.</title>
@@ -42,7 +58,7 @@
       <guid isPermaLink="true">https://x.com/shadcn/status/2125650883761332700</guid>
       <pubDate>Wed, 25 Nov 2026 18:00:38 GMT</pubDate>
       <author>@shadcn</author>
-      <description><![CDATA[<p>Why do we need agent-first UI or why agents still need UI?<br><br>Handing an agent a task and waiting works for a lot of things. But some work you want to see, and do together. Like tweaking a design, trying fonts until one feels right, or filling out a form and fixing one field before</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2125648567733821440/img/LP3mnV_cRaM6f41h.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Why do we need agent-first UI or why agents still need UI?<br><br>Handing an agent a task and waiting works for a lot of things. But some work you want to see, and do together. Like tweaking a design, trying fonts until one feels right, or filling out a form and fixing one field before</p>]]></description>
     </item>
     <item>
       <title>You need both. MCP and WebMCP. Not all work happens in the backend or via API. I&apos;ll explain.</title>
@@ -66,7 +82,7 @@
       <guid isPermaLink="true">https://x.com/shadcn/status/2125396779591925850</guid>
       <pubDate>Wed, 25 Nov 2026 01:10:54 GMT</pubDate>
       <author>@shadcn</author>
-      <description><![CDATA[<p>AI SDK just added WebMCP support. So we tried it with @uisdk.<br><br>You say &quot;add two mugs&quot;. The model calls the page&apos;s WebMCP tools and the components update. No screenshots. No clicking around. It&apos;s really fast.<br><br>UI built with UI SDK comes with its own tools. The MCP client reads</p><p><img src="https://pbs.twimg.com/media/HX6LZtjakAA7IgH?format=jpg&amp;name=240x240" alt=""></p>]]></description>
+      <description><![CDATA[<p>AI SDK just added WebMCP support. So we tried it with @uisdk.<br><br>You say &quot;add two mugs&quot;. The model calls the page&apos;s WebMCP tools and the components update. No screenshots. No clicking around. It&apos;s really fast.<br><br>UI built with UI SDK comes with its own tools. The MCP client reads</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2125395962281570304/img/0_Gb1MnFlww8rUNY.jpg" alt=""></p><p><img src="https://pbs.twimg.com/media/HX6LZtjakAA7IgH?format=jpg&amp;name=240x240" alt=""></p>]]></description>
     </item>
     <item>
       <title>Media post</title>
@@ -130,7 +146,7 @@
       <guid isPermaLink="true">https://x.com/shadcn/status/2124880771404169429</guid>
       <pubDate>Mon, 23 Nov 2026 15:00:28 GMT</pubDate>
       <author>@shadcn</author>
-      <description><![CDATA[<p>If you get the foundation right, your agents get to have fun. UI SDK handles the hard part.<br><br>Bring the whimsy back to interfaces.</p>]]></description>
+      <description><![CDATA[<p>If you get the foundation right, your agents get to have fun. UI SDK handles the hard part.<br><br>Bring the whimsy back to interfaces.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2124758753861910528/img/RO9GMsKQSK3Y1Q6s.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>In @uisdk, you don&apos;t wrap components. You import a primitive (with behaviors) and create its parts in your</title>
@@ -795,22 +811,6 @@
       <pubDate>Wed, 07 Oct 2026 08:31:15 GMT</pubDate>
       <author>@shadcn</author>
       <description><![CDATA[<p>We’ve made it. I just talked to someone who has no idea what shadcn/ui is. Their app is built with shadcn/ui.</p>]]></description>
-    </item>
-    <item>
-      <title>The dynamic island was a great idea. then Apple started forcing interactions through it. eg. pull to search.</title>
-      <link>https://x.com/shadcn/status/2107522406315389433</link>
-      <guid isPermaLink="true">https://x.com/shadcn/status/2107522406315389433</guid>
-      <pubDate>Tue, 06 Oct 2026 17:24:32 GMT</pubDate>
-      <author>@shadcn</author>
-      <description><![CDATA[<p>The dynamic island was a great idea. then Apple started forcing interactions through it. <br><br>eg. pull to search. This should be instant but is now slower because you are forced to wait for it to animate out of the dynamic island.</p>]]></description>
-    </item>
-    <item>
-      <title>Over the weekend ChatGPT and Computer Use modded my Switch and installed Tears of the Kingdom Challenge Mode</title>
-      <link>https://x.com/shadcn/status/2107165915431440637</link>
-      <guid isPermaLink="true">https://x.com/shadcn/status/2107165915431440637</guid>
-      <pubDate>Mon, 05 Oct 2026 17:47:58 GMT</pubDate>
-      <author>@shadcn</author>
-      <description><![CDATA[<p>Over the weekend ChatGPT and Computer Use modded my Switch and installed Tears of the Kingdom Challenge Mode for me. <br><br>Been trying to do this for months but Sol did it all: checked versions mismatch, installed Atmosphere, Hekate, even compiled TKMM and fixed the fps. <br><br>Amazing.</p><p><img src="https://pbs.twimg.com/media/HT4oOlNWcAAhOHN?format=jpg&amp;name=small" alt=""></p>]]></description>
     </item>
   </channel>
 </rss>
