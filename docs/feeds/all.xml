@@ -7,6 +7,14 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>Happy Black Friday! https://tldraw.com is FREE for this weekend</title>
+      <link>https://x.com/tldraw/status/2126324377528471626</link>
+      <guid isPermaLink="true">https://x.com/tldraw/status/2126324377528471626</guid>
+      <pubDate>Fri, 27 Nov 2026 14:36:51 GMT</pubDate>
+      <author>@tldraw</author>
+      <description><![CDATA[<p>Happy Black Friday! https://tldraw.com is FREE for this weekend</p>]]></description>
+    </item>
+    <item>
       <title>We added a Report a Bug section to the ui-sdk skill. When your agent hits a bug in</title>
       <link>https://x.com/shadcn/status/2126304450239496636</link>
       <guid isPermaLink="true">https://x.com/shadcn/status/2126304450239496636</guid>
@@ -116,7 +124,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2125997033630974023</guid>
       <pubDate>Thu, 26 Nov 2026 16:56:06 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>Some problems are easier to understand if you can visualize them.<br><br>With the tldraw MCP, you can ask your agent to lay a complex topic out on the canvas instead of handing you another wall of text.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2125997012403576832/img/6EIq5WGJBn2qQ569.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Some problems are easier to understand if you can visualize them.<br><br>With the tldraw MCP, you can ask your agent to lay a complex topic out on the canvas instead of handing you another wall of text.</p>]]></description>
     </item>
     <item>
       <title>Happy Thanksgiving to my people in the states! 🦃 Not sure why, but I&apos;m looking forward to this</title>
@@ -228,7 +236,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2125666609889149421</guid>
       <pubDate>Wed, 25 Nov 2026 19:03:07 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>Agents now keep working on your files in the background when you switch tabs.<br><br>Set an agent to work on https://tldraw.com, and leave it running in the background while you do other things. It&apos;ll still be working when you come back.<br><br>Here&apos;s what else is new on</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2125666583406415872/img/EhwpVAgd0zOdu41c.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Agents now keep working on your files in the background when you switch tabs.<br><br>Set an agent to work on https://tldraw.com, and leave it running in the background while you do other things. It&apos;ll still be working when you come back.<br><br>Here&apos;s what else is new on</p>]]></description>
     </item>
     <item>
       <title>The tldraw MCP server is live. Connect your agent to your tldraw account, and it can create boards,</title>
@@ -308,7 +316,7 @@
       <guid isPermaLink="true">https://x.com/avstorm/status/2125578194548117828</guid>
       <pubDate>Wed, 25 Nov 2026 13:11:47 GMT</pubDate>
       <author>@avstorm</author>
-      <description><![CDATA[<p>Peek has landed in Dia.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2125577643210805248/img/uplt9gG72brE8Zgs.jpg" alt=""></p><p><img src="https://pbs.twimg.com/media/HX-Rm7SXkAABaaM?format=jpg&amp;name=small" alt=""></p>]]></description>
+      <description><![CDATA[<p>Peek has landed in Dia.</p><p><img src="https://pbs.twimg.com/media/HX-Rm7SXkAABaaM?format=jpg&amp;name=small" alt=""></p>]]></description>
     </item>
     <item>
       <title>We pulled all our telemetry data on @theo. Disappointed. Not enough usage</title>
@@ -1597,14 +1605,6 @@
       <pubDate>Thu, 12 Nov 2026 21:12:35 GMT</pubDate>
       <author>@shadcn</author>
       <description><![CDATA[<p>Thank you @benjamincanac for the Vue/Nuxt support.</p>]]></description>
-    </item>
-    <item>
-      <title>Design &lt;&gt; code is closer than ever before Paper is embedding into all of the tools you use</title>
-      <link>https://x.com/paper/status/2120985229720727961</link>
-      <guid isPermaLink="true">https://x.com/paper/status/2120985229720727961</guid>
-      <pubDate>Thu, 12 Nov 2026 21:00:59 GMT</pubDate>
-      <author>@paper</author>
-      <description><![CDATA[<p>Design &lt;&gt; code is closer than ever before<br><br>Paper is embedding into all of the tools you use so you can always have a high quality design canvas available when you&apos;re prompting</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2120982010734981120/img/GWYt-Ag6EAV9YbjC.jpg" alt=""></p>]]></description>
     </item>
   </channel>
 </rss>
