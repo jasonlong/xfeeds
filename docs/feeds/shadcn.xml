@@ -13,6 +13,14 @@
     </image>
     <ttl>120</ttl>
     <item>
+      <title>I&apos;d say I&apos;m at ~90% voice now and I just started earlier this year.</title>
+      <link>https://x.com/shadcn/status/2126574535583687153</link>
+      <guid isPermaLink="true">https://x.com/shadcn/status/2126574535583687153</guid>
+      <pubDate>Sat, 28 Nov 2026 07:10:53 GMT</pubDate>
+      <author>@shadcn</author>
+      <description><![CDATA[<p>I&apos;d say I&apos;m at ~90% voice now and I just started earlier this year.</p>]]></description>
+    </item>
+    <item>
       <title>And when we get WebMCP support in Claude, every artifact you generate can be operated by agents.</title>
       <link>https://x.com/shadcn/status/2126422477551341657</link>
       <guid isPermaLink="true">https://x.com/shadcn/status/2126422477551341657</guid>
@@ -114,7 +122,7 @@
       <guid isPermaLink="true">https://x.com/shadcn/status/2125396779591925850</guid>
       <pubDate>Wed, 25 Nov 2026 01:10:54 GMT</pubDate>
       <author>@shadcn</author>
-      <description><![CDATA[<p>AI SDK just added WebMCP support. So we tried it with @uisdk.<br><br>You say &quot;add two mugs&quot;. The model calls the page&apos;s WebMCP tools and the components update. No screenshots. No clicking around. It&apos;s really fast.<br><br>UI built with UI SDK comes with its own tools. The MCP client reads</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2125395962281570304/img/0_Gb1MnFlww8rUNY.jpg" alt=""></p><p><img src="https://pbs.twimg.com/media/HX6LZtjakAA7IgH?format=jpg&amp;name=240x240" alt=""></p>]]></description>
+      <description><![CDATA[<p>AI SDK just added WebMCP support. So we tried it with @uisdk.<br><br>You say &quot;add two mugs&quot;. The model calls the page&apos;s WebMCP tools and the components update. No screenshots. No clicking around. It&apos;s really fast.<br><br>UI built with UI SDK comes with its own tools. The MCP client reads</p><p><img src="https://pbs.twimg.com/media/HX6LZtjakAA7IgH?format=jpg&amp;name=240x240" alt=""></p>]]></description>
     </item>
     <item>
       <title>Media post</title>
@@ -803,14 +811,6 @@
       <pubDate>Sat, 10 Oct 2026 06:20:54 GMT</pubDate>
       <author>@shadcn</author>
       <description><![CDATA[<p>Most of what I do in Claude Code now are in Projects.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2108616285760499712/img/ESduThxQJik4m9hs.jpg" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>Alright, I&apos;ve made the shadcn/ui skills really good at 𝙳𝙴𝚂𝙸𝙶𝙽.𝚖𝚍. Ask for a design system and it picks</title>
-      <link>https://x.com/shadcn/status/2108574564586332615</link>
-      <guid isPermaLink="true">https://x.com/shadcn/status/2108574564586332615</guid>
-      <pubDate>Fri, 09 Oct 2026 15:05:26 GMT</pubDate>
-      <author>@shadcn</author>
-      <description><![CDATA[<p>Alright, I&apos;ve made the shadcn/ui skills really good at 𝙳𝙴𝚂𝙸𝙶𝙽.𝚖𝚍.<br><br>Ask for a design system and it picks a preset, then builds everything: colors, tokens, type scale, elevation, styles the primitives and blocks.<br><br>Start with a solid foundation and build something unique.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2108574065321512961/img/xMEdbpAf1J-zJ11s.jpg" alt=""></p>]]></description>
     </item>
   </channel>
 </rss>

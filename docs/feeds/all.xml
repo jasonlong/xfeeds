@@ -7,6 +7,22 @@
     <atom:link href="https://jasonlong.github.io/xfeeds/feeds/all.xml" rel="self" type="application/rss+xml"/>
     <ttl>120</ttl>
     <item>
+      <title>The first thing people notice about Rex is how beautiful, robust and fast the UI is. The second</title>
+      <link>https://x.com/almonk/status/2126665373399601218</link>
+      <guid isPermaLink="true">https://x.com/almonk/status/2126665373399601218</guid>
+      <pubDate>Sat, 28 Nov 2026 13:11:51 GMT</pubDate>
+      <author>@almonk</author>
+      <description><![CDATA[<p>The first thing people notice about Rex is how beautiful, robust and fast the UI is. <br><br>The second thing is this:</p>]]></description>
+    </item>
+    <item>
+      <title>I&apos;d say I&apos;m at ~90% voice now and I just started earlier this year.</title>
+      <link>https://x.com/shadcn/status/2126574535583687153</link>
+      <guid isPermaLink="true">https://x.com/shadcn/status/2126574535583687153</guid>
+      <pubDate>Sat, 28 Nov 2026 07:10:53 GMT</pubDate>
+      <author>@shadcn</author>
+      <description><![CDATA[<p>I&apos;d say I&apos;m at ~90% voice now and I just started earlier this year.</p>]]></description>
+    </item>
+    <item>
       <title>And when we get WebMCP support in Claude, every artifact you generate can be operated by agents.</title>
       <link>https://x.com/shadcn/status/2126422477551341657</link>
       <guid isPermaLink="true">https://x.com/shadcn/status/2126422477551341657</guid>
@@ -29,6 +45,22 @@
       <pubDate>Fri, 27 Nov 2026 20:28:55 GMT</pubDate>
       <author>@shadcn</author>
       <description><![CDATA[<p>If you need a full-featured, accessible component library in Claude Artifacts, you can totally use UI SDK web components.<br><br>Just add a few lines to CLAUDE.md and you can use UI SDK to build apps.<br><br>The app below runs entirely inside Claude Artifacts. Installed as a desktop app.</p><p><img src="https://pbs.twimg.com/media/HYKHvLvXgAAN4cu?format=jpg&amp;name=small" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>Here&apos;s how:</title>
+      <link>https://x.com/tldraw/status/2126391639069642842</link>
+      <guid isPermaLink="true">https://x.com/tldraw/status/2126391639069642842</guid>
+      <pubDate>Fri, 27 Nov 2026 19:04:07 GMT</pubDate>
+      <author>@tldraw</author>
+      <description><![CDATA[<p>Here&apos;s how:</p>]]></description>
+    </item>
+    <item>
+      <title>The tldraw MCP works in both directions. Sketch a rough wireframe on the canvas, point your agent at</title>
+      <link>https://x.com/tldraw/status/2126391627321393230</link>
+      <guid isPermaLink="true">https://x.com/tldraw/status/2126391627321393230</guid>
+      <pubDate>Fri, 27 Nov 2026 19:04:05 GMT</pubDate>
+      <author>@tldraw</author>
+      <description><![CDATA[<p>The tldraw MCP works in both directions.<br><br>Sketch a rough wireframe on the canvas, point your agent at it, and have it build it.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2126391609126510592/img/WB_LJ9wJqcBgjT5Z.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Media post</title>
@@ -61,6 +93,14 @@
       <pubDate>Fri, 27 Nov 2026 18:15:20 GMT</pubDate>
       <author>@avstorm</author>
       <description><![CDATA[<p>Apple created a beautiful wooden logo for the reopening of the Apple Store in Brisbane.</p><p><img src="https://pbs.twimg.com/media/HYJpRqnXQAAK4D0?format=jpg&amp;name=small" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>gas fees $0</title>
+      <link>https://x.com/tldraw/status/2126353038197834185</link>
+      <guid isPermaLink="true">https://x.com/tldraw/status/2126353038197834185</guid>
+      <pubDate>Fri, 27 Nov 2026 16:30:44 GMT</pubDate>
+      <author>@tldraw</author>
+      <description><![CDATA[<p>gas fees $0</p>]]></description>
     </item>
     <item>
       <title>Real. &quot;The overthinking of a designer&quot; as @pablostanley puts it in his latest video. A must watch. https://youtube.com/watch?v=8q0pwh98qmU…</title>
@@ -228,7 +268,7 @@
       <guid isPermaLink="true">https://x.com/shuding/status/2125938673820856469</guid>
       <pubDate>Thu, 26 Nov 2026 13:04:12 GMT</pubDate>
       <author>@shuding</author>
-      <description><![CDATA[<p>One of those invisible details: accessibility isn’t only screen readers. it’s also “can someone in Tokyo type into your search box without it picking the wrong thing.” <br><br>@uisdk handles Input Method Editor (IME) input so keystroke/Enter/Escape/arrows don’t fire mid-word.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2121161743993114624/img/AleRHzEosyDoKOwf?format=jpg&amp;name=240x240" alt=""></p>]]></description>
+      <description><![CDATA[<p>One of those invisible details: accessibility isn’t only screen readers. it’s also “can someone in Tokyo type into your search box without it picking the wrong thing.” <br><br>@uisdk handles Input Method Editor (IME) input so keystroke/Enter/Escape/arrows don’t fire mid-word.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2125938008125829120/img/OB97BCoCFQT6gVXL.jpg" alt=""></p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2121161743993114624/img/AleRHzEosyDoKOwf?format=jpg&amp;name=240x240" alt=""></p>]]></description>
     </item>
     <item>
       <title>`cn` is now 100M downloads per month. thank you.</title>
@@ -260,7 +300,7 @@
       <guid isPermaLink="true">https://x.com/almonk/status/2125858278999761161</guid>
       <pubDate>Thu, 26 Nov 2026 07:44:44 GMT</pubDate>
       <author>@almonk</author>
-      <description><![CDATA[<p>OSC7577 is our new, open protocol that allows any app to tell the runtime (Rex, in our case) how to safely restart it. This has already been excellent, not just for agent TUIs, but also web servers, and personal apps.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2125712417690910720/img/FXS_6AaTz9bpqGBV.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>OSC7577 is our new, open protocol that allows any app to tell the runtime (Rex, in our case) how to safely restart it. This has already been excellent, not just for agent TUIs, but also web servers, and personal apps.</p>]]></description>
     </item>
     <item>
       <title>oh in @uisdk you can make any popup responsive by using the presentation=auto prop. Popover on desktop and</title>
@@ -308,7 +348,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2125666609889149421</guid>
       <pubDate>Wed, 25 Nov 2026 19:03:07 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>Agents now keep working on your files in the background when you switch tabs.<br><br>Set an agent to work on https://tldraw.com, and leave it running in the background while you do other things. It&apos;ll still be working when you come back.<br><br>Here&apos;s what else is new on</p>]]></description>
+      <description><![CDATA[<p>Agents now keep working on your files in the background when you switch tabs.<br><br>Set an agent to work on https://tldraw.com, and leave it running in the background while you do other things. It&apos;ll still be working when you come back.<br><br>Here&apos;s what else is new on</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2125666583406415872/img/EhwpVAgd0zOdu41c.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>The tldraw MCP server is live. Connect your agent to your tldraw account, and it can create boards,</title>
@@ -420,7 +460,7 @@
       <guid isPermaLink="true">https://x.com/shadcn/status/2125396779591925850</guid>
       <pubDate>Wed, 25 Nov 2026 01:10:54 GMT</pubDate>
       <author>@shadcn</author>
-      <description><![CDATA[<p>AI SDK just added WebMCP support. So we tried it with @uisdk.<br><br>You say &quot;add two mugs&quot;. The model calls the page&apos;s WebMCP tools and the components update. No screenshots. No clicking around. It&apos;s really fast.<br><br>UI built with UI SDK comes with its own tools. The MCP client reads</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2125395962281570304/img/0_Gb1MnFlww8rUNY.jpg" alt=""></p><p><img src="https://pbs.twimg.com/media/HX6LZtjakAA7IgH?format=jpg&amp;name=240x240" alt=""></p>]]></description>
+      <description><![CDATA[<p>AI SDK just added WebMCP support. So we tried it with @uisdk.<br><br>You say &quot;add two mugs&quot;. The model calls the page&apos;s WebMCP tools and the components update. No screenshots. No clicking around. It&apos;s really fast.<br><br>UI built with UI SDK comes with its own tools. The MCP client reads</p><p><img src="https://pbs.twimg.com/media/HX6LZtjakAA7IgH?format=jpg&amp;name=240x240" alt=""></p>]]></description>
     </item>
     <item>
       <title>So beautiful, thank you!</title>
@@ -436,7 +476,7 @@
       <guid isPermaLink="true">https://x.com/tldraw/status/2125302716000084235</guid>
       <pubDate>Tue, 24 Nov 2026 18:57:08 GMT</pubDate>
       <author>@tldraw</author>
-      <description><![CDATA[<p>You can now use ⌘K to search on https://tldraw.com.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2125302686140784640/img/q62ztKdfftEvJyqQ.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>You can now use ⌘K to search on https://tldraw.com.</p>]]></description>
     </item>
     <item>
       <title>libghostty-vt 1.0.2 released: correct widths for skin tone emoji, insert/delete line (IL/DL) fixes, up to 1.8x faster scrolling</title>
@@ -452,7 +492,7 @@
       <guid isPermaLink="true">https://x.com/almonk/status/2125294789298188324</guid>
       <pubDate>Tue, 24 Nov 2026 18:25:38 GMT</pubDate>
       <author>@almonk</author>
-      <description><![CDATA[<p>The Rex integration for terminal browser is really good. Point at an element, and the browser sends the Rex pane agent useful context for your next change.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2125271361215963136/img/MaCOCNjxyCuBDtcZ?format=jpg&amp;name=240x240" alt=""></p>]]></description>
+      <description><![CDATA[<p>The Rex integration for terminal browser is really good. Point at an element, and the browser sends the Rex pane agent useful context for your next change.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2125294588902453248/img/tqPrNW2q0HQ-qjWx.jpg" alt=""></p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2125271361215963136/img/MaCOCNjxyCuBDtcZ?format=jpg&amp;name=240x240" alt=""></p>]]></description>
     </item>
     <item>
       <title>I&apos;ve seen Rob in Discord relentlessly improving terminal-browser in Rex! Note that some of his experience also resulted</title>
@@ -972,7 +1012,7 @@
       <guid isPermaLink="true">https://x.com/almonk/status/2123164848070561829</guid>
       <pubDate>Wed, 18 Nov 2026 21:22:00 GMT</pubDate>
       <author>@almonk</author>
-      <description><![CDATA[<p>as an aside I built the slides here in @paper with Claude in about 7 minutes. i fucking love the future.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2123043561985765377/img/ExjNTsFbWc870vHz.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>as an aside I built the slides here in @paper with Claude in about 7 minutes. i fucking love the future.</p>]]></description>
     </item>
     <item>
       <title>As a student of design tools, this feels historic In Ramp&apos;s spend data, Paper passed Sketch in adoption</title>
@@ -1052,7 +1092,7 @@
       <guid isPermaLink="true">https://x.com/almonk/status/2123044473873588226</guid>
       <pubDate>Wed, 18 Nov 2026 13:23:41 GMT</pubDate>
       <author>@almonk</author>
-      <description><![CDATA[<p>posted this into our Rex discord today... the new `𝚛𝚎𝚡.𝚞𝚒` primitives provides a new set of simple but powerful methods to build interactive scripts within Rex that require user interaction.<br><br>Now you can build the workflow of your dreams, that little action you always wanted</p>]]></description>
+      <description><![CDATA[<p>posted this into our Rex discord today... the new `𝚛𝚎𝚡.𝚞𝚒` primitives provides a new set of simple but powerful methods to build interactive scripts within Rex that require user interaction.<br><br>Now you can build the workflow of your dreams, that little action you always wanted</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2123043561985765377/img/ExjNTsFbWc870vHz.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>Media post</title>
@@ -1565,46 +1605,6 @@
       <pubDate>Fri, 13 Nov 2026 18:58:00 GMT</pubDate>
       <author>@tldraw</author>
       <description><![CDATA[<p>Creating floor plans was a daily chore for Japanese real estate agents. So Canary Inc., an innovative tech leader in Japan&apos;s rental market, built a drag-and-drop floor plan editor on the tldraw SDK.<br><br>Here&apos;s how they shipped it in a month:</p>]]></description>
-    </item>
-    <item>
-      <title>The classic Mac startup vibe in the HomeView setup sound is awesome.</title>
-      <link>https://x.com/avstorm/status/2121306461607477450</link>
-      <guid isPermaLink="true">https://x.com/avstorm/status/2121306461607477450</guid>
-      <pubDate>Fri, 13 Nov 2026 18:17:27 GMT</pubDate>
-      <author>@avstorm</author>
-      <description><![CDATA[<p>The classic Mac startup vibe in the HomeView setup sound is awesome.</p>]]></description>
-    </item>
-    <item>
-      <title>The annual Lord of the Rings rewatch. It’s time. Back to Middle-earth.</title>
-      <link>https://x.com/shadcn/status/2121296209549955438</link>
-      <guid isPermaLink="true">https://x.com/shadcn/status/2121296209549955438</guid>
-      <pubDate>Fri, 13 Nov 2026 17:36:42 GMT</pubDate>
-      <author>@shadcn</author>
-      <description><![CDATA[<p>The annual Lord of the Rings rewatch. It’s time. Back to Middle-earth.</p>]]></description>
-    </item>
-    <item>
-      <title>Most of the work deciding what goes into a video takes place before it ever reaches a timeline.</title>
-      <link>https://x.com/tldraw/status/2121287038641283184</link>
-      <guid isPermaLink="true">https://x.com/tldraw/status/2121287038641283184</guid>
-      <pubDate>Fri, 13 Nov 2026 17:00:16 GMT</pubDate>
-      <author>@tldraw</author>
-      <description><![CDATA[<p>Most of the work deciding what goes into a video takes place before it ever reaches a timeline. It happens in a notepad, a shot list, a folder of screenshots with arrows drawn on them.<br><br>More and more, it happens on a canvas.<br><br>Here are six examples, from previz to post:</p>]]></description>
-    </item>
-    <item>
-      <title>There are tons of details like that in UI SDK, to make you &amp; your agent ship better</title>
-      <link>https://x.com/shuding/status/2121248198157390155</link>
-      <guid isPermaLink="true">https://x.com/shuding/status/2121248198157390155</guid>
-      <pubDate>Fri, 13 Nov 2026 14:25:55 GMT</pubDate>
-      <author>@shuding</author>
-      <description><![CDATA[<p>There are tons of details like that in UI SDK, to make you &amp; your agent ship better components. Will share more over time!</p>]]></description>
-    </item>
-    <item>
-      <title>Today we’re introducing UI SDK. Agents are becoming both the builders and the users of interfaces. So we</title>
-      <link>https://x.com/shadcn/status/2121220191912710338</link>
-      <guid isPermaLink="true">https://x.com/shadcn/status/2121220191912710338</guid>
-      <pubDate>Fri, 13 Nov 2026 12:34:38 GMT</pubDate>
-      <author>@shadcn</author>
-      <description><![CDATA[<p>Today we’re introducing UI SDK.<br><br>Agents are becoming both the builders and the users of interfaces. So we asked ourselves: where should the abstraction live?<br><br>Take a Select. There’s a popup, selection logic, keyboard navigation and focus management. Those same behaviors are x.com/vercel/status/…</p>]]></description>
     </item>
   </channel>
 </rss>
