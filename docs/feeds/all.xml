@@ -300,7 +300,7 @@
       <guid isPermaLink="true">https://x.com/almonk/status/2125858278999761161</guid>
       <pubDate>Thu, 26 Nov 2026 07:44:44 GMT</pubDate>
       <author>@almonk</author>
-      <description><![CDATA[<p>OSC7577 is our new, open protocol that allows any app to tell the runtime (Rex, in our case) how to safely restart it. This has already been excellent, not just for agent TUIs, but also web servers, and personal apps.</p>]]></description>
+      <description><![CDATA[<p>OSC7577 is our new, open protocol that allows any app to tell the runtime (Rex, in our case) how to safely restart it. This has already been excellent, not just for agent TUIs, but also web servers, and personal apps.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2125712417690910720/img/FXS_6AaTz9bpqGBV.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>oh in @uisdk you can make any popup responsive by using the presentation=auto prop. Popover on desktop and</title>
@@ -492,7 +492,7 @@
       <guid isPermaLink="true">https://x.com/almonk/status/2125294789298188324</guid>
       <pubDate>Tue, 24 Nov 2026 18:25:38 GMT</pubDate>
       <author>@almonk</author>
-      <description><![CDATA[<p>The Rex integration for terminal browser is really good. Point at an element, and the browser sends the Rex pane agent useful context for your next change.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2125294588902453248/img/tqPrNW2q0HQ-qjWx.jpg" alt=""></p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2125271361215963136/img/MaCOCNjxyCuBDtcZ?format=jpg&amp;name=240x240" alt=""></p>]]></description>
+      <description><![CDATA[<p>The Rex integration for terminal browser is really good. Point at an element, and the browser sends the Rex pane agent useful context for your next change.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2125271361215963136/img/MaCOCNjxyCuBDtcZ?format=jpg&amp;name=240x240" alt=""></p>]]></description>
     </item>
     <item>
       <title>I&apos;ve seen Rob in Discord relentlessly improving terminal-browser in Rex! Note that some of his experience also resulted</title>
@@ -1004,7 +1004,7 @@
       <guid isPermaLink="true">https://x.com/mitchellh/status/2123167959686496690</guid>
       <pubDate>Wed, 18 Nov 2026 21:34:22 GMT</pubDate>
       <author>@mitchellh</author>
-      <description><![CDATA[<p>Rex has really powerful Lua scripting that our beta group has been using to huge effect. We expanded it today with `rex.ui`: a way to build automations that require user interaction. <br><br>The way this works with multiple clients: the choice pops up on all attached clients. The first</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2123043561985765377/img/ExjNTsFbWc870vHz.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>Rex has really powerful Lua scripting that our beta group has been using to huge effect. We expanded it today with `rex.ui`: a way to build automations that require user interaction. <br><br>The way this works with multiple clients: the choice pops up on all attached clients. The first</p>]]></description>
     </item>
     <item>
       <title>as an aside I built the slides here in @paper with Claude in about 7 minutes. i fucking</title>
@@ -1012,7 +1012,7 @@
       <guid isPermaLink="true">https://x.com/almonk/status/2123164848070561829</guid>
       <pubDate>Wed, 18 Nov 2026 21:22:00 GMT</pubDate>
       <author>@almonk</author>
-      <description><![CDATA[<p>as an aside I built the slides here in @paper with Claude in about 7 minutes. i fucking love the future.</p>]]></description>
+      <description><![CDATA[<p>as an aside I built the slides here in @paper with Claude in about 7 minutes. i fucking love the future.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2123043561985765377/img/ExjNTsFbWc870vHz.jpg" alt=""></p>]]></description>
     </item>
     <item>
       <title>As a student of design tools, this feels historic In Ramp&apos;s spend data, Paper passed Sketch in adoption</title>
@@ -1092,7 +1092,7 @@
       <guid isPermaLink="true">https://x.com/almonk/status/2123044473873588226</guid>
       <pubDate>Wed, 18 Nov 2026 13:23:41 GMT</pubDate>
       <author>@almonk</author>
-      <description><![CDATA[<p>posted this into our Rex discord today... the new `𝚛𝚎𝚡.𝚞𝚒` primitives provides a new set of simple but powerful methods to build interactive scripts within Rex that require user interaction.<br><br>Now you can build the workflow of your dreams, that little action you always wanted</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2123043561985765377/img/ExjNTsFbWc870vHz.jpg" alt=""></p>]]></description>
+      <description><![CDATA[<p>posted this into our Rex discord today... the new `𝚛𝚎𝚡.𝚞𝚒` primitives provides a new set of simple but powerful methods to build interactive scripts within Rex that require user interaction.<br><br>Now you can build the workflow of your dreams, that little action you always wanted</p>]]></description>
     </item>
     <item>
       <title>Media post</title>
