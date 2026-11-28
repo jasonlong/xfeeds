@@ -13,6 +13,30 @@
     </image>
     <ttl>120</ttl>
     <item>
+      <title>And when we get WebMCP support in Claude, every artifact you generate can be operated by agents.</title>
+      <link>https://x.com/shadcn/status/2126422477551341657</link>
+      <guid isPermaLink="true">https://x.com/shadcn/status/2126422477551341657</guid>
+      <pubDate>Fri, 27 Nov 2026 21:06:40 GMT</pubDate>
+      <author>@shadcn</author>
+      <description><![CDATA[<p>And when we get WebMCP support in Claude, every artifact you generate can be operated by agents.</p><p><img src="https://pbs.twimg.com/media/HYKHvLvXgAAN4cu?format=jpg&amp;name=small" alt=""></p>]]></description>
+    </item>
+    <item>
+      <title>Media post</title>
+      <link>https://x.com/shadcn/status/2126412980564729879</link>
+      <guid isPermaLink="true">https://x.com/shadcn/status/2126412980564729879</guid>
+      <pubDate>Fri, 27 Nov 2026 20:28:56 GMT</pubDate>
+      <author>@shadcn</author>
+      <description><![CDATA[<p></p>]]></description>
+    </item>
+    <item>
+      <title>If you need a full-featured, accessible component library in Claude Artifacts, you can totally use UI SDK web</title>
+      <link>https://x.com/shadcn/status/2126412976559128658</link>
+      <guid isPermaLink="true">https://x.com/shadcn/status/2126412976559128658</guid>
+      <pubDate>Fri, 27 Nov 2026 20:28:55 GMT</pubDate>
+      <author>@shadcn</author>
+      <description><![CDATA[<p>If you need a full-featured, accessible component library in Claude Artifacts, you can totally use UI SDK web components.<br><br>Just add a few lines to CLAUDE.md and you can use UI SDK to build apps.<br><br>The app below runs entirely inside Claude Artifacts. Installed as a desktop app.</p><p><img src="https://pbs.twimg.com/media/HYKHvLvXgAAN4cu?format=jpg&amp;name=small" alt=""></p>]]></description>
+    </item>
+    <item>
       <title>Real. &quot;The overthinking of a designer&quot; as @pablostanley puts it in his latest video. A must watch. https://youtube.com/watch?v=8q0pwh98qmU…</title>
       <link>https://x.com/shadcn/status/2126340151831875675</link>
       <guid isPermaLink="true">https://x.com/shadcn/status/2126340151831875675</guid>
@@ -90,7 +114,7 @@
       <guid isPermaLink="true">https://x.com/shadcn/status/2125396779591925850</guid>
       <pubDate>Wed, 25 Nov 2026 01:10:54 GMT</pubDate>
       <author>@shadcn</author>
-      <description><![CDATA[<p>AI SDK just added WebMCP support. So we tried it with @uisdk.<br><br>You say &quot;add two mugs&quot;. The model calls the page&apos;s WebMCP tools and the components update. No screenshots. No clicking around. It&apos;s really fast.<br><br>UI built with UI SDK comes with its own tools. The MCP client reads</p><p><img src="https://pbs.twimg.com/media/HX6LZtjakAA7IgH?format=jpg&amp;name=240x240" alt=""></p>]]></description>
+      <description><![CDATA[<p>AI SDK just added WebMCP support. So we tried it with @uisdk.<br><br>You say &quot;add two mugs&quot;. The model calls the page&apos;s WebMCP tools and the components update. No screenshots. No clicking around. It&apos;s really fast.<br><br>UI built with UI SDK comes with its own tools. The MCP client reads</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2125395962281570304/img/0_Gb1MnFlww8rUNY.jpg" alt=""></p><p><img src="https://pbs.twimg.com/media/HX6LZtjakAA7IgH?format=jpg&amp;name=240x240" alt=""></p>]]></description>
     </item>
     <item>
       <title>Media post</title>
@@ -787,30 +811,6 @@
       <pubDate>Fri, 09 Oct 2026 15:05:26 GMT</pubDate>
       <author>@shadcn</author>
       <description><![CDATA[<p>Alright, I&apos;ve made the shadcn/ui skills really good at 𝙳𝙴𝚂𝙸𝙶𝙽.𝚖𝚍.<br><br>Ask for a design system and it picks a preset, then builds everything: colors, tokens, type scale, elevation, styles the primitives and blocks.<br><br>Start with a solid foundation and build something unique.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2108574065321512961/img/xMEdbpAf1J-zJ11s.jpg" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>The most important coding skill: read. Teach yourself how to read. Read the agent output. Read the blog</title>
-      <link>https://x.com/shadcn/status/2108455147986923829</link>
-      <guid isPermaLink="true">https://x.com/shadcn/status/2108455147986923829</guid>
-      <pubDate>Fri, 09 Oct 2026 07:10:55 GMT</pubDate>
-      <author>@shadcn</author>
-      <description><![CDATA[<p>The most important coding skill: read.<br><br>Teach yourself how to read.<br><br>Read the agent output. Read the blog post. Read the paper. Read the code (if it applies to you).<br><br>Don&apos;t summarize.</p>]]></description>
-    </item>
-    <item>
-      <title>here&apos;s AI hardware I might actually buy: A small robot that can operate two hands. You slide in</title>
-      <link>https://x.com/shadcn/status/2108259386045161603</link>
-      <guid isPermaLink="true">https://x.com/shadcn/status/2108259386045161603</guid>
-      <pubDate>Thu, 08 Oct 2026 18:13:01 GMT</pubDate>
-      <author>@shadcn</author>
-      <description><![CDATA[<p>here&apos;s AI hardware I might actually buy: A small robot that can operate two hands. You slide in your phone and it&apos;s your Grok bot. Uses your phone camera to see and on-device models for intelligence. who&apos;s building this?</p><p><img src="https://pbs.twimg.com/media/HUIJiGmWMAAwc_r?format=jpg&amp;name=small" alt=""></p>]]></description>
-    </item>
-    <item>
-      <title>450 is such a good font weight.</title>
-      <link>https://x.com/shadcn/status/2108163629891887544</link>
-      <guid isPermaLink="true">https://x.com/shadcn/status/2108163629891887544</guid>
-      <pubDate>Thu, 08 Oct 2026 11:52:31 GMT</pubDate>
-      <author>@shadcn</author>
-      <description><![CDATA[<p>450 is such a good font weight.</p>]]></description>
     </item>
   </channel>
 </rss>

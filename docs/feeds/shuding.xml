@@ -18,7 +18,7 @@
       <guid isPermaLink="true">https://x.com/shuding/status/2125938673820856469</guid>
       <pubDate>Thu, 26 Nov 2026 13:04:12 GMT</pubDate>
       <author>@shuding</author>
-      <description><![CDATA[<p>One of those invisible details: accessibility isn’t only screen readers. it’s also “can someone in Tokyo type into your search box without it picking the wrong thing.” <br><br>@uisdk handles Input Method Editor (IME) input so keystroke/Enter/Escape/arrows don’t fire mid-word.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2125938008125829120/img/OB97BCoCFQT6gVXL.jpg" alt=""></p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2121161743993114624/img/AleRHzEosyDoKOwf?format=jpg&amp;name=240x240" alt=""></p>]]></description>
+      <description><![CDATA[<p>One of those invisible details: accessibility isn’t only screen readers. it’s also “can someone in Tokyo type into your search box without it picking the wrong thing.” <br><br>@uisdk handles Input Method Editor (IME) input so keystroke/Enter/Escape/arrows don’t fire mid-word.</p><p><img src="https://pbs.twimg.com/amplify_video_thumb/2121161743993114624/img/AleRHzEosyDoKOwf?format=jpg&amp;name=240x240" alt=""></p>]]></description>
     </item>
     <item>
       <title>If you’re wondering what UI SDK behaviors look like in real components, we’ve put together some examples you</title>
